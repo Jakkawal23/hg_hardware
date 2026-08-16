@@ -1,0 +1,16 @@
+{
+  "address_th": "TODO: เลขที่ / ถนน / ตำบล / อำเภอ / จังหวัดชลบุรี / รหัสไปรษณีย์",
+  "address_cn": "TODO: 门牌号 / 街道 / 分区 / 县 / 春武里府 / 邮编",
+  "phone": "TODO-000-0000",
+  "phone_display": "TODO: 0X-XXX-XXXX",
+  "email": "TODO@example.com",
+  "line_id": "@TODO",
+  "wechat_id": "TODO_wechat_id",
+  "business_hours_th": "TODO: จันทร์ - เสาร์ 08:00 - 17:00 น. (หยุดวันอาทิตย์และวันนักขัตฤกษ์)",
+  "business_hours_cn": "TODO: 周一至周六 08:00 - 17:00（周日及节假日休息）",
+  "map_embed_src": "https://www.google.com/maps?q=Chonburi,Thailand&output=embed",
+  "social": {
+    "facebook_url": "TODO: https://facebook.com/...",
+    "line_oa_url": "TODO: https://line.me/R/ti/p/..."
+  }
+}

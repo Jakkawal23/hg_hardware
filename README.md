@@ -33,15 +33,38 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## ✨ Key Features
 
 - **Product Catalog**: Browse hardware products and view specifications.
+- **Company Profile**: About page with company history, mission/vision, and certifications.
+- **Contact Us**: Contact channels (phone, email, LINE, WeChat) and an embedded map.
+- **Articles / Knowledge Base**: Educational articles about hardware knowledge and product usage.
 - **RFQ System**: Seamless "Request for Quotation" drawer and workflow.
-- **Internationalization**: Full i18n support for multiple languages (e.g., Thai, English).
+- **Internationalization**: Full i18n support for multiple languages (Thai, Chinese).
 - **Responsive Design**: Fully responsive, mobile-first design.
 - **Interactive UI**: Fluid animations and highly polished user interfaces.
 
 ## 📂 Project Structure
 
-- `src/app/` - Next.js App Router pages (with locale routing like `/[locale]/...`)
-- `src/components/` - Reusable React components (e.g., Navbar, RFQDrawer)
-- `supabase/` - Supabase database integration and configurations
-- `messages/` - Translation JSON files for `next-intl`
+- `src/app/[locale]/` - Next.js App Router pages (locale routing: `/th/...`, `/cn/...`)
+  - `products/` - Product catalog (list + `[slug]` detail pages)
+  - `about/` - Company profile page
+  - `contact/` - Contact us page
+  - `articles/` - Articles list + `[slug]` detail pages
+- `src/components/` - Reusable React components (e.g., Navbar, Footer, RFQDrawer, ProductCard, ArticleCard)
+- `src/lib/products.ts` - Reads `src/data/products/` at build time
+- `src/lib/articles.ts` - Reads `src/data/articles/` at build time (same pattern as `products.ts`)
+- `supabase/` - Supabase database integration and configurations (not currently wired into the app)
+- `messages/` - Translation JSON files for `next-intl` (short UI labels only, e.g. nav links)
 - `public/` - Static assets like images and icons
+
+### ✍️ Editing content (no code changes needed)
+
+Business content lives entirely in `src/data/`, organized by folder/file so it's easy to find and edit:
+
+- **Products**: `src/data/categories.json` (main categories + sub-categories) and `src/data/products/<main-category>/<sub-category>/group1.json` (one file per product group, containing an array of products). Add a new product by editing an existing group file or adding a new `groupN.json` file in the matching folder.
+- **Company info**: `src/data/company.json` — legal name, founding year, tax ID, mission/vision, history timeline, certifications. Values still marked `"TODO: ..."` are placeholders — replace them with real company facts before launch.
+- **Contact info**: `src/data/contact.json` — address, phone, email, LINE ID, WeChat ID, business hours, Google Maps embed URL. Also marked with `"TODO: ..."` placeholders.
+- **Articles**: `src/data/article-categories.json` lists the article categories. Each article is its own folder under `src/data/articles/<article-slug>/`:
+  - `meta.json` - title, excerpt, category, cover image, published date, author (both languages)
+  - `th.md` - Thai article body, written in plain Markdown
+  - `cn.md` - Chinese article body, written in plain Markdown
+  
+  To add a new article, copy an existing folder (e.g. `src/data/articles/how-to-choose-anchor-bolts/`), rename it to your new slug, and edit the three files.
