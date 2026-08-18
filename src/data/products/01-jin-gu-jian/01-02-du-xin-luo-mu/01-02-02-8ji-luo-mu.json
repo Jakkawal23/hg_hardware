@@ -1,0 +1,25 @@
+{
+  "id": "01-02-02-8ji-luo-mu",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-02-du-xin-luo-mu",
+  "name_th": "น็อตดำ (เกรด 8)",
+  "name_cn": "8级螺母",
+  "products": [
+    {
+      "id": "01-02-02-8ji-luo-mu-1",
+      "slug": "01-02-02-8ji-luo-mu-1",
+      "name_th": "น็อตดำ (เกรด 8) รายการที่ 1",
+      "name_cn": "8级螺母 产品 1",
+      "price": 542,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-02-02-8ji-luo-mu-2",
+      "slug": "01-02-02-8ji-luo-mu-2",
+      "name_th": "น็อตดำ (เกรด 8) รายการที่ 2",
+      "name_cn": "8级螺母 产品 2",
+      "price": 667,
+      "image": "/placeholder.png"
+    }
+  ]
+}

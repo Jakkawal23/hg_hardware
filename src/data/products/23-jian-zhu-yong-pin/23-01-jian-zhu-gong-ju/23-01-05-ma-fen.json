@@ -1,0 +1,25 @@
+{
+  "id": "23-01-05-ma-fen",
+  "main_category_slug": "23-jian-zhu-yong-pin",
+  "sub_category_slug": "23-01-jian-zhu-gong-ju",
+  "name_th": "พลั่ว/ที่ตักดิน",
+  "name_cn": "马粪",
+  "products": [
+    {
+      "id": "23-01-05-ma-fen-1",
+      "slug": "23-01-05-ma-fen-1",
+      "name_th": "พลั่ว/ที่ตักดิน รายการที่ 1",
+      "name_cn": "马粪 产品 1",
+      "price": 421,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "23-01-05-ma-fen-2",
+      "slug": "23-01-05-ma-fen-2",
+      "name_th": "พลั่ว/ที่ตักดิน รายการที่ 2",
+      "name_cn": "马粪 产品 2",
+      "price": 335,
+      "image": "/placeholder.png"
+    }
+  ]
+}

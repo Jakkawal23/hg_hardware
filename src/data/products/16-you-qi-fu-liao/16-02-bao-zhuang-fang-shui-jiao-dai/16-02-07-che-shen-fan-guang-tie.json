@@ -1,0 +1,25 @@
+{
+  "id": "16-02-07-che-shen-fan-guang-tie",
+  "main_category_slug": "16-you-qi-fu-liao",
+  "sub_category_slug": "16-02-bao-zhuang-fang-shui-jiao-dai",
+  "name_th": "สติ๊กเกอร์สะท้อนแสงติดรถ",
+  "name_cn": "车身反光贴",
+  "products": [
+    {
+      "id": "16-02-07-che-shen-fan-guang-tie-1",
+      "slug": "16-02-07-che-shen-fan-guang-tie-1",
+      "name_th": "สติ๊กเกอร์สะท้อนแสงติดรถ รายการที่ 1",
+      "name_cn": "车身反光贴 产品 1",
+      "price": 239,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "16-02-07-che-shen-fan-guang-tie-2",
+      "slug": "16-02-07-che-shen-fan-guang-tie-2",
+      "name_th": "สติ๊กเกอร์สะท้อนแสงติดรถ รายการที่ 2",
+      "name_cn": "车身反光贴 产品 2",
+      "price": 545,
+      "image": "/placeholder.png"
+    }
+  ]
+}

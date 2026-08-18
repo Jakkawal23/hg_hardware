@@ -1,0 +1,25 @@
+{
+  "id": "19-08-01-shu-tong-qi",
+  "main_category_slug": "19-shui-nuan-wei-yu",
+  "sub_category_slug": "19-08-ri-hua-gong-ju",
+  "name_th": "ที่แงงส้วม",
+  "name_cn": "疏通器",
+  "products": [
+    {
+      "id": "19-08-01-shu-tong-qi-1",
+      "slug": "19-08-01-shu-tong-qi-1",
+      "name_th": "ที่แงงส้วม รายการที่ 1",
+      "name_cn": "疏通器 产品 1",
+      "price": 799,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "19-08-01-shu-tong-qi-2",
+      "slug": "19-08-01-shu-tong-qi-2",
+      "name_th": "ที่แงงส้วม รายการที่ 2",
+      "name_cn": "疏通器 产品 2",
+      "price": 202,
+      "image": "/placeholder.png"
+    }
+  ]
+}

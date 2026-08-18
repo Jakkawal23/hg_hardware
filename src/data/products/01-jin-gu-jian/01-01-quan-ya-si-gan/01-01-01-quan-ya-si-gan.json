@@ -1,0 +1,25 @@
+{
+  "id": "01-01-01-quan-ya-si-gan",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-01-quan-ya-si-gan",
+  "name_th": "สตัดเกลียวตลอด",
+  "name_cn": "全牙丝杆",
+  "products": [
+    {
+      "id": "01-01-01-quan-ya-si-gan-1",
+      "slug": "01-01-01-quan-ya-si-gan-1",
+      "name_th": "สตัดเกลียวตลอด รายการที่ 1",
+      "name_cn": "全牙丝杆 产品 1",
+      "price": 265,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-01-01-quan-ya-si-gan-2",
+      "slug": "01-01-01-quan-ya-si-gan-2",
+      "name_th": "สตัดเกลียวตลอด รายการที่ 2",
+      "name_cn": "全牙丝杆 产品 2",
+      "price": 131,
+      "image": "/placeholder.png"
+    }
+  ]
+}

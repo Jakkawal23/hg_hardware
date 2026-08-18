@@ -1,0 +1,25 @@
+{
+  "id": "04-05-08-gong-ye-yong-lian-jie-qi",
+  "main_category_slug": "04-kai-guan-cha-zuo",
+  "sub_category_slug": "04-05-cha-tou-cha-zuo",
+  "name_th": "ข้อต่อสายไฟอุตสาหกรรม",
+  "name_cn": "工业用连接器",
+  "products": [
+    {
+      "id": "04-05-08-gong-ye-yong-lian-jie-qi-1",
+      "slug": "04-05-08-gong-ye-yong-lian-jie-qi-1",
+      "name_th": "ข้อต่อสายไฟอุตสาหกรรม รายการที่ 1",
+      "name_cn": "工业用连接器 产品 1",
+      "price": 112,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "04-05-08-gong-ye-yong-lian-jie-qi-2",
+      "slug": "04-05-08-gong-ye-yong-lian-jie-qi-2",
+      "name_th": "ข้อต่อสายไฟอุตสาหกรรม รายการที่ 2",
+      "name_cn": "工业用连接器 产品 2",
+      "price": 236,
+      "image": "/placeholder.png"
+    }
+  ]
+}

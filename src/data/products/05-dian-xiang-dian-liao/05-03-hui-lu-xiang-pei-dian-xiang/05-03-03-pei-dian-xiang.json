@@ -1,0 +1,25 @@
+{
+  "id": "05-03-03-pei-dian-xiang",
+  "main_category_slug": "05-dian-xiang-dian-liao",
+  "sub_category_slug": "05-03-hui-lu-xiang-pei-dian-xiang",
+  "name_th": "ตู้จ่ายไฟ",
+  "name_cn": "配电箱",
+  "products": [
+    {
+      "id": "05-03-03-pei-dian-xiang-1",
+      "slug": "05-03-03-pei-dian-xiang-1",
+      "name_th": "ตู้จ่ายไฟ รายการที่ 1",
+      "name_cn": "配电箱 产品 1",
+      "price": 1035,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "05-03-03-pei-dian-xiang-2",
+      "slug": "05-03-03-pei-dian-xiang-2",
+      "name_th": "ตู้จ่ายไฟ รายการที่ 2",
+      "name_cn": "配电箱 产品 2",
+      "price": 728,
+      "image": "/placeholder.png"
+    }
+  ]
+}

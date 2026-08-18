@@ -1,0 +1,25 @@
+{
+  "id": "22-06-02-xiao-fang-biao-zhi-deng",
+  "main_category_slug": "22-deng-ju-dian-zi",
+  "sub_category_slug": "22-06-xiao-fang-ying-ji-deng",
+  "name_th": "ไฟป้ายทางออกฉุกเฉิน",
+  "name_cn": "消防标志灯",
+  "products": [
+    {
+      "id": "22-06-02-xiao-fang-biao-zhi-deng-1",
+      "slug": "22-06-02-xiao-fang-biao-zhi-deng-1",
+      "name_th": "ไฟป้ายทางออกฉุกเฉิน รายการที่ 1",
+      "name_cn": "消防标志灯 产品 1",
+      "price": 982,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "22-06-02-xiao-fang-biao-zhi-deng-2",
+      "slug": "22-06-02-xiao-fang-biao-zhi-deng-2",
+      "name_th": "ไฟป้ายทางออกฉุกเฉิน รายการที่ 2",
+      "name_cn": "消防标志灯 产品 2",
+      "price": 977,
+      "image": "/placeholder.png"
+    }
+  ]
+}

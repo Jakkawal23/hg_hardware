@@ -1,0 +1,25 @@
+{
+  "id": "12-04-01-yang-jiao-chui",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-04-chui-zi-lei",
+  "name_th": "ค้อนหงอนแกะ",
+  "name_cn": "羊角锤",
+  "products": [
+    {
+      "id": "12-04-01-yang-jiao-chui-1",
+      "slug": "12-04-01-yang-jiao-chui-1",
+      "name_th": "ค้อนหงอนแกะ รายการที่ 1",
+      "name_cn": "羊角锤 产品 1",
+      "price": 852,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-04-01-yang-jiao-chui-2",
+      "slug": "12-04-01-yang-jiao-chui-2",
+      "name_th": "ค้อนหงอนแกะ รายการที่ 2",
+      "name_cn": "羊角锤 产品 2",
+      "price": 644,
+      "image": "/placeholder.png"
+    }
+  ]
+}

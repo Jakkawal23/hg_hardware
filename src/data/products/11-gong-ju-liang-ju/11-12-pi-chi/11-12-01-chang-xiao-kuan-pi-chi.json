@@ -1,0 +1,25 @@
+{
+  "id": "11-12-01-chang-xiao-kuan-pi-chi",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-12-pi-chi",
+  "name_th": "สายวัดรุ่นขายดี",
+  "name_cn": "畅销款皮尺",
+  "products": [
+    {
+      "id": "11-12-01-chang-xiao-kuan-pi-chi-1",
+      "slug": "11-12-01-chang-xiao-kuan-pi-chi-1",
+      "name_th": "สายวัดรุ่นขายดี รายการที่ 1",
+      "name_cn": "畅销款皮尺 产品 1",
+      "price": 435,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-12-01-chang-xiao-kuan-pi-chi-2",
+      "slug": "11-12-01-chang-xiao-kuan-pi-chi-2",
+      "name_th": "สายวัดรุ่นขายดี รายการที่ 2",
+      "name_cn": "畅销款皮尺 产品 2",
+      "price": 817,
+      "image": "/placeholder.png"
+    }
+  ]
+}

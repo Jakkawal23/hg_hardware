@@ -1,0 +1,25 @@
+{
+  "id": "12-02-25-lian-tiao-ban-shou",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-02-ban-shou-lei",
+  "name_th": "ประแจโซ่",
+  "name_cn": "链条扳手",
+  "products": [
+    {
+      "id": "12-02-25-lian-tiao-ban-shou-1",
+      "slug": "12-02-25-lian-tiao-ban-shou-1",
+      "name_th": "ประแจโซ่ รายการที่ 1",
+      "name_cn": "链条扳手 产品 1",
+      "price": 980,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-02-25-lian-tiao-ban-shou-2",
+      "slug": "12-02-25-lian-tiao-ban-shou-2",
+      "name_th": "ประแจโซ่ รายการที่ 2",
+      "name_cn": "链条扳手 产品 2",
+      "price": 653,
+      "image": "/placeholder.png"
+    }
+  ]
+}

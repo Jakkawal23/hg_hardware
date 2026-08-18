@@ -1,0 +1,25 @@
+{
+  "id": "08-01-02-U-xing-suo",
+  "main_category_slug": "08-zhuang-huang-wu-jin",
+  "sub_category_slug": "08-01-suo-ju",
+  "name_th": "กุญแจรูปตัวยู",
+  "name_cn": "U型锁",
+  "products": [
+    {
+      "id": "08-01-02-U-xing-suo-1",
+      "slug": "08-01-02-U-xing-suo-1",
+      "name_th": "กุญแจรูปตัวยู รายการที่ 1",
+      "name_cn": "U型锁 产品 1",
+      "price": 155,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "08-01-02-U-xing-suo-2",
+      "slug": "08-01-02-U-xing-suo-2",
+      "name_th": "กุญแจรูปตัวยู รายการที่ 2",
+      "name_cn": "U型锁 产品 2",
+      "price": 457,
+      "image": "/placeholder.png"
+    }
+  ]
+}

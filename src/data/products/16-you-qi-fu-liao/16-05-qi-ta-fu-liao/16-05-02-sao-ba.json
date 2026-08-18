@@ -1,0 +1,25 @@
+{
+  "id": "16-05-02-sao-ba",
+  "main_category_slug": "16-you-qi-fu-liao",
+  "sub_category_slug": "16-05-qi-ta-fu-liao",
+  "name_th": "ไม้กวาด",
+  "name_cn": "扫把",
+  "products": [
+    {
+      "id": "16-05-02-sao-ba-1",
+      "slug": "16-05-02-sao-ba-1",
+      "name_th": "ไม้กวาด รายการที่ 1",
+      "name_cn": "扫把 产品 1",
+      "price": 366,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "16-05-02-sao-ba-2",
+      "slug": "16-05-02-sao-ba-2",
+      "name_th": "ไม้กวาด รายการที่ 2",
+      "name_cn": "扫把 产品 2",
+      "price": 453,
+      "image": "/placeholder.png"
+    }
+  ]
+}

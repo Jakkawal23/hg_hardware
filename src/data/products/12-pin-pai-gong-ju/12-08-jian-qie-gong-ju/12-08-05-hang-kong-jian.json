@@ -1,0 +1,25 @@
+{
+  "id": "12-08-05-hang-kong-jian",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-08-jian-qie-gong-ju",
+  "name_th": "กรรไกรตัดสังกะสี",
+  "name_cn": "航空剪",
+  "products": [
+    {
+      "id": "12-08-05-hang-kong-jian-1",
+      "slug": "12-08-05-hang-kong-jian-1",
+      "name_th": "กรรไกรตัดสังกะสี รายการที่ 1",
+      "name_cn": "航空剪 产品 1",
+      "price": 961,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-08-05-hang-kong-jian-2",
+      "slug": "12-08-05-hang-kong-jian-2",
+      "name_th": "กรรไกรตัดสังกะสี รายการที่ 2",
+      "name_cn": "航空剪 产品 2",
+      "price": 286,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "13-05-13-cao-mao",
+  "main_category_slug": "13-lao-bao-yong-pin",
+  "sub_category_slug": "13-05-an-quan-fang-hu",
+  "name_th": "หมวกฟาง",
+  "name_cn": "草帽",
+  "products": [
+    {
+      "id": "13-05-13-cao-mao-1",
+      "slug": "13-05-13-cao-mao-1",
+      "name_th": "หมวกฟาง รายการที่ 1",
+      "name_cn": "草帽 产品 1",
+      "price": 190,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "13-05-13-cao-mao-2",
+      "slug": "13-05-13-cao-mao-2",
+      "name_th": "หมวกฟาง รายการที่ 2",
+      "name_cn": "草帽 产品 2",
+      "price": 1061,
+      "image": "/placeholder.png"
+    }
+  ]
+}

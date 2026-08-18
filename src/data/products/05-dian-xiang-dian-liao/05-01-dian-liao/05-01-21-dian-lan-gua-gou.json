@@ -1,0 +1,25 @@
+{
+  "id": "05-01-21-dian-lan-gua-gou",
+  "main_category_slug": "05-dian-xiang-dian-liao",
+  "sub_category_slug": "05-01-dian-liao",
+  "name_th": "ตะขอแขวนสายเคเบิล",
+  "name_cn": "电缆挂钩",
+  "products": [
+    {
+      "id": "05-01-21-dian-lan-gua-gou-1",
+      "slug": "05-01-21-dian-lan-gua-gou-1",
+      "name_th": "ตะขอแขวนสายเคเบิล รายการที่ 1",
+      "name_cn": "电缆挂钩 产品 1",
+      "price": 578,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "05-01-21-dian-lan-gua-gou-2",
+      "slug": "05-01-21-dian-lan-gua-gou-2",
+      "name_th": "ตะขอแขวนสายเคเบิล รายการที่ 2",
+      "name_cn": "电缆挂钩 产品 2",
+      "price": 489,
+      "image": "/placeholder.png"
+    }
+  ]
+}

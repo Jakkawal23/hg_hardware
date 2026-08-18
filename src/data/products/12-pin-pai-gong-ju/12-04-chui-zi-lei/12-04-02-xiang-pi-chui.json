@@ -1,0 +1,25 @@
+{
+  "id": "12-04-02-xiang-pi-chui",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-04-chui-zi-lei",
+  "name_th": "ค้อนยาง",
+  "name_cn": "橡皮锤",
+  "products": [
+    {
+      "id": "12-04-02-xiang-pi-chui-1",
+      "slug": "12-04-02-xiang-pi-chui-1",
+      "name_th": "ค้อนยาง รายการที่ 1",
+      "name_cn": "橡皮锤 产品 1",
+      "price": 295,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-04-02-xiang-pi-chui-2",
+      "slug": "12-04-02-xiang-pi-chui-2",
+      "name_th": "ค้อนยาง รายการที่ 2",
+      "name_cn": "橡皮锤 产品 2",
+      "price": 1013,
+      "image": "/placeholder.png"
+    }
+  ]
+}

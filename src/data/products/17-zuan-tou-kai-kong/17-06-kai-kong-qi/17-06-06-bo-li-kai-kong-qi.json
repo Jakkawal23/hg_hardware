@@ -1,0 +1,25 @@
+{
+  "id": "17-06-06-bo-li-kai-kong-qi",
+  "main_category_slug": "17-zuan-tou-kai-kong",
+  "sub_category_slug": "17-06-kai-kong-qi",
+  "name_th": "ดอกเจาะรูกระจก",
+  "name_cn": "玻璃开孔器",
+  "products": [
+    {
+      "id": "17-06-06-bo-li-kai-kong-qi-1",
+      "slug": "17-06-06-bo-li-kai-kong-qi-1",
+      "name_th": "ดอกเจาะรูกระจก รายการที่ 1",
+      "name_cn": "玻璃开孔器 产品 1",
+      "price": 434,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "17-06-06-bo-li-kai-kong-qi-2",
+      "slug": "17-06-06-bo-li-kai-kong-qi-2",
+      "name_th": "ดอกเจาะรูกระจก รายการที่ 2",
+      "name_cn": "玻璃开孔器 产品 2",
+      "price": 760,
+      "image": "/placeholder.png"
+    }
+  ]
+}

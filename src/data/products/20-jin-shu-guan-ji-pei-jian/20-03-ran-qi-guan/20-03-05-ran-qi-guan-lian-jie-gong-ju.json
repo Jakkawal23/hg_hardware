@@ -1,0 +1,25 @@
+{
+  "id": "20-03-05-ran-qi-guan-lian-jie-gong-ju",
+  "main_category_slug": "20-jin-shu-guan-ji-pei-jian",
+  "sub_category_slug": "20-03-ran-qi-guan",
+  "name_th": "เครื่องมือต่อท่อแก๊ส",
+  "name_cn": "燃气管连接工具",
+  "products": [
+    {
+      "id": "20-03-05-ran-qi-guan-lian-jie-gong-ju-1",
+      "slug": "20-03-05-ran-qi-guan-lian-jie-gong-ju-1",
+      "name_th": "เครื่องมือต่อท่อแก๊ส รายการที่ 1",
+      "name_cn": "燃气管连接工具 产品 1",
+      "price": 941,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "20-03-05-ran-qi-guan-lian-jie-gong-ju-2",
+      "slug": "20-03-05-ran-qi-guan-lian-jie-gong-ju-2",
+      "name_th": "เครื่องมือต่อท่อแก๊ส รายการที่ 2",
+      "name_cn": "燃气管连接工具 产品 2",
+      "price": 997,
+      "image": "/placeholder.png"
+    }
+  ]
+}

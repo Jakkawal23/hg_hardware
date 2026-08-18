@@ -1,0 +1,25 @@
+{
+  "id": "19-04-05-shou-pen-di-zuo-ding-zhuan",
+  "main_category_slug": "19-shui-nuan-wei-yu",
+  "sub_category_slug": "19-04-hua-jiu-zhuan-qu",
+  "name_th": "ฐานยึดสายฉีด",
+  "name_cn": "手喷底座顶砖",
+  "products": [
+    {
+      "id": "19-04-05-shou-pen-di-zuo-ding-zhuan-1",
+      "slug": "19-04-05-shou-pen-di-zuo-ding-zhuan-1",
+      "name_th": "ฐานยึดสายฉีด รายการที่ 1",
+      "name_cn": "手喷底座顶砖 产品 1",
+      "price": 683,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "19-04-05-shou-pen-di-zuo-ding-zhuan-2",
+      "slug": "19-04-05-shou-pen-di-zuo-ding-zhuan-2",
+      "name_th": "ฐานยึดสายฉีด รายการที่ 2",
+      "name_cn": "手喷底座顶砖 产品 2",
+      "price": 1069,
+      "image": "/placeholder.png"
+    }
+  ]
+}

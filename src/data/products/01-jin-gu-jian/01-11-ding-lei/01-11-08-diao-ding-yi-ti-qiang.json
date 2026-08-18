@@ -1,0 +1,25 @@
+{
+  "id": "01-11-08-diao-ding-yi-ti-qiang",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-11-ding-lei",
+  "name_th": "ปืนยิงตะปูฝ้าเพดาน",
+  "name_cn": "吊顶一体枪",
+  "products": [
+    {
+      "id": "01-11-08-diao-ding-yi-ti-qiang-1",
+      "slug": "01-11-08-diao-ding-yi-ti-qiang-1",
+      "name_th": "ปืนยิงตะปูฝ้าเพดาน รายการที่ 1",
+      "name_cn": "吊顶一体枪 产品 1",
+      "price": 370,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-11-08-diao-ding-yi-ti-qiang-2",
+      "slug": "01-11-08-diao-ding-yi-ti-qiang-2",
+      "name_th": "ปืนยิงตะปูฝ้าเพดาน รายการที่ 2",
+      "name_cn": "吊顶一体枪 产品 2",
+      "price": 108,
+      "image": "/placeholder.png"
+    }
+  ]
+}

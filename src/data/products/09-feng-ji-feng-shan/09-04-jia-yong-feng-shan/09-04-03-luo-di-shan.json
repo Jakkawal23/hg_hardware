@@ -1,0 +1,25 @@
+{
+  "id": "09-04-03-luo-di-shan",
+  "main_category_slug": "09-feng-ji-feng-shan",
+  "sub_category_slug": "09-04-jia-yong-feng-shan",
+  "name_th": "พัดลมตั้งพื้น",
+  "name_cn": "落地扇",
+  "products": [
+    {
+      "id": "09-04-03-luo-di-shan-1",
+      "slug": "09-04-03-luo-di-shan-1",
+      "name_th": "พัดลมตั้งพื้น รายการที่ 1",
+      "name_cn": "落地扇 产品 1",
+      "price": 258,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "09-04-03-luo-di-shan-2",
+      "slug": "09-04-03-luo-di-shan-2",
+      "name_th": "พัดลมตั้งพื้น รายการที่ 2",
+      "name_cn": "落地扇 产品 2",
+      "price": 631,
+      "image": "/placeholder.png"
+    }
+  ]
+}

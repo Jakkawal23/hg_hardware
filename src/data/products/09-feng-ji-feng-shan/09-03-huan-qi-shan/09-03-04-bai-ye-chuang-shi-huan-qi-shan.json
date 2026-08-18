@@ -1,0 +1,25 @@
+{
+  "id": "09-03-04-bai-ye-chuang-shi-huan-qi-shan",
+  "main_category_slug": "09-feng-ji-feng-shan",
+  "sub_category_slug": "09-03-huan-qi-shan",
+  "name_th": "พัดลมระบายอากาศแบบบานเกล็ด",
+  "name_cn": "百叶窗式换气扇",
+  "products": [
+    {
+      "id": "09-03-04-bai-ye-chuang-shi-huan-qi-shan-1",
+      "slug": "09-03-04-bai-ye-chuang-shi-huan-qi-shan-1",
+      "name_th": "พัดลมระบายอากาศแบบบานเกล็ด รายการที่ 1",
+      "name_cn": "百叶窗式换气扇 产品 1",
+      "price": 897,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "09-03-04-bai-ye-chuang-shi-huan-qi-shan-2",
+      "slug": "09-03-04-bai-ye-chuang-shi-huan-qi-shan-2",
+      "name_th": "พัดลมระบายอากาศแบบบานเกล็ด รายการที่ 2",
+      "name_cn": "百叶窗式换气扇 产品 2",
+      "price": 229,
+      "image": "/placeholder.png"
+    }
+  ]
+}

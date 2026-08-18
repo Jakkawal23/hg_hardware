@@ -1,0 +1,25 @@
+{
+  "id": "20-01-11-yi-jing-san-tong",
+  "main_category_slug": "20-jin-shu-guan-ji-pei-jian",
+  "sub_category_slug": "20-01-heng-tong-ran-qi-guan-pei-jian",
+  "name_th": "สามทางลดขนาด",
+  "name_cn": "异径三通",
+  "products": [
+    {
+      "id": "20-01-11-yi-jing-san-tong-1",
+      "slug": "20-01-11-yi-jing-san-tong-1",
+      "name_th": "สามทางลดขนาด รายการที่ 1",
+      "name_cn": "异径三通 产品 1",
+      "price": 748,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "20-01-11-yi-jing-san-tong-2",
+      "slug": "20-01-11-yi-jing-san-tong-2",
+      "name_th": "สามทางลดขนาด รายการที่ 2",
+      "name_cn": "异径三通 产品 2",
+      "price": 709,
+      "image": "/placeholder.png"
+    }
+  ]
+}

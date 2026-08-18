@@ -1,0 +1,25 @@
+{
+  "id": "11-15-02-jiao-chi",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-15-liang-ce-chi",
+  "name_th": "ฉากวัดมุม",
+  "name_cn": "角尺",
+  "products": [
+    {
+      "id": "11-15-02-jiao-chi-1",
+      "slug": "11-15-02-jiao-chi-1",
+      "name_th": "ฉากวัดมุม รายการที่ 1",
+      "name_cn": "角尺 产品 1",
+      "price": 291,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-15-02-jiao-chi-2",
+      "slug": "11-15-02-jiao-chi-2",
+      "name_th": "ฉากวัดมุม รายการที่ 2",
+      "name_cn": "角尺 产品 2",
+      "price": 1042,
+      "image": "/placeholder.png"
+    }
+  ]
+}

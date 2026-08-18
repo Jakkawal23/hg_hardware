@@ -1,0 +1,25 @@
+{
+  "id": "22-01-11-chu-wei-deng",
+  "main_category_slug": "22-deng-ju-dian-zi",
+  "sub_category_slug": "22-01-zhao-ming",
+  "name_th": "ไฟห้องครัว-ห้องน้ำ",
+  "name_cn": "厨卫灯",
+  "products": [
+    {
+      "id": "22-01-11-chu-wei-deng-1",
+      "slug": "22-01-11-chu-wei-deng-1",
+      "name_th": "ไฟห้องครัว-ห้องน้ำ รายการที่ 1",
+      "name_cn": "厨卫灯 产品 1",
+      "price": 1010,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "22-01-11-chu-wei-deng-2",
+      "slug": "22-01-11-chu-wei-deng-2",
+      "name_th": "ไฟห้องครัว-ห้องน้ำ รายการที่ 2",
+      "name_cn": "厨卫灯 产品 2",
+      "price": 297,
+      "image": "/placeholder.png"
+    }
+  ]
+}

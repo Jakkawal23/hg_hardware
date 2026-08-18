@@ -1,0 +1,25 @@
+{
+  "id": "11-09-01-mei-gong-dao-dao-pian",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-09-jian-lei-dao-ju-lei",
+  "name_th": "คัตเตอร์/ใบมีด",
+  "name_cn": "美工刀/刀片",
+  "products": [
+    {
+      "id": "11-09-01-mei-gong-dao-dao-pian-1",
+      "slug": "11-09-01-mei-gong-dao-dao-pian-1",
+      "name_th": "คัตเตอร์/ใบมีด รายการที่ 1",
+      "name_cn": "美工刀/刀片 产品 1",
+      "price": 1097,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-09-01-mei-gong-dao-dao-pian-2",
+      "slug": "11-09-01-mei-gong-dao-dao-pian-2",
+      "name_th": "คัตเตอร์/ใบมีด รายการที่ 2",
+      "name_cn": "美工刀/刀片 产品 2",
+      "price": 648,
+      "image": "/placeholder.png"
+    }
+  ]
+}

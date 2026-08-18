@@ -1,0 +1,25 @@
+{
+  "id": "22-03-04-yu-ba-deng-pao",
+  "main_category_slug": "22-deng-ju-dian-zi",
+  "sub_category_slug": "22-03-qu-nuan-zhao-ming",
+  "name_th": "หลอดไฟฮีทเตอร์อาบน้ำ",
+  "name_cn": "浴霸灯泡",
+  "products": [
+    {
+      "id": "22-03-04-yu-ba-deng-pao-1",
+      "slug": "22-03-04-yu-ba-deng-pao-1",
+      "name_th": "หลอดไฟฮีทเตอร์อาบน้ำ รายการที่ 1",
+      "name_cn": "浴霸灯泡 产品 1",
+      "price": 514,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "22-03-04-yu-ba-deng-pao-2",
+      "slug": "22-03-04-yu-ba-deng-pao-2",
+      "name_th": "หลอดไฟฮีทเตอร์อาบน้ำ รายการที่ 2",
+      "name_cn": "浴霸灯泡 产品 2",
+      "price": 163,
+      "image": "/placeholder.png"
+    }
+  ]
+}

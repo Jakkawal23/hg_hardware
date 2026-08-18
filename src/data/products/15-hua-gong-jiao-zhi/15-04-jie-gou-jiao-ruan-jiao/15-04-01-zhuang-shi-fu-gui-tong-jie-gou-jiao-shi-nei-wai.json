@@ -1,0 +1,25 @@
+{
+  "id": "15-04-01-zhuang-shi-fu-gui-tong-jie-gou-jiao-shi-nei-wai",
+  "main_category_slug": "15-hua-gong-jiao-zhi",
+  "sub_category_slug": "15-04-jie-gou-jiao-ruan-jiao",
+  "name_th": "กาวโครงสร้างซิลิโคนช่างจวง (ในและนอกอาคาร)",
+  "name_cn": "装师傅硅酮结构胶(室内外)",
+  "products": [
+    {
+      "id": "15-04-01-zhuang-shi-fu-gui-tong-jie-gou-jiao-shi-nei-wai-1",
+      "slug": "15-04-01-zhuang-shi-fu-gui-tong-jie-gou-jiao-shi-nei-wai-1",
+      "name_th": "กาวโครงสร้างซิลิโคนช่างจวง (ในและนอกอาคาร) รายการที่ 1",
+      "name_cn": "装师傅硅酮结构胶(室内外) 产品 1",
+      "price": 222,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "15-04-01-zhuang-shi-fu-gui-tong-jie-gou-jiao-shi-nei-wai-2",
+      "slug": "15-04-01-zhuang-shi-fu-gui-tong-jie-gou-jiao-shi-nei-wai-2",
+      "name_th": "กาวโครงสร้างซิลิโคนช่างจวง (ในและนอกอาคาร) รายการที่ 2",
+      "name_cn": "装师傅硅酮结构胶(室内外) 产品 2",
+      "price": 815,
+      "image": "/placeholder.png"
+    }
+  ]
+}

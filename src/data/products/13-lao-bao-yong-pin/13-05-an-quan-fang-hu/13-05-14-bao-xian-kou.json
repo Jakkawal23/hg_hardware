@@ -1,0 +1,25 @@
+{
+  "id": "13-05-14-bao-xian-kou",
+  "main_category_slug": "13-lao-bao-yong-pin",
+  "sub_category_slug": "13-05-an-quan-fang-hu",
+  "name_th": "ตะขอนิรภัย",
+  "name_cn": "保险扣",
+  "products": [
+    {
+      "id": "13-05-14-bao-xian-kou-1",
+      "slug": "13-05-14-bao-xian-kou-1",
+      "name_th": "ตะขอนิรภัย รายการที่ 1",
+      "name_cn": "保险扣 产品 1",
+      "price": 132,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "13-05-14-bao-xian-kou-2",
+      "slug": "13-05-14-bao-xian-kou-2",
+      "name_th": "ตะขอนิรภัย รายการที่ 2",
+      "name_cn": "保险扣 产品 2",
+      "price": 514,
+      "image": "/placeholder.png"
+    }
+  ]
+}

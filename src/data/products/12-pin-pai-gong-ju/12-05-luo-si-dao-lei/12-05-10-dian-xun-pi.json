@@ -1,0 +1,25 @@
+{
+  "id": "12-05-10-dian-xun-pi",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-05-luo-si-dao-lei",
+  "name_th": "ไขควงงานสื่อสาร",
+  "name_cn": "电讯批",
+  "products": [
+    {
+      "id": "12-05-10-dian-xun-pi-1",
+      "slug": "12-05-10-dian-xun-pi-1",
+      "name_th": "ไขควงงานสื่อสาร รายการที่ 1",
+      "name_cn": "电讯批 产品 1",
+      "price": 940,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-05-10-dian-xun-pi-2",
+      "slug": "12-05-10-dian-xun-pi-2",
+      "name_th": "ไขควงงานสื่อสาร รายการที่ 2",
+      "name_cn": "电讯批 产品 2",
+      "price": 428,
+      "image": "/placeholder.png"
+    }
+  ]
+}

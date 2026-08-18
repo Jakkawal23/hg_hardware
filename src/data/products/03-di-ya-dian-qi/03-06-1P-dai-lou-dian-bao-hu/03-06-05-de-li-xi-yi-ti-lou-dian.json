@@ -1,0 +1,25 @@
+{
+  "id": "03-06-05-de-li-xi-yi-ti-lou-dian",
+  "main_category_slug": "03-di-ya-dian-qi",
+  "sub_category_slug": "03-06-1P-dai-lou-dian-bao-hu",
+  "name_th": "เบรกเกอร์กันดูดเดลิกซีแบบรวมตัว",
+  "name_cn": "德力西一体漏电",
+  "products": [
+    {
+      "id": "03-06-05-de-li-xi-yi-ti-lou-dian-1",
+      "slug": "03-06-05-de-li-xi-yi-ti-lou-dian-1",
+      "name_th": "เบรกเกอร์กันดูดเดลิกซีแบบรวมตัว รายการที่ 1",
+      "name_cn": "德力西一体漏电 产品 1",
+      "price": 370,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "03-06-05-de-li-xi-yi-ti-lou-dian-2",
+      "slug": "03-06-05-de-li-xi-yi-ti-lou-dian-2",
+      "name_th": "เบรกเกอร์กันดูดเดลิกซีแบบรวมตัว รายการที่ 2",
+      "name_cn": "德力西一体漏电 产品 2",
+      "price": 665,
+      "image": "/placeholder.png"
+    }
+  ]
+}

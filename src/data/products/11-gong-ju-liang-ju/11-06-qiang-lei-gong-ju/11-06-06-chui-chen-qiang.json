@@ -1,0 +1,25 @@
+{
+  "id": "11-06-06-chui-chen-qiang",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-06-qiang-lei-gong-ju",
+  "name_th": "ปืนเป่าลม",
+  "name_cn": "吹尘枪",
+  "products": [
+    {
+      "id": "11-06-06-chui-chen-qiang-1",
+      "slug": "11-06-06-chui-chen-qiang-1",
+      "name_th": "ปืนเป่าลม รายการที่ 1",
+      "name_cn": "吹尘枪 产品 1",
+      "price": 470,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-06-06-chui-chen-qiang-2",
+      "slug": "11-06-06-chui-chen-qiang-2",
+      "name_th": "ปืนเป่าลม รายการที่ 2",
+      "name_cn": "吹尘枪 产品 2",
+      "price": 278,
+      "image": "/placeholder.png"
+    }
+  ]
+}

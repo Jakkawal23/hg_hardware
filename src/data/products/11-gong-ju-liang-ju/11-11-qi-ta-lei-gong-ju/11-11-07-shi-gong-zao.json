@@ -1,0 +1,25 @@
+{
+  "id": "11-11-07-shi-gong-zao",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-11-qi-ta-lei-gong-ju",
+  "name_th": "สิ่วสกัดหิน",
+  "name_cn": "石工凿",
+  "products": [
+    {
+      "id": "11-11-07-shi-gong-zao-1",
+      "slug": "11-11-07-shi-gong-zao-1",
+      "name_th": "สิ่วสกัดหิน รายการที่ 1",
+      "name_cn": "石工凿 产品 1",
+      "price": 110,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-11-07-shi-gong-zao-2",
+      "slug": "11-11-07-shi-gong-zao-2",
+      "name_th": "สิ่วสกัดหิน รายการที่ 2",
+      "name_cn": "石工凿 产品 2",
+      "price": 906,
+      "image": "/placeholder.png"
+    }
+  ]
+}

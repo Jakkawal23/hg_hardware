@@ -1,0 +1,25 @@
+{
+  "id": "12-01-02-tian-dao-mo-dou",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-01-tian-dao-gong-ju",
+  "name_th": "กล่องเส้นหมึกทาชิมะ",
+  "name_cn": "田岛墨斗",
+  "products": [
+    {
+      "id": "12-01-02-tian-dao-mo-dou-1",
+      "slug": "12-01-02-tian-dao-mo-dou-1",
+      "name_th": "กล่องเส้นหมึกทาชิมะ รายการที่ 1",
+      "name_cn": "田岛墨斗 产品 1",
+      "price": 208,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-01-02-tian-dao-mo-dou-2",
+      "slug": "12-01-02-tian-dao-mo-dou-2",
+      "name_th": "กล่องเส้นหมึกทาชิมะ รายการที่ 2",
+      "name_cn": "田岛墨斗 产品 2",
+      "price": 688,
+      "image": "/placeholder.png"
+    }
+  ]
+}

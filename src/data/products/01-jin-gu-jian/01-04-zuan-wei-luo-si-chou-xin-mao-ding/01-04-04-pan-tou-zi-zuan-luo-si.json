@@ -1,0 +1,25 @@
+{
+  "id": "01-04-04-pan-tou-zi-zuan-luo-si",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-04-zuan-wei-luo-si-chou-xin-mao-ding",
+  "name_th": "สกรูหัวจานเจาะตัวเอง",
+  "name_cn": "盘头自钻螺丝",
+  "products": [
+    {
+      "id": "01-04-04-pan-tou-zi-zuan-luo-si-1",
+      "slug": "01-04-04-pan-tou-zi-zuan-luo-si-1",
+      "name_th": "สกรูหัวจานเจาะตัวเอง รายการที่ 1",
+      "name_cn": "盘头自钻螺丝 产品 1",
+      "price": 1064,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-04-04-pan-tou-zi-zuan-luo-si-2",
+      "slug": "01-04-04-pan-tou-zi-zuan-luo-si-2",
+      "name_th": "สกรูหัวจานเจาะตัวเอง รายการที่ 2",
+      "name_cn": "盘头自钻螺丝 产品 2",
+      "price": 1049,
+      "image": "/placeholder.png"
+    }
+  ]
+}

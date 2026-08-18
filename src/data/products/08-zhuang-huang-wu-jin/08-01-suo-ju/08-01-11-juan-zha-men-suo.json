@@ -1,0 +1,25 @@
+{
+  "id": "08-01-11-juan-zha-men-suo",
+  "main_category_slug": "08-zhuang-huang-wu-jin",
+  "sub_category_slug": "08-01-suo-ju",
+  "name_th": "กุญแจประตูม้วน",
+  "name_cn": "卷闸门锁",
+  "products": [
+    {
+      "id": "08-01-11-juan-zha-men-suo-1",
+      "slug": "08-01-11-juan-zha-men-suo-1",
+      "name_th": "กุญแจประตูม้วน รายการที่ 1",
+      "name_cn": "卷闸门锁 产品 1",
+      "price": 852,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "08-01-11-juan-zha-men-suo-2",
+      "slug": "08-01-11-juan-zha-men-suo-2",
+      "name_th": "กุญแจประตูม้วน รายการที่ 2",
+      "name_cn": "卷闸门锁 产品 2",
+      "price": 612,
+      "image": "/placeholder.png"
+    }
+  ]
+}

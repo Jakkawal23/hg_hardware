@@ -1,0 +1,25 @@
+{
+  "id": "11-03-07-huo-dong-ban-shou",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-03-ban-shou-lei",
+  "name_th": "ประแจเลื่อน",
+  "name_cn": "活动扳手",
+  "products": [
+    {
+      "id": "11-03-07-huo-dong-ban-shou-1",
+      "slug": "11-03-07-huo-dong-ban-shou-1",
+      "name_th": "ประแจเลื่อน รายการที่ 1",
+      "name_cn": "活动扳手 产品 1",
+      "price": 656,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-03-07-huo-dong-ban-shou-2",
+      "slug": "11-03-07-huo-dong-ban-shou-2",
+      "name_th": "ประแจเลื่อน รายการที่ 2",
+      "name_cn": "活动扳手 产品 2",
+      "price": 132,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "01-02-03-fa-lan-mu-ma-che-luo-si",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-02-du-xin-luo-mu",
+  "name_th": "น็อตหัวจาน / สกรูรถม้า",
+  "name_cn": "法兰帽/马车螺丝",
+  "products": [
+    {
+      "id": "01-02-03-fa-lan-mu-ma-che-luo-si-1",
+      "slug": "01-02-03-fa-lan-mu-ma-che-luo-si-1",
+      "name_th": "น็อตหัวจาน / สกรูรถม้า รายการที่ 1",
+      "name_cn": "法兰帽/马车螺丝 产品 1",
+      "price": 225,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-02-03-fa-lan-mu-ma-che-luo-si-2",
+      "slug": "01-02-03-fa-lan-mu-ma-che-luo-si-2",
+      "name_th": "น็อตหัวจาน / สกรูรถม้า รายการที่ 2",
+      "name_cn": "法兰帽/马车螺丝 产品 2",
+      "price": 1059,
+      "image": "/placeholder.png"
+    }
+  ]
+}

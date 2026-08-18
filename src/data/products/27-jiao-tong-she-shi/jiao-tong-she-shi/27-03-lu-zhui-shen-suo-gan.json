@@ -1,0 +1,25 @@
+{
+  "id": "27-03-lu-zhui-shen-suo-gan",
+  "main_category_slug": "27-jiao-tong-she-shi",
+  "sub_category_slug": "jiao-tong-she-shi",
+  "name_th": "เสายืดหดกรวยจราจร",
+  "name_cn": "路锥伸缩杆",
+  "products": [
+    {
+      "id": "27-03-lu-zhui-shen-suo-gan-1",
+      "slug": "27-03-lu-zhui-shen-suo-gan-1",
+      "name_th": "เสายืดหดกรวยจราจร รายการที่ 1",
+      "name_cn": "路锥伸缩杆 产品 1",
+      "price": 554,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "27-03-lu-zhui-shen-suo-gan-2",
+      "slug": "27-03-lu-zhui-shen-suo-gan-2",
+      "name_th": "เสายืดหดกรวยจราจร รายการที่ 2",
+      "name_cn": "路锥伸缩杆 产品 2",
+      "price": 1054,
+      "image": "/placeholder.png"
+    }
+  ]
+}

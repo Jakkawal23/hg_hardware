@@ -1,0 +1,25 @@
+{
+  "id": "01-07-05-lao-hu-ka",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-07-suo-ju",
+  "name_th": "คลิปล็อคสลิง",
+  "name_cn": "老虎卡",
+  "products": [
+    {
+      "id": "01-07-05-lao-hu-ka-1",
+      "slug": "01-07-05-lao-hu-ka-1",
+      "name_th": "คลิปล็อคสลิง รายการที่ 1",
+      "name_cn": "老虎卡 产品 1",
+      "price": 380,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-07-05-lao-hu-ka-2",
+      "slug": "01-07-05-lao-hu-ka-2",
+      "name_th": "คลิปล็อคสลิง รายการที่ 2",
+      "name_cn": "老虎卡 产品 2",
+      "price": 159,
+      "image": "/placeholder.png"
+    }
+  ]
+}

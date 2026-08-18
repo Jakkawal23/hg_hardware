@@ -1,0 +1,25 @@
+{
+  "id": "23-01-06-ni-tong",
+  "main_category_slug": "23-jian-zhu-yong-pin",
+  "sub_category_slug": "23-01-jian-zhu-gong-ju",
+  "name_th": "ถังปูน",
+  "name_cn": "泥桶",
+  "products": [
+    {
+      "id": "23-01-06-ni-tong-1",
+      "slug": "23-01-06-ni-tong-1",
+      "name_th": "ถังปูน รายการที่ 1",
+      "name_cn": "泥桶 产品 1",
+      "price": 746,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "23-01-06-ni-tong-2",
+      "slug": "23-01-06-ni-tong-2",
+      "name_th": "ถังปูน รายการที่ 2",
+      "name_cn": "泥桶 产品 2",
+      "price": 414,
+      "image": "/placeholder.png"
+    }
+  ]
+}

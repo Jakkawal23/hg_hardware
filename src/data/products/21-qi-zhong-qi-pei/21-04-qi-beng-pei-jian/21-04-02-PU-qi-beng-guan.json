@@ -1,0 +1,25 @@
+{
+  "id": "21-04-02-PU-qi-beng-guan",
+  "main_category_slug": "21-qi-zhong-qi-pei",
+  "sub_category_slug": "21-04-qi-beng-pei-jian",
+  "name_th": "สายปั๊มลม PU",
+  "name_cn": "PU气泵管",
+  "products": [
+    {
+      "id": "21-04-02-PU-qi-beng-guan-1",
+      "slug": "21-04-02-PU-qi-beng-guan-1",
+      "name_th": "สายปั๊มลม PU รายการที่ 1",
+      "name_cn": "PU气泵管 产品 1",
+      "price": 930,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "21-04-02-PU-qi-beng-guan-2",
+      "slug": "21-04-02-PU-qi-beng-guan-2",
+      "name_th": "สายปั๊มลม PU รายการที่ 2",
+      "name_cn": "PU气泵管 产品 2",
+      "price": 279,
+      "image": "/placeholder.png"
+    }
+  ]
+}

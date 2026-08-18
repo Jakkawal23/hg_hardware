@@ -1,0 +1,25 @@
+{
+  "id": "05-01-17-deng-tou-he",
+  "main_category_slug": "05-dian-xiang-dian-liao",
+  "sub_category_slug": "05-01-dian-liao",
+  "name_th": "กล่องขั้วหลอดไฟ",
+  "name_cn": "灯头盒",
+  "products": [
+    {
+      "id": "05-01-17-deng-tou-he-1",
+      "slug": "05-01-17-deng-tou-he-1",
+      "name_th": "กล่องขั้วหลอดไฟ รายการที่ 1",
+      "name_cn": "灯头盒 产品 1",
+      "price": 216,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "05-01-17-deng-tou-he-2",
+      "slug": "05-01-17-deng-tou-he-2",
+      "name_th": "กล่องขั้วหลอดไฟ รายการที่ 2",
+      "name_cn": "灯头盒 产品 2",
+      "price": 153,
+      "image": "/placeholder.png"
+    }
+  ]
+}

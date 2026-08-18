@@ -1,0 +1,25 @@
+{
+  "id": "01-05-11-bu-xiu-gang-peng-zhang",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-05-peng-zhang-luo-si-peng-zhang-ding",
+  "name_th": "พุกสแตนเลส",
+  "name_cn": "不锈钢膨胀",
+  "products": [
+    {
+      "id": "01-05-11-bu-xiu-gang-peng-zhang-1",
+      "slug": "01-05-11-bu-xiu-gang-peng-zhang-1",
+      "name_th": "พุกสแตนเลส รายการที่ 1",
+      "name_cn": "不锈钢膨胀 产品 1",
+      "price": 279,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-05-11-bu-xiu-gang-peng-zhang-2",
+      "slug": "01-05-11-bu-xiu-gang-peng-zhang-2",
+      "name_th": "พุกสแตนเลส รายการที่ 2",
+      "name_cn": "不锈钢膨胀 产品 2",
+      "price": 576,
+      "image": "/placeholder.png"
+    }
+  ]
+}

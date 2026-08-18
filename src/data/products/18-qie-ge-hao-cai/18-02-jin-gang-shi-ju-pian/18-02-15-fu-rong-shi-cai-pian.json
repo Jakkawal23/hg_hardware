@@ -1,0 +1,25 @@
+{
+  "id": "18-02-15-fu-rong-shi-cai-pian",
+  "main_category_slug": "18-qie-ge-hao-cai",
+  "sub_category_slug": "18-02-jin-gang-shi-ju-pian",
+  "name_th": "ใบตัดหิน ฝูหรง",
+  "name_cn": "福荣石材片",
+  "products": [
+    {
+      "id": "18-02-15-fu-rong-shi-cai-pian-1",
+      "slug": "18-02-15-fu-rong-shi-cai-pian-1",
+      "name_th": "ใบตัดหิน ฝูหรง รายการที่ 1",
+      "name_cn": "福荣石材片 产品 1",
+      "price": 943,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "18-02-15-fu-rong-shi-cai-pian-2",
+      "slug": "18-02-15-fu-rong-shi-cai-pian-2",
+      "name_th": "ใบตัดหิน ฝูหรง รายการที่ 2",
+      "name_cn": "福荣石材片 产品 2",
+      "price": 157,
+      "image": "/placeholder.png"
+    }
+  ]
+}

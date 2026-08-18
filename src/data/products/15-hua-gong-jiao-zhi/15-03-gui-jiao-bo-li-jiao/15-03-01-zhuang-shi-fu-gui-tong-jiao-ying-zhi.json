@@ -1,0 +1,25 @@
+{
+  "id": "15-03-01-zhuang-shi-fu-gui-tong-jiao-ying-zhi",
+  "main_category_slug": "15-hua-gong-jiao-zhi",
+  "sub_category_slug": "15-03-gui-jiao-bo-li-jiao",
+  "name_th": "ซิลิโคนช่างจวง แบบแท่งแข็ง",
+  "name_cn": "装师傅硅酮胶硬支",
+  "products": [
+    {
+      "id": "15-03-01-zhuang-shi-fu-gui-tong-jiao-ying-zhi-1",
+      "slug": "15-03-01-zhuang-shi-fu-gui-tong-jiao-ying-zhi-1",
+      "name_th": "ซิลิโคนช่างจวง แบบแท่งแข็ง รายการที่ 1",
+      "name_cn": "装师傅硅酮胶硬支 产品 1",
+      "price": 562,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "15-03-01-zhuang-shi-fu-gui-tong-jiao-ying-zhi-2",
+      "slug": "15-03-01-zhuang-shi-fu-gui-tong-jiao-ying-zhi-2",
+      "name_th": "ซิลิโคนช่างจวง แบบแท่งแข็ง รายการที่ 2",
+      "name_cn": "装师傅硅酮胶硬支 产品 2",
+      "price": 453,
+      "image": "/placeholder.png"
+    }
+  ]
+}

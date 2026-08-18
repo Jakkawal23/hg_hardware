@@ -1,0 +1,25 @@
+{
+  "id": "14-01-13-ke-shun-fang-shui",
+  "main_category_slug": "14-tu-liao-fang-shui",
+  "sub_category_slug": "14-01-bai-jiao-tu-liao",
+  "name_th": "น้ำยากันซึม เคอชุน",
+  "name_cn": "科顺防水",
+  "products": [
+    {
+      "id": "14-01-13-ke-shun-fang-shui-1",
+      "slug": "14-01-13-ke-shun-fang-shui-1",
+      "name_th": "น้ำยากันซึม เคอชุน รายการที่ 1",
+      "name_cn": "科顺防水 产品 1",
+      "price": 973,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "14-01-13-ke-shun-fang-shui-2",
+      "slug": "14-01-13-ke-shun-fang-shui-2",
+      "name_th": "น้ำยากันซึม เคอชุน รายการที่ 2",
+      "name_cn": "科顺防水 产品 2",
+      "price": 555,
+      "image": "/placeholder.png"
+    }
+  ]
+}

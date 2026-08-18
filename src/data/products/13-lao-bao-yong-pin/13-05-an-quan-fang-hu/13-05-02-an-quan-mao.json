@@ -1,0 +1,25 @@
+{
+  "id": "13-05-02-an-quan-mao",
+  "main_category_slug": "13-lao-bao-yong-pin",
+  "sub_category_slug": "13-05-an-quan-fang-hu",
+  "name_th": "หมวกนิรภัย",
+  "name_cn": "安全帽",
+  "products": [
+    {
+      "id": "13-05-02-an-quan-mao-1",
+      "slug": "13-05-02-an-quan-mao-1",
+      "name_th": "หมวกนิรภัย รายการที่ 1",
+      "name_cn": "安全帽 产品 1",
+      "price": 631,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "13-05-02-an-quan-mao-2",
+      "slug": "13-05-02-an-quan-mao-2",
+      "name_th": "หมวกนิรภัย รายการที่ 2",
+      "name_cn": "安全帽 产品 2",
+      "price": 559,
+      "image": "/placeholder.png"
+    }
+  ]
+}

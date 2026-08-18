@@ -1,0 +1,25 @@
+{
+  "id": "12-02-15-wei-yu-ban-shou",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-02-ban-shou-lei",
+  "name_th": "ประแจสุขภัณฑ์",
+  "name_cn": "卫浴扳手",
+  "products": [
+    {
+      "id": "12-02-15-wei-yu-ban-shou-1",
+      "slug": "12-02-15-wei-yu-ban-shou-1",
+      "name_th": "ประแจสุขภัณฑ์ รายการที่ 1",
+      "name_cn": "卫浴扳手 产品 1",
+      "price": 352,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-02-15-wei-yu-ban-shou-2",
+      "slug": "12-02-15-wei-yu-ban-shou-2",
+      "name_th": "ประแจสุขภัณฑ์ รายการที่ 2",
+      "name_cn": "卫浴扳手 产品 2",
+      "price": 1082,
+      "image": "/placeholder.png"
+    }
+  ]
+}

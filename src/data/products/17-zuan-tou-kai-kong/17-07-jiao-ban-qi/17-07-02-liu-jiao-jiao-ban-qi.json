@@ -1,0 +1,25 @@
+{
+  "id": "17-07-02-liu-jiao-jiao-ban-qi",
+  "main_category_slug": "17-zuan-tou-kai-kong",
+  "sub_category_slug": "17-07-jiao-ban-qi",
+  "name_th": "หัวกวนผสมด้ามหกเหลี่ยม",
+  "name_cn": "六角搅拌器",
+  "products": [
+    {
+      "id": "17-07-02-liu-jiao-jiao-ban-qi-1",
+      "slug": "17-07-02-liu-jiao-jiao-ban-qi-1",
+      "name_th": "หัวกวนผสมด้ามหกเหลี่ยม รายการที่ 1",
+      "name_cn": "六角搅拌器 产品 1",
+      "price": 723,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "17-07-02-liu-jiao-jiao-ban-qi-2",
+      "slug": "17-07-02-liu-jiao-jiao-ban-qi-2",
+      "name_th": "หัวกวนผสมด้ามหกเหลี่ยม รายการที่ 2",
+      "name_cn": "六角搅拌器 产品 2",
+      "price": 1027,
+      "image": "/placeholder.png"
+    }
+  ]
+}

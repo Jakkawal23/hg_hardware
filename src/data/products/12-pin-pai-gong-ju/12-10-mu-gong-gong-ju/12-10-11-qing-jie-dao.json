@@ -1,0 +1,25 @@
+{
+  "id": "12-10-11-qing-jie-dao",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-10-mu-gong-gong-ju",
+  "name_th": "มีดขูดทำความสะอาด",
+  "name_cn": "清洁刀",
+  "products": [
+    {
+      "id": "12-10-11-qing-jie-dao-1",
+      "slug": "12-10-11-qing-jie-dao-1",
+      "name_th": "มีดขูดทำความสะอาด รายการที่ 1",
+      "name_cn": "清洁刀 产品 1",
+      "price": 207,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-10-11-qing-jie-dao-2",
+      "slug": "12-10-11-qing-jie-dao-2",
+      "name_th": "มีดขูดทำความสะอาด รายการที่ 2",
+      "name_cn": "清洁刀 产品 2",
+      "price": 328,
+      "image": "/placeholder.png"
+    }
+  ]
+}

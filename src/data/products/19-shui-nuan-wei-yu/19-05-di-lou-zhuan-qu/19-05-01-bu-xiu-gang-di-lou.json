@@ -1,0 +1,25 @@
+{
+  "id": "19-05-01-bu-xiu-gang-di-lou",
+  "main_category_slug": "19-shui-nuan-wei-yu",
+  "sub_category_slug": "19-05-di-lou-zhuan-qu",
+  "name_th": "ตะแกรงระบายน้ำพื้นสแตนเลส",
+  "name_cn": "不锈钢地漏",
+  "products": [
+    {
+      "id": "19-05-01-bu-xiu-gang-di-lou-1",
+      "slug": "19-05-01-bu-xiu-gang-di-lou-1",
+      "name_th": "ตะแกรงระบายน้ำพื้นสแตนเลส รายการที่ 1",
+      "name_cn": "不锈钢地漏 产品 1",
+      "price": 353,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "19-05-01-bu-xiu-gang-di-lou-2",
+      "slug": "19-05-01-bu-xiu-gang-di-lou-2",
+      "name_th": "ตะแกรงระบายน้ำพื้นสแตนเลส รายการที่ 2",
+      "name_cn": "不锈钢地漏 产品 2",
+      "price": 300,
+      "image": "/placeholder.png"
+    }
+  ]
+}

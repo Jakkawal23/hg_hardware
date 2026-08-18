@@ -1,0 +1,25 @@
+{
+  "id": "20-02-06-tong-jin-shu-guan-wan-tou",
+  "main_category_slug": "20-jin-shu-guan-ji-pei-jian",
+  "sub_category_slug": "20-02-jin-shu-guan-tong-pei-jian",
+  "name_th": "ข้อต่องอท่อโลหะทองแดง",
+  "name_cn": "铜金属管弯头",
+  "products": [
+    {
+      "id": "20-02-06-tong-jin-shu-guan-wan-tou-1",
+      "slug": "20-02-06-tong-jin-shu-guan-wan-tou-1",
+      "name_th": "ข้อต่องอท่อโลหะทองแดง รายการที่ 1",
+      "name_cn": "铜金属管弯头 产品 1",
+      "price": 861,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "20-02-06-tong-jin-shu-guan-wan-tou-2",
+      "slug": "20-02-06-tong-jin-shu-guan-wan-tou-2",
+      "name_th": "ข้อต่องอท่อโลหะทองแดง รายการที่ 2",
+      "name_cn": "铜金属管弯头 产品 2",
+      "price": 575,
+      "image": "/placeholder.png"
+    }
+  ]
+}

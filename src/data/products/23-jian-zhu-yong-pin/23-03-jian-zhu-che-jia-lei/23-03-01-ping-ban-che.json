@@ -1,0 +1,25 @@
+{
+  "id": "23-03-01-ping-ban-che",
+  "main_category_slug": "23-jian-zhu-yong-pin",
+  "sub_category_slug": "23-03-jian-zhu-che-jia-lei",
+  "name_th": "รถเข็นแผ่นเรียบ",
+  "name_cn": "平板车",
+  "products": [
+    {
+      "id": "23-03-01-ping-ban-che-1",
+      "slug": "23-03-01-ping-ban-che-1",
+      "name_th": "รถเข็นแผ่นเรียบ รายการที่ 1",
+      "name_cn": "平板车 产品 1",
+      "price": 959,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "23-03-01-ping-ban-che-2",
+      "slug": "23-03-01-ping-ban-che-2",
+      "name_th": "รถเข็นแผ่นเรียบ รายการที่ 2",
+      "name_cn": "平板车 产品 2",
+      "price": 282,
+      "image": "/placeholder.png"
+    }
+  ]
+}

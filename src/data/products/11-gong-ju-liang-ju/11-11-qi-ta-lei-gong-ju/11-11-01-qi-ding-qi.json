@@ -1,0 +1,25 @@
+{
+  "id": "11-11-01-qi-ding-qi",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-11-qi-ta-lei-gong-ju",
+  "name_th": "เครื่องมือถอนตะปู",
+  "name_cn": "起钉器",
+  "products": [
+    {
+      "id": "11-11-01-qi-ding-qi-1",
+      "slug": "11-11-01-qi-ding-qi-1",
+      "name_th": "เครื่องมือถอนตะปู รายการที่ 1",
+      "name_cn": "起钉器 产品 1",
+      "price": 248,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-11-01-qi-ding-qi-2",
+      "slug": "11-11-01-qi-ding-qi-2",
+      "name_th": "เครื่องมือถอนตะปู รายการที่ 2",
+      "name_cn": "起钉器 产品 2",
+      "price": 150,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "22-01-03-xi-ding-deng",
+  "main_category_slug": "22-deng-ju-dian-zi",
+  "sub_category_slug": "22-01-zhao-ming",
+  "name_th": "โคมไฟติดเพดาน",
+  "name_cn": "吸顶灯",
+  "products": [
+    {
+      "id": "22-01-03-xi-ding-deng-1",
+      "slug": "22-01-03-xi-ding-deng-1",
+      "name_th": "โคมไฟติดเพดาน รายการที่ 1",
+      "name_cn": "吸顶灯 产品 1",
+      "price": 382,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "22-01-03-xi-ding-deng-2",
+      "slug": "22-01-03-xi-ding-deng-2",
+      "name_th": "โคมไฟติดเพดาน รายการที่ 2",
+      "name_cn": "吸顶灯 产品 2",
+      "price": 889,
+      "image": "/placeholder.png"
+    }
+  ]
+}

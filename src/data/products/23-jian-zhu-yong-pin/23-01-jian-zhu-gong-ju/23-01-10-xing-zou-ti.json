@@ -1,0 +1,25 @@
+{
+  "id": "23-01-10-xing-zou-ti",
+  "main_category_slug": "23-jian-zhu-yong-pin",
+  "sub_category_slug": "23-01-jian-zhu-gong-ju",
+  "name_th": "บันไดพับเดิน",
+  "name_cn": "行走梯",
+  "products": [
+    {
+      "id": "23-01-10-xing-zou-ti-1",
+      "slug": "23-01-10-xing-zou-ti-1",
+      "name_th": "บันไดพับเดิน รายการที่ 1",
+      "name_cn": "行走梯 产品 1",
+      "price": 1029,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "23-01-10-xing-zou-ti-2",
+      "slug": "23-01-10-xing-zou-ti-2",
+      "name_th": "บันไดพับเดิน รายการที่ 2",
+      "name_cn": "行走梯 产品 2",
+      "price": 458,
+      "image": "/placeholder.png"
+    }
+  ]
+}

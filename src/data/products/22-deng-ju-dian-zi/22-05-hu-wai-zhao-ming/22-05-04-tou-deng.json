@@ -1,0 +1,25 @@
+{
+  "id": "22-05-04-tou-deng",
+  "main_category_slug": "22-deng-ju-dian-zi",
+  "sub_category_slug": "22-05-hu-wai-zhao-ming",
+  "name_th": "ไฟคาดหัว",
+  "name_cn": "头灯",
+  "products": [
+    {
+      "id": "22-05-04-tou-deng-1",
+      "slug": "22-05-04-tou-deng-1",
+      "name_th": "ไฟคาดหัว รายการที่ 1",
+      "name_cn": "头灯 产品 1",
+      "price": 894,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "22-05-04-tou-deng-2",
+      "slug": "22-05-04-tou-deng-2",
+      "name_th": "ไฟคาดหัว รายการที่ 2",
+      "name_cn": "头灯 产品 2",
+      "price": 721,
+      "image": "/placeholder.png"
+    }
+  ]
+}

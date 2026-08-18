@@ -1,0 +1,25 @@
+{
+  "id": "11-06-08-shui-ni-jiang-qiang",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-06-qiang-lei-gong-ju",
+  "name_th": "ปืนน้ำปูน",
+  "name_cn": "水泥浆枪",
+  "products": [
+    {
+      "id": "11-06-08-shui-ni-jiang-qiang-1",
+      "slug": "11-06-08-shui-ni-jiang-qiang-1",
+      "name_th": "ปืนน้ำปูน รายการที่ 1",
+      "name_cn": "水泥浆枪 产品 1",
+      "price": 175,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-06-08-shui-ni-jiang-qiang-2",
+      "slug": "11-06-08-shui-ni-jiang-qiang-2",
+      "name_th": "ปืนน้ำปูน รายการที่ 2",
+      "name_cn": "水泥浆枪 产品 2",
+      "price": 862,
+      "image": "/placeholder.png"
+    }
+  ]
+}

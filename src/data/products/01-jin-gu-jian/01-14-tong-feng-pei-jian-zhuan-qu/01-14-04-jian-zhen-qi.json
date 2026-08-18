@@ -1,0 +1,25 @@
+{
+  "id": "01-14-04-jian-zhen-qi",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-14-tong-feng-pei-jian-zhuan-qu",
+  "name_th": "ตัวลดแรงสั่นสะเทือน",
+  "name_cn": "减震器",
+  "products": [
+    {
+      "id": "01-14-04-jian-zhen-qi-1",
+      "slug": "01-14-04-jian-zhen-qi-1",
+      "name_th": "ตัวลดแรงสั่นสะเทือน รายการที่ 1",
+      "name_cn": "减震器 产品 1",
+      "price": 766,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-14-04-jian-zhen-qi-2",
+      "slug": "01-14-04-jian-zhen-qi-2",
+      "name_th": "ตัวลดแรงสั่นสะเทือน รายการที่ 2",
+      "name_cn": "减震器 产品 2",
+      "price": 967,
+      "image": "/placeholder.png"
+    }
+  ]
+}

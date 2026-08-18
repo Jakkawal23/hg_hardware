@@ -1,0 +1,25 @@
+{
+  "id": "22-01-20-mu-zhi-qiu-pao",
+  "main_category_slug": "22-deng-ju-dian-zi",
+  "sub_category_slug": "22-01-zhao-ming",
+  "name_th": "หลอดไฟจิ๋ว",
+  "name_cn": "拇指球泡",
+  "products": [
+    {
+      "id": "22-01-20-mu-zhi-qiu-pao-1",
+      "slug": "22-01-20-mu-zhi-qiu-pao-1",
+      "name_th": "หลอดไฟจิ๋ว รายการที่ 1",
+      "name_cn": "拇指球泡 产品 1",
+      "price": 200,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "22-01-20-mu-zhi-qiu-pao-2",
+      "slug": "22-01-20-mu-zhi-qiu-pao-2",
+      "name_th": "หลอดไฟจิ๋ว รายการที่ 2",
+      "name_cn": "拇指球泡 产品 2",
+      "price": 651,
+      "image": "/placeholder.png"
+    }
+  ]
+}

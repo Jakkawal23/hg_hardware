@@ -1,0 +1,25 @@
+{
+  "id": "23-01-01-gang-qiao-qiao-bing",
+  "main_category_slug": "23-jian-zhu-yong-pin",
+  "sub_category_slug": "23-01-jian-zhu-gong-ju",
+  "name_th": "พลั่วเหล็ก/ด้ามพลั่ว",
+  "name_cn": "钢锹/锹柄",
+  "products": [
+    {
+      "id": "23-01-01-gang-qiao-qiao-bing-1",
+      "slug": "23-01-01-gang-qiao-qiao-bing-1",
+      "name_th": "พลั่วเหล็ก/ด้ามพลั่ว รายการที่ 1",
+      "name_cn": "钢锹/锹柄 产品 1",
+      "price": 313,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "23-01-01-gang-qiao-qiao-bing-2",
+      "slug": "23-01-01-gang-qiao-qiao-bing-2",
+      "name_th": "พลั่วเหล็ก/ด้ามพลั่ว รายการที่ 2",
+      "name_cn": "钢锹/锹柄 产品 2",
+      "price": 139,
+      "image": "/placeholder.png"
+    }
+  ]
+}

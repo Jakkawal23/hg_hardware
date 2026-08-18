@@ -1,0 +1,25 @@
+{
+  "id": "08-02-02-bu-xiu-gang-he-ye",
+  "main_category_slug": "08-zhuang-huang-wu-jin",
+  "sub_category_slug": "08-02-he-ye-men-xi",
+  "name_th": "บานพับสแตนเลส",
+  "name_cn": "不锈钢合页",
+  "products": [
+    {
+      "id": "08-02-02-bu-xiu-gang-he-ye-1",
+      "slug": "08-02-02-bu-xiu-gang-he-ye-1",
+      "name_th": "บานพับสแตนเลส รายการที่ 1",
+      "name_cn": "不锈钢合页 产品 1",
+      "price": 841,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "08-02-02-bu-xiu-gang-he-ye-2",
+      "slug": "08-02-02-bu-xiu-gang-he-ye-2",
+      "name_th": "บานพับสแตนเลส รายการที่ 2",
+      "name_cn": "不锈钢合页 产品 2",
+      "price": 648,
+      "image": "/placeholder.png"
+    }
+  ]
+}

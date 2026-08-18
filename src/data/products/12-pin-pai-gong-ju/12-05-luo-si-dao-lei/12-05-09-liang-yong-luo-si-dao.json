@@ -1,0 +1,25 @@
+{
+  "id": "12-05-09-liang-yong-luo-si-dao",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-05-luo-si-dao-lei",
+  "name_th": "ไขควงสองหัว",
+  "name_cn": "两用螺丝刀",
+  "products": [
+    {
+      "id": "12-05-09-liang-yong-luo-si-dao-1",
+      "slug": "12-05-09-liang-yong-luo-si-dao-1",
+      "name_th": "ไขควงสองหัว รายการที่ 1",
+      "name_cn": "两用螺丝刀 产品 1",
+      "price": 785,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-05-09-liang-yong-luo-si-dao-2",
+      "slug": "12-05-09-liang-yong-luo-si-dao-2",
+      "name_th": "ไขควงสองหัว รายการที่ 2",
+      "name_cn": "两用螺丝刀 产品 2",
+      "price": 252,
+      "image": "/placeholder.png"
+    }
+  ]
+}

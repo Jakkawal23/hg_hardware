@@ -1,0 +1,25 @@
+{
+  "id": "01-09-01-hua-xue-mao-shuan",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-09-hua-xue-ji-xie-mao-shuan",
+  "name_th": "พุกเคมี",
+  "name_cn": "化学锚栓",
+  "products": [
+    {
+      "id": "01-09-01-hua-xue-mao-shuan-1",
+      "slug": "01-09-01-hua-xue-mao-shuan-1",
+      "name_th": "พุกเคมี รายการที่ 1",
+      "name_cn": "化学锚栓 产品 1",
+      "price": 685,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-09-01-hua-xue-mao-shuan-2",
+      "slug": "01-09-01-hua-xue-mao-shuan-2",
+      "name_th": "พุกเคมี รายการที่ 2",
+      "name_cn": "化学锚栓 产品 2",
+      "price": 666,
+      "image": "/placeholder.png"
+    }
+  ]
+}

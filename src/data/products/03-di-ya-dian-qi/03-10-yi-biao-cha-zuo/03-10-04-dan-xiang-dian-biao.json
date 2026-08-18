@@ -1,0 +1,25 @@
+{
+  "id": "03-10-04-dan-xiang-dian-biao",
+  "main_category_slug": "03-di-ya-dian-qi",
+  "sub_category_slug": "03-10-yi-biao-cha-zuo",
+  "name_th": "มิเตอร์ไฟเฟสเดียว",
+  "name_cn": "单相电表",
+  "products": [
+    {
+      "id": "03-10-04-dan-xiang-dian-biao-1",
+      "slug": "03-10-04-dan-xiang-dian-biao-1",
+      "name_th": "มิเตอร์ไฟเฟสเดียว รายการที่ 1",
+      "name_cn": "单相电表 产品 1",
+      "price": 663,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "03-10-04-dan-xiang-dian-biao-2",
+      "slug": "03-10-04-dan-xiang-dian-biao-2",
+      "name_th": "มิเตอร์ไฟเฟสเดียว รายการที่ 2",
+      "name_cn": "单相电表 产品 2",
+      "price": 343,
+      "image": "/placeholder.png"
+    }
+  ]
+}

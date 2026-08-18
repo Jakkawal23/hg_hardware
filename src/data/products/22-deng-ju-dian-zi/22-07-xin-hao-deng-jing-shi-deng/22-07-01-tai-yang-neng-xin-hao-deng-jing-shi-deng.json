@@ -1,0 +1,25 @@
+{
+  "id": "22-07-01-tai-yang-neng-xin-hao-deng-jing-shi-deng",
+  "main_category_slug": "22-deng-ju-dian-zi",
+  "sub_category_slug": "22-07-xin-hao-deng-jing-shi-deng",
+  "name_th": "ไฟสัญญาณ/เตือนพลังงานแสงอาทิตย์",
+  "name_cn": "太阳能信号灯/警示灯",
+  "products": [
+    {
+      "id": "22-07-01-tai-yang-neng-xin-hao-deng-jing-shi-deng-1",
+      "slug": "22-07-01-tai-yang-neng-xin-hao-deng-jing-shi-deng-1",
+      "name_th": "ไฟสัญญาณ/เตือนพลังงานแสงอาทิตย์ รายการที่ 1",
+      "name_cn": "太阳能信号灯/警示灯 产品 1",
+      "price": 834,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "22-07-01-tai-yang-neng-xin-hao-deng-jing-shi-deng-2",
+      "slug": "22-07-01-tai-yang-neng-xin-hao-deng-jing-shi-deng-2",
+      "name_th": "ไฟสัญญาณ/เตือนพลังงานแสงอาทิตย์ รายการที่ 2",
+      "name_cn": "太阳能信号灯/警示灯 产品 2",
+      "price": 780,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "23-02-02-zeng-qiang-guan",
+  "main_category_slug": "23-jian-zhu-yong-pin",
+  "sub_category_slug": "23-02-guan-zi",
+  "name_th": "ท่อเสริมแรง PVC",
+  "name_cn": "增强管",
+  "products": [
+    {
+      "id": "23-02-02-zeng-qiang-guan-1",
+      "slug": "23-02-02-zeng-qiang-guan-1",
+      "name_th": "ท่อเสริมแรง PVC รายการที่ 1",
+      "name_cn": "增强管 产品 1",
+      "price": 849,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "23-02-02-zeng-qiang-guan-2",
+      "slug": "23-02-02-zeng-qiang-guan-2",
+      "name_th": "ท่อเสริมแรง PVC รายการที่ 2",
+      "name_cn": "增强管 产品 2",
+      "price": 827,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "21-04-07-su-liao-jie-tou",
+  "main_category_slug": "21-qi-zhong-qi-pei",
+  "sub_category_slug": "21-04-qi-beng-pei-jian",
+  "name_th": "ข้อต่อพลาสติก",
+  "name_cn": "塑料接头",
+  "products": [
+    {
+      "id": "21-04-07-su-liao-jie-tou-1",
+      "slug": "21-04-07-su-liao-jie-tou-1",
+      "name_th": "ข้อต่อพลาสติก รายการที่ 1",
+      "name_cn": "塑料接头 产品 1",
+      "price": 699,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "21-04-07-su-liao-jie-tou-2",
+      "slug": "21-04-07-su-liao-jie-tou-2",
+      "name_th": "ข้อต่อพลาสติก รายการที่ 2",
+      "name_cn": "塑料接头 产品 2",
+      "price": 522,
+      "image": "/placeholder.png"
+    }
+  ]
+}

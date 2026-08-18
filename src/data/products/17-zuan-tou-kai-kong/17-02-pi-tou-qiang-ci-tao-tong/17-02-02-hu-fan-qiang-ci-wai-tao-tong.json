@@ -1,0 +1,25 @@
+{
+  "id": "17-02-02-hu-fan-qiang-ci-wai-tao-tong",
+  "main_category_slug": "17-zuan-tou-kai-kong",
+  "sub_category_slug": "17-02-pi-tou-qiang-ci-tao-tong",
+  "name_th": "บล็อกนอกแม่เหล็กแรงสูง หูฟาน",
+  "name_cn": "沪帆强磁外套筒",
+  "products": [
+    {
+      "id": "17-02-02-hu-fan-qiang-ci-wai-tao-tong-1",
+      "slug": "17-02-02-hu-fan-qiang-ci-wai-tao-tong-1",
+      "name_th": "บล็อกนอกแม่เหล็กแรงสูง หูฟาน รายการที่ 1",
+      "name_cn": "沪帆强磁外套筒 产品 1",
+      "price": 713,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "17-02-02-hu-fan-qiang-ci-wai-tao-tong-2",
+      "slug": "17-02-02-hu-fan-qiang-ci-wai-tao-tong-2",
+      "name_th": "บล็อกนอกแม่เหล็กแรงสูง หูฟาน รายการที่ 2",
+      "name_cn": "沪帆强磁外套筒 产品 2",
+      "price": 978,
+      "image": "/placeholder.png"
+    }
+  ]
+}

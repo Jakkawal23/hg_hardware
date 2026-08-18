@@ -1,0 +1,25 @@
+{
+  "id": "12-01-05-tian-dao-mei-gong-dao",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-01-tian-dao-gong-ju",
+  "name_th": "คัตเตอร์ทาชิมะ",
+  "name_cn": "田岛美工刀",
+  "products": [
+    {
+      "id": "12-01-05-tian-dao-mei-gong-dao-1",
+      "slug": "12-01-05-tian-dao-mei-gong-dao-1",
+      "name_th": "คัตเตอร์ทาชิมะ รายการที่ 1",
+      "name_cn": "田岛美工刀 产品 1",
+      "price": 421,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-01-05-tian-dao-mei-gong-dao-2",
+      "slug": "12-01-05-tian-dao-mei-gong-dao-2",
+      "name_th": "คัตเตอร์ทาชิมะ รายการที่ 2",
+      "name_cn": "田岛美工刀 产品 2",
+      "price": 401,
+      "image": "/placeholder.png"
+    }
+  ]
+}

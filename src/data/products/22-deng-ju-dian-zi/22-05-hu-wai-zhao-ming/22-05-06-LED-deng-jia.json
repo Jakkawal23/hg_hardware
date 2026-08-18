@@ -1,0 +1,25 @@
+{
+  "id": "22-05-06-LED-deng-jia",
+  "main_category_slug": "22-deng-ju-dian-zi",
+  "sub_category_slug": "22-05-hu-wai-zhao-ming",
+  "name_th": "โครงไฟ LED",
+  "name_cn": "LED灯架",
+  "products": [
+    {
+      "id": "22-05-06-LED-deng-jia-1",
+      "slug": "22-05-06-LED-deng-jia-1",
+      "name_th": "โครงไฟ LED รายการที่ 1",
+      "name_cn": "LED灯架 产品 1",
+      "price": 783,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "22-05-06-LED-deng-jia-2",
+      "slug": "22-05-06-LED-deng-jia-2",
+      "name_th": "โครงไฟ LED รายการที่ 2",
+      "name_cn": "LED灯架 产品 2",
+      "price": 751,
+      "image": "/placeholder.png"
+    }
+  ]
+}

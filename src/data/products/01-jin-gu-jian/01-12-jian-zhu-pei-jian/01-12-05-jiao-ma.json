@@ -1,0 +1,25 @@
+{
+  "id": "01-12-05-jiao-ma",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-12-jian-zhu-pei-jian",
+  "name_th": "ฉากเหล็ก",
+  "name_cn": "角码",
+  "products": [
+    {
+      "id": "01-12-05-jiao-ma-1",
+      "slug": "01-12-05-jiao-ma-1",
+      "name_th": "ฉากเหล็ก รายการที่ 1",
+      "name_cn": "角码 产品 1",
+      "price": 729,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-12-05-jiao-ma-2",
+      "slug": "01-12-05-jiao-ma-2",
+      "name_th": "ฉากเหล็ก รายการที่ 2",
+      "name_cn": "角码 产品 2",
+      "price": 987,
+      "image": "/placeholder.png"
+    }
+  ]
+}

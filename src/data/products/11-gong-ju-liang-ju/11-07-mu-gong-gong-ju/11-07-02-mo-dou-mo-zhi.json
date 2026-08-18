@@ -1,0 +1,25 @@
+{
+  "id": "11-07-02-mo-dou-mo-zhi",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-07-mu-gong-gong-ju",
+  "name_th": "กล่องเส้นด้ายหมึกดำ",
+  "name_cn": "墨斗/墨汁",
+  "products": [
+    {
+      "id": "11-07-02-mo-dou-mo-zhi-1",
+      "slug": "11-07-02-mo-dou-mo-zhi-1",
+      "name_th": "กล่องเส้นด้ายหมึกดำ รายการที่ 1",
+      "name_cn": "墨斗/墨汁 产品 1",
+      "price": 678,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-07-02-mo-dou-mo-zhi-2",
+      "slug": "11-07-02-mo-dou-mo-zhi-2",
+      "name_th": "กล่องเส้นด้ายหมึกดำ รายการที่ 2",
+      "name_cn": "墨斗/墨汁 产品 2",
+      "price": 363,
+      "image": "/placeholder.png"
+    }
+  ]
+}

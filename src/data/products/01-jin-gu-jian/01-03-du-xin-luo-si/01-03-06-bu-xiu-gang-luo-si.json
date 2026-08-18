@@ -1,0 +1,25 @@
+{
+  "id": "01-03-06-bu-xiu-gang-luo-si",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-03-du-xin-luo-si",
+  "name_th": "สกรูสแตนเลส",
+  "name_cn": "不锈钢螺丝",
+  "products": [
+    {
+      "id": "01-03-06-bu-xiu-gang-luo-si-1",
+      "slug": "01-03-06-bu-xiu-gang-luo-si-1",
+      "name_th": "สกรูสแตนเลส รายการที่ 1",
+      "name_cn": "不锈钢螺丝 产品 1",
+      "price": 763,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-03-06-bu-xiu-gang-luo-si-2",
+      "slug": "01-03-06-bu-xiu-gang-luo-si-2",
+      "name_th": "สกรูสแตนเลส รายการที่ 2",
+      "name_cn": "不锈钢螺丝 产品 2",
+      "price": 593,
+      "image": "/placeholder.png"
+    }
+  ]
+}

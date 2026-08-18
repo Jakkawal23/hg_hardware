@@ -1,0 +1,25 @@
+{
+  "id": "23-02-03-gang-si-guan",
+  "main_category_slug": "23-jian-zhu-yong-pin",
+  "sub_category_slug": "23-02-guan-zi",
+  "name_th": "ท่อลวดเหล็ก",
+  "name_cn": "钢丝管",
+  "products": [
+    {
+      "id": "23-02-03-gang-si-guan-1",
+      "slug": "23-02-03-gang-si-guan-1",
+      "name_th": "ท่อลวดเหล็ก รายการที่ 1",
+      "name_cn": "钢丝管 产品 1",
+      "price": 789,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "23-02-03-gang-si-guan-2",
+      "slug": "23-02-03-gang-si-guan-2",
+      "name_th": "ท่อลวดเหล็ก รายการที่ 2",
+      "name_cn": "钢丝管 产品 2",
+      "price": 422,
+      "image": "/placeholder.png"
+    }
+  ]
+}

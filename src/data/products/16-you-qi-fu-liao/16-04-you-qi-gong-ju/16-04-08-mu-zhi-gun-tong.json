@@ -1,0 +1,25 @@
+{
+  "id": "16-04-08-mu-zhi-gun-tong",
+  "main_category_slug": "16-you-qi-fu-liao",
+  "sub_category_slug": "16-04-you-qi-gong-ju",
+  "name_th": "ลูกกลิ้งนิ้วหัวแม่มือ",
+  "name_cn": "拇指滚筒",
+  "products": [
+    {
+      "id": "16-04-08-mu-zhi-gun-tong-1",
+      "slug": "16-04-08-mu-zhi-gun-tong-1",
+      "name_th": "ลูกกลิ้งนิ้วหัวแม่มือ รายการที่ 1",
+      "name_cn": "拇指滚筒 产品 1",
+      "price": 649,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "16-04-08-mu-zhi-gun-tong-2",
+      "slug": "16-04-08-mu-zhi-gun-tong-2",
+      "name_th": "ลูกกลิ้งนิ้วหัวแม่มือ รายการที่ 2",
+      "name_cn": "拇指滚筒 产品 2",
+      "price": 731,
+      "image": "/placeholder.png"
+    }
+  ]
+}

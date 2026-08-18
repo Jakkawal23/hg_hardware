@@ -1,0 +1,25 @@
+{
+  "id": "01-06-04-8ji-ping-dian",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-06-dian-pian-dian-quan",
+  "name_th": "แหวนแบนดำ",
+  "name_cn": "8级平垫",
+  "products": [
+    {
+      "id": "01-06-04-8ji-ping-dian-1",
+      "slug": "01-06-04-8ji-ping-dian-1",
+      "name_th": "แหวนแบนดำ รายการที่ 1",
+      "name_cn": "8级平垫 产品 1",
+      "price": 1040,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-06-04-8ji-ping-dian-2",
+      "slug": "01-06-04-8ji-ping-dian-2",
+      "name_th": "แหวนแบนดำ รายการที่ 2",
+      "name_cn": "8级平垫 产品 2",
+      "price": 619,
+      "image": "/placeholder.png"
+    }
+  ]
+}

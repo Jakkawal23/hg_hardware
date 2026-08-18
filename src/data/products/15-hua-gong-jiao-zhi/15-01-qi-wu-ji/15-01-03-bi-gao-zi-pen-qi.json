@@ -1,0 +1,25 @@
+{
+  "id": "15-01-03-bi-gao-zi-pen-qi",
+  "main_category_slug": "15-hua-gong-jiao-zhi",
+  "sub_category_slug": "15-01-qi-wu-ji",
+  "name_th": "สเปรย์สีบีเกา",
+  "name_cn": "比高自喷漆",
+  "products": [
+    {
+      "id": "15-01-03-bi-gao-zi-pen-qi-1",
+      "slug": "15-01-03-bi-gao-zi-pen-qi-1",
+      "name_th": "สเปรย์สีบีเกา รายการที่ 1",
+      "name_cn": "比高自喷漆 产品 1",
+      "price": 1017,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "15-01-03-bi-gao-zi-pen-qi-2",
+      "slug": "15-01-03-bi-gao-zi-pen-qi-2",
+      "name_th": "สเปรย์สีบีเกา รายการที่ 2",
+      "name_cn": "比高自喷漆 产品 2",
+      "price": 441,
+      "image": "/placeholder.png"
+    }
+  ]
+}

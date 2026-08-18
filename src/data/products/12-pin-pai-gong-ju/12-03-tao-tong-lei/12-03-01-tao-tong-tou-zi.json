@@ -1,0 +1,25 @@
+{
+  "id": "12-03-01-tao-tong-tou-zi",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-03-tao-tong-lei",
+  "name_th": "หัวบล็อก",
+  "name_cn": "套筒头子",
+  "products": [
+    {
+      "id": "12-03-01-tao-tong-tou-zi-1",
+      "slug": "12-03-01-tao-tong-tou-zi-1",
+      "name_th": "หัวบล็อก รายการที่ 1",
+      "name_cn": "套筒头子 产品 1",
+      "price": 529,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-03-01-tao-tong-tou-zi-2",
+      "slug": "12-03-01-tao-tong-tou-zi-2",
+      "name_th": "หัวบล็อก รายการที่ 2",
+      "name_cn": "套筒头子 产品 2",
+      "price": 500,
+      "image": "/placeholder.png"
+    }
+  ]
+}

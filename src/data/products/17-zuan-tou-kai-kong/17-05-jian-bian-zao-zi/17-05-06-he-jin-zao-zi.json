@@ -1,0 +1,25 @@
+{
+  "id": "17-05-06-he-jin-zao-zi",
+  "main_category_slug": "17-zuan-tou-kai-kong",
+  "sub_category_slug": "17-05-jian-bian-zao-zi",
+  "name_th": "สิ่วอัลลอย",
+  "name_cn": "合金凿子",
+  "products": [
+    {
+      "id": "17-05-06-he-jin-zao-zi-1",
+      "slug": "17-05-06-he-jin-zao-zi-1",
+      "name_th": "สิ่วอัลลอย รายการที่ 1",
+      "name_cn": "合金凿子 产品 1",
+      "price": 692,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "17-05-06-he-jin-zao-zi-2",
+      "slug": "17-05-06-he-jin-zao-zi-2",
+      "name_th": "สิ่วอัลลอย รายการที่ 2",
+      "name_cn": "合金凿子 产品 2",
+      "price": 954,
+      "image": "/placeholder.png"
+    }
+  ]
+}

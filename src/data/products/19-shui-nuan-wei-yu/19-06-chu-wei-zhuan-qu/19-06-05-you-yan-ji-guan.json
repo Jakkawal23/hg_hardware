@@ -1,0 +1,25 @@
+{
+  "id": "19-06-05-you-yan-ji-guan",
+  "main_category_slug": "19-shui-nuan-wei-yu",
+  "sub_category_slug": "19-06-chu-wei-zhuan-qu",
+  "name_th": "ท่อเครื่องดูดควัน",
+  "name_cn": "油烟机管",
+  "products": [
+    {
+      "id": "19-06-05-you-yan-ji-guan-1",
+      "slug": "19-06-05-you-yan-ji-guan-1",
+      "name_th": "ท่อเครื่องดูดควัน รายการที่ 1",
+      "name_cn": "油烟机管 产品 1",
+      "price": 507,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "19-06-05-you-yan-ji-guan-2",
+      "slug": "19-06-05-you-yan-ji-guan-2",
+      "name_th": "ท่อเครื่องดูดควัน รายการที่ 2",
+      "name_cn": "油烟机管 产品 2",
+      "price": 521,
+      "image": "/placeholder.png"
+    }
+  ]
+}

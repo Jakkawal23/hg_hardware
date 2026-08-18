@@ -1,0 +1,25 @@
+{
+  "id": "08-01-09-er-bao-xian-suo",
+  "main_category_slug": "08-zhuang-huang-wu-jin",
+  "sub_category_slug": "08-01-suo-ju",
+  "name_th": "กุญแจนิรภัยขั้นสอง",
+  "name_cn": "二保险锁",
+  "products": [
+    {
+      "id": "08-01-09-er-bao-xian-suo-1",
+      "slug": "08-01-09-er-bao-xian-suo-1",
+      "name_th": "กุญแจนิรภัยขั้นสอง รายการที่ 1",
+      "name_cn": "二保险锁 产品 1",
+      "price": 387,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "08-01-09-er-bao-xian-suo-2",
+      "slug": "08-01-09-er-bao-xian-suo-2",
+      "name_th": "กุญแจนิรภัยขั้นสอง รายการที่ 2",
+      "name_cn": "二保险锁 产品 2",
+      "price": 1012,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "04-05-06-fang-bao-cha-tou",
+  "main_category_slug": "04-kai-guan-cha-zuo",
+  "sub_category_slug": "04-05-cha-tou-cha-zuo",
+  "name_th": "ปลั๊กตัวผู้กันระเบิด",
+  "name_cn": "防爆插头",
+  "products": [
+    {
+      "id": "04-05-06-fang-bao-cha-tou-1",
+      "slug": "04-05-06-fang-bao-cha-tou-1",
+      "name_th": "ปลั๊กตัวผู้กันระเบิด รายการที่ 1",
+      "name_cn": "防爆插头 产品 1",
+      "price": 707,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "04-05-06-fang-bao-cha-tou-2",
+      "slug": "04-05-06-fang-bao-cha-tou-2",
+      "name_th": "ปลั๊กตัวผู้กันระเบิด รายการที่ 2",
+      "name_cn": "防爆插头 产品 2",
+      "price": 207,
+      "image": "/placeholder.png"
+    }
+  ]
+}

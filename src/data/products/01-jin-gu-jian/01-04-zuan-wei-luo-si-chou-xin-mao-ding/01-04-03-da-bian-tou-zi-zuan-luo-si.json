@@ -1,0 +1,25 @@
+{
+  "id": "01-04-03-da-bian-tou-zi-zuan-luo-si",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-04-zuan-wei-luo-si-chou-xin-mao-ding",
+  "name_th": "สกรูหัวใหญ่เจาะตัวเอง",
+  "name_cn": "大扁头自钻螺丝",
+  "products": [
+    {
+      "id": "01-04-03-da-bian-tou-zi-zuan-luo-si-1",
+      "slug": "01-04-03-da-bian-tou-zi-zuan-luo-si-1",
+      "name_th": "สกรูหัวใหญ่เจาะตัวเอง รายการที่ 1",
+      "name_cn": "大扁头自钻螺丝 产品 1",
+      "price": 630,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-04-03-da-bian-tou-zi-zuan-luo-si-2",
+      "slug": "01-04-03-da-bian-tou-zi-zuan-luo-si-2",
+      "name_th": "สกรูหัวใหญ่เจาะตัวเอง รายการที่ 2",
+      "name_cn": "大扁头自钻螺丝 产品 2",
+      "price": 372,
+      "image": "/placeholder.png"
+    }
+  ]
+}

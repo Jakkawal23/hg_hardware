@@ -1,0 +1,25 @@
+{
+  "id": "16-05-01-mao-jin",
+  "main_category_slug": "16-you-qi-fu-liao",
+  "sub_category_slug": "16-05-qi-ta-fu-liao",
+  "name_th": "ผ้าขนหนู",
+  "name_cn": "毛巾",
+  "products": [
+    {
+      "id": "16-05-01-mao-jin-1",
+      "slug": "16-05-01-mao-jin-1",
+      "name_th": "ผ้าขนหนู รายการที่ 1",
+      "name_cn": "毛巾 产品 1",
+      "price": 995,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "16-05-01-mao-jin-2",
+      "slug": "16-05-01-mao-jin-2",
+      "name_th": "ผ้าขนหนู รายการที่ 2",
+      "name_cn": "毛巾 产品 2",
+      "price": 663,
+      "image": "/placeholder.png"
+    }
+  ]
+}

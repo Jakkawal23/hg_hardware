@@ -1,0 +1,25 @@
+{
+  "id": "05-05-07-dian-lao-hu-gao-ya-zi-nian-jiao-dai",
+  "main_category_slug": "05-dian-xiang-dian-liao",
+  "sub_category_slug": "05-05-dian-gong-jiao-bu",
+  "name_th": "เทปแรงดันสูงชนิดยึดในตัว เตี้ยนเหล่าหู่",
+  "name_cn": "电老虎高压自粘胶带",
+  "products": [
+    {
+      "id": "05-05-07-dian-lao-hu-gao-ya-zi-nian-jiao-dai-1",
+      "slug": "05-05-07-dian-lao-hu-gao-ya-zi-nian-jiao-dai-1",
+      "name_th": "เทปแรงดันสูงชนิดยึดในตัว เตี้ยนเหล่าหู่ รายการที่ 1",
+      "name_cn": "电老虎高压自粘胶带 产品 1",
+      "price": 191,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "05-05-07-dian-lao-hu-gao-ya-zi-nian-jiao-dai-2",
+      "slug": "05-05-07-dian-lao-hu-gao-ya-zi-nian-jiao-dai-2",
+      "name_th": "เทปแรงดันสูงชนิดยึดในตัว เตี้ยนเหล่าหู่ รายการที่ 2",
+      "name_cn": "电老虎高压自粘胶带 产品 2",
+      "price": 269,
+      "image": "/placeholder.png"
+    }
+  ]
+}

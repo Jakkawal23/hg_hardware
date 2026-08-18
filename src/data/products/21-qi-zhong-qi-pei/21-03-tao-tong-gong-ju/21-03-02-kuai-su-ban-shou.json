@@ -1,0 +1,25 @@
+{
+  "id": "21-03-02-kuai-su-ban-shou",
+  "main_category_slug": "21-qi-zhong-qi-pei",
+  "sub_category_slug": "21-03-tao-tong-gong-ju",
+  "name_th": "ประแจไว",
+  "name_cn": "快速扳手",
+  "products": [
+    {
+      "id": "21-03-02-kuai-su-ban-shou-1",
+      "slug": "21-03-02-kuai-su-ban-shou-1",
+      "name_th": "ประแจไว รายการที่ 1",
+      "name_cn": "快速扳手 产品 1",
+      "price": 424,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "21-03-02-kuai-su-ban-shou-2",
+      "slug": "21-03-02-kuai-su-ban-shou-2",
+      "name_th": "ประแจไว รายการที่ 2",
+      "name_cn": "快速扳手 产品 2",
+      "price": 793,
+      "image": "/placeholder.png"
+    }
+  ]
+}

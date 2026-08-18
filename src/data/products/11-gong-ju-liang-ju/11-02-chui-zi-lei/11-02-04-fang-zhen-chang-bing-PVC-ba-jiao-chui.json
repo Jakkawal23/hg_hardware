@@ -1,0 +1,25 @@
+{
+  "id": "11-02-04-fang-zhen-chang-bing-PVC-ba-jiao-chui",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-02-chui-zi-lei",
+  "name_th": "ค้อนแปดเหลี่ยมด้ามยาวกันสะเทือน PVC",
+  "name_cn": "防震长柄PVC八角锤",
+  "products": [
+    {
+      "id": "11-02-04-fang-zhen-chang-bing-PVC-ba-jiao-chui-1",
+      "slug": "11-02-04-fang-zhen-chang-bing-PVC-ba-jiao-chui-1",
+      "name_th": "ค้อนแปดเหลี่ยมด้ามยาวกันสะเทือน PVC รายการที่ 1",
+      "name_cn": "防震长柄PVC八角锤 产品 1",
+      "price": 1038,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-02-04-fang-zhen-chang-bing-PVC-ba-jiao-chui-2",
+      "slug": "11-02-04-fang-zhen-chang-bing-PVC-ba-jiao-chui-2",
+      "name_th": "ค้อนแปดเหลี่ยมด้ามยาวกันสะเทือน PVC รายการที่ 2",
+      "name_cn": "防震长柄PVC八角锤 产品 2",
+      "price": 245,
+      "image": "/placeholder.png"
+    }
+  ]
+}

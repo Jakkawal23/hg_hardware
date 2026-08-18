@@ -1,0 +1,25 @@
+{
+  "id": "17-01-14-zhi-dao",
+  "main_category_slug": "17-zuan-tou-kai-kong",
+  "sub_category_slug": "17-01-ma-hua-zuan-san-jiao-zuan-si-gong",
+  "name_th": "มีดตรง",
+  "name_cn": "直刀",
+  "products": [
+    {
+      "id": "17-01-14-zhi-dao-1",
+      "slug": "17-01-14-zhi-dao-1",
+      "name_th": "มีดตรง รายการที่ 1",
+      "name_cn": "直刀 产品 1",
+      "price": 983,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "17-01-14-zhi-dao-2",
+      "slug": "17-01-14-zhi-dao-2",
+      "name_th": "มีดตรง รายการที่ 2",
+      "name_cn": "直刀 产品 2",
+      "price": 922,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "12-02-18-nei-liu-jiao-ban-shou",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-02-ban-shou-lei",
+  "name_th": "ประแจหกเหลี่ยมใน",
+  "name_cn": "内六角扳手",
+  "products": [
+    {
+      "id": "12-02-18-nei-liu-jiao-ban-shou-1",
+      "slug": "12-02-18-nei-liu-jiao-ban-shou-1",
+      "name_th": "ประแจหกเหลี่ยมใน รายการที่ 1",
+      "name_cn": "内六角扳手 产品 1",
+      "price": 701,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-02-18-nei-liu-jiao-ban-shou-2",
+      "slug": "12-02-18-nei-liu-jiao-ban-shou-2",
+      "name_th": "ประแจหกเหลี่ยมใน รายการที่ 2",
+      "name_cn": "内六角扳手 产品 2",
+      "price": 324,
+      "image": "/placeholder.png"
+    }
+  ]
+}

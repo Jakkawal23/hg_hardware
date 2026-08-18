@@ -1,0 +1,25 @@
+{
+  "id": "01-06-02-du-xin-tan-dian",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-06-dian-pian-dian-quan",
+  "name_th": "แหวนสปริงชุบสังกะสี",
+  "name_cn": "镀锌弹垫",
+  "products": [
+    {
+      "id": "01-06-02-du-xin-tan-dian-1",
+      "slug": "01-06-02-du-xin-tan-dian-1",
+      "name_th": "แหวนสปริงชุบสังกะสี รายการที่ 1",
+      "name_cn": "镀锌弹垫 产品 1",
+      "price": 202,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-06-02-du-xin-tan-dian-2",
+      "slug": "01-06-02-du-xin-tan-dian-2",
+      "name_th": "แหวนสปริงชุบสังกะสี รายการที่ 2",
+      "name_cn": "镀锌弹垫 产品 2",
+      "price": 1067,
+      "image": "/placeholder.png"
+    }
+  ]
+}

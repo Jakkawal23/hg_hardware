@@ -1,0 +1,25 @@
+{
+  "id": "01-09-03-hua-xue-yao-shui",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-09-hua-xue-ji-xie-mao-shuan",
+  "name_th": "น้ำยาเคมี",
+  "name_cn": "化学药水",
+  "products": [
+    {
+      "id": "01-09-03-hua-xue-yao-shui-1",
+      "slug": "01-09-03-hua-xue-yao-shui-1",
+      "name_th": "น้ำยาเคมี รายการที่ 1",
+      "name_cn": "化学药水 产品 1",
+      "price": 440,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-09-03-hua-xue-yao-shui-2",
+      "slug": "01-09-03-hua-xue-yao-shui-2",
+      "name_th": "น้ำยาเคมี รายการที่ 2",
+      "name_cn": "化学药水 产品 2",
+      "price": 499,
+      "image": "/placeholder.png"
+    }
+  ]
+}

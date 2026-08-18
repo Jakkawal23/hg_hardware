@@ -1,0 +1,25 @@
+{
+  "id": "11-10-05-han-zui",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-10-han-ge-gong-ju",
+  "name_th": "หัวปากตัด",
+  "name_cn": "焊嘴",
+  "products": [
+    {
+      "id": "11-10-05-han-zui-1",
+      "slug": "11-10-05-han-zui-1",
+      "name_th": "หัวปากตัด รายการที่ 1",
+      "name_cn": "焊嘴 产品 1",
+      "price": 693,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-10-05-han-zui-2",
+      "slug": "11-10-05-han-zui-2",
+      "name_th": "หัวปากตัด รายการที่ 2",
+      "name_cn": "焊嘴 产品 2",
+      "price": 523,
+      "image": "/placeholder.png"
+    }
+  ]
+}

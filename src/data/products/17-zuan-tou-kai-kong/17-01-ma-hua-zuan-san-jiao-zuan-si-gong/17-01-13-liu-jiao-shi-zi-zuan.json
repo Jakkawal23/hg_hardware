@@ -1,0 +1,25 @@
+{
+  "id": "17-01-13-liu-jiao-shi-zi-zuan",
+  "main_category_slug": "17-zuan-tou-kai-kong",
+  "sub_category_slug": "17-01-ma-hua-zuan-san-jiao-zuan-si-gong",
+  "name_th": "ดอกสว่านหกเหลี่ยมหัวกากบาท",
+  "name_cn": "六角十字钻",
+  "products": [
+    {
+      "id": "17-01-13-liu-jiao-shi-zi-zuan-1",
+      "slug": "17-01-13-liu-jiao-shi-zi-zuan-1",
+      "name_th": "ดอกสว่านหกเหลี่ยมหัวกากบาท รายการที่ 1",
+      "name_cn": "六角十字钻 产品 1",
+      "price": 113,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "17-01-13-liu-jiao-shi-zi-zuan-2",
+      "slug": "17-01-13-liu-jiao-shi-zi-zuan-2",
+      "name_th": "ดอกสว่านหกเหลี่ยมหัวกากบาท รายการที่ 2",
+      "name_cn": "六角十字钻 产品 2",
+      "price": 822,
+      "image": "/placeholder.png"
+    }
+  ]
+}

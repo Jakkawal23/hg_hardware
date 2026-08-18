@@ -1,0 +1,25 @@
+{
+  "id": "22-04-04-PPR-rong-jie-qi",
+  "main_category_slug": "22-deng-ju-dian-zi",
+  "sub_category_slug": "22-04-dian-zi-yong-ju",
+  "name_th": "เครื่องเชื่อมท่อ PPR",
+  "name_cn": "PPR熔接器",
+  "products": [
+    {
+      "id": "22-04-04-PPR-rong-jie-qi-1",
+      "slug": "22-04-04-PPR-rong-jie-qi-1",
+      "name_th": "เครื่องเชื่อมท่อ PPR รายการที่ 1",
+      "name_cn": "PPR熔接器 产品 1",
+      "price": 353,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "22-04-04-PPR-rong-jie-qi-2",
+      "slug": "22-04-04-PPR-rong-jie-qi-2",
+      "name_th": "เครื่องเชื่อมท่อ PPR รายการที่ 2",
+      "name_cn": "PPR熔接器 产品 2",
+      "price": 454,
+      "image": "/placeholder.png"
+    }
+  ]
+}

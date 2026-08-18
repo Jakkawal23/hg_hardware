@@ -1,0 +1,25 @@
+{
+  "id": "20-01-01-zao-fa",
+  "main_category_slug": "20-jin-shu-guan-ji-pei-jian",
+  "sub_category_slug": "20-01-heng-tong-ran-qi-guan-pei-jian",
+  "name_th": "วาล์วเตาแก๊ส",
+  "name_cn": "灶阀",
+  "products": [
+    {
+      "id": "20-01-01-zao-fa-1",
+      "slug": "20-01-01-zao-fa-1",
+      "name_th": "วาล์วเตาแก๊ส รายการที่ 1",
+      "name_cn": "灶阀 产品 1",
+      "price": 760,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "20-01-01-zao-fa-2",
+      "slug": "20-01-01-zao-fa-2",
+      "name_th": "วาล์วเตาแก๊ส รายการที่ 2",
+      "name_cn": "灶阀 产品 2",
+      "price": 913,
+      "image": "/placeholder.png"
+    }
+  ]
+}

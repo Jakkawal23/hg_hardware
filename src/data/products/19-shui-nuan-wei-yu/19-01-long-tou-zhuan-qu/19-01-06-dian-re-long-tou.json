@@ -1,0 +1,25 @@
+{
+  "id": "19-01-06-dian-re-long-tou",
+  "main_category_slug": "19-shui-nuan-wei-yu",
+  "sub_category_slug": "19-01-long-tou-zhuan-qu",
+  "name_th": "ก๊อกน้ำไฟฟ้า (ก๊อกน้ำอุ่น)",
+  "name_cn": "电热龙头",
+  "products": [
+    {
+      "id": "19-01-06-dian-re-long-tou-1",
+      "slug": "19-01-06-dian-re-long-tou-1",
+      "name_th": "ก๊อกน้ำไฟฟ้า (ก๊อกน้ำอุ่น) รายการที่ 1",
+      "name_cn": "电热龙头 产品 1",
+      "price": 877,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "19-01-06-dian-re-long-tou-2",
+      "slug": "19-01-06-dian-re-long-tou-2",
+      "name_th": "ก๊อกน้ำไฟฟ้า (ก๊อกน้ำอุ่น) รายการที่ 2",
+      "name_cn": "电热龙头 产品 2",
+      "price": 489,
+      "image": "/placeholder.png"
+    }
+  ]
+}

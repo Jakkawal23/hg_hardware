@@ -1,0 +1,25 @@
+{
+  "id": "05-03-07-duo-mei-ti-xin-xi-xiang",
+  "main_category_slug": "05-dian-xiang-dian-liao",
+  "sub_category_slug": "05-03-hui-lu-xiang-pei-dian-xiang",
+  "name_th": "ตู้สื่อสาร/มัลติมีเดีย",
+  "name_cn": "多媒体信息箱",
+  "products": [
+    {
+      "id": "05-03-07-duo-mei-ti-xin-xi-xiang-1",
+      "slug": "05-03-07-duo-mei-ti-xin-xi-xiang-1",
+      "name_th": "ตู้สื่อสาร/มัลติมีเดีย รายการที่ 1",
+      "name_cn": "多媒体信息箱 产品 1",
+      "price": 439,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "05-03-07-duo-mei-ti-xin-xi-xiang-2",
+      "slug": "05-03-07-duo-mei-ti-xin-xi-xiang-2",
+      "name_th": "ตู้สื่อสาร/มัลติมีเดีย รายการที่ 2",
+      "name_cn": "多媒体信息箱 产品 2",
+      "price": 310,
+      "image": "/placeholder.png"
+    }
+  ]
+}

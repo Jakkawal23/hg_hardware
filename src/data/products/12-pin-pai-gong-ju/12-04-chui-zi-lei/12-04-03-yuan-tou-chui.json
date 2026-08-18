@@ -1,0 +1,25 @@
+{
+  "id": "12-04-03-yuan-tou-chui",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-04-chui-zi-lei",
+  "name_th": "ค้อนหัวกลม",
+  "name_cn": "圆头锤",
+  "products": [
+    {
+      "id": "12-04-03-yuan-tou-chui-1",
+      "slug": "12-04-03-yuan-tou-chui-1",
+      "name_th": "ค้อนหัวกลม รายการที่ 1",
+      "name_cn": "圆头锤 产品 1",
+      "price": 249,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-04-03-yuan-tou-chui-2",
+      "slug": "12-04-03-yuan-tou-chui-2",
+      "name_th": "ค้อนหัวกลม รายการที่ 2",
+      "name_cn": "圆头锤 产品 2",
+      "price": 379,
+      "image": "/placeholder.png"
+    }
+  ]
+}

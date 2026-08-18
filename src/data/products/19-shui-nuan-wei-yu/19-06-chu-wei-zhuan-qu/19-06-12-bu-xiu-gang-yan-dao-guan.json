@@ -1,0 +1,25 @@
+{
+  "id": "19-06-12-bu-xiu-gang-yan-dao-guan",
+  "main_category_slug": "19-shui-nuan-wei-yu",
+  "sub_category_slug": "19-06-chu-wei-zhuan-qu",
+  "name_th": "ท่อควันสแตนเลส",
+  "name_cn": "不锈钢烟道管",
+  "products": [
+    {
+      "id": "19-06-12-bu-xiu-gang-yan-dao-guan-1",
+      "slug": "19-06-12-bu-xiu-gang-yan-dao-guan-1",
+      "name_th": "ท่อควันสแตนเลส รายการที่ 1",
+      "name_cn": "不锈钢烟道管 产品 1",
+      "price": 768,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "19-06-12-bu-xiu-gang-yan-dao-guan-2",
+      "slug": "19-06-12-bu-xiu-gang-yan-dao-guan-2",
+      "name_th": "ท่อควันสแตนเลส รายการที่ 2",
+      "name_cn": "不锈钢烟道管 产品 2",
+      "price": 873,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "12-05-04-qu-chu-qi",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-05-luo-si-dao-lei",
+  "name_th": "เครื่องมือถอดสกรูหลอด",
+  "name_cn": "取出器",
+  "products": [
+    {
+      "id": "12-05-04-qu-chu-qi-1",
+      "slug": "12-05-04-qu-chu-qi-1",
+      "name_th": "เครื่องมือถอดสกรูหลอด รายการที่ 1",
+      "name_cn": "取出器 产品 1",
+      "price": 439,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-05-04-qu-chu-qi-2",
+      "slug": "12-05-04-qu-chu-qi-2",
+      "name_th": "เครื่องมือถอดสกรูหลอด รายการที่ 2",
+      "name_cn": "取出器 产品 2",
+      "price": 564,
+      "image": "/placeholder.png"
+    }
+  ]
+}

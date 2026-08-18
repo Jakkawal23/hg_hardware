@@ -1,0 +1,25 @@
+{
+  "id": "22-01-23-deng-ju-pei-jian",
+  "main_category_slug": "22-deng-ju-dian-zi",
+  "sub_category_slug": "22-01-zhao-ming",
+  "name_th": "อุปกรณ์เสริมโคมไฟ",
+  "name_cn": "灯具配件",
+  "products": [
+    {
+      "id": "22-01-23-deng-ju-pei-jian-1",
+      "slug": "22-01-23-deng-ju-pei-jian-1",
+      "name_th": "อุปกรณ์เสริมโคมไฟ รายการที่ 1",
+      "name_cn": "灯具配件 产品 1",
+      "price": 211,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "22-01-23-deng-ju-pei-jian-2",
+      "slug": "22-01-23-deng-ju-pei-jian-2",
+      "name_th": "อุปกรณ์เสริมโคมไฟ รายการที่ 2",
+      "name_cn": "灯具配件 产品 2",
+      "price": 749,
+      "image": "/placeholder.png"
+    }
+  ]
+}

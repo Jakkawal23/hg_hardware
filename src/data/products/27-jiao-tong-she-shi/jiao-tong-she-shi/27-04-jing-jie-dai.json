@@ -1,0 +1,25 @@
+{
+  "id": "27-04-jing-jie-dai",
+  "main_category_slug": "27-jiao-tong-she-shi",
+  "sub_category_slug": "jiao-tong-she-shi",
+  "name_th": "แถบกั้นเขต",
+  "name_cn": "警戒带",
+  "products": [
+    {
+      "id": "27-04-jing-jie-dai-1",
+      "slug": "27-04-jing-jie-dai-1",
+      "name_th": "แถบกั้นเขต รายการที่ 1",
+      "name_cn": "警戒带 产品 1",
+      "price": 917,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "27-04-jing-jie-dai-2",
+      "slug": "27-04-jing-jie-dai-2",
+      "name_th": "แถบกั้นเขต รายการที่ 2",
+      "name_cn": "警戒带 产品 2",
+      "price": 955,
+      "image": "/placeholder.png"
+    }
+  ]
+}

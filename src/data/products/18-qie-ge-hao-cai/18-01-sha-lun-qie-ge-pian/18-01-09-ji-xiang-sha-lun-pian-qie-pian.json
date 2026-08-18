@@ -1,0 +1,25 @@
+{
+  "id": "18-01-09-ji-xiang-sha-lun-pian-qie-pian",
+  "main_category_slug": "18-qie-ge-hao-cai",
+  "sub_category_slug": "18-01-sha-lun-qie-ge-pian",
+  "name_th": "ใบตัดหินเจียร จี๋เสียง",
+  "name_cn": "吉祥砂轮片/切片",
+  "products": [
+    {
+      "id": "18-01-09-ji-xiang-sha-lun-pian-qie-pian-1",
+      "slug": "18-01-09-ji-xiang-sha-lun-pian-qie-pian-1",
+      "name_th": "ใบตัดหินเจียร จี๋เสียง รายการที่ 1",
+      "name_cn": "吉祥砂轮片/切片 产品 1",
+      "price": 1015,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "18-01-09-ji-xiang-sha-lun-pian-qie-pian-2",
+      "slug": "18-01-09-ji-xiang-sha-lun-pian-qie-pian-2",
+      "name_th": "ใบตัดหินเจียร จี๋เสียง รายการที่ 2",
+      "name_cn": "吉祥砂轮片/切片 产品 2",
+      "price": 1051,
+      "image": "/placeholder.png"
+    }
+  ]
+}

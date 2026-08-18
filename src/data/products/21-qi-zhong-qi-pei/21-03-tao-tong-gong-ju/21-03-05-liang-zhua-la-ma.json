@@ -1,0 +1,25 @@
+{
+  "id": "21-03-05-liang-zhua-la-ma",
+  "main_category_slug": "21-qi-zhong-qi-pei",
+  "sub_category_slug": "21-03-tao-tong-gong-ju",
+  "name_th": "ตัวถอดตลับลูกปืนสองขา",
+  "name_cn": "两爪拉马",
+  "products": [
+    {
+      "id": "21-03-05-liang-zhua-la-ma-1",
+      "slug": "21-03-05-liang-zhua-la-ma-1",
+      "name_th": "ตัวถอดตลับลูกปืนสองขา รายการที่ 1",
+      "name_cn": "两爪拉马 产品 1",
+      "price": 661,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "21-03-05-liang-zhua-la-ma-2",
+      "slug": "21-03-05-liang-zhua-la-ma-2",
+      "name_th": "ตัวถอดตลับลูกปืนสองขา รายการที่ 2",
+      "name_cn": "两爪拉马 产品 2",
+      "price": 1049,
+      "image": "/placeholder.png"
+    }
+  ]
+}

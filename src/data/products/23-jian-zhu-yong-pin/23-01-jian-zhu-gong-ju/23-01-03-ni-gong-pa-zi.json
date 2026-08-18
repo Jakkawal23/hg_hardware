@@ -1,0 +1,25 @@
+{
+  "id": "23-01-03-ni-gong-pa-zi",
+  "main_category_slug": "23-jian-zhu-yong-pin",
+  "sub_category_slug": "23-01-jian-zhu-gong-ju",
+  "name_th": "คราดช่างปูน",
+  "name_cn": "泥工耙子",
+  "products": [
+    {
+      "id": "23-01-03-ni-gong-pa-zi-1",
+      "slug": "23-01-03-ni-gong-pa-zi-1",
+      "name_th": "คราดช่างปูน รายการที่ 1",
+      "name_cn": "泥工耙子 产品 1",
+      "price": 980,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "23-01-03-ni-gong-pa-zi-2",
+      "slug": "23-01-03-ni-gong-pa-zi-2",
+      "name_th": "คราดช่างปูน รายการที่ 2",
+      "name_cn": "泥工耙子 产品 2",
+      "price": 321,
+      "image": "/placeholder.png"
+    }
+  ]
+}

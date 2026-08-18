@@ -1,0 +1,25 @@
+{
+  "id": "13-06-05-you-bu",
+  "main_category_slug": "13-lao-bao-yong-pin",
+  "sub_category_slug": "13-06-fang-yu-yong-pin",
+  "name_th": "ผ้าน้ำมัน",
+  "name_cn": "油布",
+  "products": [
+    {
+      "id": "13-06-05-you-bu-1",
+      "slug": "13-06-05-you-bu-1",
+      "name_th": "ผ้าน้ำมัน รายการที่ 1",
+      "name_cn": "油布 产品 1",
+      "price": 922,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "13-06-05-you-bu-2",
+      "slug": "13-06-05-you-bu-2",
+      "name_th": "ผ้าน้ำมัน รายการที่ 2",
+      "name_cn": "油布 产品 2",
+      "price": 177,
+      "image": "/placeholder.png"
+    }
+  ]
+}

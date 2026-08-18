@@ -1,0 +1,25 @@
+{
+  "id": "03-12-02-shang-hai-ren-min-dian-biao",
+  "main_category_slug": "03-di-ya-dian-qi",
+  "sub_category_slug": "03-12-shang-hai-ren-min-kai-guan",
+  "name_th": "มิเตอร์ไฟฟ้าเซี่ยงไฮ้เหรินหมิน",
+  "name_cn": "上海人民电表",
+  "products": [
+    {
+      "id": "03-12-02-shang-hai-ren-min-dian-biao-1",
+      "slug": "03-12-02-shang-hai-ren-min-dian-biao-1",
+      "name_th": "มิเตอร์ไฟฟ้าเซี่ยงไฮ้เหรินหมิน รายการที่ 1",
+      "name_cn": "上海人民电表 产品 1",
+      "price": 493,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "03-12-02-shang-hai-ren-min-dian-biao-2",
+      "slug": "03-12-02-shang-hai-ren-min-dian-biao-2",
+      "name_th": "มิเตอร์ไฟฟ้าเซี่ยงไฮ้เหรินหมิน รายการที่ 2",
+      "name_cn": "上海人民电表 产品 2",
+      "price": 1052,
+      "image": "/placeholder.png"
+    }
+  ]
+}

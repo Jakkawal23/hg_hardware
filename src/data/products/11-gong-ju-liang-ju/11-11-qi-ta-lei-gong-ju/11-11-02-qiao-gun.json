@@ -1,0 +1,25 @@
+{
+  "id": "11-11-02-qiao-gun",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-11-qi-ta-lei-gong-ju",
+  "name_th": "ชะแลง",
+  "name_cn": "撬棍",
+  "products": [
+    {
+      "id": "11-11-02-qiao-gun-1",
+      "slug": "11-11-02-qiao-gun-1",
+      "name_th": "ชะแลง รายการที่ 1",
+      "name_cn": "撬棍 产品 1",
+      "price": 425,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-11-02-qiao-gun-2",
+      "slug": "11-11-02-qiao-gun-2",
+      "name_th": "ชะแลง รายการที่ 2",
+      "name_cn": "撬棍 产品 2",
+      "price": 663,
+      "image": "/placeholder.png"
+    }
+  ]
+}

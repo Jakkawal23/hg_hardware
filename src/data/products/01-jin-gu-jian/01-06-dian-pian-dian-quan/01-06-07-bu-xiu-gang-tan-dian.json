@@ -1,0 +1,25 @@
+{
+  "id": "01-06-07-bu-xiu-gang-tan-dian",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-06-dian-pian-dian-quan",
+  "name_th": "แหวนสปริงสแตนเลส",
+  "name_cn": "不锈钢弹垫",
+  "products": [
+    {
+      "id": "01-06-07-bu-xiu-gang-tan-dian-1",
+      "slug": "01-06-07-bu-xiu-gang-tan-dian-1",
+      "name_th": "แหวนสปริงสแตนเลส รายการที่ 1",
+      "name_cn": "不锈钢弹垫 产品 1",
+      "price": 925,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-06-07-bu-xiu-gang-tan-dian-2",
+      "slug": "01-06-07-bu-xiu-gang-tan-dian-2",
+      "name_th": "แหวนสปริงสแตนเลส รายการที่ 2",
+      "name_cn": "不锈钢弹垫 产品 2",
+      "price": 518,
+      "image": "/placeholder.png"
+    }
+  ]
+}

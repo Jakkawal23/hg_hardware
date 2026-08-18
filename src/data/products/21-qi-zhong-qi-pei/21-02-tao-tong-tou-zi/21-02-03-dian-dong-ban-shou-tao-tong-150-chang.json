@@ -1,0 +1,25 @@
+{
+  "id": "21-02-03-dian-dong-ban-shou-tao-tong-150-chang",
+  "main_category_slug": "21-qi-zhong-qi-pei",
+  "sub_category_slug": "21-02-tao-tong-tou-zi",
+  "name_th": "บล็อกประแจไฟฟ้า ยาว 150",
+  "name_cn": "电动扳手套筒150长",
+  "products": [
+    {
+      "id": "21-02-03-dian-dong-ban-shou-tao-tong-150-chang-1",
+      "slug": "21-02-03-dian-dong-ban-shou-tao-tong-150-chang-1",
+      "name_th": "บล็อกประแจไฟฟ้า ยาว 150 รายการที่ 1",
+      "name_cn": "电动扳手套筒150长 产品 1",
+      "price": 410,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "21-02-03-dian-dong-ban-shou-tao-tong-150-chang-2",
+      "slug": "21-02-03-dian-dong-ban-shou-tao-tong-150-chang-2",
+      "name_th": "บล็อกประแจไฟฟ้า ยาว 150 รายการที่ 2",
+      "name_cn": "电动扳手套筒150长 产品 2",
+      "price": 677,
+      "image": "/placeholder.png"
+    }
+  ]
+}

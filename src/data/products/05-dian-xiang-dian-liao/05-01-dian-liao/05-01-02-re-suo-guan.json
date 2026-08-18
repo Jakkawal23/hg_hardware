@@ -1,0 +1,25 @@
+{
+  "id": "05-01-02-re-suo-guan",
+  "main_category_slug": "05-dian-xiang-dian-liao",
+  "sub_category_slug": "05-01-dian-liao",
+  "name_th": "ท่อหด (ฮีทชริงค์)",
+  "name_cn": "热缩管",
+  "products": [
+    {
+      "id": "05-01-02-re-suo-guan-1",
+      "slug": "05-01-02-re-suo-guan-1",
+      "name_th": "ท่อหด (ฮีทชริงค์) รายการที่ 1",
+      "name_cn": "热缩管 产品 1",
+      "price": 939,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "05-01-02-re-suo-guan-2",
+      "slug": "05-01-02-re-suo-guan-2",
+      "name_th": "ท่อหด (ฮีทชริงค์) รายการที่ 2",
+      "name_cn": "热缩管 产品 2",
+      "price": 1079,
+      "image": "/placeholder.png"
+    }
+  ]
+}

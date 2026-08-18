@@ -1,0 +1,25 @@
+{
+  "id": "12-02-23-L-xing-ban-shou",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-02-ban-shou-lei",
+  "name_th": "ประแจตัวแอล",
+  "name_cn": "L型扳手",
+  "products": [
+    {
+      "id": "12-02-23-L-xing-ban-shou-1",
+      "slug": "12-02-23-L-xing-ban-shou-1",
+      "name_th": "ประแจตัวแอล รายการที่ 1",
+      "name_cn": "L型扳手 产品 1",
+      "price": 1010,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-02-23-L-xing-ban-shou-2",
+      "slug": "12-02-23-L-xing-ban-shou-2",
+      "name_th": "ประแจตัวแอล รายการที่ 2",
+      "name_cn": "L型扳手 产品 2",
+      "price": 1081,
+      "image": "/placeholder.png"
+    }
+  ]
+}

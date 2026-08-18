@@ -1,0 +1,25 @@
+{
+  "id": "11-03-06-san-cha-ban-shou",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-03-ban-shou-lei",
+  "name_th": "ประแจสามแฉก",
+  "name_cn": "三叉扳手",
+  "products": [
+    {
+      "id": "11-03-06-san-cha-ban-shou-1",
+      "slug": "11-03-06-san-cha-ban-shou-1",
+      "name_th": "ประแจสามแฉก รายการที่ 1",
+      "name_cn": "三叉扳手 产品 1",
+      "price": 377,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-03-06-san-cha-ban-shou-2",
+      "slug": "11-03-06-san-cha-ban-shou-2",
+      "name_th": "ประแจสามแฉก รายการที่ 2",
+      "name_cn": "三叉扳手 产品 2",
+      "price": 1042,
+      "image": "/placeholder.png"
+    }
+  ]
+}

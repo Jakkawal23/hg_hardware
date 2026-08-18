@@ -1,0 +1,25 @@
+{
+  "id": "01-04-07-bu-xiu-gang-zuan-wei",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-04-zuan-wei-luo-si-chou-xin-mao-ding",
+  "name_th": "สกรูปลายแหลมสแตนเลส",
+  "name_cn": "不锈钢钻螺丝",
+  "products": [
+    {
+      "id": "01-04-07-bu-xiu-gang-zuan-wei-1",
+      "slug": "01-04-07-bu-xiu-gang-zuan-wei-1",
+      "name_th": "สกรูปลายแหลมสแตนเลส รายการที่ 1",
+      "name_cn": "不锈钢钻螺丝 产品 1",
+      "price": 382,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-04-07-bu-xiu-gang-zuan-wei-2",
+      "slug": "01-04-07-bu-xiu-gang-zuan-wei-2",
+      "name_th": "สกรูปลายแหลมสแตนเลส รายการที่ 2",
+      "name_cn": "不锈钢钻螺丝 产品 2",
+      "price": 140,
+      "image": "/placeholder.png"
+    }
+  ]
+}

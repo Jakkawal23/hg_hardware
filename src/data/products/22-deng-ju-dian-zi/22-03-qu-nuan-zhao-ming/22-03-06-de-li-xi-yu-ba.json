@@ -1,0 +1,25 @@
+{
+  "id": "22-03-06-de-li-xi-yu-ba",
+  "main_category_slug": "22-deng-ju-dian-zi",
+  "sub_category_slug": "22-03-qu-nuan-zhao-ming",
+  "name_th": "ฮีทเตอร์อาบน้ำ เดลิกซี",
+  "name_cn": "德力西浴霸",
+  "products": [
+    {
+      "id": "22-03-06-de-li-xi-yu-ba-1",
+      "slug": "22-03-06-de-li-xi-yu-ba-1",
+      "name_th": "ฮีทเตอร์อาบน้ำ เดลิกซี รายการที่ 1",
+      "name_cn": "德力西浴霸 产品 1",
+      "price": 753,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "22-03-06-de-li-xi-yu-ba-2",
+      "slug": "22-03-06-de-li-xi-yu-ba-2",
+      "name_th": "ฮีทเตอร์อาบน้ำ เดลิกซี รายการที่ 2",
+      "name_cn": "德力西浴霸 产品 2",
+      "price": 714,
+      "image": "/placeholder.png"
+    }
+  ]
+}

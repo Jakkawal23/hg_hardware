@@ -1,0 +1,25 @@
+{
+  "id": "11-08-10-tie-ban-qiao-chi",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-08-ni-wa-gong-ju",
+  "name_th": "เกรียงเหล็ก/เกรียงมือ",
+  "name_cn": "铁板刮匙",
+  "products": [
+    {
+      "id": "11-08-10-tie-ban-qiao-chi-1",
+      "slug": "11-08-10-tie-ban-qiao-chi-1",
+      "name_th": "เกรียงเหล็ก/เกรียงมือ รายการที่ 1",
+      "name_cn": "铁板刮匙 产品 1",
+      "price": 155,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-08-10-tie-ban-qiao-chi-2",
+      "slug": "11-08-10-tie-ban-qiao-chi-2",
+      "name_th": "เกรียงเหล็ก/เกรียงมือ รายการที่ 2",
+      "name_cn": "铁板刮匙 产品 2",
+      "price": 942,
+      "image": "/placeholder.png"
+    }
+  ]
+}

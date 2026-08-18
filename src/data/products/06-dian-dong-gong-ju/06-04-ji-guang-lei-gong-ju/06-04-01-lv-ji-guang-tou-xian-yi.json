@@ -1,0 +1,25 @@
+{
+  "id": "06-04-01-lv-ji-guang-tou-xian-yi",
+  "main_category_slug": "06-dian-dong-gong-ju",
+  "sub_category_slug": "06-04-ji-guang-lei-gong-ju",
+  "name_th": "เครื่องเลเซอร์เส้นสีเขียว",
+  "name_cn": "绿激光投线仪",
+  "products": [
+    {
+      "id": "06-04-01-lv-ji-guang-tou-xian-yi-1",
+      "slug": "06-04-01-lv-ji-guang-tou-xian-yi-1",
+      "name_th": "เครื่องเลเซอร์เส้นสีเขียว รายการที่ 1",
+      "name_cn": "绿激光投线仪 产品 1",
+      "price": 1004,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "06-04-01-lv-ji-guang-tou-xian-yi-2",
+      "slug": "06-04-01-lv-ji-guang-tou-xian-yi-2",
+      "name_th": "เครื่องเลเซอร์เส้นสีเขียว รายการที่ 2",
+      "name_cn": "绿激光投线仪 产品 2",
+      "price": 302,
+      "image": "/placeholder.png"
+    }
+  ]
+}

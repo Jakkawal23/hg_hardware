@@ -1,0 +1,25 @@
+{
+  "id": "11-04-06-nai-you-luo-si-dao",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-04-luo-si-dao",
+  "name_th": "ไขควงทนน้ำมัน",
+  "name_cn": "耐油螺丝刀",
+  "products": [
+    {
+      "id": "11-04-06-nai-you-luo-si-dao-1",
+      "slug": "11-04-06-nai-you-luo-si-dao-1",
+      "name_th": "ไขควงทนน้ำมัน รายการที่ 1",
+      "name_cn": "耐油螺丝刀 产品 1",
+      "price": 1004,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-04-06-nai-you-luo-si-dao-2",
+      "slug": "11-04-06-nai-you-luo-si-dao-2",
+      "name_th": "ไขควงทนน้ำมัน รายการที่ 2",
+      "name_cn": "耐油螺丝刀 产品 2",
+      "price": 720,
+      "image": "/placeholder.png"
+    }
+  ]
+}

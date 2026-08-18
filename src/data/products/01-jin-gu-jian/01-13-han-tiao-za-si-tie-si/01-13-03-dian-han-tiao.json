@@ -1,0 +1,25 @@
+{
+  "id": "01-13-03-dian-han-tiao",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-13-han-tiao-za-si-tie-si",
+  "name_th": "ลวดเชื่อมไฟฟ้า",
+  "name_cn": "电焊条",
+  "products": [
+    {
+      "id": "01-13-03-dian-han-tiao-1",
+      "slug": "01-13-03-dian-han-tiao-1",
+      "name_th": "ลวดเชื่อมไฟฟ้า รายการที่ 1",
+      "name_cn": "电焊条 产品 1",
+      "price": 419,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-13-03-dian-han-tiao-2",
+      "slug": "01-13-03-dian-han-tiao-2",
+      "name_th": "ลวดเชื่อมไฟฟ้า รายการที่ 2",
+      "name_cn": "电焊条 产品 2",
+      "price": 334,
+      "image": "/placeholder.png"
+    }
+  ]
+}

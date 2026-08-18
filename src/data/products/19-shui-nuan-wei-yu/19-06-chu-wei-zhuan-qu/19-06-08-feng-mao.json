@@ -1,0 +1,25 @@
+{
+  "id": "19-06-08-feng-mao",
+  "main_category_slug": "19-shui-nuan-wei-yu",
+  "sub_category_slug": "19-06-chu-wei-zhuan-qu",
+  "name_th": "ฝาครอบระบายอากาศ",
+  "name_cn": "风帽",
+  "products": [
+    {
+      "id": "19-06-08-feng-mao-1",
+      "slug": "19-06-08-feng-mao-1",
+      "name_th": "ฝาครอบระบายอากาศ รายการที่ 1",
+      "name_cn": "风帽 产品 1",
+      "price": 543,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "19-06-08-feng-mao-2",
+      "slug": "19-06-08-feng-mao-2",
+      "name_th": "ฝาครอบระบายอากาศ รายการที่ 2",
+      "name_cn": "风帽 产品 2",
+      "price": 545,
+      "image": "/placeholder.png"
+    }
+  ]
+}

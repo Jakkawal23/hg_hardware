@@ -1,0 +1,25 @@
+{
+  "id": "21-01-04-gang-si-sheng",
+  "main_category_slug": "21-qi-zhong-qi-pei",
+  "sub_category_slug": "21-01-qi-zhong-yong-pin",
+  "name_th": "ลวดสลิง",
+  "name_cn": "钢丝绳",
+  "products": [
+    {
+      "id": "21-01-04-gang-si-sheng-1",
+      "slug": "21-01-04-gang-si-sheng-1",
+      "name_th": "ลวดสลิง รายการที่ 1",
+      "name_cn": "钢丝绳 产品 1",
+      "price": 355,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "21-01-04-gang-si-sheng-2",
+      "slug": "21-01-04-gang-si-sheng-2",
+      "name_th": "ลวดสลิง รายการที่ 2",
+      "name_cn": "钢丝绳 产品 2",
+      "price": 650,
+      "image": "/placeholder.png"
+    }
+  ]
+}

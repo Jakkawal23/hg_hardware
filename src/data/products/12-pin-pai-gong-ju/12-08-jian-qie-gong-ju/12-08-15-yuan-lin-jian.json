@@ -1,0 +1,25 @@
+{
+  "id": "12-08-15-yuan-lin-jian",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-08-jian-qie-gong-ju",
+  "name_th": "กรรไกรแต่งสวน",
+  "name_cn": "园林剪",
+  "products": [
+    {
+      "id": "12-08-15-yuan-lin-jian-1",
+      "slug": "12-08-15-yuan-lin-jian-1",
+      "name_th": "กรรไกรแต่งสวน รายการที่ 1",
+      "name_cn": "园林剪 产品 1",
+      "price": 476,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-08-15-yuan-lin-jian-2",
+      "slug": "12-08-15-yuan-lin-jian-2",
+      "name_th": "กรรไกรแต่งสวน รายการที่ 2",
+      "name_cn": "园林剪 产品 2",
+      "price": 969,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "11-15-04-san-jiao-chi",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-15-liang-ce-chi",
+  "name_th": "ไม้ฉากสามเหลี่ยม",
+  "name_cn": "三角尺",
+  "products": [
+    {
+      "id": "11-15-04-san-jiao-chi-1",
+      "slug": "11-15-04-san-jiao-chi-1",
+      "name_th": "ไม้ฉากสามเหลี่ยม รายการที่ 1",
+      "name_cn": "三角尺 产品 1",
+      "price": 204,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-15-04-san-jiao-chi-2",
+      "slug": "11-15-04-san-jiao-chi-2",
+      "name_th": "ไม้ฉากสามเหลี่ยม รายการที่ 2",
+      "name_cn": "三角尺 产品 2",
+      "price": 440,
+      "image": "/placeholder.png"
+    }
+  ]
+}

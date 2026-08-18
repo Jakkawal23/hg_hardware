@@ -1,0 +1,25 @@
+{
+  "id": "01-05-01-mei-jia-guo-biao",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-05-peng-zhang-luo-si-peng-zhang-ding",
+  "name_th": "พุกเมา แบบมาตรฐานชาติ",
+  "name_cn": "美佳(国标)",
+  "products": [
+    {
+      "id": "01-05-01-mei-jia-guo-biao-1",
+      "slug": "01-05-01-mei-jia-guo-biao-1",
+      "name_th": "พุกเมา แบบมาตรฐานชาติ รายการที่ 1",
+      "name_cn": "美佳(国标) 产品 1",
+      "price": 312,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-05-01-mei-jia-guo-biao-2",
+      "slug": "01-05-01-mei-jia-guo-biao-2",
+      "name_th": "พุกเมา แบบมาตรฐานชาติ รายการที่ 2",
+      "name_cn": "美佳(国标) 产品 2",
+      "price": 1085,
+      "image": "/placeholder.png"
+    }
+  ]
+}

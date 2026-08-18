@@ -1,0 +1,25 @@
+{
+  "id": "22-04-05-han-si-han-gao",
+  "main_category_slug": "22-deng-ju-dian-zi",
+  "sub_category_slug": "22-04-dian-zi-yong-ju",
+  "name_th": "ลวดบัดกรี/ครีมบัดกรี",
+  "name_cn": "焊丝/焊育",
+  "products": [
+    {
+      "id": "22-04-05-han-si-han-gao-1",
+      "slug": "22-04-05-han-si-han-gao-1",
+      "name_th": "ลวดบัดกรี/ครีมบัดกรี รายการที่ 1",
+      "name_cn": "焊丝/焊育 产品 1",
+      "price": 519,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "22-04-05-han-si-han-gao-2",
+      "slug": "22-04-05-han-si-han-gao-2",
+      "name_th": "ลวดบัดกรี/ครีมบัดกรี รายการที่ 2",
+      "name_cn": "焊丝/焊育 产品 2",
+      "price": 379,
+      "image": "/placeholder.png"
+    }
+  ]
+}

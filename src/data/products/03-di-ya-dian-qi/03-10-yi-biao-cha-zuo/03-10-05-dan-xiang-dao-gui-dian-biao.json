@@ -1,0 +1,25 @@
+{
+  "id": "03-10-05-dan-xiang-dao-gui-dian-biao",
+  "main_category_slug": "03-di-ya-dian-qi",
+  "sub_category_slug": "03-10-yi-biao-cha-zuo",
+  "name_th": "มิเตอร์ไฟเฟสเดียวติดราง",
+  "name_cn": "单相导轨电表",
+  "products": [
+    {
+      "id": "03-10-05-dan-xiang-dao-gui-dian-biao-1",
+      "slug": "03-10-05-dan-xiang-dao-gui-dian-biao-1",
+      "name_th": "มิเตอร์ไฟเฟสเดียวติดราง รายการที่ 1",
+      "name_cn": "单相导轨电表 产品 1",
+      "price": 718,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "03-10-05-dan-xiang-dao-gui-dian-biao-2",
+      "slug": "03-10-05-dan-xiang-dao-gui-dian-biao-2",
+      "name_th": "มิเตอร์ไฟเฟสเดียวติดราง รายการที่ 2",
+      "name_cn": "单相导轨电表 产品 2",
+      "price": 721,
+      "image": "/placeholder.png"
+    }
+  ]
+}

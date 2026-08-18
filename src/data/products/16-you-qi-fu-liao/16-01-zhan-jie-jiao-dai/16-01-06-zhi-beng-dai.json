@@ -1,0 +1,25 @@
+{
+  "id": "16-01-06-zhi-beng-dai",
+  "main_category_slug": "16-you-qi-fu-liao",
+  "sub_category_slug": "16-01-zhan-jie-jiao-dai",
+  "name_th": "เทปกระดาษพันผ้า",
+  "name_cn": "纸绷带",
+  "products": [
+    {
+      "id": "16-01-06-zhi-beng-dai-1",
+      "slug": "16-01-06-zhi-beng-dai-1",
+      "name_th": "เทปกระดาษพันผ้า รายการที่ 1",
+      "name_cn": "纸绷带 产品 1",
+      "price": 876,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "16-01-06-zhi-beng-dai-2",
+      "slug": "16-01-06-zhi-beng-dai-2",
+      "name_th": "เทปกระดาษพันผ้า รายการที่ 2",
+      "name_cn": "纸绷带 产品 2",
+      "price": 295,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "05-01-08-tong-lv-bi-zi",
+  "main_category_slug": "05-dian-xiang-dian-liao",
+  "sub_category_slug": "05-01-dian-liao",
+  "name_th": "หางปลาทองแดง-อลูมิเนียม",
+  "name_cn": "铜铝鼻子",
+  "products": [
+    {
+      "id": "05-01-08-tong-lv-bi-zi-1",
+      "slug": "05-01-08-tong-lv-bi-zi-1",
+      "name_th": "หางปลาทองแดง-อลูมิเนียม รายการที่ 1",
+      "name_cn": "铜铝鼻子 产品 1",
+      "price": 976,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "05-01-08-tong-lv-bi-zi-2",
+      "slug": "05-01-08-tong-lv-bi-zi-2",
+      "name_th": "หางปลาทองแดง-อลูมิเนียม รายการที่ 2",
+      "name_cn": "铜铝鼻子 产品 2",
+      "price": 1010,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "12-11-03-dian-lao-tie",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-11-dian-gong-dian-zi",
+  "name_th": "หัวแร้งบัดกรี",
+  "name_cn": "电熔铁",
+  "products": [
+    {
+      "id": "12-11-03-dian-lao-tie-1",
+      "slug": "12-11-03-dian-lao-tie-1",
+      "name_th": "หัวแร้งบัดกรี รายการที่ 1",
+      "name_cn": "电熔铁 产品 1",
+      "price": 697,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-11-03-dian-lao-tie-2",
+      "slug": "12-11-03-dian-lao-tie-2",
+      "name_th": "หัวแร้งบัดกรี รายการที่ 2",
+      "name_cn": "电熔铁 产品 2",
+      "price": 710,
+      "image": "/placeholder.png"
+    }
+  ]
+}

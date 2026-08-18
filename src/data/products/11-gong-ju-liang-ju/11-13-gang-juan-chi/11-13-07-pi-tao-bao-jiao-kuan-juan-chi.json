@@ -1,0 +1,25 @@
+{
+  "id": "11-13-07-pi-tao-bao-jiao-kuan-juan-chi",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-13-gang-juan-chi",
+  "name_th": "ตลับเมตรหุ้มยางมีซองหนัง",
+  "name_cn": "皮套包胶款卷尺",
+  "products": [
+    {
+      "id": "11-13-07-pi-tao-bao-jiao-kuan-juan-chi-1",
+      "slug": "11-13-07-pi-tao-bao-jiao-kuan-juan-chi-1",
+      "name_th": "ตลับเมตรหุ้มยางมีซองหนัง รายการที่ 1",
+      "name_cn": "皮套包胶款卷尺 产品 1",
+      "price": 753,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-13-07-pi-tao-bao-jiao-kuan-juan-chi-2",
+      "slug": "11-13-07-pi-tao-bao-jiao-kuan-juan-chi-2",
+      "name_th": "ตลับเมตรหุ้มยางมีซองหนัง รายการที่ 2",
+      "name_cn": "皮套包胶款卷尺 产品 2",
+      "price": 929,
+      "image": "/placeholder.png"
+    }
+  ]
+}

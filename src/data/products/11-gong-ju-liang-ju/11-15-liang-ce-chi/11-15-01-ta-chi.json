@@ -1,0 +1,25 @@
+{
+  "id": "11-15-01-ta-chi",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-15-liang-ce-chi",
+  "name_th": "ไม้วัดระดับ",
+  "name_cn": "塔尺",
+  "products": [
+    {
+      "id": "11-15-01-ta-chi-1",
+      "slug": "11-15-01-ta-chi-1",
+      "name_th": "ไม้วัดระดับ รายการที่ 1",
+      "name_cn": "塔尺 产品 1",
+      "price": 220,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-15-01-ta-chi-2",
+      "slug": "11-15-01-ta-chi-2",
+      "name_th": "ไม้วัดระดับ รายการที่ 2",
+      "name_cn": "塔尺 产品 2",
+      "price": 397,
+      "image": "/placeholder.png"
+    }
+  ]
+}

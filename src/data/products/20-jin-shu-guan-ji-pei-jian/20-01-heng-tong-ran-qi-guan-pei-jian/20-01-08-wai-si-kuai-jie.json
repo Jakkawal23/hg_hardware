@@ -1,0 +1,25 @@
+{
+  "id": "20-01-08-wai-si-kuai-jie",
+  "main_category_slug": "20-jin-shu-guan-ji-pei-jian",
+  "sub_category_slug": "20-01-heng-tong-ran-qi-guan-pei-jian",
+  "name_th": "ข้อต่อเร็วเกลียวนอก",
+  "name_cn": "外丝快接",
+  "products": [
+    {
+      "id": "20-01-08-wai-si-kuai-jie-1",
+      "slug": "20-01-08-wai-si-kuai-jie-1",
+      "name_th": "ข้อต่อเร็วเกลียวนอก รายการที่ 1",
+      "name_cn": "外丝快接 产品 1",
+      "price": 950,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "20-01-08-wai-si-kuai-jie-2",
+      "slug": "20-01-08-wai-si-kuai-jie-2",
+      "name_th": "ข้อต่อเร็วเกลียวนอก รายการที่ 2",
+      "name_cn": "外丝快接 产品 2",
+      "price": 261,
+      "image": "/placeholder.png"
+    }
+  ]
+}

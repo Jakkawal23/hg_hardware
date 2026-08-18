@@ -1,0 +1,25 @@
+{
+  "id": "05-01-19-jin-shu-ruan-guan",
+  "main_category_slug": "05-dian-xiang-dian-liao",
+  "sub_category_slug": "05-01-dian-liao",
+  "name_th": "ท่ออ่อนโลหะ",
+  "name_cn": "金属软管",
+  "products": [
+    {
+      "id": "05-01-19-jin-shu-ruan-guan-1",
+      "slug": "05-01-19-jin-shu-ruan-guan-1",
+      "name_th": "ท่ออ่อนโลหะ รายการที่ 1",
+      "name_cn": "金属软管 产品 1",
+      "price": 787,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "05-01-19-jin-shu-ruan-guan-2",
+      "slug": "05-01-19-jin-shu-ruan-guan-2",
+      "name_th": "ท่ออ่อนโลหะ รายการที่ 2",
+      "name_cn": "金属软管 产品 2",
+      "price": 555,
+      "image": "/placeholder.png"
+    }
+  ]
+}

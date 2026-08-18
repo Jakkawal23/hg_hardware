@@ -1,0 +1,25 @@
+{
+  "id": "04-05-04-de-li-xi-cha-tou",
+  "main_category_slug": "04-kai-guan-cha-zuo",
+  "sub_category_slug": "04-05-cha-tou-cha-zuo",
+  "name_th": "ปลั๊กตัวผู้เดลิกซี",
+  "name_cn": "德力西插头",
+  "products": [
+    {
+      "id": "04-05-04-de-li-xi-cha-tou-1",
+      "slug": "04-05-04-de-li-xi-cha-tou-1",
+      "name_th": "ปลั๊กตัวผู้เดลิกซี รายการที่ 1",
+      "name_cn": "德力西插头 产品 1",
+      "price": 361,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "04-05-04-de-li-xi-cha-tou-2",
+      "slug": "04-05-04-de-li-xi-cha-tou-2",
+      "name_th": "ปลั๊กตัวผู้เดลิกซี รายการที่ 2",
+      "name_cn": "德力西插头 产品 2",
+      "price": 877,
+      "image": "/placeholder.png"
+    }
+  ]
+}

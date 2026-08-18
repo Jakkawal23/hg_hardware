@@ -1,0 +1,25 @@
+{
+  "id": "04-04-03-rui-feng-huang-se-kang-shuai-cha-ban",
+  "main_category_slug": "04-kai-guan-cha-zuo",
+  "sub_category_slug": "04-04-rui-feng-wu-xian-dai-xian-cha-ban",
+  "name_th": "ปลั๊กพ่วงสีเหลืองกันกระแทก",
+  "name_cn": "瑞风黄色抗摔插板",
+  "products": [
+    {
+      "id": "04-04-03-rui-feng-huang-se-kang-shuai-cha-ban-1",
+      "slug": "04-04-03-rui-feng-huang-se-kang-shuai-cha-ban-1",
+      "name_th": "ปลั๊กพ่วงสีเหลืองกันกระแทก รายการที่ 1",
+      "name_cn": "瑞风黄色抗摔插板 产品 1",
+      "price": 594,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "04-04-03-rui-feng-huang-se-kang-shuai-cha-ban-2",
+      "slug": "04-04-03-rui-feng-huang-se-kang-shuai-cha-ban-2",
+      "name_th": "ปลั๊กพ่วงสีเหลืองกันกระแทก รายการที่ 2",
+      "name_cn": "瑞风黄色抗摔插板 产品 2",
+      "price": 977,
+      "image": "/placeholder.png"
+    }
+  ]
+}

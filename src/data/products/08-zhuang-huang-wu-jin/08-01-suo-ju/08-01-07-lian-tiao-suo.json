@@ -1,0 +1,25 @@
+{
+  "id": "08-01-07-lian-tiao-suo",
+  "main_category_slug": "08-zhuang-huang-wu-jin",
+  "sub_category_slug": "08-01-suo-ju",
+  "name_th": "กุญแจโซ่",
+  "name_cn": "链条锁",
+  "products": [
+    {
+      "id": "08-01-07-lian-tiao-suo-1",
+      "slug": "08-01-07-lian-tiao-suo-1",
+      "name_th": "กุญแจโซ่ รายการที่ 1",
+      "name_cn": "链条锁 产品 1",
+      "price": 819,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "08-01-07-lian-tiao-suo-2",
+      "slug": "08-01-07-lian-tiao-suo-2",
+      "name_th": "กุญแจโซ่ รายการที่ 2",
+      "name_cn": "链条锁 产品 2",
+      "price": 1069,
+      "image": "/placeholder.png"
+    }
+  ]
+}

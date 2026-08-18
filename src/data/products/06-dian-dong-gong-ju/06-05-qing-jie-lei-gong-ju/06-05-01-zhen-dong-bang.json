@@ -1,0 +1,25 @@
+{
+  "id": "06-05-01-zhen-dong-bang",
+  "main_category_slug": "06-dian-dong-gong-ju",
+  "sub_category_slug": "06-05-qing-jie-lei-gong-ju",
+  "name_th": "เครื่องมือสั่นคอนกรีต",
+  "name_cn": "振动棒",
+  "products": [
+    {
+      "id": "06-05-01-zhen-dong-bang-1",
+      "slug": "06-05-01-zhen-dong-bang-1",
+      "name_th": "เครื่องมือสั่นคอนกรีต รายการที่ 1",
+      "name_cn": "振动棒 产品 1",
+      "price": 860,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "06-05-01-zhen-dong-bang-2",
+      "slug": "06-05-01-zhen-dong-bang-2",
+      "name_th": "เครื่องมือสั่นคอนกรีต รายการที่ 2",
+      "name_cn": "振动棒 产品 2",
+      "price": 1042,
+      "image": "/placeholder.png"
+    }
+  ]
+}

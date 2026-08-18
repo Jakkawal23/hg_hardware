@@ -1,0 +1,25 @@
+{
+  "id": "01-12-03-luo-gan-ji-pei-jian",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-12-jian-zhu-pei-jian",
+  "name_th": "แกนเกลียวและอุปกรณ์เสริม",
+  "name_cn": "螺杆及配件",
+  "products": [
+    {
+      "id": "01-12-03-luo-gan-ji-pei-jian-1",
+      "slug": "01-12-03-luo-gan-ji-pei-jian-1",
+      "name_th": "แกนเกลียวและอุปกรณ์เสริม รายการที่ 1",
+      "name_cn": "螺杆及配件 产品 1",
+      "price": 552,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-12-03-luo-gan-ji-pei-jian-2",
+      "slug": "01-12-03-luo-gan-ji-pei-jian-2",
+      "name_th": "แกนเกลียวและอุปกรณ์เสริม รายการที่ 2",
+      "name_cn": "螺杆及配件 产品 2",
+      "price": 984,
+      "image": "/placeholder.png"
+    }
+  ]
+}

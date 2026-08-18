@@ -1,0 +1,25 @@
+{
+  "id": "01-13-01-za-si",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-13-han-tiao-za-si-tie-si",
+  "name_th": "ลวดผูก",
+  "name_cn": "扎丝",
+  "products": [
+    {
+      "id": "01-13-01-za-si-1",
+      "slug": "01-13-01-za-si-1",
+      "name_th": "ลวดผูก รายการที่ 1",
+      "name_cn": "扎丝 产品 1",
+      "price": 721,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-13-01-za-si-2",
+      "slug": "01-13-01-za-si-2",
+      "name_th": "ลวดผูก รายการที่ 2",
+      "name_cn": "扎丝 产品 2",
+      "price": 839,
+      "image": "/placeholder.png"
+    }
+  ]
+}

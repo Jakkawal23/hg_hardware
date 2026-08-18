@@ -1,0 +1,25 @@
+{
+  "id": "11-09-12-shou-ban-zi",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-09-jian-lei-dao-ju-lei",
+  "name_th": "เลื่อยมือ",
+  "name_cn": "手报纸",
+  "products": [
+    {
+      "id": "11-09-12-shou-ban-zi-1",
+      "slug": "11-09-12-shou-ban-zi-1",
+      "name_th": "เลื่อยมือ รายการที่ 1",
+      "name_cn": "手报纸 产品 1",
+      "price": 941,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-09-12-shou-ban-zi-2",
+      "slug": "11-09-12-shou-ban-zi-2",
+      "name_th": "เลื่อยมือ รายการที่ 2",
+      "name_cn": "手报纸 产品 2",
+      "price": 654,
+      "image": "/placeholder.png"
+    }
+  ]
+}

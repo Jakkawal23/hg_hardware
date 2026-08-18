@@ -1,0 +1,25 @@
+{
+  "id": "01-05-12-chuan-shan-ci-peng-zhang-wai-zhang",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-05-peng-zhang-luo-si-peng-zhang-ding",
+  "name_th": "พุกขี้เปิด (ขยายนอก)",
+  "name_cn": "穿山刺膨胀(外胀)",
+  "products": [
+    {
+      "id": "01-05-12-chuan-shan-ci-peng-zhang-wai-zhang-1",
+      "slug": "01-05-12-chuan-shan-ci-peng-zhang-wai-zhang-1",
+      "name_th": "พุกขี้เปิด (ขยายนอก) รายการที่ 1",
+      "name_cn": "穿山刺膨胀(外胀) 产品 1",
+      "price": 608,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-05-12-chuan-shan-ci-peng-zhang-wai-zhang-2",
+      "slug": "01-05-12-chuan-shan-ci-peng-zhang-wai-zhang-2",
+      "name_th": "พุกขี้เปิด (ขยายนอก) รายการที่ 2",
+      "name_cn": "穿山刺膨胀(外胀) 产品 2",
+      "price": 704,
+      "image": "/placeholder.png"
+    }
+  ]
+}

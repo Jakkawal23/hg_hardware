@@ -1,0 +1,25 @@
+{
+  "id": "13-06-02-yu-xie",
+  "main_category_slug": "13-lao-bao-yong-pin",
+  "sub_category_slug": "13-06-fang-yu-yong-pin",
+  "name_th": "รองเท้ากันฝน (บู๊ท)",
+  "name_cn": "雨鞋",
+  "products": [
+    {
+      "id": "13-06-02-yu-xie-1",
+      "slug": "13-06-02-yu-xie-1",
+      "name_th": "รองเท้ากันฝน (บู๊ท) รายการที่ 1",
+      "name_cn": "雨鞋 产品 1",
+      "price": 1066,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "13-06-02-yu-xie-2",
+      "slug": "13-06-02-yu-xie-2",
+      "name_th": "รองเท้ากันฝน (บู๊ท) รายการที่ 2",
+      "name_cn": "雨鞋 产品 2",
+      "price": 381,
+      "image": "/placeholder.png"
+    }
+  ]
+}

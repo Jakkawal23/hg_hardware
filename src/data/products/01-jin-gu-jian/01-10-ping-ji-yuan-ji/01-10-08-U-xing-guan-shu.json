@@ -1,0 +1,25 @@
+{
+  "id": "01-10-08-U-xing-guan-shu",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-10-ping-ji-yuan-ji",
+  "name_th": "ปลอกรัดท่อรูปยู",
+  "name_cn": "U型管卡",
+  "products": [
+    {
+      "id": "01-10-08-U-xing-guan-shu-1",
+      "slug": "01-10-08-U-xing-guan-shu-1",
+      "name_th": "ปลอกรัดท่อรูปยู รายการที่ 1",
+      "name_cn": "U型管卡 产品 1",
+      "price": 706,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-10-08-U-xing-guan-shu-2",
+      "slug": "01-10-08-U-xing-guan-shu-2",
+      "name_th": "ปลอกรัดท่อรูปยู รายการที่ 2",
+      "name_cn": "U型管卡 产品 2",
+      "price": 146,
+      "image": "/placeholder.png"
+    }
+  ]
+}

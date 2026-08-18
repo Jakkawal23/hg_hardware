@@ -1,0 +1,25 @@
+{
+  "id": "11-04-03-chuan-xin-luo-si-dao",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-04-luo-si-dao",
+  "name_th": "ไขควงทะลุด้าม (ตอกได้)",
+  "name_cn": "穿心螺丝刀",
+  "products": [
+    {
+      "id": "11-04-03-chuan-xin-luo-si-dao-1",
+      "slug": "11-04-03-chuan-xin-luo-si-dao-1",
+      "name_th": "ไขควงทะลุด้าม (ตอกได้) รายการที่ 1",
+      "name_cn": "穿心螺丝刀 产品 1",
+      "price": 877,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-04-03-chuan-xin-luo-si-dao-2",
+      "slug": "11-04-03-chuan-xin-luo-si-dao-2",
+      "name_th": "ไขควงทะลุด้าม (ตอกได้) รายการที่ 2",
+      "name_cn": "穿心螺丝刀 产品 2",
+      "price": 679,
+      "image": "/placeholder.png"
+    }
+  ]
+}

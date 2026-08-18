@@ -1,0 +1,25 @@
+{
+  "id": "12-02-16-xiao-fang-ban-shou",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-02-ban-shou-lei",
+  "name_th": "ประแจงานดับเพลิง",
+  "name_cn": "消防扳手",
+  "products": [
+    {
+      "id": "12-02-16-xiao-fang-ban-shou-1",
+      "slug": "12-02-16-xiao-fang-ban-shou-1",
+      "name_th": "ประแจงานดับเพลิง รายการที่ 1",
+      "name_cn": "消防扳手 产品 1",
+      "price": 950,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-02-16-xiao-fang-ban-shou-2",
+      "slug": "12-02-16-xiao-fang-ban-shou-2",
+      "name_th": "ประแจงานดับเพลิง รายการที่ 2",
+      "name_cn": "消防扳手 产品 2",
+      "price": 727,
+      "image": "/placeholder.png"
+    }
+  ]
+}

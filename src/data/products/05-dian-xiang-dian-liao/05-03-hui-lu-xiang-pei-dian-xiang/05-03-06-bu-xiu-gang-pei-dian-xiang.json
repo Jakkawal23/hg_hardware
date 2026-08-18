@@ -1,0 +1,25 @@
+{
+  "id": "05-03-06-bu-xiu-gang-pei-dian-xiang",
+  "main_category_slug": "05-dian-xiang-dian-liao",
+  "sub_category_slug": "05-03-hui-lu-xiang-pei-dian-xiang",
+  "name_th": "ตู้จ่ายไฟสแตนเลส",
+  "name_cn": "不锈钢配电箱",
+  "products": [
+    {
+      "id": "05-03-06-bu-xiu-gang-pei-dian-xiang-1",
+      "slug": "05-03-06-bu-xiu-gang-pei-dian-xiang-1",
+      "name_th": "ตู้จ่ายไฟสแตนเลส รายการที่ 1",
+      "name_cn": "不锈钢配电箱 产品 1",
+      "price": 838,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "05-03-06-bu-xiu-gang-pei-dian-xiang-2",
+      "slug": "05-03-06-bu-xiu-gang-pei-dian-xiang-2",
+      "name_th": "ตู้จ่ายไฟสแตนเลส รายการที่ 2",
+      "name_cn": "不锈钢配电箱 产品 2",
+      "price": 322,
+      "image": "/placeholder.png"
+    }
+  ]
+}

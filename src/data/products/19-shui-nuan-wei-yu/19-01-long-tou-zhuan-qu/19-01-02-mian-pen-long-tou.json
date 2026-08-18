@@ -1,0 +1,25 @@
+{
+  "id": "19-01-02-mian-pen-long-tou",
+  "main_category_slug": "19-shui-nuan-wei-yu",
+  "sub_category_slug": "19-01-long-tou-zhuan-qu",
+  "name_th": "ก๊อกน้ำอ่างล้างหน้า",
+  "name_cn": "面盆龙头",
+  "products": [
+    {
+      "id": "19-01-02-mian-pen-long-tou-1",
+      "slug": "19-01-02-mian-pen-long-tou-1",
+      "name_th": "ก๊อกน้ำอ่างล้างหน้า รายการที่ 1",
+      "name_cn": "面盆龙头 产品 1",
+      "price": 326,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "19-01-02-mian-pen-long-tou-2",
+      "slug": "19-01-02-mian-pen-long-tou-2",
+      "name_th": "ก๊อกน้ำอ่างล้างหน้า รายการที่ 2",
+      "name_cn": "面盆龙头 产品 2",
+      "price": 651,
+      "image": "/placeholder.png"
+    }
+  ]
+}

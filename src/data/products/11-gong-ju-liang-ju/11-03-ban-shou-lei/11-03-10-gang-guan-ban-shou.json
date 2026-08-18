@@ -1,0 +1,25 @@
+{
+  "id": "11-03-10-gang-guan-ban-shou",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-03-ban-shou-lei",
+  "name_th": "ประแจท่อเหล็ก",
+  "name_cn": "钢管扳手",
+  "products": [
+    {
+      "id": "11-03-10-gang-guan-ban-shou-1",
+      "slug": "11-03-10-gang-guan-ban-shou-1",
+      "name_th": "ประแจท่อเหล็ก รายการที่ 1",
+      "name_cn": "钢管扳手 产品 1",
+      "price": 235,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-03-10-gang-guan-ban-shou-2",
+      "slug": "11-03-10-gang-guan-ban-shou-2",
+      "name_th": "ประแจท่อเหล็ก รายการที่ 2",
+      "name_cn": "钢管扳手 产品 2",
+      "price": 216,
+      "image": "/placeholder.png"
+    }
+  ]
+}

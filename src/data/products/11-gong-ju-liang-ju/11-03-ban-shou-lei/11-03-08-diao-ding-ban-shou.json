@@ -1,0 +1,25 @@
+{
+  "id": "11-03-08-diao-ding-ban-shou",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-03-ban-shou-lei",
+  "name_th": "ประแจงานฝ้าเพดาน",
+  "name_cn": "吊顶扳手",
+  "products": [
+    {
+      "id": "11-03-08-diao-ding-ban-shou-1",
+      "slug": "11-03-08-diao-ding-ban-shou-1",
+      "name_th": "ประแจงานฝ้าเพดาน รายการที่ 1",
+      "name_cn": "吊顶扳手 产品 1",
+      "price": 168,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-03-08-diao-ding-ban-shou-2",
+      "slug": "11-03-08-diao-ding-ban-shou-2",
+      "name_th": "ประแจงานฝ้าเพดาน รายการที่ 2",
+      "name_cn": "吊顶扳手 产品 2",
+      "price": 1023,
+      "image": "/placeholder.png"
+    }
+  ]
+}

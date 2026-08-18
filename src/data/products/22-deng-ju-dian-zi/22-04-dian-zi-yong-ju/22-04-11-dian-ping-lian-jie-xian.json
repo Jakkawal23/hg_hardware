@@ -1,0 +1,25 @@
+{
+  "id": "22-04-11-dian-ping-lian-jie-xian",
+  "main_category_slug": "22-deng-ju-dian-zi",
+  "sub_category_slug": "22-04-dian-zi-yong-ju",
+  "name_th": "สายพ่วงแบตเตอรี่",
+  "name_cn": "电瓶连接线",
+  "products": [
+    {
+      "id": "22-04-11-dian-ping-lian-jie-xian-1",
+      "slug": "22-04-11-dian-ping-lian-jie-xian-1",
+      "name_th": "สายพ่วงแบตเตอรี่ รายการที่ 1",
+      "name_cn": "电瓶连接线 产品 1",
+      "price": 115,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "22-04-11-dian-ping-lian-jie-xian-2",
+      "slug": "22-04-11-dian-ping-lian-jie-xian-2",
+      "name_th": "สายพ่วงแบตเตอรี่ รายการที่ 2",
+      "name_cn": "电瓶连接线 产品 2",
+      "price": 434,
+      "image": "/placeholder.png"
+    }
+  ]
+}

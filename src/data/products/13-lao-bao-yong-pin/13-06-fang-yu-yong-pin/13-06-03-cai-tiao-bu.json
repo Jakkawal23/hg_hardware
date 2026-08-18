@@ -1,0 +1,25 @@
+{
+  "id": "13-06-03-cai-tiao-bu",
+  "main_category_slug": "13-lao-bao-yong-pin",
+  "sub_category_slug": "13-06-fang-yu-yong-pin",
+  "name_th": "ผ้าใบลายทางสี",
+  "name_cn": "彩条布",
+  "products": [
+    {
+      "id": "13-06-03-cai-tiao-bu-1",
+      "slug": "13-06-03-cai-tiao-bu-1",
+      "name_th": "ผ้าใบลายทางสี รายการที่ 1",
+      "name_cn": "彩条布 产品 1",
+      "price": 230,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "13-06-03-cai-tiao-bu-2",
+      "slug": "13-06-03-cai-tiao-bu-2",
+      "name_th": "ผ้าใบลายทางสี รายการที่ 2",
+      "name_cn": "彩条布 产品 2",
+      "price": 679,
+      "image": "/placeholder.png"
+    }
+  ]
+}

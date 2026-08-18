@@ -1,0 +1,25 @@
+{
+  "id": "13-03-03-tou-qi-lao-bao-xie",
+  "main_category_slug": "13-lao-bao-yong-pin",
+  "sub_category_slug": "13-03-lao-bao-xie",
+  "name_th": "รองเท้าเซฟตี้ระบายอากาศ",
+  "name_cn": "透气劳保鞋",
+  "products": [
+    {
+      "id": "13-03-03-tou-qi-lao-bao-xie-1",
+      "slug": "13-03-03-tou-qi-lao-bao-xie-1",
+      "name_th": "รองเท้าเซฟตี้ระบายอากาศ รายการที่ 1",
+      "name_cn": "透气劳保鞋 产品 1",
+      "price": 834,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "13-03-03-tou-qi-lao-bao-xie-2",
+      "slug": "13-03-03-tou-qi-lao-bao-xie-2",
+      "name_th": "รองเท้าเซฟตี้ระบายอากาศ รายการที่ 2",
+      "name_cn": "透气劳保鞋 产品 2",
+      "price": 173,
+      "image": "/placeholder.png"
+    }
+  ]
+}

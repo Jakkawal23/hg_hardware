@@ -1,0 +1,25 @@
+{
+  "id": "12-16-18-lun-tai-ya-qi-biao",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-16-qi-xiu-gong-ju",
+  "name_th": "เกจวัดลมยาง",
+  "name_cn": "轮胎压气表",
+  "products": [
+    {
+      "id": "12-16-18-lun-tai-ya-qi-biao-1",
+      "slug": "12-16-18-lun-tai-ya-qi-biao-1",
+      "name_th": "เกจวัดลมยาง รายการที่ 1",
+      "name_cn": "轮胎压气表 产品 1",
+      "price": 288,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-16-18-lun-tai-ya-qi-biao-2",
+      "slug": "12-16-18-lun-tai-ya-qi-biao-2",
+      "name_th": "เกจวัดลมยาง รายการที่ 2",
+      "name_cn": "轮胎压气表 产品 2",
+      "price": 433,
+      "image": "/placeholder.png"
+    }
+  ]
+}

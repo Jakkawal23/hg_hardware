@@ -1,0 +1,25 @@
+{
+  "id": "11-05-03-guan-zi-jian",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-05-jian-qie-gong-ju",
+  "name_th": "กรรไกรตัดท่อ",
+  "name_cn": "管子剪",
+  "products": [
+    {
+      "id": "11-05-03-guan-zi-jian-1",
+      "slug": "11-05-03-guan-zi-jian-1",
+      "name_th": "กรรไกรตัดท่อ รายการที่ 1",
+      "name_cn": "管子剪 产品 1",
+      "price": 148,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-05-03-guan-zi-jian-2",
+      "slug": "11-05-03-guan-zi-jian-2",
+      "name_th": "กรรไกรตัดท่อ รายการที่ 2",
+      "name_cn": "管子剪 产品 2",
+      "price": 874,
+      "image": "/placeholder.png"
+    }
+  ]
+}

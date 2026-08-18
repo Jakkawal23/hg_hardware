@@ -1,0 +1,25 @@
+{
+  "id": "19-07-01-tong-shui-biao",
+  "main_category_slug": "19-shui-nuan-wei-yu",
+  "sub_category_slug": "19-07-shui-biao-zhuan-qu",
+  "name_th": "มาตรวัดน้ำทองแดง",
+  "name_cn": "铜水表",
+  "products": [
+    {
+      "id": "19-07-01-tong-shui-biao-1",
+      "slug": "19-07-01-tong-shui-biao-1",
+      "name_th": "มาตรวัดน้ำทองแดง รายการที่ 1",
+      "name_cn": "铜水表 产品 1",
+      "price": 244,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "19-07-01-tong-shui-biao-2",
+      "slug": "19-07-01-tong-shui-biao-2",
+      "name_th": "มาตรวัดน้ำทองแดง รายการที่ 2",
+      "name_cn": "铜水表 产品 2",
+      "price": 103,
+      "image": "/placeholder.png"
+    }
+  ]
+}

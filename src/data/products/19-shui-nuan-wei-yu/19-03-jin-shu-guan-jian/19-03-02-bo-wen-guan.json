@@ -1,0 +1,25 @@
+{
+  "id": "19-03-02-bo-wen-guan",
+  "main_category_slug": "19-shui-nuan-wei-yu",
+  "sub_category_slug": "19-03-jin-shu-guan-jian",
+  "name_th": "ท่อลูกฟูก",
+  "name_cn": "波纹管",
+  "products": [
+    {
+      "id": "19-03-02-bo-wen-guan-1",
+      "slug": "19-03-02-bo-wen-guan-1",
+      "name_th": "ท่อลูกฟูก รายการที่ 1",
+      "name_cn": "波纹管 产品 1",
+      "price": 908,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "19-03-02-bo-wen-guan-2",
+      "slug": "19-03-02-bo-wen-guan-2",
+      "name_th": "ท่อลูกฟูก รายการที่ 2",
+      "name_cn": "波纹管 产品 2",
+      "price": 399,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "11-08-07-yin-yang-jiao-bao-dao",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-08-ni-wa-gong-ju",
+  "name_th": "กบไสมุมฉาก",
+  "name_cn": "阴阳角刨刀",
+  "products": [
+    {
+      "id": "11-08-07-yin-yang-jiao-bao-dao-1",
+      "slug": "11-08-07-yin-yang-jiao-bao-dao-1",
+      "name_th": "กบไสมุมฉาก รายการที่ 1",
+      "name_cn": "阴阳角刨刀 产品 1",
+      "price": 384,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-08-07-yin-yang-jiao-bao-dao-2",
+      "slug": "11-08-07-yin-yang-jiao-bao-dao-2",
+      "name_th": "กบไสมุมฉาก รายการที่ 2",
+      "name_cn": "阴阳角刨刀 产品 2",
+      "price": 1032,
+      "image": "/placeholder.png"
+    }
+  ]
+}

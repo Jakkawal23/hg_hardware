@@ -1,0 +1,25 @@
+{
+  "id": "13-05-07-bei-xin",
+  "main_category_slug": "13-lao-bao-yong-pin",
+  "sub_category_slug": "13-05-an-quan-fang-hu",
+  "name_th": "เสื้อกั๊ก",
+  "name_cn": "背心",
+  "products": [
+    {
+      "id": "13-05-07-bei-xin-1",
+      "slug": "13-05-07-bei-xin-1",
+      "name_th": "เสื้อกั๊ก รายการที่ 1",
+      "name_cn": "背心 产品 1",
+      "price": 1038,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "13-05-07-bei-xin-2",
+      "slug": "13-05-07-bei-xin-2",
+      "name_th": "เสื้อกั๊ก รายการที่ 2",
+      "name_cn": "背心 产品 2",
+      "price": 887,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "05-03-05-ming-an-tong-yong-hui-lu-xiang",
+  "main_category_slug": "05-dian-xiang-dian-liao",
+  "sub_category_slug": "05-03-hui-lu-xiang-pei-dian-xiang",
+  "name_th": "ตู้ไฟย่อยใช้ได้ทั้งลอย/ฝัง",
+  "name_cn": "明暗通用回路箱",
+  "products": [
+    {
+      "id": "05-03-05-ming-an-tong-yong-hui-lu-xiang-1",
+      "slug": "05-03-05-ming-an-tong-yong-hui-lu-xiang-1",
+      "name_th": "ตู้ไฟย่อยใช้ได้ทั้งลอย/ฝัง รายการที่ 1",
+      "name_cn": "明暗通用回路箱 产品 1",
+      "price": 421,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "05-03-05-ming-an-tong-yong-hui-lu-xiang-2",
+      "slug": "05-03-05-ming-an-tong-yong-hui-lu-xiang-2",
+      "name_th": "ตู้ไฟย่อยใช้ได้ทั้งลอย/ฝัง รายการที่ 2",
+      "name_cn": "明暗通用回路箱 产品 2",
+      "price": 346,
+      "image": "/placeholder.png"
+    }
+  ]
+}

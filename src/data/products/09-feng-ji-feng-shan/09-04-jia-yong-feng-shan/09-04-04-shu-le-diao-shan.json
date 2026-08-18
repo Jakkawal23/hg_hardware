@@ -1,0 +1,25 @@
+{
+  "id": "09-04-04-shu-le-diao-shan",
+  "main_category_slug": "09-feng-ji-feng-shan",
+  "sub_category_slug": "09-04-jia-yong-feng-shan",
+  "name_th": "พัดลมเพดานซูเล่อ",
+  "name_cn": "舒乐吊扇",
+  "products": [
+    {
+      "id": "09-04-04-shu-le-diao-shan-1",
+      "slug": "09-04-04-shu-le-diao-shan-1",
+      "name_th": "พัดลมเพดานซูเล่อ รายการที่ 1",
+      "name_cn": "舒乐吊扇 产品 1",
+      "price": 350,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "09-04-04-shu-le-diao-shan-2",
+      "slug": "09-04-04-shu-le-diao-shan-2",
+      "name_th": "พัดลมเพดานซูเล่อ รายการที่ 2",
+      "name_cn": "舒乐吊扇 产品 2",
+      "price": 676,
+      "image": "/placeholder.png"
+    }
+  ]
+}

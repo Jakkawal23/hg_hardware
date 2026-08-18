@@ -1,0 +1,25 @@
+{
+  "id": "16-01-01-yong-guan-mei-wen-zhi",
+  "main_category_slug": "16-you-qi-fu-liao",
+  "sub_category_slug": "16-01-zhan-jie-jiao-dai",
+  "name_th": "กระดาษกาวย่น (มาสกิ้งเทป) ยงกวน",
+  "name_cn": "永冠美纹纸",
+  "products": [
+    {
+      "id": "16-01-01-yong-guan-mei-wen-zhi-1",
+      "slug": "16-01-01-yong-guan-mei-wen-zhi-1",
+      "name_th": "กระดาษกาวย่น (มาสกิ้งเทป) ยงกวน รายการที่ 1",
+      "name_cn": "永冠美纹纸 产品 1",
+      "price": 375,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "16-01-01-yong-guan-mei-wen-zhi-2",
+      "slug": "16-01-01-yong-guan-mei-wen-zhi-2",
+      "name_th": "กระดาษกาวย่น (มาสกิ้งเทป) ยงกวน รายการที่ 2",
+      "name_cn": "永冠美纹纸 产品 2",
+      "price": 983,
+      "image": "/placeholder.png"
+    }
+  ]
+}

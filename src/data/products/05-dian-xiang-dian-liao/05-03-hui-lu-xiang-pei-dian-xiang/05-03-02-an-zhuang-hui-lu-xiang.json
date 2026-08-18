@@ -1,0 +1,25 @@
+{
+  "id": "05-03-02-an-zhuang-hui-lu-xiang",
+  "main_category_slug": "05-dian-xiang-dian-liao",
+  "sub_category_slug": "05-03-hui-lu-xiang-pei-dian-xiang",
+  "name_th": "ตู้ไฟย่อยแบบฝัง",
+  "name_cn": "暗装回路箱",
+  "products": [
+    {
+      "id": "05-03-02-an-zhuang-hui-lu-xiang-1",
+      "slug": "05-03-02-an-zhuang-hui-lu-xiang-1",
+      "name_th": "ตู้ไฟย่อยแบบฝัง รายการที่ 1",
+      "name_cn": "暗装回路箱 产品 1",
+      "price": 670,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "05-03-02-an-zhuang-hui-lu-xiang-2",
+      "slug": "05-03-02-an-zhuang-hui-lu-xiang-2",
+      "name_th": "ตู้ไฟย่อยแบบฝัง รายการที่ 2",
+      "name_cn": "暗装回路箱 产品 2",
+      "price": 170,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "11-15-03-guai-chi",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-15-liang-ce-chi",
+  "name_th": "ฉากวัดจ๊ก",
+  "name_cn": "拐尺",
+  "products": [
+    {
+      "id": "11-15-03-guai-chi-1",
+      "slug": "11-15-03-guai-chi-1",
+      "name_th": "ฉากวัดจ๊ก รายการที่ 1",
+      "name_cn": "拐尺 产品 1",
+      "price": 918,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-15-03-guai-chi-2",
+      "slug": "11-15-03-guai-chi-2",
+      "name_th": "ฉากวัดจ๊ก รายการที่ 2",
+      "name_cn": "拐尺 产品 2",
+      "price": 1002,
+      "image": "/placeholder.png"
+    }
+  ]
+}

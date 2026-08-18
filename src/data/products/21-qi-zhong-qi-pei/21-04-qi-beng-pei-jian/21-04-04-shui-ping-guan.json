@@ -1,0 +1,25 @@
+{
+  "id": "21-04-04-shui-ping-guan",
+  "main_category_slug": "21-qi-zhong-qi-pei",
+  "sub_category_slug": "21-04-qi-beng-pei-jian",
+  "name_th": "ท่อระดับน้ำ",
+  "name_cn": "水平管",
+  "products": [
+    {
+      "id": "21-04-04-shui-ping-guan-1",
+      "slug": "21-04-04-shui-ping-guan-1",
+      "name_th": "ท่อระดับน้ำ รายการที่ 1",
+      "name_cn": "水平管 产品 1",
+      "price": 761,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "21-04-04-shui-ping-guan-2",
+      "slug": "21-04-04-shui-ping-guan-2",
+      "name_th": "ท่อระดับน้ำ รายการที่ 2",
+      "name_cn": "水平管 产品 2",
+      "price": 105,
+      "image": "/placeholder.png"
+    }
+  ]
+}

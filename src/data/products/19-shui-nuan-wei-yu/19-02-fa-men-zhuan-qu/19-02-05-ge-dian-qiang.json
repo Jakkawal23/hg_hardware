@@ -1,0 +1,25 @@
+{
+  "id": "19-02-05-ge-dian-qiang",
+  "main_category_slug": "19-shui-nuan-wei-yu",
+  "sub_category_slug": "19-02-fa-men-zhuan-qu",
+  "name_th": "วาล์วกันไฟฟ้ารั่ว",
+  "name_cn": "隔电墙",
+  "products": [
+    {
+      "id": "19-02-05-ge-dian-qiang-1",
+      "slug": "19-02-05-ge-dian-qiang-1",
+      "name_th": "วาล์วกันไฟฟ้ารั่ว รายการที่ 1",
+      "name_cn": "隔电墙 产品 1",
+      "price": 322,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "19-02-05-ge-dian-qiang-2",
+      "slug": "19-02-05-ge-dian-qiang-2",
+      "name_th": "วาล์วกันไฟฟ้ารั่ว รายการที่ 2",
+      "name_cn": "隔电墙 产品 2",
+      "price": 688,
+      "image": "/placeholder.png"
+    }
+  ]
+}

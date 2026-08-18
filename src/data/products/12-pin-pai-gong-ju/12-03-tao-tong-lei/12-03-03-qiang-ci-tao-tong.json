@@ -1,0 +1,25 @@
+{
+  "id": "12-03-03-qiang-ci-tao-tong",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-03-tao-tong-lei",
+  "name_th": "บล็อกแม่เหล็กแรงสูง",
+  "name_cn": "强磁套筒",
+  "products": [
+    {
+      "id": "12-03-03-qiang-ci-tao-tong-1",
+      "slug": "12-03-03-qiang-ci-tao-tong-1",
+      "name_th": "บล็อกแม่เหล็กแรงสูง รายการที่ 1",
+      "name_cn": "强磁套筒 产品 1",
+      "price": 681,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-03-03-qiang-ci-tao-tong-2",
+      "slug": "12-03-03-qiang-ci-tao-tong-2",
+      "name_th": "บล็อกแม่เหล็กแรงสูง รายการที่ 2",
+      "name_cn": "强磁套筒 产品 2",
+      "price": 265,
+      "image": "/placeholder.png"
+    }
+  ]
+}

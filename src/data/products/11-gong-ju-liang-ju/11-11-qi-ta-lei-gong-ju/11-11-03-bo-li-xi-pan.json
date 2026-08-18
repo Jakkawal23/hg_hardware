@@ -1,0 +1,25 @@
+{
+  "id": "11-11-03-bo-li-xi-pan",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-11-qi-ta-lei-gong-ju",
+  "name_th": "ที่ดูดกระจก",
+  "name_cn": "玻璃吸盘",
+  "products": [
+    {
+      "id": "11-11-03-bo-li-xi-pan-1",
+      "slug": "11-11-03-bo-li-xi-pan-1",
+      "name_th": "ที่ดูดกระจก รายการที่ 1",
+      "name_cn": "玻璃吸盘 产品 1",
+      "price": 734,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-11-03-bo-li-xi-pan-2",
+      "slug": "11-11-03-bo-li-xi-pan-2",
+      "name_th": "ที่ดูดกระจก รายการที่ 2",
+      "name_cn": "玻璃吸盘 产品 2",
+      "price": 509,
+      "image": "/placeholder.png"
+    }
+  ]
+}

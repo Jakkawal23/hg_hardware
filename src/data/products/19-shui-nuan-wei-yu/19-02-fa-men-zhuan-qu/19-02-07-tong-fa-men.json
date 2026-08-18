@@ -1,0 +1,25 @@
+{
+  "id": "19-02-07-tong-fa-men",
+  "main_category_slug": "19-shui-nuan-wei-yu",
+  "sub_category_slug": "19-02-fa-men-zhuan-qu",
+  "name_th": "วาล์วทองแดง",
+  "name_cn": "铜阀门",
+  "products": [
+    {
+      "id": "19-02-07-tong-fa-men-1",
+      "slug": "19-02-07-tong-fa-men-1",
+      "name_th": "วาล์วทองแดง รายการที่ 1",
+      "name_cn": "铜阀门 产品 1",
+      "price": 426,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "19-02-07-tong-fa-men-2",
+      "slug": "19-02-07-tong-fa-men-2",
+      "name_th": "วาล์วทองแดง รายการที่ 2",
+      "name_cn": "铜阀门 产品 2",
+      "price": 810,
+      "image": "/placeholder.png"
+    }
+  ]
+}

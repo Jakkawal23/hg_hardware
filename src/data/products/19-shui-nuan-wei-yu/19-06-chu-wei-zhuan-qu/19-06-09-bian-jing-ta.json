@@ -1,0 +1,25 @@
+{
+  "id": "19-06-09-bian-jing-ta",
+  "main_category_slug": "19-shui-nuan-wei-yu",
+  "sub_category_slug": "19-06-chu-wei-zhuan-qu",
+  "name_th": "ข้อต่อลดขนาดทรงกรวย",
+  "name_cn": "变径塔",
+  "products": [
+    {
+      "id": "19-06-09-bian-jing-ta-1",
+      "slug": "19-06-09-bian-jing-ta-1",
+      "name_th": "ข้อต่อลดขนาดทรงกรวย รายการที่ 1",
+      "name_cn": "变径塔 产品 1",
+      "price": 878,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "19-06-09-bian-jing-ta-2",
+      "slug": "19-06-09-bian-jing-ta-2",
+      "name_th": "ข้อต่อลดขนาดทรงกรวย รายการที่ 2",
+      "name_cn": "变径塔 产品 2",
+      "price": 512,
+      "image": "/placeholder.png"
+    }
+  ]
+}

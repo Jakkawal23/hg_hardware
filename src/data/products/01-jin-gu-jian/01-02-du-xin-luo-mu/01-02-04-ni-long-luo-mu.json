@@ -1,0 +1,25 @@
+{
+  "id": "01-02-04-ni-long-luo-mu",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-02-du-xin-luo-mu",
+  "name_th": "น็อตไนลอน",
+  "name_cn": "尼龙螺母",
+  "products": [
+    {
+      "id": "01-02-04-ni-long-luo-mu-1",
+      "slug": "01-02-04-ni-long-luo-mu-1",
+      "name_th": "น็อตไนลอน รายการที่ 1",
+      "name_cn": "尼龙螺母 产品 1",
+      "price": 670,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-02-04-ni-long-luo-mu-2",
+      "slug": "01-02-04-ni-long-luo-mu-2",
+      "name_th": "น็อตไนลอน รายการที่ 2",
+      "name_cn": "尼龙螺母 产品 2",
+      "price": 798,
+      "image": "/placeholder.png"
+    }
+  ]
+}

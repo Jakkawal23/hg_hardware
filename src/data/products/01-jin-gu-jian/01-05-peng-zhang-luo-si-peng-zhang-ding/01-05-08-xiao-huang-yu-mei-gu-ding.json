@@ -1,0 +1,25 @@
+{
+  "id": "01-05-08-xiao-huang-yu-mei-gu-ding",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-05-peng-zhang-luo-si-peng-zhang-ding",
+  "name_th": "พุกปลาเหลือง / พุกยี่ตะปู",
+  "name_cn": "小黄鱼/美固钉",
+  "products": [
+    {
+      "id": "01-05-08-xiao-huang-yu-mei-gu-ding-1",
+      "slug": "01-05-08-xiao-huang-yu-mei-gu-ding-1",
+      "name_th": "พุกปลาเหลือง / พุกยี่ตะปู รายการที่ 1",
+      "name_cn": "小黄鱼/美固钉 产品 1",
+      "price": 324,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-05-08-xiao-huang-yu-mei-gu-ding-2",
+      "slug": "01-05-08-xiao-huang-yu-mei-gu-ding-2",
+      "name_th": "พุกปลาเหลือง / พุกยี่ตะปู รายการที่ 2",
+      "name_cn": "小黄鱼/美固钉 产品 2",
+      "price": 374,
+      "image": "/placeholder.png"
+    }
+  ]
+}

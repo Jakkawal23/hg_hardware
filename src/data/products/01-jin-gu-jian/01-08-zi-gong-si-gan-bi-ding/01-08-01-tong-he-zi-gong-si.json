@@ -1,0 +1,25 @@
+{
+  "id": "01-08-01-tong-he-zi-gong-si",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-08-zi-gong-si-gan-bi-ding",
+  "name_th": "สกรูเกลียวปล่อย (ทงเหอ)",
+  "name_cn": "通和自攻丝",
+  "products": [
+    {
+      "id": "01-08-01-tong-he-zi-gong-si-1",
+      "slug": "01-08-01-tong-he-zi-gong-si-1",
+      "name_th": "สกรูเกลียวปล่อย (ทงเหอ) รายการที่ 1",
+      "name_cn": "通和自攻丝 产品 1",
+      "price": 456,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-08-01-tong-he-zi-gong-si-2",
+      "slug": "01-08-01-tong-he-zi-gong-si-2",
+      "name_th": "สกรูเกลียวปล่อย (ทงเหอ) รายการที่ 2",
+      "name_cn": "通和自攻丝 产品 2",
+      "price": 896,
+      "image": "/placeholder.png"
+    }
+  ]
+}

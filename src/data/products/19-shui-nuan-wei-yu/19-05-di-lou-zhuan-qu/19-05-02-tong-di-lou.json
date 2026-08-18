@@ -1,0 +1,25 @@
+{
+  "id": "19-05-02-tong-di-lou",
+  "main_category_slug": "19-shui-nuan-wei-yu",
+  "sub_category_slug": "19-05-di-lou-zhuan-qu",
+  "name_th": "ตะแกรงระบายน้ำพื้นทองแดง",
+  "name_cn": "铜地漏",
+  "products": [
+    {
+      "id": "19-05-02-tong-di-lou-1",
+      "slug": "19-05-02-tong-di-lou-1",
+      "name_th": "ตะแกรงระบายน้ำพื้นทองแดง รายการที่ 1",
+      "name_cn": "铜地漏 产品 1",
+      "price": 917,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "19-05-02-tong-di-lou-2",
+      "slug": "19-05-02-tong-di-lou-2",
+      "name_th": "ตะแกรงระบายน้ำพื้นทองแดง รายการที่ 2",
+      "name_cn": "铜地漏 产品 2",
+      "price": 266,
+      "image": "/placeholder.png"
+    }
+  ]
+}

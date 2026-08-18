@@ -1,0 +1,25 @@
+{
+  "id": "20-02-05-tong-bao-ta-jie",
+  "main_category_slug": "20-jin-shu-guan-ji-pei-jian",
+  "sub_category_slug": "20-02-jin-shu-guan-tong-pei-jian",
+  "name_th": "ข้อต่อหางปลาทองแดง",
+  "name_cn": "铜宝塔接",
+  "products": [
+    {
+      "id": "20-02-05-tong-bao-ta-jie-1",
+      "slug": "20-02-05-tong-bao-ta-jie-1",
+      "name_th": "ข้อต่อหางปลาทองแดง รายการที่ 1",
+      "name_cn": "铜宝塔接 产品 1",
+      "price": 240,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "20-02-05-tong-bao-ta-jie-2",
+      "slug": "20-02-05-tong-bao-ta-jie-2",
+      "name_th": "ข้อต่อหางปลาทองแดง รายการที่ 2",
+      "name_cn": "铜宝塔接 产品 2",
+      "price": 826,
+      "image": "/placeholder.png"
+    }
+  ]
+}

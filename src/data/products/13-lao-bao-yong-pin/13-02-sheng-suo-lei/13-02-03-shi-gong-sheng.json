@@ -1,0 +1,25 @@
+{
+  "id": "13-02-03-shi-gong-sheng",
+  "main_category_slug": "13-lao-bao-yong-pin",
+  "sub_category_slug": "13-02-sheng-suo-lei",
+  "name_th": "เชือกงานก่อสร้าง",
+  "name_cn": "施工绳",
+  "products": [
+    {
+      "id": "13-02-03-shi-gong-sheng-1",
+      "slug": "13-02-03-shi-gong-sheng-1",
+      "name_th": "เชือกงานก่อสร้าง รายการที่ 1",
+      "name_cn": "施工绳 产品 1",
+      "price": 920,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "13-02-03-shi-gong-sheng-2",
+      "slug": "13-02-03-shi-gong-sheng-2",
+      "name_th": "เชือกงานก่อสร้าง รายการที่ 2",
+      "name_cn": "施工绳 产品 2",
+      "price": 759,
+      "image": "/placeholder.png"
+    }
+  ]
+}

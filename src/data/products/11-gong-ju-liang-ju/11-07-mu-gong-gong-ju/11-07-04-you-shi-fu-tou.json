@@ -1,0 +1,25 @@
+{
+  "id": "11-07-04-you-shi-fu-tou",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-07-mu-gong-gong-ju",
+  "name_th": "ขวานหินลับ",
+  "name_cn": "油石斧头",
+  "products": [
+    {
+      "id": "11-07-04-you-shi-fu-tou-1",
+      "slug": "11-07-04-you-shi-fu-tou-1",
+      "name_th": "ขวานหินลับ รายการที่ 1",
+      "name_cn": "油石斧头 产品 1",
+      "price": 564,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-07-04-you-shi-fu-tou-2",
+      "slug": "11-07-04-you-shi-fu-tou-2",
+      "name_th": "ขวานหินลับ รายการที่ 2",
+      "name_cn": "油石斧头 产品 2",
+      "price": 969,
+      "image": "/placeholder.png"
+    }
+  ]
+}

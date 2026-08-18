@@ -1,0 +1,25 @@
+{
+  "id": "19-08-06-tiao-jie-shui-qiang-bian-jing-jie-tou",
+  "main_category_slug": "19-shui-nuan-wei-yu",
+  "sub_category_slug": "19-08-ri-hua-gong-ju",
+  "name_th": "ปืนฉีดน้ำปรับได้/ข้อต่อลดขนาด",
+  "name_cn": "调节水枪/变径接头",
+  "products": [
+    {
+      "id": "19-08-06-tiao-jie-shui-qiang-bian-jing-jie-tou-1",
+      "slug": "19-08-06-tiao-jie-shui-qiang-bian-jing-jie-tou-1",
+      "name_th": "ปืนฉีดน้ำปรับได้/ข้อต่อลดขนาด รายการที่ 1",
+      "name_cn": "调节水枪/变径接头 产品 1",
+      "price": 440,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "19-08-06-tiao-jie-shui-qiang-bian-jing-jie-tou-2",
+      "slug": "19-08-06-tiao-jie-shui-qiang-bian-jing-jie-tou-2",
+      "name_th": "ปืนฉีดน้ำปรับได้/ข้อต่อลดขนาด รายการที่ 2",
+      "name_cn": "调节水枪/变径接头 产品 2",
+      "price": 240,
+      "image": "/placeholder.png"
+    }
+  ]
+}

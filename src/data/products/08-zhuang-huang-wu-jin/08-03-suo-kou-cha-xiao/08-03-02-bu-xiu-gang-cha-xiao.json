@@ -1,0 +1,25 @@
+{
+  "id": "08-03-02-bu-xiu-gang-cha-xiao",
+  "main_category_slug": "08-zhuang-huang-wu-jin",
+  "sub_category_slug": "08-03-suo-kou-cha-xiao",
+  "name_th": "กลอนสแตนเลส",
+  "name_cn": "不锈钢插销",
+  "products": [
+    {
+      "id": "08-03-02-bu-xiu-gang-cha-xiao-1",
+      "slug": "08-03-02-bu-xiu-gang-cha-xiao-1",
+      "name_th": "กลอนสแตนเลส รายการที่ 1",
+      "name_cn": "不锈钢插销 产品 1",
+      "price": 130,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "08-03-02-bu-xiu-gang-cha-xiao-2",
+      "slug": "08-03-02-bu-xiu-gang-cha-xiao-2",
+      "name_th": "กลอนสแตนเลส รายการที่ 2",
+      "name_cn": "不锈钢插销 产品 2",
+      "price": 329,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "19-07-06-shui-biao-pei-jian",
+  "main_category_slug": "19-shui-nuan-wei-yu",
+  "sub_category_slug": "19-07-shui-biao-zhuan-qu",
+  "name_th": "อุปกรณ์เสริมมาตรวัดน้ำ",
+  "name_cn": "水表配件",
+  "products": [
+    {
+      "id": "19-07-06-shui-biao-pei-jian-1",
+      "slug": "19-07-06-shui-biao-pei-jian-1",
+      "name_th": "อุปกรณ์เสริมมาตรวัดน้ำ รายการที่ 1",
+      "name_cn": "水表配件 产品 1",
+      "price": 314,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "19-07-06-shui-biao-pei-jian-2",
+      "slug": "19-07-06-shui-biao-pei-jian-2",
+      "name_th": "อุปกรณ์เสริมมาตรวัดน้ำ รายการที่ 2",
+      "name_cn": "水表配件 产品 2",
+      "price": 769,
+      "image": "/placeholder.png"
+    }
+  ]
+}

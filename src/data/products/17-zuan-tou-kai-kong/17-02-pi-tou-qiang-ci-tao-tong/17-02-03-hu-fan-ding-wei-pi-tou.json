@@ -1,0 +1,25 @@
+{
+  "id": "17-02-03-hu-fan-ding-wei-pi-tou",
+  "main_category_slug": "17-zuan-tou-kai-kong",
+  "sub_category_slug": "17-02-pi-tou-qiang-ci-tao-tong",
+  "name_th": "หัวไขควงกำหนดความลึก หูฟาน",
+  "name_cn": "沪帆定位批头",
+  "products": [
+    {
+      "id": "17-02-03-hu-fan-ding-wei-pi-tou-1",
+      "slug": "17-02-03-hu-fan-ding-wei-pi-tou-1",
+      "name_th": "หัวไขควงกำหนดความลึก หูฟาน รายการที่ 1",
+      "name_cn": "沪帆定位批头 产品 1",
+      "price": 1032,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "17-02-03-hu-fan-ding-wei-pi-tou-2",
+      "slug": "17-02-03-hu-fan-ding-wei-pi-tou-2",
+      "name_th": "หัวไขควงกำหนดความลึก หูฟาน รายการที่ 2",
+      "name_cn": "沪帆定位批头 产品 2",
+      "price": 343,
+      "image": "/placeholder.png"
+    }
+  ]
+}

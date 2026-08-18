@@ -1,0 +1,25 @@
+{
+  "id": "11-14-02-chang-xiao-kuan-cha-di-chi",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-14-cha-di-chi",
+  "name_th": "ไม้บรรทัดปักพื้นยอดฮิต",
+  "name_cn": "畅销插地尺",
+  "products": [
+    {
+      "id": "11-14-02-chang-xiao-kuan-cha-di-chi-1",
+      "slug": "11-14-02-chang-xiao-kuan-cha-di-chi-1",
+      "name_th": "ไม้บรรทัดปักพื้นยอดฮิต รายการที่ 1",
+      "name_cn": "畅销插地尺 产品 1",
+      "price": 302,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-14-02-chang-xiao-kuan-cha-di-chi-2",
+      "slug": "11-14-02-chang-xiao-kuan-cha-di-chi-2",
+      "name_th": "ไม้บรรทัดปักพื้นยอดฮิต รายการที่ 2",
+      "name_cn": "畅销插地尺 产品 2",
+      "price": 668,
+      "image": "/placeholder.png"
+    }
+  ]
+}

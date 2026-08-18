@@ -1,0 +1,25 @@
+{
+  "id": "12-12-08-shou-yao-ju",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-12-yuan-lin-gong-ju",
+  "name_th": "เลื่อยพกพา",
+  "name_cn": "手腰锯",
+  "products": [
+    {
+      "id": "12-12-08-shou-yao-ju-1",
+      "slug": "12-12-08-shou-yao-ju-1",
+      "name_th": "เลื่อยพกพา รายการที่ 1",
+      "name_cn": "手腰锯 产品 1",
+      "price": 1017,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-12-08-shou-yao-ju-2",
+      "slug": "12-12-08-shou-yao-ju-2",
+      "name_th": "เลื่อยพกพา รายการที่ 2",
+      "name_cn": "手腰锯 产品 2",
+      "price": 681,
+      "image": "/placeholder.png"
+    }
+  ]
+}

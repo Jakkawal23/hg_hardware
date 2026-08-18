@@ -1,0 +1,25 @@
+{
+  "id": "03-12-04-dao-shun-kai-guan",
+  "main_category_slug": "03-di-ya-dian-qi",
+  "sub_category_slug": "03-12-shang-hai-ren-min-kai-guan",
+  "name_th": "สวิตช์กลับทาง",
+  "name_cn": "倒顺开关",
+  "products": [
+    {
+      "id": "03-12-04-dao-shun-kai-guan-1",
+      "slug": "03-12-04-dao-shun-kai-guan-1",
+      "name_th": "สวิตช์กลับทาง รายการที่ 1",
+      "name_cn": "倒顺开关 产品 1",
+      "price": 820,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "03-12-04-dao-shun-kai-guan-2",
+      "slug": "03-12-04-dao-shun-kai-guan-2",
+      "name_th": "สวิตช์กลับทาง รายการที่ 2",
+      "name_cn": "倒顺开关 产品 2",
+      "price": 196,
+      "image": "/placeholder.png"
+    }
+  ]
+}

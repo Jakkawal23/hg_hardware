@@ -1,0 +1,25 @@
+{
+  "id": "15-02-01-liu-tong-fa-pao-ji",
+  "main_category_slug": "15-hua-gong-jiao-zhi",
+  "sub_category_slug": "15-02-fa-pao-ji",
+  "name_th": "โฟมยาแนวทั่วไป",
+  "name_cn": "流通发泡剂",
+  "products": [
+    {
+      "id": "15-02-01-liu-tong-fa-pao-ji-1",
+      "slug": "15-02-01-liu-tong-fa-pao-ji-1",
+      "name_th": "โฟมยาแนวทั่วไป รายการที่ 1",
+      "name_cn": "流通发泡剂 产品 1",
+      "price": 152,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "15-02-01-liu-tong-fa-pao-ji-2",
+      "slug": "15-02-01-liu-tong-fa-pao-ji-2",
+      "name_th": "โฟมยาแนวทั่วไป รายการที่ 2",
+      "name_cn": "流通发泡剂 产品 2",
+      "price": 557,
+      "image": "/placeholder.png"
+    }
+  ]
+}

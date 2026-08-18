@@ -1,0 +1,25 @@
+{
+  "id": "11-10-01-han-ge-yi-biao",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-10-han-ge-gong-ju",
+  "name_th": "เกจเชื่อมตัด",
+  "name_cn": "焊割仪表",
+  "products": [
+    {
+      "id": "11-10-01-han-ge-yi-biao-1",
+      "slug": "11-10-01-han-ge-yi-biao-1",
+      "name_th": "เกจเชื่อมตัด รายการที่ 1",
+      "name_cn": "焊割仪表 产品 1",
+      "price": 597,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-10-01-han-ge-yi-biao-2",
+      "slug": "11-10-01-han-ge-yi-biao-2",
+      "name_th": "เกจเชื่อมตัด รายการที่ 2",
+      "name_cn": "焊割仪表 产品 2",
+      "price": 1078,
+      "image": "/placeholder.png"
+    }
+  ]
+}

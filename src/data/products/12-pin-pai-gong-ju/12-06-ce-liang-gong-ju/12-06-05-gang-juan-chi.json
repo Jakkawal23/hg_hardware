@@ -1,0 +1,25 @@
+{
+  "id": "12-06-05-gang-juan-chi",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-06-ce-liang-gong-ju",
+  "name_th": "ตลับเมตร",
+  "name_cn": "钢卷尺",
+  "products": [
+    {
+      "id": "12-06-05-gang-juan-chi-1",
+      "slug": "12-06-05-gang-juan-chi-1",
+      "name_th": "ตลับเมตร รายการที่ 1",
+      "name_cn": "钢卷尺 产品 1",
+      "price": 562,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-06-05-gang-juan-chi-2",
+      "slug": "12-06-05-gang-juan-chi-2",
+      "name_th": "ตลับเมตร รายการที่ 2",
+      "name_cn": "钢卷尺 产品 2",
+      "price": 1075,
+      "image": "/placeholder.png"
+    }
+  ]
+}

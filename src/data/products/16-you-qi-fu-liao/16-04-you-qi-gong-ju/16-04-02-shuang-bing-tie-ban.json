@@ -1,0 +1,25 @@
+{
+  "id": "16-04-02-shuang-bing-tie-ban",
+  "main_category_slug": "16-you-qi-fu-liao",
+  "sub_category_slug": "16-04-you-qi-gong-ju",
+  "name_th": "เกรียงเหล็กสองด้าม",
+  "name_cn": "双柄铁板",
+  "products": [
+    {
+      "id": "16-04-02-shuang-bing-tie-ban-1",
+      "slug": "16-04-02-shuang-bing-tie-ban-1",
+      "name_th": "เกรียงเหล็กสองด้าม รายการที่ 1",
+      "name_cn": "双柄铁板 产品 1",
+      "price": 723,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "16-04-02-shuang-bing-tie-ban-2",
+      "slug": "16-04-02-shuang-bing-tie-ban-2",
+      "name_th": "เกรียงเหล็กสองด้าม รายการที่ 2",
+      "name_cn": "双柄铁板 产品 2",
+      "price": 711,
+      "image": "/placeholder.png"
+    }
+  ]
+}

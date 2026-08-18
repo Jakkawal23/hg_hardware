@@ -1,0 +1,25 @@
+{
+  "id": "01-01-02-du-xin-yi-mi-si-gan",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-01-quan-ya-si-gan",
+  "name_th": "สตัดเกลียวชุบสังกะสี ยาว 1 เมตร",
+  "name_cn": "镀锌一米丝杆",
+  "products": [
+    {
+      "id": "01-01-02-du-xin-yi-mi-si-gan-1",
+      "slug": "01-01-02-du-xin-yi-mi-si-gan-1",
+      "name_th": "สตัดเกลียวชุบสังกะสี ยาว 1 เมตร รายการที่ 1",
+      "name_cn": "镀锌一米丝杆 产品 1",
+      "price": 853,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-01-02-du-xin-yi-mi-si-gan-2",
+      "slug": "01-01-02-du-xin-yi-mi-si-gan-2",
+      "name_th": "สตัดเกลียวชุบสังกะสี ยาว 1 เมตร รายการที่ 2",
+      "name_cn": "镀锌一米丝杆 产品 2",
+      "price": 531,
+      "image": "/placeholder.png"
+    }
+  ]
+}

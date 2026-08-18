@@ -1,0 +1,25 @@
+{
+  "id": "01-11-07-diao-ding-xiao-fang-ding",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-11-ding-lei",
+  "name_th": "ตะปูเพดานกันไฟ",
+  "name_cn": "吊顶消防钉",
+  "products": [
+    {
+      "id": "01-11-07-diao-ding-xiao-fang-ding-1",
+      "slug": "01-11-07-diao-ding-xiao-fang-ding-1",
+      "name_th": "ตะปูเพดานกันไฟ รายการที่ 1",
+      "name_cn": "吊顶消防钉 产品 1",
+      "price": 495,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-11-07-diao-ding-xiao-fang-ding-2",
+      "slug": "01-11-07-diao-ding-xiao-fang-ding-2",
+      "name_th": "ตะปูเพดานกันไฟ รายการที่ 2",
+      "name_cn": "吊顶消防钉 产品 2",
+      "price": 1052,
+      "image": "/placeholder.png"
+    }
+  ]
+}

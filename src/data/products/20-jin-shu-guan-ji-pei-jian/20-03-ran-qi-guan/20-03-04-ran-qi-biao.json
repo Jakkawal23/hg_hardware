@@ -1,0 +1,25 @@
+{
+  "id": "20-03-04-ran-qi-biao",
+  "main_category_slug": "20-jin-shu-guan-ji-pei-jian",
+  "sub_category_slug": "20-03-ran-qi-guan",
+  "name_th": "มาตรวัดแก๊ส",
+  "name_cn": "燃气表",
+  "products": [
+    {
+      "id": "20-03-04-ran-qi-biao-1",
+      "slug": "20-03-04-ran-qi-biao-1",
+      "name_th": "มาตรวัดแก๊ส รายการที่ 1",
+      "name_cn": "燃气表 产品 1",
+      "price": 325,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "20-03-04-ran-qi-biao-2",
+      "slug": "20-03-04-ran-qi-biao-2",
+      "name_th": "มาตรวัดแก๊ส รายการที่ 2",
+      "name_cn": "燃气表 产品 2",
+      "price": 1035,
+      "image": "/placeholder.png"
+    }
+  ]
+}

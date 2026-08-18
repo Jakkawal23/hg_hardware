@@ -1,0 +1,25 @@
+{
+  "id": "19-03-04-qi-ma-ka",
+  "main_category_slug": "19-shui-nuan-wei-yu",
+  "sub_category_slug": "19-03-jin-shu-guan-jian",
+  "name_th": "แคลมป์ปีกม้า",
+  "name_cn": "骑马卡",
+  "products": [
+    {
+      "id": "19-03-04-qi-ma-ka-1",
+      "slug": "19-03-04-qi-ma-ka-1",
+      "name_th": "แคลมป์ปีกม้า รายการที่ 1",
+      "name_cn": "骑马卡 产品 1",
+      "price": 916,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "19-03-04-qi-ma-ka-2",
+      "slug": "19-03-04-qi-ma-ka-2",
+      "name_th": "แคลมป์ปีกม้า รายการที่ 2",
+      "name_cn": "骑马卡 产品 2",
+      "price": 145,
+      "image": "/placeholder.png"
+    }
+  ]
+}

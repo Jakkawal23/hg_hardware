@@ -1,0 +1,25 @@
+{
+  "id": "11-05-05-shui-beng-jian",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-05-jian-qie-gong-ju",
+  "name_th": "กรรไกรปากกว้าง",
+  "name_cn": "水泵剪",
+  "products": [
+    {
+      "id": "11-05-05-shui-beng-jian-1",
+      "slug": "11-05-05-shui-beng-jian-1",
+      "name_th": "กรรไกรปากกว้าง รายการที่ 1",
+      "name_cn": "水泵剪 产品 1",
+      "price": 174,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-05-05-shui-beng-jian-2",
+      "slug": "11-05-05-shui-beng-jian-2",
+      "name_th": "กรรไกรปากกว้าง รายการที่ 2",
+      "name_cn": "水泵剪 产品 2",
+      "price": 996,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "20-01-03-dui-jie",
+  "main_category_slug": "20-jin-shu-guan-ji-pei-jian",
+  "sub_category_slug": "20-01-heng-tong-ran-qi-guan-pei-jian",
+  "name_th": "ข้อต่อตรง",
+  "name_cn": "对接",
+  "products": [
+    {
+      "id": "20-01-03-dui-jie-1",
+      "slug": "20-01-03-dui-jie-1",
+      "name_th": "ข้อต่อตรง รายการที่ 1",
+      "name_cn": "对接 产品 1",
+      "price": 435,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "20-01-03-dui-jie-2",
+      "slug": "20-01-03-dui-jie-2",
+      "name_th": "ข้อต่อตรง รายการที่ 2",
+      "name_cn": "对接 产品 2",
+      "price": 886,
+      "image": "/placeholder.png"
+    }
+  ]
+}

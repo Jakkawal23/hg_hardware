@@ -1,0 +1,25 @@
+{
+  "id": "16-04-14-gua-ban",
+  "main_category_slug": "16-you-qi-fu-liao",
+  "sub_category_slug": "16-04-you-qi-gong-ju",
+  "name_th": "แผ่นขูด",
+  "name_cn": "刮板",
+  "products": [
+    {
+      "id": "16-04-14-gua-ban-1",
+      "slug": "16-04-14-gua-ban-1",
+      "name_th": "แผ่นขูด รายการที่ 1",
+      "name_cn": "刮板 产品 1",
+      "price": 883,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "16-04-14-gua-ban-2",
+      "slug": "16-04-14-gua-ban-2",
+      "name_th": "แผ่นขูด รายการที่ 2",
+      "name_cn": "刮板 产品 2",
+      "price": 1065,
+      "image": "/placeholder.png"
+    }
+  ]
+}

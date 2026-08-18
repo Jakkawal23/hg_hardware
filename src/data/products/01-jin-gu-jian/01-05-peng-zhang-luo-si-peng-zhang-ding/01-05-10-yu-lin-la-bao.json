@@ -1,0 +1,25 @@
+{
+  "id": "01-05-10-yu-lin-la-bao",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-05-peng-zhang-luo-si-peng-zhang-ding",
+  "name_th": "พุกดึงปลา",
+  "name_cn": "鱼鳃拉爆",
+  "products": [
+    {
+      "id": "01-05-10-yu-lin-la-bao-1",
+      "slug": "01-05-10-yu-lin-la-bao-1",
+      "name_th": "พุกดึงปลา รายการที่ 1",
+      "name_cn": "鱼鳃拉爆 产品 1",
+      "price": 566,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-05-10-yu-lin-la-bao-2",
+      "slug": "01-05-10-yu-lin-la-bao-2",
+      "name_th": "พุกดึงปลา รายการที่ 2",
+      "name_cn": "鱼鳃拉爆 产品 2",
+      "price": 443,
+      "image": "/placeholder.png"
+    }
+  ]
+}

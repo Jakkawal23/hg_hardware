@@ -1,0 +1,25 @@
+{
+  "id": "11-02-10-ba-jiao-chui-tou",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-02-chui-zi-lei",
+  "name_th": "หัวค้อนแปดเหลี่ยม",
+  "name_cn": "八角锤头",
+  "products": [
+    {
+      "id": "11-02-10-ba-jiao-chui-tou-1",
+      "slug": "11-02-10-ba-jiao-chui-tou-1",
+      "name_th": "หัวค้อนแปดเหลี่ยม รายการที่ 1",
+      "name_cn": "八角锤头 产品 1",
+      "price": 690,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-02-10-ba-jiao-chui-tou-2",
+      "slug": "11-02-10-ba-jiao-chui-tou-2",
+      "name_th": "หัวค้อนแปดเหลี่ยม รายการที่ 2",
+      "name_cn": "八角锤头 产品 2",
+      "price": 472,
+      "image": "/placeholder.png"
+    }
+  ]
+}

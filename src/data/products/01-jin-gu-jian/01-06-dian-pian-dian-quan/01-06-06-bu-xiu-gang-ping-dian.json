@@ -1,0 +1,25 @@
+{
+  "id": "01-06-06-bu-xiu-gang-ping-dian",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-06-dian-pian-dian-quan",
+  "name_th": "แหวนแบนสแตนเลส",
+  "name_cn": "不锈钢平垫",
+  "products": [
+    {
+      "id": "01-06-06-bu-xiu-gang-ping-dian-1",
+      "slug": "01-06-06-bu-xiu-gang-ping-dian-1",
+      "name_th": "แหวนแบนสแตนเลส รายการที่ 1",
+      "name_cn": "不锈钢平垫 产品 1",
+      "price": 1072,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-06-06-bu-xiu-gang-ping-dian-2",
+      "slug": "01-06-06-bu-xiu-gang-ping-dian-2",
+      "name_th": "แหวนแบนสแตนเลส รายการที่ 2",
+      "name_cn": "不锈钢平垫 产品 2",
+      "price": 504,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "12-11-17-re-rong-qi",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-11-dian-gong-dian-zi",
+  "name_th": "เครื่องเชื่อมท่อความร้อน",
+  "name_cn": "热熔器",
+  "products": [
+    {
+      "id": "12-11-17-re-rong-qi-1",
+      "slug": "12-11-17-re-rong-qi-1",
+      "name_th": "เครื่องเชื่อมท่อความร้อน รายการที่ 1",
+      "name_cn": "热熔器 产品 1",
+      "price": 514,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-11-17-re-rong-qi-2",
+      "slug": "12-11-17-re-rong-qi-2",
+      "name_th": "เครื่องเชื่อมท่อความร้อน รายการที่ 2",
+      "name_cn": "热熔器 产品 2",
+      "price": 246,
+      "image": "/placeholder.png"
+    }
+  ]
+}

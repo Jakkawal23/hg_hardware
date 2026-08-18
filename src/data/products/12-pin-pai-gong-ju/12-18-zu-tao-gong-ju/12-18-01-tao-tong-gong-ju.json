@@ -1,0 +1,25 @@
+{
+  "id": "12-18-01-tao-tong-gong-ju",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-18-zu-tao-gong-ju",
+  "name_th": "ชุดเครื่องมือบล็อก",
+  "name_cn": "套筒工具",
+  "products": [
+    {
+      "id": "12-18-01-tao-tong-gong-ju-1",
+      "slug": "12-18-01-tao-tong-gong-ju-1",
+      "name_th": "ชุดเครื่องมือบล็อก รายการที่ 1",
+      "name_cn": "套筒工具 产品 1",
+      "price": 648,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-18-01-tao-tong-gong-ju-2",
+      "slug": "12-18-01-tao-tong-gong-ju-2",
+      "name_th": "ชุดเครื่องมือบล็อก รายการที่ 2",
+      "name_cn": "套筒工具 产品 2",
+      "price": 1036,
+      "image": "/placeholder.png"
+    }
+  ]
+}

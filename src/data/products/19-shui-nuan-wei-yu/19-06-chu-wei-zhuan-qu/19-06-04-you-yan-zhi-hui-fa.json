@@ -1,0 +1,25 @@
+{
+  "id": "19-06-04-you-yan-zhi-hui-fa",
+  "main_category_slug": "19-shui-nuan-wei-yu",
+  "sub_category_slug": "19-06-chu-wei-zhuan-qu",
+  "name_th": "วาล์วกันควันย้อนกลับ",
+  "name_cn": "油烟止回阀",
+  "products": [
+    {
+      "id": "19-06-04-you-yan-zhi-hui-fa-1",
+      "slug": "19-06-04-you-yan-zhi-hui-fa-1",
+      "name_th": "วาล์วกันควันย้อนกลับ รายการที่ 1",
+      "name_cn": "油烟止回阀 产品 1",
+      "price": 182,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "19-06-04-you-yan-zhi-hui-fa-2",
+      "slug": "19-06-04-you-yan-zhi-hui-fa-2",
+      "name_th": "วาล์วกันควันย้อนกลับ รายการที่ 2",
+      "name_cn": "油烟止回阀 产品 2",
+      "price": 836,
+      "image": "/placeholder.png"
+    }
+  ]
+}

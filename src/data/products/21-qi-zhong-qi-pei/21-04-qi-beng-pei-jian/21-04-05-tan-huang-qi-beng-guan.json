@@ -1,0 +1,25 @@
+{
+  "id": "21-04-05-tan-huang-qi-beng-guan",
+  "main_category_slug": "21-qi-zhong-qi-pei",
+  "sub_category_slug": "21-04-qi-beng-pei-jian",
+  "name_th": "สายปั๊มลมสปริง",
+  "name_cn": "弹簧气泵管",
+  "products": [
+    {
+      "id": "21-04-05-tan-huang-qi-beng-guan-1",
+      "slug": "21-04-05-tan-huang-qi-beng-guan-1",
+      "name_th": "สายปั๊มลมสปริง รายการที่ 1",
+      "name_cn": "弹簧气泵管 产品 1",
+      "price": 627,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "21-04-05-tan-huang-qi-beng-guan-2",
+      "slug": "21-04-05-tan-huang-qi-beng-guan-2",
+      "name_th": "สายปั๊มลมสปริง รายการที่ 2",
+      "name_cn": "弹簧气泵管 产品 2",
+      "price": 489,
+      "image": "/placeholder.png"
+    }
+  ]
+}

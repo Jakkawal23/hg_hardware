@@ -1,0 +1,25 @@
+{
+  "id": "20-04-06-bu-xiu-gang-du-tou",
+  "main_category_slug": "20-jin-shu-guan-ji-pei-jian",
+  "sub_category_slug": "20-04-bu-xiu-gang-guan-pei-jian",
+  "name_th": "ปลั๊กอุดสแตนเลส",
+  "name_cn": "不锈钢堵头",
+  "products": [
+    {
+      "id": "20-04-06-bu-xiu-gang-du-tou-1",
+      "slug": "20-04-06-bu-xiu-gang-du-tou-1",
+      "name_th": "ปลั๊กอุดสแตนเลส รายการที่ 1",
+      "name_cn": "不锈钢堵头 产品 1",
+      "price": 688,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "20-04-06-bu-xiu-gang-du-tou-2",
+      "slug": "20-04-06-bu-xiu-gang-du-tou-2",
+      "name_th": "ปลั๊กอุดสแตนเลส รายการที่ 2",
+      "name_cn": "不锈钢堵头 产品 2",
+      "price": 262,
+      "image": "/placeholder.png"
+    }
+  ]
+}

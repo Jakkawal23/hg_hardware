@@ -1,0 +1,25 @@
+{
+  "id": "01-03-09-8ji-luo-si-zu",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-03-du-xin-luo-si",
+  "name_th": "ชุดสกรูเกรด 8 (ดำ)",
+  "name_cn": "8级螺丝组",
+  "products": [
+    {
+      "id": "01-03-09-8ji-luo-si-zu-1",
+      "slug": "01-03-09-8ji-luo-si-zu-1",
+      "name_th": "ชุดสกรูเกรด 8 (ดำ) รายการที่ 1",
+      "name_cn": "8级螺丝组 产品 1",
+      "price": 855,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-03-09-8ji-luo-si-zu-2",
+      "slug": "01-03-09-8ji-luo-si-zu-2",
+      "name_th": "ชุดสกรูเกรด 8 (ดำ) รายการที่ 2",
+      "name_cn": "8级螺丝组 产品 2",
+      "price": 1072,
+      "image": "/placeholder.png"
+    }
+  ]
+}

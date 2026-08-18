@@ -1,0 +1,25 @@
+{
+  "id": "01-12-09-KBG-xian-guan-pei-jian",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-12-jian-zhu-pei-jian",
+  "name_th": "ท่อร้อยสาย KBG และอุปกรณ์เสริม",
+  "name_cn": "KBG线管/配件",
+  "products": [
+    {
+      "id": "01-12-09-KBG-xian-guan-pei-jian-1",
+      "slug": "01-12-09-KBG-xian-guan-pei-jian-1",
+      "name_th": "ท่อร้อยสาย KBG และอุปกรณ์เสริม รายการที่ 1",
+      "name_cn": "KBG线管/配件 产品 1",
+      "price": 953,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-12-09-KBG-xian-guan-pei-jian-2",
+      "slug": "01-12-09-KBG-xian-guan-pei-jian-2",
+      "name_th": "ท่อร้อยสาย KBG และอุปกรณ์เสริม รายการที่ 2",
+      "name_cn": "KBG线管/配件 产品 2",
+      "price": 964,
+      "image": "/placeholder.png"
+    }
+  ]
+}

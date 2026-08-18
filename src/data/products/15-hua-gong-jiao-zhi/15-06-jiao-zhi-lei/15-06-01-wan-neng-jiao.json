@@ -1,0 +1,25 @@
+{
+  "id": "15-06-01-wan-neng-jiao",
+  "main_category_slug": "15-hua-gong-jiao-zhi",
+  "sub_category_slug": "15-06-jiao-zhi-lei",
+  "name_th": "กาวอเนกประสงค์",
+  "name_cn": "万能胶",
+  "products": [
+    {
+      "id": "15-06-01-wan-neng-jiao-1",
+      "slug": "15-06-01-wan-neng-jiao-1",
+      "name_th": "กาวอเนกประสงค์ รายการที่ 1",
+      "name_cn": "万能胶 产品 1",
+      "price": 704,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "15-06-01-wan-neng-jiao-2",
+      "slug": "15-06-01-wan-neng-jiao-2",
+      "name_th": "กาวอเนกประสงค์ รายการที่ 2",
+      "name_cn": "万能胶 产品 2",
+      "price": 852,
+      "image": "/placeholder.png"
+    }
+  ]
+}

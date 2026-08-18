@@ -1,0 +1,25 @@
+{
+  "id": "22-01-21-gan-ying-xi-ding-deng",
+  "main_category_slug": "22-deng-ju-dian-zi",
+  "sub_category_slug": "22-01-zhao-ming",
+  "name_th": "โคมไฟเซนเซอร์ติดเพดาน",
+  "name_cn": "感应吸顶灯",
+  "products": [
+    {
+      "id": "22-01-21-gan-ying-xi-ding-deng-1",
+      "slug": "22-01-21-gan-ying-xi-ding-deng-1",
+      "name_th": "โคมไฟเซนเซอร์ติดเพดาน รายการที่ 1",
+      "name_cn": "感应吸顶灯 产品 1",
+      "price": 1018,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "22-01-21-gan-ying-xi-ding-deng-2",
+      "slug": "22-01-21-gan-ying-xi-ding-deng-2",
+      "name_th": "โคมไฟเซนเซอร์ติดเพดาน รายการที่ 2",
+      "name_cn": "感应吸顶灯 产品 2",
+      "price": 395,
+      "image": "/placeholder.png"
+    }
+  ]
+}

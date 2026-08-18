@@ -1,0 +1,25 @@
+{
+  "id": "22-03-03-ya-ming-yu-ba",
+  "main_category_slug": "22-deng-ju-dian-zi",
+  "sub_category_slug": "22-03-qu-nuan-zhao-ming",
+  "name_th": "ฮีทเตอร์อาบน้ำ ย่าหมิง",
+  "name_cn": "亚明浴霸",
+  "products": [
+    {
+      "id": "22-03-03-ya-ming-yu-ba-1",
+      "slug": "22-03-03-ya-ming-yu-ba-1",
+      "name_th": "ฮีทเตอร์อาบน้ำ ย่าหมิง รายการที่ 1",
+      "name_cn": "亚明浴霸 产品 1",
+      "price": 438,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "22-03-03-ya-ming-yu-ba-2",
+      "slug": "22-03-03-ya-ming-yu-ba-2",
+      "name_th": "ฮีทเตอร์อาบน้ำ ย่าหมิง รายการที่ 2",
+      "name_cn": "亚明浴霸 产品 2",
+      "price": 458,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "12-03-02-jia-chang-tao-tong",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-03-tao-tong-lei",
+  "name_th": "บล็อกต่อยาว",
+  "name_cn": "加长套筒",
+  "products": [
+    {
+      "id": "12-03-02-jia-chang-tao-tong-1",
+      "slug": "12-03-02-jia-chang-tao-tong-1",
+      "name_th": "บล็อกต่อยาว รายการที่ 1",
+      "name_cn": "加长套筒 产品 1",
+      "price": 287,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-03-02-jia-chang-tao-tong-2",
+      "slug": "12-03-02-jia-chang-tao-tong-2",
+      "name_th": "บล็อกต่อยาว รายการที่ 2",
+      "name_cn": "加长套筒 产品 2",
+      "price": 692,
+      "image": "/placeholder.png"
+    }
+  ]
+}

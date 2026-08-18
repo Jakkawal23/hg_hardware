@@ -1,0 +1,25 @@
+{
+  "id": "12-06-08-shui-ping-chi",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-06-ce-liang-gong-ju",
+  "name_th": "ระดับน้ำ",
+  "name_cn": "水平尺",
+  "products": [
+    {
+      "id": "12-06-08-shui-ping-chi-1",
+      "slug": "12-06-08-shui-ping-chi-1",
+      "name_th": "ระดับน้ำ รายการที่ 1",
+      "name_cn": "水平尺 产品 1",
+      "price": 325,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-06-08-shui-ping-chi-2",
+      "slug": "12-06-08-shui-ping-chi-2",
+      "name_th": "ระดับน้ำ รายการที่ 2",
+      "name_cn": "水平尺 产品 2",
+      "price": 766,
+      "image": "/placeholder.png"
+    }
+  ]
+}

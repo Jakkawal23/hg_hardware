@@ -1,0 +1,25 @@
+{
+  "id": "22-01-15-tie-pi-tong-deng",
+  "main_category_slug": "22-deng-ju-dian-zi",
+  "sub_category_slug": "22-01-zhao-ming",
+  "name_th": "ไฟดาวน์ไลท์แผ่นเหล็ก",
+  "name_cn": "铁皮筒灯",
+  "products": [
+    {
+      "id": "22-01-15-tie-pi-tong-deng-1",
+      "slug": "22-01-15-tie-pi-tong-deng-1",
+      "name_th": "ไฟดาวน์ไลท์แผ่นเหล็ก รายการที่ 1",
+      "name_cn": "铁皮筒灯 产品 1",
+      "price": 458,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "22-01-15-tie-pi-tong-deng-2",
+      "slug": "22-01-15-tie-pi-tong-deng-2",
+      "name_th": "ไฟดาวน์ไลท์แผ่นเหล็ก รายการที่ 2",
+      "name_cn": "铁皮筒灯 产品 2",
+      "price": 659,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "11-09-06-jia-yong-jian-dao",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-09-jian-lei-dao-ju-lei",
+  "name_th": "กรรไกรใช้ในบ้าน",
+  "name_cn": "家用剪刀",
+  "products": [
+    {
+      "id": "11-09-06-jia-yong-jian-dao-1",
+      "slug": "11-09-06-jia-yong-jian-dao-1",
+      "name_th": "กรรไกรใช้ในบ้าน รายการที่ 1",
+      "name_cn": "家用剪刀 产品 1",
+      "price": 899,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-09-06-jia-yong-jian-dao-2",
+      "slug": "11-09-06-jia-yong-jian-dao-2",
+      "name_th": "กรรไกรใช้ในบ้าน รายการที่ 2",
+      "name_cn": "家用剪刀 产品 2",
+      "price": 175,
+      "image": "/placeholder.png"
+    }
+  ]
+}

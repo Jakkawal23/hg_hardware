@@ -1,0 +1,25 @@
+{
+  "id": "01-08-05-la-fa-ji-gan-bi-ding-zhuang-xiu",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-08-zi-gong-si-gan-bi-ding",
+  "name_th": "สกรูยิปซั่มลาฟาร์จ / งานตกแต่ง",
+  "name_cn": "拉法基干壁钉/装修",
+  "products": [
+    {
+      "id": "01-08-05-la-fa-ji-gan-bi-ding-zhuang-xiu-1",
+      "slug": "01-08-05-la-fa-ji-gan-bi-ding-zhuang-xiu-1",
+      "name_th": "สกรูยิปซั่มลาฟาร์จ / งานตกแต่ง รายการที่ 1",
+      "name_cn": "拉法基干壁钉/装修 产品 1",
+      "price": 634,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-08-05-la-fa-ji-gan-bi-ding-zhuang-xiu-2",
+      "slug": "01-08-05-la-fa-ji-gan-bi-ding-zhuang-xiu-2",
+      "name_th": "สกรูยิปซั่มลาฟาร์จ / งานตกแต่ง รายการที่ 2",
+      "name_cn": "拉法基干壁钉/装修 产品 2",
+      "price": 1063,
+      "image": "/placeholder.png"
+    }
+  ]
+}

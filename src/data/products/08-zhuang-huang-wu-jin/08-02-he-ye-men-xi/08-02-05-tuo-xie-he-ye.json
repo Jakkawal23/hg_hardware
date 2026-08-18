@@ -1,0 +1,25 @@
+{
+  "id": "08-02-05-tuo-xie-he-ye",
+  "main_category_slug": "08-zhuang-huang-wu-jin",
+  "sub_category_slug": "08-02-he-ye-men-xi",
+  "name_th": "บานพับถอดได้",
+  "name_cn": "脱卸合页",
+  "products": [
+    {
+      "id": "08-02-05-tuo-xie-he-ye-1",
+      "slug": "08-02-05-tuo-xie-he-ye-1",
+      "name_th": "บานพับถอดได้ รายการที่ 1",
+      "name_cn": "脱卸合页 产品 1",
+      "price": 204,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "08-02-05-tuo-xie-he-ye-2",
+      "slug": "08-02-05-tuo-xie-he-ye-2",
+      "name_th": "บานพับถอดได้ รายการที่ 2",
+      "name_cn": "脱卸合页 产品 2",
+      "price": 201,
+      "image": "/placeholder.png"
+    }
+  ]
+}

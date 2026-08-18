@@ -1,0 +1,25 @@
+{
+  "id": "20-02-04-tong-pian-xin",
+  "main_category_slug": "20-jin-shu-guan-ji-pei-jian",
+  "sub_category_slug": "20-02-jin-shu-guan-tong-pei-jian",
+  "name_th": "ข้อต่อลดเยื้องศูนย์ทองแดง",
+  "name_cn": "铜偏心",
+  "products": [
+    {
+      "id": "20-02-04-tong-pian-xin-1",
+      "slug": "20-02-04-tong-pian-xin-1",
+      "name_th": "ข้อต่อลดเยื้องศูนย์ทองแดง รายการที่ 1",
+      "name_cn": "铜偏心 产品 1",
+      "price": 221,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "20-02-04-tong-pian-xin-2",
+      "slug": "20-02-04-tong-pian-xin-2",
+      "name_th": "ข้อต่อลดเยื้องศูนย์ทองแดง รายการที่ 2",
+      "name_cn": "铜偏心 产品 2",
+      "price": 128,
+      "image": "/placeholder.png"
+    }
+  ]
+}

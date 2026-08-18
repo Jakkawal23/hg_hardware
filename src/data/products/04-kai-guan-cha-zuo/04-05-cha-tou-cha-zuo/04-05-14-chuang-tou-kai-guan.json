@@ -1,0 +1,25 @@
+{
+  "id": "04-05-14-chuang-tou-kai-guan",
+  "main_category_slug": "04-kai-guan-cha-zuo",
+  "sub_category_slug": "04-05-cha-tou-cha-zuo",
+  "name_th": "สวิตช์หัวเตียง",
+  "name_cn": "床头开关",
+  "products": [
+    {
+      "id": "04-05-14-chuang-tou-kai-guan-1",
+      "slug": "04-05-14-chuang-tou-kai-guan-1",
+      "name_th": "สวิตช์หัวเตียง รายการที่ 1",
+      "name_cn": "床头开关 产品 1",
+      "price": 879,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "04-05-14-chuang-tou-kai-guan-2",
+      "slug": "04-05-14-chuang-tou-kai-guan-2",
+      "name_th": "สวิตช์หัวเตียง รายการที่ 2",
+      "name_cn": "床头开关 产品 2",
+      "price": 447,
+      "image": "/placeholder.png"
+    }
+  ]
+}

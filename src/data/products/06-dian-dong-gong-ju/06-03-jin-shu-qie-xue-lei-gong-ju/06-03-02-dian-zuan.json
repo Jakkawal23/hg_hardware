@@ -1,0 +1,25 @@
+{
+  "id": "06-03-02-dian-zuan",
+  "main_category_slug": "06-dian-dong-gong-ju",
+  "sub_category_slug": "06-03-jin-shu-qie-xue-lei-gong-ju",
+  "name_th": "สว่านไฟฟ้า",
+  "name_cn": "电钻",
+  "products": [
+    {
+      "id": "06-03-02-dian-zuan-1",
+      "slug": "06-03-02-dian-zuan-1",
+      "name_th": "สว่านไฟฟ้า รายการที่ 1",
+      "name_cn": "电钻 产品 1",
+      "price": 243,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "06-03-02-dian-zuan-2",
+      "slug": "06-03-02-dian-zuan-2",
+      "name_th": "สว่านไฟฟ้า รายการที่ 2",
+      "name_cn": "电钻 产品 2",
+      "price": 700,
+      "image": "/placeholder.png"
+    }
+  ]
+}

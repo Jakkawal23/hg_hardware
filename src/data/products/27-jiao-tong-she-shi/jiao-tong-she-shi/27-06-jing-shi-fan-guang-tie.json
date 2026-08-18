@@ -1,0 +1,25 @@
+{
+  "id": "27-06-jing-shi-fan-guang-tie",
+  "main_category_slug": "27-jiao-tong-she-shi",
+  "sub_category_slug": "jiao-tong-she-shi",
+  "name_th": "สติ๊กเกอร์สะท้อนแสงเตือน",
+  "name_cn": "警示反光贴",
+  "products": [
+    {
+      "id": "27-06-jing-shi-fan-guang-tie-1",
+      "slug": "27-06-jing-shi-fan-guang-tie-1",
+      "name_th": "สติ๊กเกอร์สะท้อนแสงเตือน รายการที่ 1",
+      "name_cn": "警示反光贴 产品 1",
+      "price": 859,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "27-06-jing-shi-fan-guang-tie-2",
+      "slug": "27-06-jing-shi-fan-guang-tie-2",
+      "name_th": "สติ๊กเกอร์สะท้อนแสงเตือน รายการที่ 2",
+      "name_cn": "警示反光贴 产品 2",
+      "price": 1093,
+      "image": "/placeholder.png"
+    }
+  ]
+}

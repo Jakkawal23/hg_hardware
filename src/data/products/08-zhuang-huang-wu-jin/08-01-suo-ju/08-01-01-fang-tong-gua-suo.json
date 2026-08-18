@@ -1,0 +1,25 @@
+{
+  "id": "08-01-01-fang-tong-gua-suo",
+  "main_category_slug": "08-zhuang-huang-wu-jin",
+  "sub_category_slug": "08-01-suo-ju",
+  "name_th": "แม่กุญแจเลียนแบบทองแดง",
+  "name_cn": "仿铜挂锁",
+  "products": [
+    {
+      "id": "08-01-01-fang-tong-gua-suo-1",
+      "slug": "08-01-01-fang-tong-gua-suo-1",
+      "name_th": "แม่กุญแจเลียนแบบทองแดง รายการที่ 1",
+      "name_cn": "仿铜挂锁 产品 1",
+      "price": 478,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "08-01-01-fang-tong-gua-suo-2",
+      "slug": "08-01-01-fang-tong-gua-suo-2",
+      "name_th": "แม่กุญแจเลียนแบบทองแดง รายการที่ 2",
+      "name_cn": "仿铜挂锁 产品 2",
+      "price": 1076,
+      "image": "/placeholder.png"
+    }
+  ]
+}

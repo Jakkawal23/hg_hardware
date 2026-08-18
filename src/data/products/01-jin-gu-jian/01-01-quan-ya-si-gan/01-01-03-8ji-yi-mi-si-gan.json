@@ -1,0 +1,25 @@
+{
+  "id": "01-01-03-8ji-yi-mi-si-gan",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-01-quan-ya-si-gan",
+  "name_th": "สตัดเกลียวเกรด 8 ยาว 1 เมตร (สีดำ)",
+  "name_cn": "8级一米丝杆",
+  "products": [
+    {
+      "id": "01-01-03-8ji-yi-mi-si-gan-1",
+      "slug": "01-01-03-8ji-yi-mi-si-gan-1",
+      "name_th": "สตัดเกลียวเกรด 8 ยาว 1 เมตร (สีดำ) รายการที่ 1",
+      "name_cn": "8级一米丝杆 产品 1",
+      "price": 141,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-01-03-8ji-yi-mi-si-gan-2",
+      "slug": "01-01-03-8ji-yi-mi-si-gan-2",
+      "name_th": "สตัดเกลียวเกรด 8 ยาว 1 เมตร (สีดำ) รายการที่ 2",
+      "name_cn": "8级一米丝杆 产品 2",
+      "price": 383,
+      "image": "/placeholder.png"
+    }
+  ]
+}

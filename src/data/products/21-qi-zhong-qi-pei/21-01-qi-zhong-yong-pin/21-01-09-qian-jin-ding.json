@@ -1,0 +1,25 @@
+{
+  "id": "21-01-09-qian-jin-ding",
+  "main_category_slug": "21-qi-zhong-qi-pei",
+  "sub_category_slug": "21-01-qi-zhong-yong-pin",
+  "name_th": "แม่แรง",
+  "name_cn": "千斤顶",
+  "products": [
+    {
+      "id": "21-01-09-qian-jin-ding-1",
+      "slug": "21-01-09-qian-jin-ding-1",
+      "name_th": "แม่แรง รายการที่ 1",
+      "name_cn": "千斤顶 产品 1",
+      "price": 583,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "21-01-09-qian-jin-ding-2",
+      "slug": "21-01-09-qian-jin-ding-2",
+      "name_th": "แม่แรง รายการที่ 2",
+      "name_cn": "千斤顶 产品 2",
+      "price": 193,
+      "image": "/placeholder.png"
+    }
+  ]
+}

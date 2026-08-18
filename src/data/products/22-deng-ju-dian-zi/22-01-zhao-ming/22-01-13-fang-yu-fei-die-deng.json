@@ -1,0 +1,25 @@
+{
+  "id": "22-01-13-fang-yu-fei-die-deng",
+  "main_category_slug": "22-deng-ju-dian-zi",
+  "sub_category_slug": "22-01-zhao-ming",
+  "name_th": "โคมไฟจานบินกันฝน",
+  "name_cn": "防雨飞碟灯",
+  "products": [
+    {
+      "id": "22-01-13-fang-yu-fei-die-deng-1",
+      "slug": "22-01-13-fang-yu-fei-die-deng-1",
+      "name_th": "โคมไฟจานบินกันฝน รายการที่ 1",
+      "name_cn": "防雨飞碟灯 产品 1",
+      "price": 912,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "22-01-13-fang-yu-fei-die-deng-2",
+      "slug": "22-01-13-fang-yu-fei-die-deng-2",
+      "name_th": "โคมไฟจานบินกันฝน รายการที่ 2",
+      "name_cn": "防雨飞碟灯 产品 2",
+      "price": 400,
+      "image": "/placeholder.png"
+    }
+  ]
+}

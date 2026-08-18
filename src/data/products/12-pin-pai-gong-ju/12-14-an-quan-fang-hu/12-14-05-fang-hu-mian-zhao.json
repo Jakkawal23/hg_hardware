@@ -1,0 +1,25 @@
+{
+  "id": "12-14-05-fang-hu-mian-zhao",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-14-an-quan-fang-hu",
+  "name_th": "หน้ากากป้องกัน",
+  "name_cn": "防护面罩",
+  "products": [
+    {
+      "id": "12-14-05-fang-hu-mian-zhao-1",
+      "slug": "12-14-05-fang-hu-mian-zhao-1",
+      "name_th": "หน้ากากป้องกัน รายการที่ 1",
+      "name_cn": "防护面罩 产品 1",
+      "price": 500,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-14-05-fang-hu-mian-zhao-2",
+      "slug": "12-14-05-fang-hu-mian-zhao-2",
+      "name_th": "หน้ากากป้องกัน รายการที่ 2",
+      "name_cn": "防护面罩 产品 2",
+      "price": 640,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "12-08-16-xiu-zhi-shu-zhi-jian",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-08-jian-qie-gong-ju",
+  "name_th": "กรรไกรตัดกิ่งไม้",
+  "name_cn": "修枝/树枝剪",
+  "products": [
+    {
+      "id": "12-08-16-xiu-zhi-shu-zhi-jian-1",
+      "slug": "12-08-16-xiu-zhi-shu-zhi-jian-1",
+      "name_th": "กรรไกรตัดกิ่งไม้ รายการที่ 1",
+      "name_cn": "修枝/树枝剪 产品 1",
+      "price": 486,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-08-16-xiu-zhi-shu-zhi-jian-2",
+      "slug": "12-08-16-xiu-zhi-shu-zhi-jian-2",
+      "name_th": "กรรไกรตัดกิ่งไม้ รายการที่ 2",
+      "name_cn": "修枝/树枝剪 产品 2",
+      "price": 930,
+      "image": "/placeholder.png"
+    }
+  ]
+}

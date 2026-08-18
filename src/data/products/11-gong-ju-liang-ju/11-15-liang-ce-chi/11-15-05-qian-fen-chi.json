@@ -1,0 +1,25 @@
+{
+  "id": "11-15-05-qian-fen-chi",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-15-liang-ce-chi",
+  "name_th": "ไมโครมิเตอร์",
+  "name_cn": "千分尺",
+  "products": [
+    {
+      "id": "11-15-05-qian-fen-chi-1",
+      "slug": "11-15-05-qian-fen-chi-1",
+      "name_th": "ไมโครมิเตอร์ รายการที่ 1",
+      "name_cn": "千分尺 产品 1",
+      "price": 916,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-15-05-qian-fen-chi-2",
+      "slug": "11-15-05-qian-fen-chi-2",
+      "name_th": "ไมโครมิเตอร์ รายการที่ 2",
+      "name_cn": "千分尺 产品 2",
+      "price": 182,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "12-07-12-guan-zi-ge-dao",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-07-ren-ju-qie-ge",
+  "name_th": "มีดตัดท่อ",
+  "name_cn": "管子割刀",
+  "products": [
+    {
+      "id": "12-07-12-guan-zi-ge-dao-1",
+      "slug": "12-07-12-guan-zi-ge-dao-1",
+      "name_th": "มีดตัดท่อ รายการที่ 1",
+      "name_cn": "管子割刀 产品 1",
+      "price": 922,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-07-12-guan-zi-ge-dao-2",
+      "slug": "12-07-12-guan-zi-ge-dao-2",
+      "name_th": "มีดตัดท่อ รายการที่ 2",
+      "name_cn": "管子割刀 产品 2",
+      "price": 807,
+      "image": "/placeholder.png"
+    }
+  ]
+}
