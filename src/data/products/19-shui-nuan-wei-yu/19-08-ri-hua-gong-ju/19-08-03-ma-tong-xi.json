@@ -1,0 +1,25 @@
+{
+  "id": "19-08-03-ma-tong-xi",
+  "main_category_slug": "19-shui-nuan-wei-yu",
+  "sub_category_slug": "19-08-ri-hua-gong-ju",
+  "name_th": "ที่ดูดส้วม",
+  "name_cn": "马桶吸",
+  "products": [
+    {
+      "id": "19-08-03-ma-tong-xi-1",
+      "slug": "19-08-03-ma-tong-xi-1",
+      "name_th": "ที่ดูดส้วม รายการที่ 1",
+      "name_cn": "马桶吸 产品 1",
+      "price": 734,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "19-08-03-ma-tong-xi-2",
+      "slug": "19-08-03-ma-tong-xi-2",
+      "name_th": "ที่ดูดส้วม รายการที่ 2",
+      "name_cn": "马桶吸 产品 2",
+      "price": 326,
+      "image": "/placeholder.png"
+    }
+  ]
+}

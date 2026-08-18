@@ -1,0 +1,25 @@
+{
+  "id": "11-06-03-mao-ding-qiang",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-06-qiang-lei-gong-ju",
+  "name_th": "ปืนยิงรีเวท",
+  "name_cn": "铆钉枪",
+  "products": [
+    {
+      "id": "11-06-03-mao-ding-qiang-1",
+      "slug": "11-06-03-mao-ding-qiang-1",
+      "name_th": "ปืนยิงรีเวท รายการที่ 1",
+      "name_cn": "铆钉枪 产品 1",
+      "price": 162,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-06-03-mao-ding-qiang-2",
+      "slug": "11-06-03-mao-ding-qiang-2",
+      "name_th": "ปืนยิงรีเวท รายการที่ 2",
+      "name_cn": "铆钉枪 产品 2",
+      "price": 434,
+      "image": "/placeholder.png"
+    }
+  ]
+}

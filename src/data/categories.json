@@ -1,1023 +1,1262 @@
 [
   {
-    "id": "jin-gu-jian",
-    "slug": "jin-gu-jian",
+    "id": "01-jin-gu-jian",
+    "slug": "01-jin-gu-jian",
     "name_th": "อุปกรณ์ยึดติด / สกรู น็อต พุก",
     "name_cn": "紧固件",
     "name_th_short": "สกรู/น็อต/พุก",
     "icon": "Wrench",
     "sub_categories": [
       {
-        "id": "quan-ya-si-gan",
-        "slug": "quan-ya-si-gan",
-        "name_th": "สตัดเกลียวตลอด / สตัดเกลียวเต็มเส้น",
+        "id": "01-01-quan-ya-si-gan",
+        "slug": "01-01-quan-ya-si-gan",
+        "name_th": "สตัดเกลียวเต็มเส้น",
         "name_cn": "全牙丝杆",
-        "name_th_short": "สตัดเกลียว"
+        "name_th_short": "สตัดเกลียวเต็มเส้น"
       },
       {
-        "id": "du-xin-luo-mu",
-        "slug": "du-xin-luo-mu",
-        "name_th": "หัวน็อตชุบซิงค์ / หัวน็อตตัวเมียชุบสังกะสี",
+        "id": "01-02-du-xin-luo-mu",
+        "slug": "01-02-du-xin-luo-mu",
+        "name_th": "น็อตชุบสังกะสี",
         "name_cn": "镀锌螺母",
-        "name_th_short": "หัวน็อตชุบซิงค์"
+        "name_th_short": "น็อตชุบสังกะสี"
       },
       {
-        "id": "du-xin-luo-si",
-        "slug": "du-xin-luo-si",
-        "name_th": "สกรูชุบซิงค์ / สกรูตัวผู้ชุบสังกะสี",
+        "id": "01-03-du-xin-luo-si",
+        "slug": "01-03-du-xin-luo-si",
+        "name_th": "สกรูชุบสังกะสี",
         "name_cn": "镀锌螺丝",
-        "name_th_short": "สกรูชุบซิงค์"
+        "name_th_short": "สกรูชุบสังกะสี"
       },
       {
-        "id": "zuan-wei-luo-si_chou-xin-mao-ding",
-        "slug": "zuan-wei-luo-si_chou-xin-mao-ding",
-        "name_th": "สกรูปลายสว่าน / หมุดย้ำรีเวท",
+        "id": "01-04-zuan-wei-luo-si-chou-xin-mao-ding",
+        "slug": "01-04-zuan-wei-luo-si-chou-xin-mao-ding",
+        "name_th": "สกรูปลายสว่าน/หมุดย้ำ",
         "name_cn": "钻尾螺丝/抽芯铆钉",
-        "name_th_short": "สกรูปลายสว่าน/รีเวท"
+        "name_th_short": "สกรูปลายสว่าน/หมุดย้ำ"
       },
       {
-        "id": "peng-zhang-luo-si_peng-zhang-ding",
-        "slug": "peng-zhang-luo-si_peng-zhang-ding",
-        "name_th": "พุกเหล็กขยายตัว / ตะปูพุกขยาย",
+        "id": "01-05-peng-zhang-luo-si-peng-zhang-ding",
+        "slug": "01-05-peng-zhang-luo-si-peng-zhang-ding",
+        "name_th": "พุกยิง/พุกกระเบื้อง",
         "name_cn": "膨胀螺丝/膨胀钉",
-        "name_th_short": "พุกเหล็ก/ตะปูพุก"
+        "name_th_short": "พุกยิง/พุกกระเบื้อง"
       },
       {
-        "id": "dian-pian",
-        "slug": "dian-pian",
-        "name_th": "แหวนรอง (แหวนอีแป้น / แหวนสปริง)",
-        "name_cn": "垫片",
+        "id": "01-06-dian-pian-dian-quan",
+        "slug": "01-06-dian-pian-dian-quan",
+        "name_th": "แหวนรอง",
+        "name_cn": "垫片/垫圈",
         "name_th_short": "แหวนรอง"
       },
       {
-        "id": "suo-ju",
-        "slug": "suo-ju",
-        "name_th": "อุปกรณ์สลิงและสลักยึด (เกลียวเร่ง, สเก็น, กริ๊ปรัดสลิง)",
+        "id": "01-07-suo-ju",
+        "slug": "01-07-suo-ju",
+        "name_th": "อุปกรณ์สลิง",
         "name_cn": "索具",
-        "name_th_short": "อุปกรณ์สลิง/สลักยึด"
+        "name_th_short": "อุปกรณ์สลิง"
       },
       {
-        "id": "zi-gong-si_gan-bi-ding",
-        "slug": "zi-gong-si_gan-bi-ding",
-        "name_th": "สกรูเกลียวปล่อย / สกรูยิงฝ้าดรายวอลล์ (สกรูยิปซั่ม)",
+        "id": "01-08-zi-gong-si-gan-bi-ding",
+        "slug": "01-08-zi-gong-si-gan-bi-ding",
+        "name_th": "สกรูเกลียวปล่อย/สกรูยิปซั่ม",
         "name_cn": "自攻丝/干壁钉",
-        "name_th_short": "สกรูเกลียวปล่อย/ยิปซั่ม"
+        "name_th_short": "สกรูเกลียวปล่อย/สกรูยิปซั่ม"
       },
       {
-        "id": "hua-xue_ji-xie-mao-shuan",
-        "slug": "hua-xue_ji-xie-mao-shuan",
-        "name_th": "พุกเคมี / พุกเบรกเคมี และพุกกลไก",
+        "id": "01-09-hua-xue-ji-xie-mao-shuan",
+        "slug": "01-09-hua-xue-ji-xie-mao-shuan",
+        "name_th": "พุกเคมี/พุกกล",
         "name_cn": "化学/机械锚栓",
-        "name_th_short": "พุกเคมี/พุกกลไก"
+        "name_th_short": "พุกเคมี/พุกกล"
       },
       {
-        "id": "ping-ji-yuan-ji",
-        "slug": "ping-ji-yuan-ji",
-        "name_th": "สกรูเตเปอร์หัวจม (Flat head) และสกรูหัวกลม (Round head)",
+        "id": "01-10-ping-ji-yuan-ji",
+        "slug": "01-10-ping-ji-yuan-ji",
+        "name_th": "สกรูหัวแอน",
         "name_cn": "平机元机",
-        "name_th_short": "สกรูหัวจม/หัวกลม"
+        "name_th_short": "สกรูหัวแอน"
       },
       {
-        "id": "ding-lei",
-        "slug": "ding-lei",
-        "name_th": "ตะปูประเภทต่างๆ (ตะปูคอนกรีต, ตะปูตอกไม้)",
+        "id": "01-11-ding-lei",
+        "slug": "01-11-ding-lei",
+        "name_th": "ตะปู",
         "name_cn": "钉类",
-        "name_th_short": "ตะปูต่างๆ"
+        "name_th_short": "ตะปู"
       },
       {
-        "id": "jian-zhu-pei-jian",
-        "slug": "jian-zhu-pei-jian",
-        "name_th": "อุปกรณ์เสริมงานโครงสร้างและงานก่อสร้าง",
+        "id": "01-12-jian-zhu-pei-jian",
+        "slug": "01-12-jian-zhu-pei-jian",
+        "name_th": "อุปกรณ์เสริมงานก่อสร้าง",
         "name_cn": "建筑配件",
-        "name_th_short": "อุปกรณ์เสริมก่อสร้าง"
+        "name_th_short": "อุปกรณ์เสริมงานก่อสร้าง"
       },
       {
-        "id": "han-tiao_za-si_tie-si",
-        "slug": "han-tiao_za-si_tie-si",
-        "name_th": "ลวดเชื่อม / ลวดมัดม้วน / ลวดเหล็ก",
+        "id": "01-13-han-tiao-za-si-tie-si",
+        "slug": "01-13-han-tiao-za-si-tie-si",
+        "name_th": "ลวดเชื่อม/ลวดผูก/ลวดเหล็ก",
         "name_cn": "焊条/扎丝/铁丝",
-        "name_th_short": "ลวดเชื่อม/ลวดมัด"
+        "name_th_short": "ลวดเชื่อม/ลวดผูก/ลวดเหล็ก"
       },
       {
-        "id": "tong-feng-pei-jian-zhuan-qu",
-        "slug": "tong-feng-pei-jian-zhuan-qu",
-        "name_th": "หมวดอุปกรณ์เสริมและอะไหล่ระบบท่อระบายอากาศ",
+        "id": "01-14-tong-feng-pei-jian-zhuan-qu",
+        "slug": "01-14-tong-feng-pei-jian-zhuan-qu",
+        "name_th": "โซนอุปกรณ์เสริมงานระบายอากาศ",
         "name_cn": "通风配件专区",
-        "name_th_short": "อะไหล่ท่อระบายอากาศ"
+        "name_th_short": "โซนอุปกรณ์เสริมงานระบายอากาศ"
       }
     ]
   },
   {
-    "id": "di-ya-dian-qi",
-    "slug": "di-ya-dian-qi",
+    "id": "03-di-ya-dian-qi",
+    "slug": "03-di-ya-dian-qi",
     "name_th": "อุปกรณ์ไฟฟ้าแรงดันต่ำ",
     "name_cn": "低压电器",
     "name_th_short": "ไฟฟ้าแรงต่ำ",
     "icon": "Wrench",
     "sub_categories": [
       {
-        "id": "yi-biao-cha-zuo",
-        "slug": "yi-biao-cha-zuo",
-        "name_th": "เต้ารับมิเตอร์ / ซ็อกเก็ตเครื่องมือวัด",
-        "name_cn": "仪表插座",
-        "name_th_short": "เต้ารับมิเตอร์"
+        "id": "03-02-1P+N-shuang-jin-shuang-chu-duan-lu-qi",
+        "slug": "03-02-1P+N-shuang-jin-shuang-chu-duan-lu-qi",
+        "name_th": "เบรกเกอร์เข้าคู่ออกคู่ 1P+N",
+        "name_cn": "1P+N双进双出断路器",
+        "name_th_short": "เบรกเกอร์เข้าคู่ออกคู่ 1P+N"
       },
       {
-        "id": "shang-hai-ren-min-kai-guan",
-        "slug": "shang-hai-ren-min-kai-guan",
-        "name_th": "สวิตช์/เบรกเกอร์ แบรนด์ Shanghai Renmin",
+        "id": "03-03-2P-kong-kai-duan-lu-qi",
+        "slug": "03-03-2P-kong-kai-duan-lu-qi",
+        "name_th": "เบรกเกอร์ลูกย่อย 2P",
+        "name_cn": "2P空开断路器",
+        "name_th_short": "เบรกเกอร์ลูกย่อย 2P"
+      },
+      {
+        "id": "03-04-3P-kong-kai-duan-lu-qi",
+        "slug": "03-04-3P-kong-kai-duan-lu-qi",
+        "name_th": "เบรกเกอร์ลูกย่อย 3P",
+        "name_cn": "3P空开断路器",
+        "name_th_short": "เบรกเกอร์ลูกย่อย 3P"
+      },
+      {
+        "id": "03-05-4P-kong-kai-duan-lu-qi",
+        "slug": "03-05-4P-kong-kai-duan-lu-qi",
+        "name_th": "เบรกเกอร์ลูกย่อย 4P",
+        "name_cn": "4P空开断路器",
+        "name_th_short": "เบรกเกอร์ลูกย่อย 4P"
+      },
+      {
+        "id": "03-06-1P-dai-lou-dian-bao-hu",
+        "slug": "03-06-1P-dai-lou-dian-bao-hu",
+        "name_th": "เบรกเกอร์กันดูด 1P",
+        "name_cn": "1P带漏电保护",
+        "name_th_short": "เบรกเกอร์กันดูด 1P"
+      },
+      {
+        "id": "03-07-2P-dai-lou-dian-bao-hu",
+        "slug": "03-07-2P-dai-lou-dian-bao-hu",
+        "name_th": "เบรกเกอร์กันดูด 2P",
+        "name_cn": "2P带漏电保护",
+        "name_th_short": "เบรกเกอร์กันดูด 2P"
+      },
+      {
+        "id": "03-08-3P-dai-lou-dian-bao-hu",
+        "slug": "03-08-3P-dai-lou-dian-bao-hu",
+        "name_th": "เบรกเกอร์กันดูด 3P",
+        "name_cn": "3P带漏电保护",
+        "name_th_short": "เบรกเกอร์กันดูด 3P"
+      },
+      {
+        "id": "03-09-4P-dai-lou-dian-bao-hu",
+        "slug": "03-09-4P-dai-lou-dian-bao-hu",
+        "name_th": "เบรกเกอร์กันดูด 4P",
+        "name_cn": "4P带漏电保护",
+        "name_th_short": "เบรกเกอร์กันดูด 4P"
+      },
+      {
+        "id": "03-10-yi-biao-cha-zuo",
+        "slug": "03-10-yi-biao-cha-zuo",
+        "name_th": "มิเตอร์และปลั๊ก",
+        "name_cn": "仪表插座",
+        "name_th_short": "มิเตอร์และปลั๊ก"
+      },
+      {
+        "id": "03-11-jie-chu-qi",
+        "slug": "03-11-jie-chu-qi",
+        "name_th": "คอนแทคเตอร์",
+        "name_cn": "接触器",
+        "name_th_short": "คอนแทคเตอร์"
+      },
+      {
+        "id": "03-12-shang-hai-ren-min-kai-guan",
+        "slug": "03-12-shang-hai-ren-min-kai-guan",
+        "name_th": "สวิตช์เซี่ยงไฮ้เหรินหมิน",
         "name_cn": "上海人民开关",
-        "name_th_short": "สวิตช์ Shanghai Renmin"
+        "name_th_short": "สวิตช์เซี่ยงไฮ้เหรินหมิน"
       }
     ]
   },
   {
-    "id": "kai-guan-cha-zuo",
-    "slug": "kai-guan-cha-zuo",
+    "id": "04-kai-guan-cha-zuo",
+    "slug": "04-kai-guan-cha-zuo",
     "name_th": "สวิตช์และปลั๊กไฟ",
     "name_cn": "开关插座",
     "name_th_short": "สวิตช์/ปลั๊ก",
     "icon": "Wrench",
     "sub_categories": [
       {
-        "id": "kai-guan-mian-ban",
-        "slug": "kai-guan-mian-ban",
-        "name_th": "แผงสวิตช์ / หน้ากากสวิตช์ไฟ",
+        "id": "04-01-kai-guan-mian-ban",
+        "slug": "04-01-kai-guan-mian-ban",
+        "name_th": "แผงสวิตช์ไฟ",
         "name_cn": "开关面板",
-        "name_th_short": "หน้ากากสวิตช์"
+        "name_th_short": "แผงสวิตช์ไฟ"
       },
       {
-        "id": "rui-feng-wu-xian-dai-xian-cha-ban",
-        "slug": "rui-feng-wu-xian-dai-xian-cha-ban",
-        "name_th": "ปลั๊กพ่วง / ปลั๊กต่อสาย แบรนด์ Ruifeng",
+        "id": "04-02-de-li-xi-wu-xian-dai-xian-cha-ban",
+        "slug": "04-02-de-li-xi-wu-xian-dai-xian-cha-ban",
+        "name_th": "ปลั๊กพ่วงเดลิกซี (มีสาย/ไม่มีสาย)",
+        "name_cn": "德力西无线带线插板",
+        "name_th_short": "ปลั๊กพ่วงเดลิกซี (มีสาย/ไม่มีสาย)"
+      },
+      {
+        "id": "04-04-rui-feng-wu-xian-dai-xian-cha-ban",
+        "slug": "04-04-rui-feng-wu-xian-dai-xian-cha-ban",
+        "name_th": "ปลั๊กพ่วงรุ่ยเฟิง (มีสาย/ไม่มีสาย)",
         "name_cn": "瑞风无线带线插板",
-        "name_th_short": "ปลั๊กพ่วง Ruifeng"
+        "name_th_short": "ปลั๊กพ่วงรุ่ยเฟิง (มีสาย/ไม่มีสาย)"
       },
       {
-        "id": "cha-tou-cha-zuo",
-        "slug": "cha-tou-cha-zuo",
-        "name_th": "หัวปลั๊กและเต้ารับ",
+        "id": "04-05-cha-tou-cha-zuo",
+        "slug": "04-05-cha-tou-cha-zuo",
+        "name_th": "ปลั๊กตัวผู้-ตัวเมีย",
         "name_cn": "插头插座",
-        "name_th_short": "หัวปลั๊ก/เต้ารับ"
+        "name_th_short": "ปลั๊กตัวผู้-ตัวเมีย"
       }
     ]
   },
   {
-    "id": "dian-xiang-dian-liao",
-    "slug": "dian-xiang-dian-liao",
+    "id": "05-dian-xiang-dian-liao",
+    "slug": "05-dian-xiang-dian-liao",
     "name_th": "ตู้ไฟและอุปกรณ์งานระบบไฟฟ้า",
     "name_cn": "电箱电料",
     "name_th_short": "ตู้ไฟ/ระบบไฟ",
     "icon": "Wrench",
     "sub_categories": [
       {
-        "id": "dian-liao",
-        "slug": "dian-liao",
-        "name_th": "อุปกรณ์ไฟฟ้า / วัสดุอุปกรณ์งานไฟฟ้า",
+        "id": "05-01-dian-liao",
+        "slug": "05-01-dian-liao",
+        "name_th": "วัสดุไฟฟ้า",
         "name_cn": "电料",
-        "name_th_short": "อุปกรณ์ไฟฟ้า"
+        "name_th_short": "วัสดุไฟฟ้า"
       },
       {
-        "id": "gong-ye-dian-xiang",
-        "slug": "gong-ye-dian-xiang",
-        "name_th": "ตู้ไฟอุตสาหกรรม / ตู้ควบคุมไฟฟ้าโรงงาน",
+        "id": "05-02-gong-ye-dian-xiang",
+        "slug": "05-02-gong-ye-dian-xiang",
+        "name_th": "ตู้ไฟอุตสาหกรรม",
         "name_cn": "工业电箱",
         "name_th_short": "ตู้ไฟอุตสาหกรรม"
       },
       {
-        "id": "hui-lu-xiang_pei-dian-xiang",
-        "slug": "hui-lu-xiang_pei-dian-xiang",
-        "name_th": "ตู้เซอร์กิต / ตู้ควบคุมไฟฟ้า / ตู้คอนซูมเมอร์",
+        "id": "05-03-hui-lu-xiang-pei-dian-xiang",
+        "slug": "05-03-hui-lu-xiang-pei-dian-xiang",
+        "name_th": "ตู้ไฟย่อย/ตู้จ่ายไฟ",
         "name_cn": "回路箱/配电箱",
-        "name_th_short": "ตู้คอนซูมเมอร์/ตู้ไฟ"
+        "name_th_short": "ตู้ไฟย่อย/ตู้จ่ายไฟ"
       },
       {
-        "id": "dian-gong-jiao-bu",
-        "slug": "dian-gong-jiao-bu",
-        "name_th": "เทปพันสายไฟ / เทปฉนวนไฟฟ้า",
+        "id": "05-05-dian-gong-jiao-bu",
+        "slug": "05-05-dian-gong-jiao-bu",
+        "name_th": "เทปพันสายไฟ",
         "name_cn": "电工胶布",
         "name_th_short": "เทปพันสายไฟ"
       }
     ]
   },
   {
-    "id": "dian-dong-gong-ju",
-    "slug": "dian-dong-gong-ju",
+    "id": "06-dian-dong-gong-ju",
+    "slug": "06-dian-dong-gong-ju",
     "name_th": "เครื่องมือช่างไฟฟ้า",
     "name_cn": "电动工具",
     "name_th_short": "เครื่องมือไฟฟ้า",
     "icon": "Wrench",
     "sub_categories": [
       {
-        "id": "dian-dong-gong-ju",
-        "slug": "dian-dong-gong-ju",
+        "id": "06-01-dian-dong-gong-ju",
+        "slug": "06-01-dian-dong-gong-ju",
         "name_th": "เครื่องมือช่างไฟฟ้า",
         "name_cn": "电动工具",
-        "name_th_short": "เครื่องมือไฟฟ้า"
+        "name_th_short": "เครื่องมือช่างไฟฟ้า"
       },
       {
-        "id": "jin-shu-qie-xiao-lei-gong-ju",
-        "slug": "jin-shu-qie-xiao-lei-gong-ju",
-        "name_th": "เครื่องมือตัดกลึงโลหะ / เครื่องมือตัดแต่งโลหะ",
+        "id": "06-03-jin-shu-qie-xue-lei-gong-ju",
+        "slug": "06-03-jin-shu-qie-xue-lei-gong-ju",
+        "name_th": "เครื่องมือตัดโลหะ",
         "name_cn": "金属切削类工具",
-        "name_th_short": "เครื่องมือตัดกลึงโลหะ"
+        "name_th_short": "เครื่องมือตัดโลหะ"
       },
       {
-        "id": "ji-guang-lei-gong-ju",
-        "slug": "ji-guang-lei-gong-ju",
-        "name_th": "เครื่องมือประเภทเลเซอร์",
+        "id": "06-04-ji-guang-lei-gong-ju",
+        "slug": "06-04-ji-guang-lei-gong-ju",
+        "name_th": "เครื่องมือเลเซอร์",
         "name_cn": "激光类工具",
         "name_th_short": "เครื่องมือเลเซอร์"
       },
       {
-        "id": "qing-jie-lei-gong-ju",
-        "slug": "qing-jie-lei-gong-ju",
-        "name_th": "เครื่องมือประเภทการทำความสะอาด",
+        "id": "06-05-qing-jie-lei-gong-ju",
+        "slug": "06-05-qing-jie-lei-gong-ju",
+        "name_th": "เครื่องมือทำความสะอาด",
         "name_cn": "清洁类工具",
         "name_th_short": "เครื่องมือทำความสะอาด"
       }
     ]
   },
   {
-    "id": "zhuang-huang-wu-jin",
-    "slug": "zhuang-huang-wu-jin",
+    "id": "07-li-dian-gong-ju",
+    "slug": "07-li-dian-gong-ju",
+    "name_th": "เครื่องมือแบตเตอรี่",
+    "name_cn": "锂电工具",
+    "name_th_short": "เครื่องมือแบตเตอรี่",
+    "icon": "Wrench",
+    "sub_categories": [
+      {
+        "id": "07-01-zuan-kong-chui-gao-lei",
+        "slug": "07-01-zuan-kong-chui-gao-lei",
+        "name_th": "เครื่องมือแบตเตอรี่เจาะ/สว่านโรตารี่",
+        "name_cn": "钻孔锤敲类",
+        "name_th_short": "เครื่องมือแบตเตอรี่เจาะ/สว่านโรตารี่"
+      },
+      {
+        "id": "07-02-qie-xue-gong-ju-lei",
+        "slug": "07-02-qie-xue-gong-ju-lei",
+        "name_th": "เครื่องมือตัด",
+        "name_cn": "切削工具类",
+        "name_th_short": "เครื่องมือตัด"
+      }
+    ]
+  },
+  {
+    "id": "08-zhuang-huang-wu-jin",
+    "slug": "08-zhuang-huang-wu-jin",
     "name_th": "อุปกรณ์ฮาร์ดแวร์ตกแต่ง",
     "name_cn": "装潢五金",
     "name_th_short": "ฮาร์ดแวร์ตกแต่ง",
     "icon": "Wrench",
     "sub_categories": [
       {
-        "id": "suo-ju",
-        "slug": "suo-ju",
-        "name_th": "กุญแจ / อุปกรณ์แม่กุญแจและระบบล็อก",
+        "id": "08-01-suo-ju",
+        "slug": "08-01-suo-ju",
+        "name_th": "กุญแจ/แม่กุญแจ",
         "name_cn": "锁具",
-        "name_th_short": "กุญแจ/ระบบล็อก"
+        "name_th_short": "กุญแจ/แม่กุญแจ"
       },
       {
-        "id": "he-ye-men-xi",
-        "slug": "he-ye-men-xi",
-        "name_th": "บานพับและตัวกันชนประตู / แม่เหล็กติดประตู",
+        "id": "08-02-he-ye-men-xi",
+        "slug": "08-02-he-ye-men-xi",
+        "name_th": "บานพับ/ตัวดูดประตู",
         "name_cn": "合页门吸",
-        "name_th_short": "บานพับ/กันชนประตู"
+        "name_th_short": "บานพับ/ตัวดูดประตู"
       },
       {
-        "id": "suo-kou-cha-xiao",
-        "slug": "suo-kou-cha-xiao",
-        "name_th": "กลอนประตู / สลักล็อก / หูล็อกประตู",
+        "id": "08-03-suo-kou-cha-xiao",
+        "slug": "08-03-suo-kou-cha-xiao",
+        "name_th": "กลอนประตู/สลักล็อค",
         "name_cn": "锁扣插销",
-        "name_th_short": "กลอน/สลักล็อก"
+        "name_th_short": "กลอนประตู/สลักล็อค"
       },
       {
-        "id": "gui-dao-la-shou",
-        "slug": "gui-dao-la-shou",
-        "name_th": "รางเลื่อนและมือจับ",
+        "id": "08-04-gui-dao-la-shou",
+        "slug": "08-04-gui-dao-la-shou",
+        "name_th": "รางเลื่อน/มือจับ",
         "name_cn": "轨道拉手",
         "name_th_short": "รางเลื่อน/มือจับ"
       }
     ]
   },
   {
-    "id": "feng-ji-feng-shan",
-    "slug": "feng-ji-feng-shan",
+    "id": "09-feng-ji-feng-shan",
+    "slug": "09-feng-ji-feng-shan",
     "name_th": "พัดลมระบายอากาศ / พัดลมอุตสาหกรรม",
     "name_cn": "风机风扇",
     "name_th_short": "พัดลม/ระบายอากาศ",
     "icon": "Wrench",
     "sub_categories": [
       {
-        "id": "gong-ye-shan",
-        "slug": "gong-ye-shan",
-        "name_th": "พัดลมอุตสาหกรรม / พัดลมโรงงาน",
+        "id": "09-01-gong-ye-shan",
+        "slug": "09-01-gong-ye-shan",
+        "name_th": "พัดลมอุตสาหกรรม",
         "name_cn": "工业扇",
         "name_th_short": "พัดลมอุตสาหกรรม"
       },
       {
-        "id": "jia-yong-feng-shan",
-        "slug": "jia-yong-feng-shan",
-        "name_th": "พัดลมใช้ในบ้าน / พัดลมครัวเรือน",
-        "name_cn": "家用风扇",
-        "name_th_short": "พัดลมบ้าน"
+        "id": "09-03-huan-qi-shan",
+        "slug": "09-03-huan-qi-shan",
+        "name_th": "พัดลมระบายอากาศ",
+        "name_cn": "换气扇",
+        "name_th_short": "พัดลมระบายอากาศ"
       },
       {
-        "id": "gang-wei-feng-ji",
-        "slug": "gang-wei-feng-ji",
-        "name_th": "พัดลมระบายอากาศประจำจุด (Workstation Blower)",
+        "id": "09-04-jia-yong-feng-shan",
+        "slug": "09-04-jia-yong-feng-shan",
+        "name_th": "พัดลมใช้ในบ้าน",
+        "name_cn": "家用风扇",
+        "name_th_short": "พัดลมใช้ในบ้าน"
+      },
+      {
+        "id": "09-05-gang-wei-feng-ji",
+        "slug": "09-05-gang-wei-feng-ji",
+        "name_th": "พัดลมประจำจุด",
         "name_cn": "岗位风机",
-        "name_th_short": "พัดลมเป่าระบายอากาศ"
+        "name_th_short": "พัดลมประจำจุด"
       }
     ]
   },
   {
-    "id": "gong-ju-liang-ju",
-    "slug": "gong-ju-liang-ju",
+    "id": "11-gong-ju-liang-ju",
+    "slug": "11-gong-ju-liang-ju",
     "name_th": "เครื่องมือช่างและเครื่องมือวัด",
     "name_cn": "工具量具",
     "name_th_short": "เครื่องมือช่าง/วัด",
     "icon": "Wrench",
     "sub_categories": [
       {
-        "id": "qian-zi-lei",
-        "slug": "qian-zi-lei",
+        "id": "11-01-qian-zi-lei",
+        "slug": "11-01-qian-zi-lei",
         "name_th": "คีม",
         "name_cn": "钳子类",
         "name_th_short": "คีม"
       },
       {
-        "id": "chui-zi-lei",
-        "slug": "chui-zi-lei",
+        "id": "11-02-chui-zi-lei",
+        "slug": "11-02-chui-zi-lei",
         "name_th": "ค้อน",
         "name_cn": "锤子类",
         "name_th_short": "ค้อน"
       },
       {
-        "id": "ban-shou-lei",
-        "slug": "ban-shou-lei",
+        "id": "11-03-ban-shou-lei",
+        "slug": "11-03-ban-shou-lei",
         "name_th": "ประแจ",
         "name_cn": "扳手类",
         "name_th_short": "ประแจ"
       },
       {
-        "id": "luo-si-dao",
-        "slug": "luo-si-dao",
+        "id": "11-04-luo-si-dao",
+        "slug": "11-04-luo-si-dao",
         "name_th": "ไขควง",
         "name_cn": "螺丝刀",
         "name_th_short": "ไขควง"
       },
       {
-        "id": "jian-qie-gong-ju",
-        "slug": "jian-qie-gong-ju",
-        "name_th": "คีมตัดต่างๆ / เครื่องมือตัด",
+        "id": "11-05-jian-qie-gong-ju",
+        "slug": "11-05-jian-qie-gong-ju",
+        "name_th": "เครื่องมือตัด/กรรไกร",
         "name_cn": "剪切工具",
-        "name_th_short": "คีมตัด/เครื่องมือตัด"
+        "name_th_short": "เครื่องมือตัด/กรรไกร"
       },
       {
-        "id": "qiang-lei-gong-ju",
-        "slug": "qiang-lei-gong-ju",
-        "name_th": "ปืนต่างๆ (ปืนยิงกาว, ปืนยิงแม็ก)",
+        "id": "11-06-qiang-lei-gong-ju",
+        "slug": "11-06-qiang-lei-gong-ju",
+        "name_th": "ปืนประเภทต่างๆ",
         "name_cn": "枪类工具",
-        "name_th_short": "ปืนยิงกาว/ยิงแม็ก"
+        "name_th_short": "ปืนประเภทต่างๆ"
       },
       {
-        "id": "mu-gong-gong-ju",
-        "slug": "mu-gong-gong-ju",
+        "id": "11-07-mu-gong-gong-ju",
+        "slug": "11-07-mu-gong-gong-ju",
         "name_th": "เครื่องมืองานไม้",
         "name_cn": "木工工具",
         "name_th_short": "เครื่องมืองานไม้"
       },
       {
-        "id": "ni-wa-gong-ju",
-        "slug": "ni-wa-gong-ju",
-        "name_th": "เครื่องมือก่ออิฐ / งานปูน",
+        "id": "11-08-ni-wa-gong-ju",
+        "slug": "11-08-ni-wa-gong-ju",
+        "name_th": "เครื่องมือปูน",
         "name_cn": "泥瓦工具",
-        "name_th_short": "เครื่องมืองานปูน"
+        "name_th_short": "เครื่องมือปูน"
       },
       {
-        "id": "jian-lei-dao-ju-lei",
-        "slug": "jian-lei-dao-ju-lei",
-        "name_th": "มีดอเนกประสงค์ / กรรไกรและมีดคัตเตอร์",
+        "id": "11-09-jian-lei-dao-ju-lei",
+        "slug": "11-09-jian-lei-dao-ju-lei",
+        "name_th": "มีดและกรรไกรประเภทตัด",
         "name_cn": "剪类刀具类",
-        "name_th_short": "กรรไกร/คัตเตอร์"
+        "name_th_short": "มีดและกรรไกรประเภทตัด"
       },
       {
-        "id": "han-ge-gong-ju",
-        "slug": "han-ge-gong-ju",
-        "name_th": "เครื่องมือเชื่อมและตัด",
+        "id": "11-10-han-ge-gong-ju",
+        "slug": "11-10-han-ge-gong-ju",
+        "name_th": "เครื่องมือเชื่อม/ตัดแก๊ส",
         "name_cn": "焊割工具",
-        "name_th_short": "เครื่องมือเชื่อม/ตัด"
+        "name_th_short": "เครื่องมือเชื่อม/ตัดแก๊ส"
       },
       {
-        "id": "qi-ta-lei-gong-ju",
-        "slug": "qi-ta-lei-gong-ju",
+        "id": "11-11-qi-ta-lei-gong-ju",
+        "slug": "11-11-qi-ta-lei-gong-ju",
         "name_th": "เครื่องมือประเภทอื่นๆ",
         "name_cn": "其他类工具",
-        "name_th_short": "เครื่องมืออื่นๆ"
+        "name_th_short": "เครื่องมือประเภทอื่นๆ"
       },
       {
-        "id": "pi-chi",
-        "slug": "pi-chi",
+        "id": "11-12-pi-chi",
+        "slug": "11-12-pi-chi",
         "name_th": "สายวัด",
         "name_cn": "皮尺",
         "name_th_short": "สายวัด"
       },
       {
-        "id": "gang-juan-chi",
-        "slug": "gang-juan-chi",
+        "id": "11-13-gang-juan-chi",
+        "slug": "11-13-gang-juan-chi",
         "name_th": "ตลับเมตร",
         "name_cn": "钢卷尺",
         "name_th_short": "ตลับเมตร"
       },
       {
-        "id": "cha-di-chi",
-        "slug": "cha-di-chi",
-        "name_th": "ไม้วัดระดับแบบปักดิน / ไม้วัดสำรวจ",
+        "id": "11-14-cha-di-chi",
+        "slug": "11-14-cha-di-chi",
+        "name_th": "ไม้บรรทัดปักพื้น",
         "name_cn": "插地尺",
-        "name_th_short": "ไม้วัดระดับปักดิน"
+        "name_th_short": "ไม้บรรทัดปักพื้น"
       },
       {
-        "id": "liang-ce-chi",
-        "slug": "liang-ce-chi",
-        "name_th": "ไม้บรรทัดวัดระยะ / ไม้วัดขนาด",
+        "id": "11-15-liang-ce-chi",
+        "slug": "11-15-liang-ce-chi",
+        "name_th": "ไม้บรรทัดวัด",
         "name_cn": "测量尺",
-        "name_th_short": "ไม้บรรทัดวัดระยะ"
+        "name_th_short": "ไม้บรรทัดวัด"
       }
     ]
   },
   {
-    "id": "pin-pai-gong-ju",
-    "slug": "pin-pai-gong-ju",
+    "id": "12-pin-pai-gong-ju",
+    "slug": "12-pin-pai-gong-ju",
     "name_th": "เครื่องมือช่างแบรนด์เนม / แบรนด์ชั้นนำ",
     "name_cn": "品牌工具",
     "name_th_short": "เครื่องมือแบรนด์เนม",
     "icon": "Wrench",
     "sub_categories": [
       {
-        "id": "tian-dao-gong-ju",
-        "slug": "tian-dao-gong-ju",
-        "name_th": "เครื่องมือ Tajima (ทาจิมา)",
+        "id": "12-01-tian-dao-gong-ju",
+        "slug": "12-01-tian-dao-gong-ju",
+        "name_th": "เครื่องมือทาชิมะ (Tajima)",
         "name_cn": "田岛工具",
-        "name_th_short": "เครื่องมือ Tajima"
+        "name_th_short": "เครื่องมือทาชิมะ (Tajima)"
       },
       {
-        "id": "ban-shou-lei",
-        "slug": "ban-shou-lei",
+        "id": "12-02-ban-shou-lei",
+        "slug": "12-02-ban-shou-lei",
         "name_th": "ประแจ",
         "name_cn": "扳手类",
         "name_th_short": "ประแจ"
       },
       {
-        "id": "tao-tong-lei",
-        "slug": "tao-tong-lei",
-        "name_th": "ลูกบล็อก / ชุดบล็อก",
+        "id": "12-03-tao-tong-lei",
+        "slug": "12-03-tao-tong-lei",
+        "name_th": "บล็อก (ลูกบล็อก)",
         "name_cn": "套筒类",
-        "name_th_short": "ลูกบล็อก/ชุดบล็อก"
+        "name_th_short": "บล็อก (ลูกบล็อก)"
       },
       {
-        "id": "chui-zi-lei",
-        "slug": "chui-zi-lei",
+        "id": "12-04-chui-zi-lei",
+        "slug": "12-04-chui-zi-lei",
         "name_th": "ค้อน",
         "name_cn": "锤子类",
         "name_th_short": "ค้อน"
       },
       {
-        "id": "luo-si-dao-lei",
-        "slug": "luo-si-dao-lei",
+        "id": "12-05-luo-si-dao-lei",
+        "slug": "12-05-luo-si-dao-lei",
         "name_th": "ไขควง",
         "name_cn": "螺丝刀类",
         "name_th_short": "ไขควง"
       },
       {
-        "id": "ce-liang-gong-ju",
-        "slug": "ce-liang-gong-ju",
+        "id": "12-06-ce-liang-gong-ju",
+        "slug": "12-06-ce-liang-gong-ju",
         "name_th": "เครื่องมือวัด",
         "name_cn": "测量工具",
         "name_th_short": "เครื่องมือวัด"
       },
       {
-        "id": "ren-ju-qie-ge",
-        "slug": "ren-ju-qie-ge",
-        "name_th": "เครื่องมือตัดและใบมีด",
+        "id": "12-07-ren-ju-qie-ge",
+        "slug": "12-07-ren-ju-qie-ge",
+        "name_th": "ใบมีด/เครื่องมือตัด",
         "name_cn": "刃具切割",
         "name_th_short": "ใบมีด/เครื่องมือตัด"
       },
       {
-        "id": "jian-qie-gong-ju",
-        "slug": "jian-qie-gong-ju",
-        "name_th": "คีมตัดและกรรไกรตัด",
+        "id": "12-08-jian-qie-gong-ju",
+        "slug": "12-08-jian-qie-gong-ju",
+        "name_th": "เครื่องมือตัด/กรรไกร",
         "name_cn": "剪切工具",
-        "name_th_short": "คีมตัด/กรรไกร"
+        "name_th_short": "เครื่องมือตัด/กรรไกร"
       },
       {
-        "id": "mu-gong-gong-ju",
-        "slug": "mu-gong-gong-ju",
-        "name_th": "เครื่องมืองานไม้",
+        "id": "12-09-qiang-lei-gong-ju",
+        "slug": "12-09-qiang-lei-gong-ju",
+        "name_th": "ปืนอเนกประสงค์",
+        "name_cn": "枪类工具",
+        "name_th_short": "ปืนอเนกประสงค์"
+      },
+      {
+        "id": "12-10-mu-gong-gong-ju",
+        "slug": "12-10-mu-gong-gong-ju",
+        "name_th": "เครื่องมือช่างไม้",
         "name_cn": "木工工具",
-        "name_th_short": "เครื่องมืองานไม้"
+        "name_th_short": "เครื่องมือช่างไม้"
       },
       {
-        "id": "dian-gong-dian-zi",
-        "slug": "dian-gong-dian-zi",
-        "name_th": "เครื่องมือช่างไฟฟ้าและอิเล็กทรอนิกส์",
+        "id": "12-11-dian-gong-dian-zi",
+        "slug": "12-11-dian-gong-dian-zi",
+        "name_th": "ช่างไฟฟ้า/อิเล็กทรอนิกส์",
         "name_cn": "电工电子",
-        "name_th_short": "เครื่องมือไฟฟ้า/อิเล็กทรอนิกส์"
+        "name_th_short": "ช่างไฟฟ้า/อิเล็กทรอนิกส์"
       },
       {
-        "id": "yuan-lin-gong-ju",
-        "slug": "yuan-lin-gong-ju",
-        "name_th": "เครื่องมือทำสวน / งานจัดสวน",
+        "id": "12-12-yuan-lin-gong-ju",
+        "slug": "12-12-yuan-lin-gong-ju",
+        "name_th": "เครื่องมือทำสวน",
         "name_cn": "园林工具",
         "name_th_short": "เครื่องมือทำสวน"
       },
       {
-        "id": "han-ge-gong-ju",
-        "slug": "han-ge-gong-ju",
-        "name_th": "เครื่องมือเชื่อมและตัด",
+        "id": "12-13-han-ge-gong-ju",
+        "slug": "12-13-han-ge-gong-ju",
+        "name_th": "เครื่องมือเชื่อม/ตัด",
         "name_cn": "焊割工具",
         "name_th_short": "เครื่องมือเชื่อม/ตัด"
       },
       {
-        "id": "an-quan-fang-hu",
-        "slug": "an-quan-fang-hu",
-        "name_th": "อุปกรณ์ป้องกันความปลอดภัย (PPE)",
+        "id": "12-14-an-quan-fang-hu",
+        "slug": "12-14-an-quan-fang-hu",
+        "name_th": "อุปกรณ์นิรภัย",
         "name_cn": "安全防护",
-        "name_th_short": "อุปกรณ์เซฟตี้ (PPE)"
+        "name_th_short": "อุปกรณ์นิรภัย"
       },
       {
-        "id": "ye-ya-qi-zhong",
-        "slug": "ye-ya-qi-zhong",
-        "name_th": "เครื่องมือไฮดรอลิกและอุปกรณ์ยกหนัก",
+        "id": "12-15-ye-ya-qi-zhong",
+        "slug": "12-15-ye-ya-qi-zhong",
+        "name_th": "ไฮดรอลิก/ยกของ",
         "name_cn": "液压起重",
-        "name_th_short": "อุปกรณ์ไฮดรอลิก/ยกหนัก"
+        "name_th_short": "ไฮดรอลิก/ยกของ"
       },
       {
-        "id": "qi-xiu-gong-ju",
-        "slug": "qi-xiu-gong-ju",
-        "name_th": "เครื่องมือซ่อมรถยนต์ / งานยานยนต์",
+        "id": "12-16-qi-xiu-gong-ju",
+        "slug": "12-16-qi-xiu-gong-ju",
+        "name_th": "เครื่องมือซ่อมรถยนต์",
         "name_cn": "汽修工具",
-        "name_th_short": "เครื่องมือซ่อมรถ"
+        "name_th_short": "เครื่องมือซ่อมรถยนต์"
       },
       {
-        "id": "gong-ju-xiang-lei",
-        "slug": "gong-ju-xiang-lei",
-        "name_th": "กล่องและกระเป๋าเก็บเครื่องมือ",
+        "id": "12-18-zu-tao-gong-ju",
+        "slug": "12-18-zu-tao-gong-ju",
+        "name_th": "ชุดเครื่องมือรวม",
+        "name_cn": "组套工具",
+        "name_th_short": "ชุดเครื่องมือรวม"
+      },
+      {
+        "id": "12-19-gong-ju-xiang-lei",
+        "slug": "12-19-gong-ju-xiang-lei",
+        "name_th": "กล่อง/กระเป๋าเครื่องมือ",
         "name_cn": "工具箱类",
         "name_th_short": "กล่อง/กระเป๋าเครื่องมือ"
+      },
+      {
+        "id": "12-20-qian-zi-lei",
+        "slug": "12-20-qian-zi-lei",
+        "name_th": "คีม",
+        "name_cn": "钳子类",
+        "name_th_short": "คีม"
       }
     ]
   },
   {
-    "id": "lao-bao-yong-pin",
-    "slug": "lao-bao-yong-pin",
+    "id": "13-lao-bao-yong-pin",
+    "slug": "13-lao-bao-yong-pin",
     "name_th": "อุปกรณ์เซฟตี้ / อุปกรณ์คุ้มครองความปลอดภัยส่วนบุคคล",
     "name_cn": "劳保用品",
     "name_th_short": "อุปกรณ์เซฟตี้",
     "icon": "Wrench",
     "sub_categories": [
       {
-        "id": "shou-tao",
-        "slug": "shou-tao",
+        "id": "13-01-shou-tao",
+        "slug": "13-01-shou-tao",
         "name_th": "ถุงมือ",
         "name_cn": "手套",
         "name_th_short": "ถุงมือ"
       },
       {
-        "id": "sheng-suo-lei",
-        "slug": "sheng-suo-lei",
-        "name_th": "เชือก / อุปกรณ์เชือกป้องกันภัย",
+        "id": "13-02-sheng-suo-lei",
+        "slug": "13-02-sheng-suo-lei",
+        "name_th": "เชือก",
         "name_cn": "绳索类",
-        "name_th_short": "เชือกเซฟตี้"
+        "name_th_short": "เชือก"
       },
       {
-        "id": "lao-bao-xie",
-        "slug": "lao-bao-xie",
-        "name_th": "รองเท้าเซฟตี้ / รองเท้าป้องกันแรงงาน",
+        "id": "13-03-lao-bao-xie",
+        "slug": "13-03-lao-bao-xie",
+        "name_th": "รองเท้าเซฟตี้",
         "name_cn": "劳保鞋",
         "name_th_short": "รองเท้าเซฟตี้"
       },
       {
-        "id": "an-quan-fang-hu",
-        "slug": "an-quan-fang-hu",
-        "name_th": "อุปกรณ์ป้องกันความปลอดภัยส่วนบุคคล (PPE)",
-        "name_cn": "安全防护",
-        "name_th_short": "อุปกรณ์ PPE"
+        "id": "13-04-lao-bao-yi",
+        "slug": "13-04-lao-bao-yi",
+        "name_th": "ชุดทำงาน",
+        "name_cn": "劳保衣",
+        "name_th_short": "ชุดทำงาน"
       },
       {
-        "id": "fang-yu-yong-pin",
-        "slug": "fang-yu-yong-pin",
-        "name_th": "สินค้ากันฝน / ชุดและอุปกรณ์กันฝน",
+        "id": "13-05-an-quan-fang-hu",
+        "slug": "13-05-an-quan-fang-hu",
+        "name_th": "อุปกรณ์นิรภัย",
+        "name_cn": "安全防护",
+        "name_th_short": "อุปกรณ์นิรภัย"
+      },
+      {
+        "id": "13-06-fang-yu-yong-pin",
+        "slug": "13-06-fang-yu-yong-pin",
+        "name_th": "อุปกรณ์กันฝน",
         "name_cn": "防雨用品",
-        "name_th_short": "ชุด/อุปกรณ์กันฝน"
+        "name_th_short": "อุปกรณ์กันฝน"
       }
     ]
   },
   {
-    "id": "hua-gong-jiao-zhi",
-    "slug": "hua-gong-jiao-zhi",
+    "id": "14-tu-liao-fang-shui",
+    "slug": "14-tu-liao-fang-shui",
+    "name_th": "อุปกรณ์เสริมกันน้ำ",
+    "name_cn": "涂料防水",
+    "name_th_short": "อุปกรณ์เสริมกันน้ำ",
+    "icon": "Wrench",
+    "sub_categories": [
+      {
+        "id": "14-01-bai-jiao-tu-liao",
+        "slug": "14-01-bai-jiao-tu-liao",
+        "name_th": "กาวขาว/สีทาบ้าน",
+        "name_cn": "白胶涂料",
+        "name_th_short": "กาวขาว/สีทาบ้าน"
+      },
+      {
+        "id": "14-04-hun-ning-tu-wai-jia-ji",
+        "slug": "14-04-hun-ning-tu-wai-jia-ji",
+        "name_th": "สารผสมเพิ่มคอนกรีต",
+        "name_cn": "混凝土外加剂",
+        "name_th_short": "สารผสมเพิ่มคอนกรีต"
+      },
+      {
+        "id": "14-05-yu-hong-fang-shui",
+        "slug": "14-05-yu-hong-fang-shui",
+        "name_th": "น้ำยากันซึม อวิ๋งหง",
+        "name_cn": "雨虹防水",
+        "name_th_short": "น้ำยากันซึม อวิ๋งหง"
+      }
+    ]
+  },
+  {
+    "id": "15-hua-gong-jiao-zhi",
+    "slug": "15-hua-gong-jiao-zhi",
     "name_th": "กาว สารเคมี และเรซิ่นอุตสาหกรรม",
     "name_cn": "化工胶脂",
     "name_th_short": "กาว/สารเคมี/เรซิ่น",
     "icon": "Wrench",
     "sub_categories": [
       {
-        "id": "qi-wu-ji",
-        "slug": "qi-wu-ji",
-        "name_th": "สเปรย์กระป๋อง / ละอองลอย (Aerosol)",
+        "id": "15-01-qi-wu-ji",
+        "slug": "15-01-qi-wu-ji",
+        "name_th": "สเปรย์",
         "name_cn": "气雾剂",
-        "name_th_short": "สเปรย์กระป๋อง"
+        "name_th_short": "สเปรย์"
       },
       {
-        "id": "fa-pao-ji",
-        "slug": "fa-pao-ji",
-        "name_th": "โฟมพียู / สารเร่งฟอง (PU Foam)",
+        "id": "15-02-fa-pao-ji",
+        "slug": "15-02-fa-pao-ji",
+        "name_th": "โฟมยาแนว",
         "name_cn": "发泡剂",
-        "name_th_short": "โฟมพียู"
+        "name_th_short": "โฟมยาแนว"
       },
       {
-        "id": "gui-jiao(bo-li-jiao)",
-        "slug": "gui-jiao(bo-li-jiao)",
-        "name_th": "ซิลิโคน / กาวติดกระจก (Silicone Sealant)",
-        "name_cn": "硅胶（玻璃胶）",
-        "name_th_short": "กาวซิลิโคน"
+        "id": "15-03-gui-jiao-bo-li-jiao",
+        "slug": "15-03-gui-jiao-bo-li-jiao",
+        "name_th": "ซิลิโคน (กาวกระจก)",
+        "name_cn": "硅胶(玻璃胶)",
+        "name_th_short": "ซิลิโคน (กาวกระจก)"
       },
       {
-        "id": "jie-gou-jiao(ruan-jiao)",
-        "slug": "jie-gou-jiao(ruan-jiao)",
-        "name_th": "กาวโครงสร้างชนิดหลอดนิ่ม (Structural Adhesive - Soft Pack)",
-        "name_cn": "结构胶（软胶）",
-        "name_th_short": "กาวโครงสร้าง"
+        "id": "15-04-jie-gou-jiao-ruan-jiao",
+        "slug": "15-04-jie-gou-jiao-ruan-jiao",
+        "name_th": "กาวโครงสร้าง (แบบนิ่ม)",
+        "name_cn": "结构胶(软胶)",
+        "name_th_short": "กาวโครงสร้าง (แบบนิ่ม)"
       },
       {
-        "id": "mian-ding-jiao",
-        "slug": "mian-ding-jiao",
-        "name_th": "กาวตะปู (Nail-Free Glue)",
+        "id": "15-05-mian-ding-jiao",
+        "slug": "15-05-mian-ding-jiao",
+        "name_th": "กาวไม่ต้องตอกตะปู",
         "name_cn": "免钉胶",
-        "name_th_short": "กาวตะปู"
+        "name_th_short": "กาวไม่ต้องตอกตะปู"
       },
       {
-        "id": "jiao-zhi-lei",
-        "slug": "jiao-zhi-lei",
-        "name_th": "กาวและเรซิ่นอุตสาหกรรม / สารยึดติด",
+        "id": "15-06-jiao-zhi-lei",
+        "slug": "15-06-jiao-zhi-lei",
+        "name_th": "กาว/จาระบี",
         "name_cn": "胶脂类",
-        "name_th_short": "กาว/เรซิ่นอุตสาหกรรม"
+        "name_th_short": "กาว/จาระบี"
       }
     ]
   },
   {
-    "id": "you-qi-fu-liao",
-    "slug": "you-qi-fu-liao",
+    "id": "16-you-qi-fu-liao",
+    "slug": "16-you-qi-fu-liao",
     "name_th": "สีทาบ้านและอุปกรณ์เคมีงานสี",
     "name_cn": "油漆辅料",
     "name_th_short": "สีและเคมีงานสี",
     "icon": "Wrench",
     "sub_categories": [
       {
-        "id": "zhan-jie-jiao-dai",
-        "slug": "zhan-jie-jiao-dai",
-        "name_th": "เทปกาว / เทปกาวติดแน่น",
+        "id": "16-01-zhan-jie-jiao-dai",
+        "slug": "16-01-zhan-jie-jiao-dai",
+        "name_th": "เทปกาว",
         "name_cn": "粘接胶带",
         "name_th_short": "เทปกาว"
       },
       {
-        "id": "bao-zhuang-fang-shui-jiao-dai",
-        "slug": "bao-zhuang-fang-shui-jiao-dai",
-        "name_th": "เทปกาวกันน้ำสำหรับแพ็กของ / เทปกาวกันน้ำ",
+        "id": "16-02-bao-zhuang-fang-shui-jiao-dai",
+        "slug": "16-02-bao-zhuang-fang-shui-jiao-dai",
+        "name_th": "เทปแพ็ค/กันน้ำ",
         "name_cn": "包装防水胶带",
-        "name_th_short": "เทปกาวกันน้ำ"
+        "name_th_short": "เทปแพ็ค/กันน้ำ"
       },
       {
-        "id": "wang-ge-bo-mo",
-        "slug": "wang-ge-bo-mo",
-        "name_th": "ฟิล์มตาข่าย / ตาข่ายไฟเบอร์เสริมแรง",
+        "id": "16-03-wang-ge-bo-mo",
+        "slug": "16-03-wang-ge-bo-mo",
+        "name_th": "ฟิล์ม/ตาข่าย",
         "name_cn": "网格薄膜",
-        "name_th_short": "ฟิล์ม/ตาข่ายไฟเบอร์"
+        "name_th_short": "ฟิล์ม/ตาข่าย"
       },
       {
-        "id": "you-qi-gong-ju",
-        "slug": "you-qi-gong-ju",
-        "name_th": "เครื่องมือทาสี (แปรงทาสี, ลูกกลิ้ง)",
+        "id": "16-04-you-qi-gong-ju",
+        "slug": "16-04-you-qi-gong-ju",
+        "name_th": "เครื่องมืองานสี",
         "name_cn": "油漆工具",
-        "name_th_short": "แปรง/ลูกกลิ้งทาสี"
+        "name_th_short": "เครื่องมืองานสี"
       },
       {
-        "id": "qi-ta-fu-liao",
-        "slug": "qi-ta-fu-liao",
-        "name_th": "วัสดุและอุปกรณ์สิ้นเปลืองอื่นๆ",
+        "id": "16-05-qi-ta-fu-liao",
+        "slug": "16-05-qi-ta-fu-liao",
+        "name_th": "วัสดุเสริมอื่นๆ",
         "name_cn": "其他辅料",
-        "name_th_short": "อุปกรณ์ทาสีอื่นๆ"
+        "name_th_short": "วัสดุเสริมอื่นๆ"
       }
     ]
   },
   {
-    "id": "zuan-tou-kai-kong",
-    "slug": "zuan-tou-kai-kong",
+    "id": "17-zuan-tou-kai-kong",
+    "slug": "17-zuan-tou-kai-kong",
     "name_th": "ดอกสว่านและโฮลซอเจาะรู",
     "name_cn": "钻头开孔",
     "name_th_short": "ดอกสว่าน/โฮลซอ",
     "icon": "Wrench",
     "sub_categories": [
       {
-        "id": "ma-hua-zuan_san-jiao-zuan_si-gong",
-        "slug": "ma-hua-zuan_san-jiao-zuan_si-gong",
-        "name_th": "ดอกสว่านเกลียว / ดอกสว่านสามเหลี่ยม / ดอกต๊าปเกลียว",
+        "id": "17-01-ma-hua-zuan-san-jiao-zuan-si-gong",
+        "slug": "17-01-ma-hua-zuan-san-jiao-zuan-si-gong",
+        "name_th": "ดอกสว่านเกลียว/สามเหลี่ยม/ต๊าป",
         "name_cn": "麻花钻/三角钻/丝攻",
-        "name_th_short": "ดอกสว่าน/ดอกต๊าป"
+        "name_th_short": "ดอกสว่านเกลียว/สามเหลี่ยม/ต๊าป"
       },
       {
-        "id": "pi-tou,qiang-ci-tao-tong",
-        "slug": "pi-tou,qiang-ci-tao-tong",
-        "name_th": "ดอกไขควง, ลูกบล็อกแม่เหล็ก",
+        "id": "17-02-pi-tou-qiang-ci-tao-tong",
+        "slug": "17-02-pi-tou-qiang-ci-tao-tong",
+        "name_th": "หัวไขควง/บล็อกแม่เหล็ก",
         "name_cn": "批头、强磁套筒",
-        "name_th_short": "ดอกไขควง/บล็อกแม่เหล็ก"
+        "name_th_short": "หัวไขควง/บล็อกแม่เหล็ก"
       },
       {
-        "id": "yuan-bing-chong-ji-zuan-tou",
-        "slug": "yuan-bing-chong-ji-zuan-tou",
-        "name_th": "ดอกสว่านโรตารี่ก้านกลม",
+        "id": "17-03-yuan-bing-chong-ji-zuan-tou",
+        "slug": "17-03-yuan-bing-chong-ji-zuan-tou",
+        "name_th": "ดอกสว่านโรตารี่ด้ามกลม",
         "name_cn": "圆柄冲击钻头",
-        "name_th_short": "ดอกสว่านก้านกลม"
+        "name_th_short": "ดอกสว่านโรตารี่ด้ามกลม"
       },
       {
-        "id": "fang-bing-chong-ji-zuan-tou",
-        "slug": "fang-bing-chong-ji-zuan-tou",
-        "name_th": "ดอกสว่านโรตารี่ก้านสี่เหลี่ยม",
+        "id": "17-04-fang-bing-chong-ji-zuan-tou",
+        "slug": "17-04-fang-bing-chong-ji-zuan-tou",
+        "name_th": "ดอกสว่านโรตารี่ด้ามเหลี่ยม",
         "name_cn": "方柄冲击钻头",
-        "name_th_short": "ดอกสว่านก้านเหลี่ยม"
+        "name_th_short": "ดอกสว่านโรตารี่ด้ามเหลี่ยม"
       },
       {
-        "id": "jian-bian-zao-zi",
-        "slug": "jian-bian-zao-zi",
-        "name_th": "ดอกสกัดปลายแหลมและปลายแบน",
+        "id": "17-05-jian-bian-zao-zi",
+        "slug": "17-05-jian-bian-zao-zi",
+        "name_th": "สิ่วปลายแหลม/แบน",
         "name_cn": "尖扁凿子",
-        "name_th_short": "ดอกสกัด"
+        "name_th_short": "สิ่วปลายแหลม/แบน"
       },
       {
-        "id": "kai-kong-qi",
-        "slug": "kai-kong-qi",
-        "name_th": "โฮลซอเจาะรู",
+        "id": "17-06-kai-kong-qi",
+        "slug": "17-06-kai-kong-qi",
+        "name_th": "ดอกเจาะรู (โฮลซอว์)",
         "name_cn": "开孔器",
-        "name_th_short": "โฮลซอเจาะรู"
+        "name_th_short": "ดอกเจาะรู (โฮลซอว์)"
       },
       {
-        "id": "jian-ban-qi",
-        "slug": "jian-ban-qi",
-        "name_th": "หัวปั่นปูน / หัวปั่นสี",
+        "id": "17-07-jiao-ban-qi",
+        "slug": "17-07-jiao-ban-qi",
+        "name_th": "เครื่องกวนผสม",
         "name_cn": "搅拌器",
-        "name_th_short": "หัวปั่นปูน/สี"
+        "name_th_short": "เครื่องกวนผสม"
       }
     ]
   },
   {
-    "id": "qie-ge-hao-cai",
-    "slug": "qie-ge-hao-cai",
+    "id": "18-qie-ge-hao-cai",
+    "slug": "18-qie-ge-hao-cai",
     "name_th": "ใบตัด ใบเจียร และวัสดุสิ้นเปลืองงานตัด",
     "name_cn": "切割耗材",
     "name_th_short": "ใบตัด/ใบเจียร",
     "icon": "Wrench",
     "sub_categories": [
       {
-        "id": "sha-lun-qie-ge-pian",
-        "slug": "sha-lun-qie-ge-pian",
-        "name_th": "ใบตัดหินเจียร / ใบตัดไฟเบอร์",
+        "id": "18-01-sha-lun-qie-ge-pian",
+        "slug": "18-01-sha-lun-qie-ge-pian",
+        "name_th": "ใบตัดหินเจียร",
         "name_cn": "砂轮切割片",
-        "name_th_short": "ใบตัดไฟเบอร์"
+        "name_th_short": "ใบตัดหินเจียร"
       },
       {
-        "id": "jin-gang-shi-ju-pian",
-        "slug": "jin-gang-shi-ju-pian",
-        "name_th": "ใบเลื่อยเพชร / ใบตัดเพชร",
+        "id": "18-02-jin-gang-shi-ju-pian",
+        "slug": "18-02-jin-gang-shi-ju-pian",
+        "name_th": "ใบเลื่อยเพชร",
         "name_cn": "金刚石锯片",
-        "name_th_short": "ใบตัดเพชร"
+        "name_th_short": "ใบเลื่อยเพชร"
       },
       {
-        "id": "mu-gong-he-jin-ju-pian",
-        "slug": "mu-gong-he-jin-ju-pian",
-        "name_th": "ใบเลื่อยวงเดือนตัดไม้ / ใบเลื่อยอัลลอยสำหรับงานไม้",
+        "id": "18-03-mu-gong-he-jin-ju-pian",
+        "slug": "18-03-mu-gong-he-jin-ju-pian",
+        "name_th": "ใบเลื่อยวงเดือนไม้อัลลอย",
         "name_cn": "木工合金锯片",
-        "name_th_short": "ใบเลื่อยวงเดือน"
+        "name_th_short": "ใบเลื่อยวงเดือนไม้อัลลอย"
       }
     ]
   },
   {
-    "id": "shui-niu-wei-yu",
-    "slug": "shui-niu-wei-yu",
+    "id": "19-shui-nuan-wei-yu",
+    "slug": "19-shui-nuan-wei-yu",
     "name_th": "ระบบประปา อุปกรณ์สุขภัณฑ์ และท่อน้ำ",
     "name_cn": "水暖卫浴",
     "name_th_short": "ประปา/สุขภัณฑ์",
     "icon": "Wrench",
     "sub_categories": [
       {
-        "id": "long-tou-zhuan-qu",
-        "slug": "long-tou-zhuan-qu",
-        "name_th": "โซนก๊อกน้ำ / อุปกรณ์ก๊อกน้ำ",
+        "id": "19-01-long-tou-zhuan-qu",
+        "slug": "19-01-long-tou-zhuan-qu",
+        "name_th": "โซนก๊อกน้ำ",
         "name_cn": "龙头专区",
-        "name_th_short": "ก๊อกน้ำ/อุปกรณ์"
+        "name_th_short": "โซนก๊อกน้ำ"
       },
       {
-        "id": "jin-shu-guan-jian",
-        "slug": "jin-shu-guan-jian",
-        "name_th": "อุปกรณ์ท่อโลหะ / ข้อต่อโลหะ",
+        "id": "19-02-fa-men-zhuan-qu",
+        "slug": "19-02-fa-men-zhuan-qu",
+        "name_th": "โซนวาล์ว",
+        "name_cn": "阀门专区",
+        "name_th_short": "โซนวาล์ว"
+      },
+      {
+        "id": "19-03-jin-shu-guan-jian",
+        "slug": "19-03-jin-shu-guan-jian",
+        "name_th": "ข้อต่อท่อโลหะ",
         "name_cn": "金属管件",
-        "name_th_short": "ข้อต่อ/ท่อโลหะ"
+        "name_th_short": "ข้อต่อท่อโลหะ"
       },
       {
-        "id": "hua-sa-zhuan-qu",
-        "slug": "hua-sa-zhuan-qu",
-        "name_th": "โซนฝักบัว / ชุดฝักบัว",
-        "name_cn": "花洒专区",
-        "name_th_short": "ฝักบัว/อุปกรณ์"
+        "id": "19-04-hua-jiu-zhuan-qu",
+        "slug": "19-04-hua-jiu-zhuan-qu",
+        "name_th": "โซนฝักบัว",
+        "name_cn": "花酒专区",
+        "name_th_short": "โซนฝักบัว"
       },
       {
-        "id": "di-lou-zhuan-qu",
-        "slug": "di-lou-zhuan-qu",
-        "name_th": "โซนตะแกรงดักกลิ่น / ฟลอร์เดรน",
+        "id": "19-05-di-lou-zhuan-qu",
+        "slug": "19-05-di-lou-zhuan-qu",
+        "name_th": "โซนตะแกรงระบายน้ำพื้น",
         "name_cn": "地漏专区",
-        "name_th_short": "ตะแกรงดักกลิ่น"
+        "name_th_short": "โซนตะแกรงระบายน้ำพื้น"
       },
       {
-        "id": "chu-wei-zhuan-qu",
-        "slug": "chu-wei-zhuan-qu",
-        "name_th": "โซนห้องครัวและห้องน้ำ",
+        "id": "19-06-chu-wei-zhuan-qu",
+        "slug": "19-06-chu-wei-zhuan-qu",
+        "name_th": "โซนห้องครัว-ห้องน้ำ",
         "name_cn": "厨卫专区",
-        "name_th_short": "อุปกรณ์ครัว/ห้องน้ำ"
+        "name_th_short": "โซนห้องครัว-ห้องน้ำ"
       },
       {
-        "id": "shui-biao-zhuan-qu",
-        "slug": "shui-biao-zhuan-qu",
-        "name_th": "โซนมิเตอร์น้ำ",
+        "id": "19-07-shui-biao-zhuan-qu",
+        "slug": "19-07-shui-biao-zhuan-qu",
+        "name_th": "โซนมาตรวัดน้ำ",
         "name_cn": "水表专区",
-        "name_th_short": "มิเตอร์น้ำ"
+        "name_th_short": "โซนมาตรวัดน้ำ"
       },
       {
-        "id": "ri-hua-gong-ju",
-        "slug": "ri-hua-gong-ju",
-        "name_th": "เครื่องมือและอุปกรณ์ทำความสะอาด / อุปกรณ์เคมีใช้ประจำวัน",
+        "id": "19-08-ri-hua-gong-ju",
+        "slug": "19-08-ri-hua-gong-ju",
+        "name_th": "เครื่องมือทำความสะอาดในบ้าน",
         "name_cn": "日化工具",
-        "name_th_short": "อุปกรณ์ทำความสะอาด"
+        "name_th_short": "เครื่องมือทำความสะอาดในบ้าน"
       },
       {
-        "id": "xia-shui-zhuan-qu",
-        "slug": "xia-shui-zhuan-qu",
-        "name_th": "โซนระบบระบายน้ำทิ้ง / ท่อน้ำทิ้ง",
+        "id": "19-09-xia-shui-zhuan-qu",
+        "slug": "19-09-xia-shui-zhuan-qu",
+        "name_th": "โซนท่อระบายน้ำทิ้ง",
         "name_cn": "下水专区",
-        "name_th_short": "ระบบท่อน้ำทิ้ง"
+        "name_th_short": "โซนท่อระบายน้ำทิ้ง"
       },
       {
-        "id": "su-liao-ruan-guan",
-        "slug": "su-liao-ruan-guan",
-        "name_th": "ท่อน้ำพลาสติก / สายยางพลาสติก",
+        "id": "19-10-su-liao-ruan-guan",
+        "slug": "19-10-su-liao-ruan-guan",
+        "name_th": "ท่ออ่อนพลาสติก",
         "name_cn": "塑料软管",
-        "name_th_short": "ท่อพลาสติก/สายยาง"
+        "name_th_short": "ท่ออ่อนพลาสติก"
       }
     ]
   },
   {
-    "id": "qi-zhong-qi-pei",
-    "slug": "qi-zhong-qi-pei",
+    "id": "20-jin-shu-guan-ji-pei-jian",
+    "slug": "20-jin-shu-guan-ji-pei-jian",
+    "name_th": "อุปกรณ์เสริมท่อโลหะ",
+    "name_cn": "金属管及配件",
+    "name_th_short": "อุปกรณ์เสริมท่อโลหะ",
+    "icon": "Wrench",
+    "sub_categories": [
+      {
+        "id": "20-01-heng-tong-ran-qi-guan-pei-jian",
+        "slug": "20-01-heng-tong-ran-qi-guan-pei-jian",
+        "name_th": "อุปกรณ์ท่อแก๊ส เหิงทง",
+        "name_cn": "恒通燃气管配件",
+        "name_th_short": "อุปกรณ์ท่อแก๊ส เหิงทง"
+      },
+      {
+        "id": "20-02-jin-shu-guan-tong-pei-jian",
+        "slug": "20-02-jin-shu-guan-tong-pei-jian",
+        "name_th": "อุปกรณ์ท่อโลหะทองแดง",
+        "name_cn": "金属管铜配件",
+        "name_th_short": "อุปกรณ์ท่อโลหะทองแดง"
+      },
+      {
+        "id": "20-03-ran-qi-guan",
+        "slug": "20-03-ran-qi-guan",
+        "name_th": "ท่อแก๊ส",
+        "name_cn": "燃气管",
+        "name_th_short": "ท่อแก๊ส"
+      },
+      {
+        "id": "20-04-bu-xiu-gang-guan-pei-jian",
+        "slug": "20-04-bu-xiu-gang-guan-pei-jian",
+        "name_th": "อุปกรณ์ท่อสแตนเลส",
+        "name_cn": "不锈钢管配件",
+        "name_th_short": "อุปกรณ์ท่อสแตนเลส"
+      }
+    ]
+  },
+  {
+    "id": "21-qi-zhong-qi-pei",
+    "slug": "21-qi-zhong-qi-pei",
     "name_th": "อุปกรณ์ยกเครื่องจักร อะไหล่เครน และอะไหล่ยานยนต์",
     "name_cn": "起重汽配",
     "name_th_short": "อุปกรณ์ยก/อะไหล่",
     "icon": "Wrench",
     "sub_categories": [
       {
-        "id": "qi-zhong-yong-pin",
-        "slug": "qi-zhong-yong-pin",
-        "name_th": "อุปกรณ์ยก / เครื่องมือยกหนัก",
+        "id": "21-01-qi-zhong-yong-pin",
+        "slug": "21-01-qi-zhong-yong-pin",
+        "name_th": "อุปกรณ์งานยก",
         "name_cn": "起重用品",
-        "name_th_short": "อุปกรณ์ยกหนัก"
+        "name_th_short": "อุปกรณ์งานยก"
       },
       {
-        "id": "tao-tong-tou-zi",
-        "slug": "tao-tong-tou-zi",
-        "name_th": "ลูกบล็อก / หัวลูกบล็อก",
+        "id": "21-02-tao-tong-tou-zi",
+        "slug": "21-02-tao-tong-tou-zi",
+        "name_th": "หัวบล็อก",
         "name_cn": "套筒头子",
-        "name_th_short": "หัวลูกบล็อก"
+        "name_th_short": "หัวบล็อก"
       },
       {
-        "id": "tao-tong-gong-ju",
-        "slug": "tao-tong-gong-ju",
-        "name_th": "ชุดเครื่องมือบล็อก / เครื่องมือลูกบล็อก",
+        "id": "21-03-tao-tong-gong-ju",
+        "slug": "21-03-tao-tong-gong-ju",
+        "name_th": "เครื่องมือบล็อก",
         "name_cn": "套筒工具",
-        "name_th_short": "ชุดเครื่องมือบล็อก"
+        "name_th_short": "เครื่องมือบล็อก"
       },
       {
-        "id": "qi-beng-pei-jian",
-        "slug": "qi-beng-pei-jian",
-        "name_th": "อุปกรณ์เสริมและอะไหล่ปั๊มลม",
+        "id": "21-04-qi-beng-pei-jian",
+        "slug": "21-04-qi-beng-pei-jian",
+        "name_th": "อุปกรณ์ปั๊มลม",
         "name_cn": "气泵配件",
-        "name_th_short": "อะไหล่ปั๊มลม"
+        "name_th_short": "อุปกรณ์ปั๊มลม"
       }
     ]
   },
   {
-    "id": "deng-ju-dian-zi",
-    "slug": "deng-ju-dian-zi",
+    "id": "22-deng-ju-dian-zi",
+    "slug": "22-deng-ju-dian-zi",
     "name_th": "โคมไฟ หลอดไฟ และอุปกรณ์อิเล็กทรอนิกส์",
     "name_cn": "灯具电子",
     "name_th_short": "โคมไฟ/หลอดไฟ",
     "icon": "Wrench",
     "sub_categories": [
       {
-        "id": "zhao-ming",
-        "slug": "zhao-ming",
-        "name_th": "ไฟส่องสว่าง / อุปกรณ์ส่องสว่าง",
+        "id": "22-01-zhao-ming",
+        "slug": "22-01-zhao-ming",
+        "name_th": "ไฟส่องสว่าง",
         "name_cn": "照明",
-        "name_th_short": "หลอดไฟ/โคมไฟ"
+        "name_th_short": "ไฟส่องสว่าง"
       },
       {
-        "id": "mo-zu",
-        "slug": "mo-zu",
-        "name_th": "โมดูล (Module)",
+        "id": "22-02-mo-zu",
+        "slug": "22-02-mo-zu",
+        "name_th": "มอดูล LED",
         "name_cn": "模组",
-        "name_th_short": "โมดูล LED"
+        "name_th_short": "มอดูล LED"
       },
       {
-        "id": "qu-nuan-zhao-ming",
-        "slug": "qu-nuan-zhao-ming",
-        "name_th": "ไฟทำความร้อน / อุปกรณ์ส่องสว่างและให้ความร้อน",
+        "id": "22-03-qu-nuan-zhao-ming",
+        "slug": "22-03-qu-nuan-zhao-ming",
+        "name_th": "ไฟให้ความร้อน (ไฟห้องน้ำ)",
         "name_cn": "取暖照明",
-        "name_th_short": "ไฟทำความร้อน"
+        "name_th_short": "ไฟให้ความร้อน (ไฟห้องน้ำ)"
       },
       {
-        "id": "dian-zi-yong-ju",
-        "slug": "dian-zi-yong-ju",
-        "name_th": "เครื่องมือและอุปกรณ์อิเล็กทรอนิกส์",
+        "id": "22-04-dian-zi-yong-ju",
+        "slug": "22-04-dian-zi-yong-ju",
+        "name_th": "อุปกรณ์อิเล็กทรอนิกส์",
         "name_cn": "电子用具",
         "name_th_short": "อุปกรณ์อิเล็กทรอนิกส์"
       },
       {
-        "id": "hu-wai-zhao-ming",
-        "slug": "hu-wai-zhao-ming",
-        "name_th": "ไฟส่องสว่างกลางแจ้ง / ไฟภายนอกอาคาร",
+        "id": "22-05-hu-wai-zhao-ming",
+        "slug": "22-05-hu-wai-zhao-ming",
+        "name_th": "ไฟส่องสว่างกลางแจ้ง",
         "name_cn": "户外照明",
         "name_th_short": "ไฟส่องสว่างกลางแจ้ง"
       },
       {
-        "id": "xiao-fang-ying-ji-deng",
-        "slug": "xiao-fang-ying-ji-deng",
-        "name_th": "ไฟฉุกเฉินดับเพลิง / ไฟฉุกเฉินกู้ภัย",
+        "id": "22-06-xiao-fang-ying-ji-deng",
+        "slug": "22-06-xiao-fang-ying-ji-deng",
+        "name_th": "ไฟฉุกเฉินดับเพลิง",
         "name_cn": "消防应急灯",
         "name_th_short": "ไฟฉุกเฉินดับเพลิง"
       },
       {
-        "id": "xin-hao-deng_jing-shi-deng",
-        "slug": "xin-hao-deng_jing-shi-deng",
-        "name_th": "สัญญาณไฟ / ไฟเตือน",
+        "id": "22-07-xin-hao-deng-jing-shi-deng",
+        "slug": "22-07-xin-hao-deng-jing-shi-deng",
+        "name_th": "ไฟสัญญาณ/ไฟเตือน",
         "name_cn": "信号灯/警示灯",
-        "name_th_short": "สัญญาณไฟ/ไฟเตือน"
+        "name_th_short": "ไฟสัญญาณ/ไฟเตือน"
       }
     ]
   },
   {
-    "id": "jian-zhu-yong-pin",
-    "slug": "jian-zhu-yong-pin",
+    "id": "23-jian-zhu-yong-pin",
+    "slug": "23-jian-zhu-yong-pin",
     "name_th": "อุปกรณ์และวัสดุสำหรับงานก่อสร้าง",
     "name_cn": "建筑用品",
     "name_th_short": "วัสดุก่อสร้าง",
     "icon": "Wrench",
     "sub_categories": [
       {
-        "id": "jian-zhu-gong-ju",
-        "slug": "jian-zhu-gong-ju",
-        "name_th": "เครื่องมือก่อสร้าง / วัสดุก่อสร้าง",
+        "id": "23-01-jian-zhu-gong-ju",
+        "slug": "23-01-jian-zhu-gong-ju",
+        "name_th": "เครื่องมือก่อสร้าง",
         "name_cn": "建筑工具",
-        "name_th_short": "เครื่องมือ/วัสดุก่อสร้าง"
+        "name_th_short": "เครื่องมือก่อสร้าง"
       },
       {
-        "id": "guan-zi",
-        "slug": "guan-zi",
+        "id": "23-02-guan-zi",
+        "slug": "23-02-guan-zi",
         "name_th": "ท่อ",
         "name_cn": "管子",
         "name_th_short": "ท่อ"
       },
       {
-        "id": "jian-zhu-che-jia-lei",
-        "slug": "jian-zhu-che-jia-lei",
-        "name_th": "ประเภทโครงรถและโครงเหล็กสำหรับงานก่อสร้าง",
+        "id": "23-03-jian-zhu-che-jia-lei",
+        "slug": "23-03-jian-zhu-che-jia-lei",
+        "name_th": "รถเข็น/นั่งร้าน",
         "name_cn": "建筑车架类",
-        "name_th_short": "รถเข็น/โครงเหล็กก่อสร้าง"
+        "name_th_short": "รถเข็น/นั่งร้าน"
       },
       {
-        "id": "jiao-lun-xi-lie",
-        "slug": "jiao-lun-xi-lie",
-        "name_th": "ซีรีส์ลูกล้อ / ล้อรถเข็น",
+        "id": "23-04-jiao-lun-xi-lie",
+        "slug": "23-04-jiao-lun-xi-lie",
+        "name_th": "ล้อเลื่อน",
         "name_cn": "脚轮系列",
-        "name_th_short": "ลูกล้อ/ล้อรถเข็น"
+        "name_th_short": "ล้อเลื่อน"
       }
     ]
   },
   {
-    "id": "shui-beng-shui-dai",
-    "slug": "shui-beng-shui-dai",
+    "id": "24-shui-beng-shui-dai",
+    "slug": "24-shui-beng-shui-dai",
     "name_th": "ปั๊มน้ำและสายยางส่งน้ำ",
     "name_cn": "水泵水带",
     "name_th_short": "ปั๊มน้ำ/สายยาง",
     "icon": "Wrench",
     "sub_categories": [
       {
-        "id": "qian-shui-beng",
-        "slug": "qian-shui-beng",
-        "name_th": "ปั๊มแช่ / ปั๊มจุ่ม / ปั๊มไดโว่",
+        "id": "24-01-qian-shui-beng",
+        "slug": "24-01-qian-shui-beng",
+        "name_th": "ปั๊มแช่น้ำ",
         "name_cn": "潜水泵",
-        "name_th_short": "ปั๊มแช่/ปั๊มจุ่ม"
+        "name_th_short": "ปั๊มแช่น้ำ"
       },
       {
-        "id": "pai-wu-beng_wu-shui-beng",
-        "slug": "pai-wu-beng_wu-shui-beng",
-        "name_th": "ปั๊มสูบสิ่งปฏิกูล / ปั๊มน้ำเสีย",
+        "id": "24-03-pai-wu-beng-wu-shui-beng",
+        "slug": "24-03-pai-wu-beng-wu-shui-beng",
+        "name_th": "ปั๊มสูบสิ่งปฏิกูล/ปั๊มน้ำเสีย",
         "name_cn": "排污泵/污水泵",
-        "name_th_short": "ปั๊มน้ำเสีย"
+        "name_th_short": "ปั๊มสูบสิ่งปฏิกูล/ปั๊มน้ำเสีย"
       },
       {
-        "id": "xiao-fang-shui-dai-ji-pei-jian",
-        "slug": "xiao-fang-shui-dai-ji-pei-jian",
-        "name_th": "สายดับเพลิงและอุปกรณ์เสริม",
+        "id": "24-04-xiao-fang-shui-dai-ji-pei-jian",
+        "slug": "24-04-xiao-fang-shui-dai-ji-pei-jian",
+        "name_th": "สายส่งน้ำดับเพลิงและอุปกรณ์เสริม",
         "name_cn": "消防水带及配件",
-        "name_th_short": "สายดับเพลิง/อุปกรณ์"
+        "name_th_short": "สายส่งน้ำดับเพลิงและอุปกรณ์เสริม"
       }
     ]
   },
   {
-    "id": "jiao-tong-she-shi",
-    "slug": "jiao-tong-she-shi",
+    "id": "25-wei-xiu-pei-jian-lei",
+    "slug": "25-wei-xiu-pei-jian-lei",
+    "name_th": "อุปกรณ์การบำรุงรักษา",
+    "name_cn": "维修配件类",
+    "name_th_short": "อุปกรณ์การบำรุงรักษา",
+    "icon": "Wrench",
+    "sub_categories": [
+      {
+        "id": "25-01-wei-xiu-pei-jian-lei",
+        "slug": "25-01-wei-xiu-pei-jian-lei",
+        "name_th": "อุปกรณ์การบำรุงรักษา",
+        "name_cn": "维修配件类",
+        "name_th_short": "อุปกรณ์การบำรุงรักษา"
+      }
+    ]
+  },
+  {
+    "id": "26-qi-ta-lei",
+    "slug": "26-qi-ta-lei",
+    "name_th": "อื่นๆ",
+    "name_cn": "其他类",
+    "name_th_short": "อื่นๆ",
+    "icon": "Wrench",
+    "sub_categories": [
+      {
+        "id": "26-01-qi-ta-lei",
+        "slug": "26-01-qi-ta-lei",
+        "name_th": "อื่นๆ",
+        "name_cn": "其他类",
+        "name_th_short": "อื่นๆ"
+      }
+    ]
+  },
+  {
+    "id": "27-jiao-tong-she-shi",
+    "slug": "27-jiao-tong-she-shi",
     "name_th": "อุปกรณ์และระบบอำนวยความสะดวกจราจร",
     "name_cn": "交通设施",
     "name_th_short": "อุปกรณ์จราจร",
@@ -1033,19 +1272,43 @@
     ]
   },
   {
-    "id": "zeng-pin-te-jia",
-    "slug": "zeng-pin-te-jia",
+    "id": "31-zeng-pin-te-jia",
+    "slug": "31-zeng-pin-te-jia",
     "name_th": "สินค้าของแถม และสินค้าราคาพิเศษ",
     "name_cn": "赠品+特价",
     "name_th_short": "ของแถม/ราคาพิเศษ",
     "icon": "Wrench",
     "sub_categories": [
       {
-        "id": "zeng-pin-te-jia",
-        "slug": "zeng-pin-te-jia",
-        "name_th": "สินค้าของแถม และสินค้าราคาพิเศษ",
-        "name_cn": "赠品+特价",
-        "name_th_short": "ของแถม/ราคาพิเศษ"
+        "id": "31-01-zeng-pin",
+        "slug": "31-01-zeng-pin",
+        "name_th": "ของแถม",
+        "name_cn": "赠品",
+        "name_th_short": "ของแถม"
+      },
+      {
+        "id": "31-02-te-jia-qu",
+        "slug": "31-02-te-jia-qu",
+        "name_th": "โซนราคาพิเศษ",
+        "name_cn": "特价区",
+        "name_th_short": "โซนราคาพิเศษ"
+      }
+    ]
+  },
+  {
+    "id": "32-dai-shan-chu-lei",
+    "slug": "32-dai-shan-chu-lei",
+    "name_th": "หมวดรอลบ",
+    "name_cn": "待删除类",
+    "name_th_short": "หมวดรอลบ",
+    "icon": "Wrench",
+    "sub_categories": [
+      {
+        "id": "32-01-dai-shan-chu-lei",
+        "slug": "32-01-dai-shan-chu-lei",
+        "name_th": "หมวดรอลบ",
+        "name_cn": "待删除类",
+        "name_th_short": "หมวดรอลบ"
       }
     ]
   }

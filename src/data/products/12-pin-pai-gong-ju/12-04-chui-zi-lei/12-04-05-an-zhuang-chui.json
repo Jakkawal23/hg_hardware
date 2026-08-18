@@ -1,0 +1,25 @@
+{
+  "id": "12-04-05-an-zhuang-chui",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-04-chui-zi-lei",
+  "name_th": "ค้อนติดตั้ง",
+  "name_cn": "安装锤",
+  "products": [
+    {
+      "id": "12-04-05-an-zhuang-chui-1",
+      "slug": "12-04-05-an-zhuang-chui-1",
+      "name_th": "ค้อนติดตั้ง รายการที่ 1",
+      "name_cn": "安装锤 产品 1",
+      "price": 866,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-04-05-an-zhuang-chui-2",
+      "slug": "12-04-05-an-zhuang-chui-2",
+      "name_th": "ค้อนติดตั้ง รายการที่ 2",
+      "name_cn": "安装锤 产品 2",
+      "price": 1062,
+      "image": "/placeholder.png"
+    }
+  ]
+}

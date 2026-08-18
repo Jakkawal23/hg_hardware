@@ -1,0 +1,25 @@
+{
+  "id": "05-02-01-shou-ti-shi-dian-xiang",
+  "main_category_slug": "05-dian-xiang-dian-liao",
+  "sub_category_slug": "05-02-gong-ye-dian-xiang",
+  "name_th": "ตู้แบบหิ้ว",
+  "name_cn": "手提式电箱",
+  "products": [
+    {
+      "id": "05-02-01-shou-ti-shi-dian-xiang-1",
+      "slug": "05-02-01-shou-ti-shi-dian-xiang-1",
+      "name_th": "ตู้แบบหิ้ว รายการที่ 1",
+      "name_cn": "手提式电箱 产品 1",
+      "price": 749,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "05-02-01-shou-ti-shi-dian-xiang-2",
+      "slug": "05-02-01-shou-ti-shi-dian-xiang-2",
+      "name_th": "ตู้แบบหิ้ว รายการที่ 2",
+      "name_cn": "手提式电箱 产品 2",
+      "price": 458,
+      "image": "/placeholder.png"
+    }
+  ]
+}

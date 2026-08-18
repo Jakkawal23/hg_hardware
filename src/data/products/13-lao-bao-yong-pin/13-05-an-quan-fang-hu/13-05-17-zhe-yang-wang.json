@@ -1,0 +1,25 @@
+{
+  "id": "13-05-17-zhe-yang-wang",
+  "main_category_slug": "13-lao-bao-yong-pin",
+  "sub_category_slug": "13-05-an-quan-fang-hu",
+  "name_th": "ตาข่ายกันแดด",
+  "name_cn": "遮阳网",
+  "products": [
+    {
+      "id": "13-05-17-zhe-yang-wang-1",
+      "slug": "13-05-17-zhe-yang-wang-1",
+      "name_th": "ตาข่ายกันแดด รายการที่ 1",
+      "name_cn": "遮阳网 产品 1",
+      "price": 1084,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "13-05-17-zhe-yang-wang-2",
+      "slug": "13-05-17-zhe-yang-wang-2",
+      "name_th": "ตาข่ายกันแดด รายการที่ 2",
+      "name_cn": "遮阳网 产品 2",
+      "price": 963,
+      "image": "/placeholder.png"
+    }
+  ]
+}

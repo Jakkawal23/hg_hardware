@@ -1,0 +1,25 @@
+{
+  "id": "12-02-04-mei-hua-ban-shou",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-02-ban-shou-lei",
+  "name_th": "ประแจแหวน",
+  "name_cn": "梅花扳手",
+  "products": [
+    {
+      "id": "12-02-04-mei-hua-ban-shou-1",
+      "slug": "12-02-04-mei-hua-ban-shou-1",
+      "name_th": "ประแจแหวน รายการที่ 1",
+      "name_cn": "梅花扳手 产品 1",
+      "price": 1078,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-02-04-mei-hua-ban-shou-2",
+      "slug": "12-02-04-mei-hua-ban-shou-2",
+      "name_th": "ประแจแหวน รายการที่ 2",
+      "name_cn": "梅花扳手 产品 2",
+      "price": 602,
+      "image": "/placeholder.png"
+    }
+  ]
+}

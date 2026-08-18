@@ -1,0 +1,25 @@
+{
+  "id": "22-01-16-lei-da-qiu-pao",
+  "main_category_slug": "22-deng-ju-dian-zi",
+  "sub_category_slug": "22-01-zhao-ming",
+  "name_th": "หลอดไฟเรดาร์เซนเซอร์",
+  "name_cn": "雷达球泡",
+  "products": [
+    {
+      "id": "22-01-16-lei-da-qiu-pao-1",
+      "slug": "22-01-16-lei-da-qiu-pao-1",
+      "name_th": "หลอดไฟเรดาร์เซนเซอร์ รายการที่ 1",
+      "name_cn": "雷达球泡 产品 1",
+      "price": 542,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "22-01-16-lei-da-qiu-pao-2",
+      "slug": "22-01-16-lei-da-qiu-pao-2",
+      "name_th": "หลอดไฟเรดาร์เซนเซอร์ รายการที่ 2",
+      "name_cn": "雷达球泡 产品 2",
+      "price": 534,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "01-01-05-yi-mi-ben-se-fang-jian",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-01-quan-ya-si-gan",
+  "name_th": "เพลาเกลียวสีดิบ ยาว 1 เมตร",
+  "name_cn": "1米本色方键",
+  "products": [
+    {
+      "id": "01-01-05-yi-mi-ben-se-fang-jian-1",
+      "slug": "01-01-05-yi-mi-ben-se-fang-jian-1",
+      "name_th": "เพลาเกลียวสีดิบ ยาว 1 เมตร รายการที่ 1",
+      "name_cn": "1米本色方键 产品 1",
+      "price": 707,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-01-05-yi-mi-ben-se-fang-jian-2",
+      "slug": "01-01-05-yi-mi-ben-se-fang-jian-2",
+      "name_th": "เพลาเกลียวสีดิบ ยาว 1 เมตร รายการที่ 2",
+      "name_cn": "1米本色方键 产品 2",
+      "price": 211,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "17-01-09-duo-yong-mu-gong-si-cao-zuan-tao-zhuang",
+  "main_category_slug": "17-zuan-tou-kai-kong",
+  "sub_category_slug": "17-01-ma-hua-zuan-san-jiao-zuan-si-gong",
+  "name_th": "ชุดดอกสว่านไม้สี่ร่องอเนกประสงค์",
+  "name_cn": "多用木工四槽钻套装",
+  "products": [
+    {
+      "id": "17-01-09-duo-yong-mu-gong-si-cao-zuan-tao-zhuang-1",
+      "slug": "17-01-09-duo-yong-mu-gong-si-cao-zuan-tao-zhuang-1",
+      "name_th": "ชุดดอกสว่านไม้สี่ร่องอเนกประสงค์ รายการที่ 1",
+      "name_cn": "多用木工四槽钻套装 产品 1",
+      "price": 512,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "17-01-09-duo-yong-mu-gong-si-cao-zuan-tao-zhuang-2",
+      "slug": "17-01-09-duo-yong-mu-gong-si-cao-zuan-tao-zhuang-2",
+      "name_th": "ชุดดอกสว่านไม้สี่ร่องอเนกประสงค์ รายการที่ 2",
+      "name_cn": "多用木工四槽钻套装 产品 2",
+      "price": 145,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "11-08-03-zhuan-dao",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-08-ni-wa-gong-ju",
+  "name_th": "เกรียงก่ออิฐ",
+  "name_cn": "砖刀",
+  "products": [
+    {
+      "id": "11-08-03-zhuan-dao-1",
+      "slug": "11-08-03-zhuan-dao-1",
+      "name_th": "เกรียงก่ออิฐ รายการที่ 1",
+      "name_cn": "砖刀 产品 1",
+      "price": 373,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-08-03-zhuan-dao-2",
+      "slug": "11-08-03-zhuan-dao-2",
+      "name_th": "เกรียงก่ออิฐ รายการที่ 2",
+      "name_cn": "砖刀 产品 2",
+      "price": 132,
+      "image": "/placeholder.png"
+    }
+  ]
+}

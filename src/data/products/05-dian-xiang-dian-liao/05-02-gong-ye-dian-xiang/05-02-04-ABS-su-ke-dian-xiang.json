@@ -1,0 +1,25 @@
+{
+  "id": "05-02-04-ABS-su-ke-dian-xiang",
+  "main_category_slug": "05-dian-xiang-dian-liao",
+  "sub_category_slug": "05-02-gong-ye-dian-xiang",
+  "name_th": "ตู้ไฟพลาสติก ABS",
+  "name_cn": "ABS塑壳电箱",
+  "products": [
+    {
+      "id": "05-02-04-ABS-su-ke-dian-xiang-1",
+      "slug": "05-02-04-ABS-su-ke-dian-xiang-1",
+      "name_th": "ตู้ไฟพลาสติก ABS รายการที่ 1",
+      "name_cn": "ABS塑壳电箱 产品 1",
+      "price": 741,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "05-02-04-ABS-su-ke-dian-xiang-2",
+      "slug": "05-02-04-ABS-su-ke-dian-xiang-2",
+      "name_th": "ตู้ไฟพลาสติก ABS รายการที่ 2",
+      "name_cn": "ABS塑壳电箱 产品 2",
+      "price": 833,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "16-01-03-hai-mian-shuang-mian-jiao",
+  "main_category_slug": "16-you-qi-fu-liao",
+  "sub_category_slug": "16-01-zhan-jie-jiao-dai",
+  "name_th": "เทปกาวสองหน้าฟองน้ำ",
+  "name_cn": "海绵双面胶",
+  "products": [
+    {
+      "id": "16-01-03-hai-mian-shuang-mian-jiao-1",
+      "slug": "16-01-03-hai-mian-shuang-mian-jiao-1",
+      "name_th": "เทปกาวสองหน้าฟองน้ำ รายการที่ 1",
+      "name_cn": "海绵双面胶 产品 1",
+      "price": 971,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "16-01-03-hai-mian-shuang-mian-jiao-2",
+      "slug": "16-01-03-hai-mian-shuang-mian-jiao-2",
+      "name_th": "เทปกาวสองหน้าฟองน้ำ รายการที่ 2",
+      "name_cn": "海绵双面胶 产品 2",
+      "price": 392,
+      "image": "/placeholder.png"
+    }
+  ]
+}

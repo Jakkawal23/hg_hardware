@@ -1,0 +1,25 @@
+{
+  "id": "04-05-13-sheng-kong-deng-tou",
+  "main_category_slug": "04-kai-guan-cha-zuo",
+  "sub_category_slug": "04-05-cha-tou-cha-zuo",
+  "name_th": "ขั้วหลอดเซนเซอร์เสียง",
+  "name_cn": "声控灯头",
+  "products": [
+    {
+      "id": "04-05-13-sheng-kong-deng-tou-1",
+      "slug": "04-05-13-sheng-kong-deng-tou-1",
+      "name_th": "ขั้วหลอดเซนเซอร์เสียง รายการที่ 1",
+      "name_cn": "声控灯头 产品 1",
+      "price": 330,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "04-05-13-sheng-kong-deng-tou-2",
+      "slug": "04-05-13-sheng-kong-deng-tou-2",
+      "name_th": "ขั้วหลอดเซนเซอร์เสียง รายการที่ 2",
+      "name_cn": "声控灯头 产品 2",
+      "price": 296,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "22-01-01-qiu-pao",
+  "main_category_slug": "22-deng-ju-dian-zi",
+  "sub_category_slug": "22-01-zhao-ming",
+  "name_th": "หลอดไฟกลม (บัลบ์)",
+  "name_cn": "球泡",
+  "products": [
+    {
+      "id": "22-01-01-qiu-pao-1",
+      "slug": "22-01-01-qiu-pao-1",
+      "name_th": "หลอดไฟกลม (บัลบ์) รายการที่ 1",
+      "name_cn": "球泡 产品 1",
+      "price": 505,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "22-01-01-qiu-pao-2",
+      "slug": "22-01-01-qiu-pao-2",
+      "name_th": "หลอดไฟกลม (บัลบ์) รายการที่ 2",
+      "name_cn": "球泡 产品 2",
+      "price": 341,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "05-01-12-PE-bo-wen-guan",
+  "main_category_slug": "05-dian-xiang-dian-liao",
+  "sub_category_slug": "05-01-dian-liao",
+  "name_th": "ท่อลูกฟูก PE",
+  "name_cn": "PE波纹管",
+  "products": [
+    {
+      "id": "05-01-12-PE-bo-wen-guan-1",
+      "slug": "05-01-12-PE-bo-wen-guan-1",
+      "name_th": "ท่อลูกฟูก PE รายการที่ 1",
+      "name_cn": "PE波纹管 产品 1",
+      "price": 914,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "05-01-12-PE-bo-wen-guan-2",
+      "slug": "05-01-12-PE-bo-wen-guan-2",
+      "name_th": "ท่อลูกฟูก PE รายการที่ 2",
+      "name_cn": "PE波纹管 产品 2",
+      "price": 338,
+      "image": "/placeholder.png"
+    }
+  ]
+}

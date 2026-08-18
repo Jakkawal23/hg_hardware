@@ -1,0 +1,25 @@
+{
+  "id": "11-15-08-you-biao-ka-chi",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-15-liang-ce-chi",
+  "name_th": "เวอร์เนียคาลิปเปอร์",
+  "name_cn": "游标卡尺",
+  "products": [
+    {
+      "id": "11-15-08-you-biao-ka-chi-1",
+      "slug": "11-15-08-you-biao-ka-chi-1",
+      "name_th": "เวอร์เนียคาลิปเปอร์ รายการที่ 1",
+      "name_cn": "游标卡尺 产品 1",
+      "price": 505,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-15-08-you-biao-ka-chi-2",
+      "slug": "11-15-08-you-biao-ka-chi-2",
+      "name_th": "เวอร์เนียคาลิปเปอร์ รายการที่ 2",
+      "name_cn": "游标卡尺 产品 2",
+      "price": 992,
+      "image": "/placeholder.png"
+    }
+  ]
+}

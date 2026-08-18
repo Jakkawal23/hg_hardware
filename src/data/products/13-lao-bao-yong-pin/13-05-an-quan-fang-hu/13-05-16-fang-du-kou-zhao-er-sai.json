@@ -1,0 +1,25 @@
+{
+  "id": "13-05-16-fang-du-kou-zhao-er-sai",
+  "main_category_slug": "13-lao-bao-yong-pin",
+  "sub_category_slug": "13-05-an-quan-fang-hu",
+  "name_th": "หน้ากากกันสารพิษ/ที่อุดหู",
+  "name_cn": "防毒口罩/耳塞",
+  "products": [
+    {
+      "id": "13-05-16-fang-du-kou-zhao-er-sai-1",
+      "slug": "13-05-16-fang-du-kou-zhao-er-sai-1",
+      "name_th": "หน้ากากกันสารพิษ/ที่อุดหู รายการที่ 1",
+      "name_cn": "防毒口罩/耳塞 产品 1",
+      "price": 595,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "13-05-16-fang-du-kou-zhao-er-sai-2",
+      "slug": "13-05-16-fang-du-kou-zhao-er-sai-2",
+      "name_th": "หน้ากากกันสารพิษ/ที่อุดหู รายการที่ 2",
+      "name_cn": "防毒口罩/耳塞 产品 2",
+      "price": 700,
+      "image": "/placeholder.png"
+    }
+  ]
+}

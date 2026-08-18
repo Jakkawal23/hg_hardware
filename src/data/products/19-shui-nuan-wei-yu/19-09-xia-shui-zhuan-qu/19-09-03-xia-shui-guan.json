@@ -1,0 +1,25 @@
+{
+  "id": "19-09-03-xia-shui-guan",
+  "main_category_slug": "19-shui-nuan-wei-yu",
+  "sub_category_slug": "19-09-xia-shui-zhuan-qu",
+  "name_th": "ท่อน้ำทิ้ง",
+  "name_cn": "下水管",
+  "products": [
+    {
+      "id": "19-09-03-xia-shui-guan-1",
+      "slug": "19-09-03-xia-shui-guan-1",
+      "name_th": "ท่อน้ำทิ้ง รายการที่ 1",
+      "name_cn": "下水管 产品 1",
+      "price": 737,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "19-09-03-xia-shui-guan-2",
+      "slug": "19-09-03-xia-shui-guan-2",
+      "name_th": "ท่อน้ำทิ้ง รายการที่ 2",
+      "name_cn": "下水管 产品 2",
+      "price": 441,
+      "image": "/placeholder.png"
+    }
+  ]
+}

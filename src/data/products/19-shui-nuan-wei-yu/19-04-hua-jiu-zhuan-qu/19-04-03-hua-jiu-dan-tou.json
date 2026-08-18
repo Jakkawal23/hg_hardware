@@ -1,0 +1,25 @@
+{
+  "id": "19-04-03-hua-jiu-dan-tou",
+  "main_category_slug": "19-shui-nuan-wei-yu",
+  "sub_category_slug": "19-04-hua-jiu-zhuan-qu",
+  "name_th": "หัวฝักบัวเดี่ยว",
+  "name_cn": "花酒单头",
+  "products": [
+    {
+      "id": "19-04-03-hua-jiu-dan-tou-1",
+      "slug": "19-04-03-hua-jiu-dan-tou-1",
+      "name_th": "หัวฝักบัวเดี่ยว รายการที่ 1",
+      "name_cn": "花酒单头 产品 1",
+      "price": 171,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "19-04-03-hua-jiu-dan-tou-2",
+      "slug": "19-04-03-hua-jiu-dan-tou-2",
+      "name_th": "หัวฝักบัวเดี่ยว รายการที่ 2",
+      "name_cn": "花酒单头 产品 2",
+      "price": 1002,
+      "image": "/placeholder.png"
+    }
+  ]
+}

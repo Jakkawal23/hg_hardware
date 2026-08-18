@@ -1,0 +1,25 @@
+{
+  "id": "20-04-07-bu-xiu-gang-huan-chong-guan",
+  "main_category_slug": "20-jin-shu-guan-ji-pei-jian",
+  "sub_category_slug": "20-04-bu-xiu-gang-guan-pei-jian",
+  "name_th": "ท่ออ่อนลดแรงกระแทกสแตนเลส",
+  "name_cn": "不锈钢缓冲管",
+  "products": [
+    {
+      "id": "20-04-07-bu-xiu-gang-huan-chong-guan-1",
+      "slug": "20-04-07-bu-xiu-gang-huan-chong-guan-1",
+      "name_th": "ท่ออ่อนลดแรงกระแทกสแตนเลส รายการที่ 1",
+      "name_cn": "不锈钢缓冲管 产品 1",
+      "price": 314,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "20-04-07-bu-xiu-gang-huan-chong-guan-2",
+      "slug": "20-04-07-bu-xiu-gang-huan-chong-guan-2",
+      "name_th": "ท่ออ่อนลดแรงกระแทกสแตนเลส รายการที่ 2",
+      "name_cn": "不锈钢缓冲管 产品 2",
+      "price": 726,
+      "image": "/placeholder.png"
+    }
+  ]
+}

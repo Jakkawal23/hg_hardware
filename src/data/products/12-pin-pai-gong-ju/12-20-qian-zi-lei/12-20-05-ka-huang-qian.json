@@ -1,0 +1,25 @@
+{
+  "id": "12-20-05-ka-huang-qian",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-20-qian-zi-lei",
+  "name_th": "คีมถ่างแหวน",
+  "name_cn": "卡簧钳",
+  "products": [
+    {
+      "id": "12-20-05-ka-huang-qian-1",
+      "slug": "12-20-05-ka-huang-qian-1",
+      "name_th": "คีมถ่างแหวน รายการที่ 1",
+      "name_cn": "卡簧钳 产品 1",
+      "price": 626,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-20-05-ka-huang-qian-2",
+      "slug": "12-20-05-ka-huang-qian-2",
+      "name_th": "คีมถ่างแหวน รายการที่ 2",
+      "name_cn": "卡簧钳 产品 2",
+      "price": 160,
+      "image": "/placeholder.png"
+    }
+  ]
+}

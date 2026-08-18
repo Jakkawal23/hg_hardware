@@ -1,0 +1,25 @@
+{
+  "id": "01-05-14-peng-zhang-gou",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-05-peng-zhang-luo-si-peng-zhang-ding",
+  "name_th": "ตะขอพุก",
+  "name_cn": "膨胀钩",
+  "products": [
+    {
+      "id": "01-05-14-peng-zhang-gou-1",
+      "slug": "01-05-14-peng-zhang-gou-1",
+      "name_th": "ตะขอพุก รายการที่ 1",
+      "name_cn": "膨胀钩 产品 1",
+      "price": 657,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-05-14-peng-zhang-gou-2",
+      "slug": "01-05-14-peng-zhang-gou-2",
+      "name_th": "ตะขอพุก รายการที่ 2",
+      "name_cn": "膨胀钩 产品 2",
+      "price": 661,
+      "image": "/placeholder.png"
+    }
+  ]
+}

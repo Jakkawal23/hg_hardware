@@ -1,0 +1,25 @@
+{
+  "id": "19-09-01-xia-shui-tao-zhuang",
+  "main_category_slug": "19-shui-nuan-wei-yu",
+  "sub_category_slug": "19-09-xia-shui-zhuan-qu",
+  "name_th": "ชุดท่อน้ำทิ้ง",
+  "name_cn": "下水套装",
+  "products": [
+    {
+      "id": "19-09-01-xia-shui-tao-zhuang-1",
+      "slug": "19-09-01-xia-shui-tao-zhuang-1",
+      "name_th": "ชุดท่อน้ำทิ้ง รายการที่ 1",
+      "name_cn": "下水套装 产品 1",
+      "price": 257,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "19-09-01-xia-shui-tao-zhuang-2",
+      "slug": "19-09-01-xia-shui-tao-zhuang-2",
+      "name_th": "ชุดท่อน้ำทิ้ง รายการที่ 2",
+      "name_cn": "下水套装 产品 2",
+      "price": 717,
+      "image": "/placeholder.png"
+    }
+  ]
+}

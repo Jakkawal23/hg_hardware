@@ -1,0 +1,25 @@
+{
+  "id": "13-04-01-duan-xiu-gong-zuo-fu",
+  "main_category_slug": "13-lao-bao-yong-pin",
+  "sub_category_slug": "13-04-lao-bao-yi",
+  "name_th": "ชุดทำงานแขนสั้น",
+  "name_cn": "短袖工作服",
+  "products": [
+    {
+      "id": "13-04-01-duan-xiu-gong-zuo-fu-1",
+      "slug": "13-04-01-duan-xiu-gong-zuo-fu-1",
+      "name_th": "ชุดทำงานแขนสั้น รายการที่ 1",
+      "name_cn": "短袖工作服 产品 1",
+      "price": 222,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "13-04-01-duan-xiu-gong-zuo-fu-2",
+      "slug": "13-04-01-duan-xiu-gong-zuo-fu-2",
+      "name_th": "ชุดทำงานแขนสั้น รายการที่ 2",
+      "name_cn": "短袖工作服 产品 2",
+      "price": 411,
+      "image": "/placeholder.png"
+    }
+  ]
+}

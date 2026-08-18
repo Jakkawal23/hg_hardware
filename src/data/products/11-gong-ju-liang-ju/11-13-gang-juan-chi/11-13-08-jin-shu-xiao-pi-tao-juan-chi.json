@@ -1,0 +1,25 @@
+{
+  "id": "11-13-08-jin-shu-xiao-pi-tao-juan-chi",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-13-gang-juan-chi",
+  "name_th": "ตลับเมตรจิ๋วซองหนังเล็ก",
+  "name_cn": "金弹小皮卷尺",
+  "products": [
+    {
+      "id": "11-13-08-jin-shu-xiao-pi-tao-juan-chi-1",
+      "slug": "11-13-08-jin-shu-xiao-pi-tao-juan-chi-1",
+      "name_th": "ตลับเมตรจิ๋วซองหนังเล็ก รายการที่ 1",
+      "name_cn": "金弹小皮卷尺 产品 1",
+      "price": 585,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-13-08-jin-shu-xiao-pi-tao-juan-chi-2",
+      "slug": "11-13-08-jin-shu-xiao-pi-tao-juan-chi-2",
+      "name_th": "ตลับเมตรจิ๋วซองหนังเล็ก รายการที่ 2",
+      "name_cn": "金弹小皮卷尺 产品 2",
+      "price": 830,
+      "image": "/placeholder.png"
+    }
+  ]
+}

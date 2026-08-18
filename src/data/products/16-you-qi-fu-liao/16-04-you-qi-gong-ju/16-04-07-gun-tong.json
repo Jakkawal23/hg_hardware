@@ -1,0 +1,25 @@
+{
+  "id": "16-04-07-gun-tong",
+  "main_category_slug": "16-you-qi-fu-liao",
+  "sub_category_slug": "16-04-you-qi-gong-ju",
+  "name_th": "ลูกกลิ้ง",
+  "name_cn": "滚筒",
+  "products": [
+    {
+      "id": "16-04-07-gun-tong-1",
+      "slug": "16-04-07-gun-tong-1",
+      "name_th": "ลูกกลิ้ง รายการที่ 1",
+      "name_cn": "滚筒 产品 1",
+      "price": 413,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "16-04-07-gun-tong-2",
+      "slug": "16-04-07-gun-tong-2",
+      "name_th": "ลูกกลิ้ง รายการที่ 2",
+      "name_cn": "滚筒 产品 2",
+      "price": 181,
+      "image": "/placeholder.png"
+    }
+  ]
+}

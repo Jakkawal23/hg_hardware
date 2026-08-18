@@ -1,0 +1,25 @@
+{
+  "id": "11-05-07-gang-jin-jian",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-05-jian-qie-gong-ju",
+  "name_th": "ตัดแต่งเหล็กเส้น",
+  "name_cn": "钢筋剪",
+  "products": [
+    {
+      "id": "11-05-07-gang-jin-jian-1",
+      "slug": "11-05-07-gang-jin-jian-1",
+      "name_th": "ตัดแต่งเหล็กเส้น รายการที่ 1",
+      "name_cn": "钢筋剪 产品 1",
+      "price": 1064,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-05-07-gang-jin-jian-2",
+      "slug": "11-05-07-gang-jin-jian-2",
+      "name_th": "ตัดแต่งเหล็กเส้น รายการที่ 2",
+      "name_cn": "钢筋剪 产品 2",
+      "price": 978,
+      "image": "/placeholder.png"
+    }
+  ]
+}

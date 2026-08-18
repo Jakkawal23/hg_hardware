@@ -1,0 +1,25 @@
+{
+  "id": "11-10-08-han-ge-pei-jian",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-10-han-ge-gong-ju",
+  "name_th": "อุปกรณ์เสริมงานเชื่อม-ตัด",
+  "name_cn": "焊割配件",
+  "products": [
+    {
+      "id": "11-10-08-han-ge-pei-jian-1",
+      "slug": "11-10-08-han-ge-pei-jian-1",
+      "name_th": "อุปกรณ์เสริมงานเชื่อม-ตัด รายการที่ 1",
+      "name_cn": "焊割配件 产品 1",
+      "price": 902,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-10-08-han-ge-pei-jian-2",
+      "slug": "11-10-08-han-ge-pei-jian-2",
+      "name_th": "อุปกรณ์เสริมงานเชื่อม-ตัด รายการที่ 2",
+      "name_cn": "焊割配件 产品 2",
+      "price": 574,
+      "image": "/placeholder.png"
+    }
+  ]
+}

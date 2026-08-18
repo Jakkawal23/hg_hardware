@@ -1,0 +1,25 @@
+{
+  "id": "17-04-01-fang-bing-chong-ji-zuan-tou-chang-du-110-160",
+  "main_category_slug": "17-zuan-tou-kai-kong",
+  "sub_category_slug": "17-04-fang-bing-chong-ji-zuan-tou",
+  "name_th": "ดอกสว่านโรตารี่ด้ามเหลี่ยม ยาว 110-160",
+  "name_cn": "方柄冲击钻头 长度110-160",
+  "products": [
+    {
+      "id": "17-04-01-fang-bing-chong-ji-zuan-tou-chang-du-110-160-1",
+      "slug": "17-04-01-fang-bing-chong-ji-zuan-tou-chang-du-110-160-1",
+      "name_th": "ดอกสว่านโรตารี่ด้ามเหลี่ยม ยาว 110-160 รายการที่ 1",
+      "name_cn": "方柄冲击钻头 长度110-160 产品 1",
+      "price": 735,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "17-04-01-fang-bing-chong-ji-zuan-tou-chang-du-110-160-2",
+      "slug": "17-04-01-fang-bing-chong-ji-zuan-tou-chang-du-110-160-2",
+      "name_th": "ดอกสว่านโรตารี่ด้ามเหลี่ยม ยาว 110-160 รายการที่ 2",
+      "name_cn": "方柄冲击钻头 长度110-160 产品 2",
+      "price": 1060,
+      "image": "/placeholder.png"
+    }
+  ]
+}

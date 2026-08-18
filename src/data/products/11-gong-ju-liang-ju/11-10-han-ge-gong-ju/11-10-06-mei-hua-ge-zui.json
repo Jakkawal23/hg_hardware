@@ -1,0 +1,25 @@
+{
+  "id": "11-10-06-mei-hua-ge-zui",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-10-han-ge-gong-ju",
+  "name_th": "หัวปากตัดแบบดอกเหมย",
+  "name_cn": "梅花割嘴",
+  "products": [
+    {
+      "id": "11-10-06-mei-hua-ge-zui-1",
+      "slug": "11-10-06-mei-hua-ge-zui-1",
+      "name_th": "หัวปากตัดแบบดอกเหมย รายการที่ 1",
+      "name_cn": "梅花割嘴 产品 1",
+      "price": 310,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-10-06-mei-hua-ge-zui-2",
+      "slug": "11-10-06-mei-hua-ge-zui-2",
+      "name_th": "หัวปากตัดแบบดอกเหมย รายการที่ 2",
+      "name_cn": "梅花割嘴 产品 2",
+      "price": 122,
+      "image": "/placeholder.png"
+    }
+  ]
+}

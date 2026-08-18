@@ -1,0 +1,25 @@
+{
+  "id": "11-01-13-wang-luo-ya-xian-qian",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-01-qian-zi-lei",
+  "name_th": "คีมย้ำสายแลน",
+  "name_cn": "网络压线钳",
+  "products": [
+    {
+      "id": "11-01-13-wang-luo-ya-xian-qian-1",
+      "slug": "11-01-13-wang-luo-ya-xian-qian-1",
+      "name_th": "คีมย้ำสายแลน รายการที่ 1",
+      "name_cn": "网络压线钳 产品 1",
+      "price": 366,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-01-13-wang-luo-ya-xian-qian-2",
+      "slug": "11-01-13-wang-luo-ya-xian-qian-2",
+      "name_th": "คีมย้ำสายแลน รายการที่ 2",
+      "name_cn": "网络压线钳 产品 2",
+      "price": 1065,
+      "image": "/placeholder.png"
+    }
+  ]
+}

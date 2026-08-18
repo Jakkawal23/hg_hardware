@@ -1,0 +1,25 @@
+{
+  "id": "01-10-04-deng-long-ka",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-10-ping-ji-yuan-ji",
+  "name_th": "แคลมป์โคมไฟ",
+  "name_cn": "扎筋卡",
+  "products": [
+    {
+      "id": "01-10-04-deng-long-ka-1",
+      "slug": "01-10-04-deng-long-ka-1",
+      "name_th": "แคลมป์โคมไฟ รายการที่ 1",
+      "name_cn": "扎筋卡 产品 1",
+      "price": 521,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-10-04-deng-long-ka-2",
+      "slug": "01-10-04-deng-long-ka-2",
+      "name_th": "แคลมป์โคมไฟ รายการที่ 2",
+      "name_cn": "扎筋卡 产品 2",
+      "price": 561,
+      "image": "/placeholder.png"
+    }
+  ]
+}

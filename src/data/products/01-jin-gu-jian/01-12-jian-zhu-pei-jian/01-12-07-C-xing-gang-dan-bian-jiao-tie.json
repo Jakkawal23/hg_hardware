@@ -1,0 +1,25 @@
+{
+  "id": "01-12-07-C-xing-gang-dan-bian-jiao-tie",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-12-jian-zhu-pei-jian",
+  "name_th": "เหล็กรางตัวซี / เหล็กฉากด้านเดียว",
+  "name_cn": "C型钢/单边角铁",
+  "products": [
+    {
+      "id": "01-12-07-C-xing-gang-dan-bian-jiao-tie-1",
+      "slug": "01-12-07-C-xing-gang-dan-bian-jiao-tie-1",
+      "name_th": "เหล็กรางตัวซี / เหล็กฉากด้านเดียว รายการที่ 1",
+      "name_cn": "C型钢/单边角铁 产品 1",
+      "price": 981,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-12-07-C-xing-gang-dan-bian-jiao-tie-2",
+      "slug": "01-12-07-C-xing-gang-dan-bian-jiao-tie-2",
+      "name_th": "เหล็กรางตัวซี / เหล็กฉากด้านเดียว รายการที่ 2",
+      "name_cn": "C型钢/单边角铁 产品 2",
+      "price": 285,
+      "image": "/placeholder.png"
+    }
+  ]
+}

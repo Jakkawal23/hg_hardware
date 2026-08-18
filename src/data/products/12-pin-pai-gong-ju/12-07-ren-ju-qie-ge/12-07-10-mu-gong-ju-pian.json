@@ -1,0 +1,25 @@
+{
+  "id": "12-07-10-mu-gong-ju-pian",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-07-ren-ju-qie-ge",
+  "name_th": "ใบเลื่อยงอเดือนไม้",
+  "name_cn": "木工旋片",
+  "products": [
+    {
+      "id": "12-07-10-mu-gong-ju-pian-1",
+      "slug": "12-07-10-mu-gong-ju-pian-1",
+      "name_th": "ใบเลื่อยงอเดือนไม้ รายการที่ 1",
+      "name_cn": "木工旋片 产品 1",
+      "price": 696,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-07-10-mu-gong-ju-pian-2",
+      "slug": "12-07-10-mu-gong-ju-pian-2",
+      "name_th": "ใบเลื่อยงอเดือนไม้ รายการที่ 2",
+      "name_cn": "木工旋片 产品 2",
+      "price": 862,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "08-02-06-bu-xiu-gang-men-xi",
+  "main_category_slug": "08-zhuang-huang-wu-jin",
+  "sub_category_slug": "08-02-he-ye-men-xi",
+  "name_th": "ตัวดูดประตูสแตนเลส",
+  "name_cn": "不锈钢门吸",
+  "products": [
+    {
+      "id": "08-02-06-bu-xiu-gang-men-xi-1",
+      "slug": "08-02-06-bu-xiu-gang-men-xi-1",
+      "name_th": "ตัวดูดประตูสแตนเลส รายการที่ 1",
+      "name_cn": "不锈钢门吸 产品 1",
+      "price": 973,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "08-02-06-bu-xiu-gang-men-xi-2",
+      "slug": "08-02-06-bu-xiu-gang-men-xi-2",
+      "name_th": "ตัวดูดประตูสแตนเลส รายการที่ 2",
+      "name_cn": "不锈钢门吸 产品 2",
+      "price": 802,
+      "image": "/placeholder.png"
+    }
+  ]
+}

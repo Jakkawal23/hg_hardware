@@ -1,0 +1,25 @@
+{
+  "id": "13-05-08-cai-qi",
+  "main_category_slug": "13-lao-bao-yong-pin",
+  "sub_category_slug": "13-05-an-quan-fang-hu",
+  "name_th": "ธงสี",
+  "name_cn": "彩旗",
+  "products": [
+    {
+      "id": "13-05-08-cai-qi-1",
+      "slug": "13-05-08-cai-qi-1",
+      "name_th": "ธงสี รายการที่ 1",
+      "name_cn": "彩旗 产品 1",
+      "price": 696,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "13-05-08-cai-qi-2",
+      "slug": "13-05-08-cai-qi-2",
+      "name_th": "ธงสี รายการที่ 2",
+      "name_cn": "彩旗 产品 2",
+      "price": 344,
+      "image": "/placeholder.png"
+    }
+  ]
+}

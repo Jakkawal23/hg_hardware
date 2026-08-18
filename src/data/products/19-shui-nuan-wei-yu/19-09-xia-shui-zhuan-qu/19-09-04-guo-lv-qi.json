@@ -1,0 +1,25 @@
+{
+  "id": "19-09-04-guo-lv-qi",
+  "main_category_slug": "19-shui-nuan-wei-yu",
+  "sub_category_slug": "19-09-xia-shui-zhuan-qu",
+  "name_th": "ตัวกรอง",
+  "name_cn": "过滤器",
+  "products": [
+    {
+      "id": "19-09-04-guo-lv-qi-1",
+      "slug": "19-09-04-guo-lv-qi-1",
+      "name_th": "ตัวกรอง รายการที่ 1",
+      "name_cn": "过滤器 产品 1",
+      "price": 600,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "19-09-04-guo-lv-qi-2",
+      "slug": "19-09-04-guo-lv-qi-2",
+      "name_th": "ตัวกรอง รายการที่ 2",
+      "name_cn": "过滤器 产品 2",
+      "price": 254,
+      "image": "/placeholder.png"
+    }
+  ]
+}

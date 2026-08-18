@@ -1,0 +1,25 @@
+{
+  "id": "09-05-01-gang-wei-feng-ji",
+  "main_category_slug": "09-feng-ji-feng-shan",
+  "sub_category_slug": "09-05-gang-wei-feng-ji",
+  "name_th": "พัดลมประจำจุด",
+  "name_cn": "岗位风机",
+  "products": [
+    {
+      "id": "09-05-01-gang-wei-feng-ji-1",
+      "slug": "09-05-01-gang-wei-feng-ji-1",
+      "name_th": "พัดลมประจำจุด รายการที่ 1",
+      "name_cn": "岗位风机 产品 1",
+      "price": 880,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "09-05-01-gang-wei-feng-ji-2",
+      "slug": "09-05-01-gang-wei-feng-ji-2",
+      "name_th": "พัดลมประจำจุด รายการที่ 2",
+      "name_cn": "岗位风机 产品 2",
+      "price": 502,
+      "image": "/placeholder.png"
+    }
+  ]
+}

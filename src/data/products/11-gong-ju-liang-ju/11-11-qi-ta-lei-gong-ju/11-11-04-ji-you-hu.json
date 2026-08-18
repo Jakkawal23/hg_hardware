@@ -1,0 +1,25 @@
+{
+  "id": "11-11-04-ji-you-hu",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-11-qi-ta-lei-gong-ju",
+  "name_th": "กระบอกน้ำมันเครื่อง",
+  "name_cn": "机油壶",
+  "products": [
+    {
+      "id": "11-11-04-ji-you-hu-1",
+      "slug": "11-11-04-ji-you-hu-1",
+      "name_th": "กระบอกน้ำมันเครื่อง รายการที่ 1",
+      "name_cn": "机油壶 产品 1",
+      "price": 402,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-11-04-ji-you-hu-2",
+      "slug": "11-11-04-ji-you-hu-2",
+      "name_th": "กระบอกน้ำมันเครื่อง รายการที่ 2",
+      "name_cn": "机油壶 产品 2",
+      "price": 644,
+      "image": "/placeholder.png"
+    }
+  ]
+}

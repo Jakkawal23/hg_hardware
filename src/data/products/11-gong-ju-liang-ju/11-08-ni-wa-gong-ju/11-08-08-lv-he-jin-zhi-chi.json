@@ -1,0 +1,25 @@
+{
+  "id": "11-08-08-lv-he-jin-zhi-chi",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-08-ni-wa-gong-ju",
+  "name_th": "ไม้บรรทัดอลูมิเนียม",
+  "name_cn": "铝合金直尺",
+  "products": [
+    {
+      "id": "11-08-08-lv-he-jin-zhi-chi-1",
+      "slug": "11-08-08-lv-he-jin-zhi-chi-1",
+      "name_th": "ไม้บรรทัดอลูมิเนียม รายการที่ 1",
+      "name_cn": "铝合金直尺 产品 1",
+      "price": 805,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-08-08-lv-he-jin-zhi-chi-2",
+      "slug": "11-08-08-lv-he-jin-zhi-chi-2",
+      "name_th": "ไม้บรรทัดอลูมิเนียม รายการที่ 2",
+      "name_cn": "铝合金直尺 产品 2",
+      "price": 361,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "23-01-09-chan-zi",
+  "main_category_slug": "23-jian-zhu-yong-pin",
+  "sub_category_slug": "23-01-jian-zhu-gong-ju",
+  "name_th": "เกรียง/พลั่วโกย",
+  "name_cn": "铲子",
+  "products": [
+    {
+      "id": "23-01-09-chan-zi-1",
+      "slug": "23-01-09-chan-zi-1",
+      "name_th": "เกรียง/พลั่วโกย รายการที่ 1",
+      "name_cn": "铲子 产品 1",
+      "price": 945,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "23-01-09-chan-zi-2",
+      "slug": "23-01-09-chan-zi-2",
+      "name_th": "เกรียง/พลั่วโกย รายการที่ 2",
+      "name_cn": "铲子 产品 2",
+      "price": 882,
+      "image": "/placeholder.png"
+    }
+  ]
+}

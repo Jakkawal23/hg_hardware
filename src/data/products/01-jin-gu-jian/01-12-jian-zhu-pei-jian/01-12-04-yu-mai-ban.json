@@ -1,0 +1,25 @@
+{
+  "id": "01-12-04-yu-mai-ban",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-12-jian-zhu-pei-jian",
+  "name_th": "แผ่นฝัง",
+  "name_cn": "预埋板",
+  "products": [
+    {
+      "id": "01-12-04-yu-mai-ban-1",
+      "slug": "01-12-04-yu-mai-ban-1",
+      "name_th": "แผ่นฝัง รายการที่ 1",
+      "name_cn": "预埋板 产品 1",
+      "price": 351,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-12-04-yu-mai-ban-2",
+      "slug": "01-12-04-yu-mai-ban-2",
+      "name_th": "แผ่นฝัง รายการที่ 2",
+      "name_cn": "预埋板 产品 2",
+      "price": 932,
+      "image": "/placeholder.png"
+    }
+  ]
+}

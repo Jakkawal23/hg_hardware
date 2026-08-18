@@ -1,0 +1,25 @@
+{
+  "id": "20-03-02-tian-ran-qi-guan",
+  "main_category_slug": "20-jin-shu-guan-ji-pei-jian",
+  "sub_category_slug": "20-03-ran-qi-guan",
+  "name_th": "ท่อแก๊สธรรมชาติ",
+  "name_cn": "天然气管",
+  "products": [
+    {
+      "id": "20-03-02-tian-ran-qi-guan-1",
+      "slug": "20-03-02-tian-ran-qi-guan-1",
+      "name_th": "ท่อแก๊สธรรมชาติ รายการที่ 1",
+      "name_cn": "天然气管 产品 1",
+      "price": 282,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "20-03-02-tian-ran-qi-guan-2",
+      "slug": "20-03-02-tian-ran-qi-guan-2",
+      "name_th": "ท่อแก๊สธรรมชาติ รายการที่ 2",
+      "name_cn": "天然气管 产品 2",
+      "price": 115,
+      "image": "/placeholder.png"
+    }
+  ]
+}

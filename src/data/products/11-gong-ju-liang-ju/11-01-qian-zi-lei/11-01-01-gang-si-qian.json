@@ -1,0 +1,25 @@
+{
+  "id": "11-01-01-gang-si-qian",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-01-qian-zi-lei",
+  "name_th": "คีมปากตัด",
+  "name_cn": "钢丝钳",
+  "products": [
+    {
+      "id": "11-01-01-gang-si-qian-1",
+      "slug": "11-01-01-gang-si-qian-1",
+      "name_th": "คีมปากตัด รายการที่ 1",
+      "name_cn": "钢丝钳 产品 1",
+      "price": 915,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-01-01-gang-si-qian-2",
+      "slug": "11-01-01-gang-si-qian-2",
+      "name_th": "คีมปากตัด รายการที่ 2",
+      "name_cn": "钢丝钳 产品 2",
+      "price": 822,
+      "image": "/placeholder.png"
+    }
+  ]
+}

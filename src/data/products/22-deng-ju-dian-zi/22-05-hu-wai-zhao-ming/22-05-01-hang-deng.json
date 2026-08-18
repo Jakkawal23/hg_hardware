@@ -1,0 +1,25 @@
+{
+  "id": "22-05-01-hang-deng",
+  "main_category_slug": "22-deng-ju-dian-zi",
+  "sub_category_slug": "22-05-hu-wai-zhao-ming",
+  "name_th": "ไฟนำร่อง",
+  "name_cn": "航灯",
+  "products": [
+    {
+      "id": "22-05-01-hang-deng-1",
+      "slug": "22-05-01-hang-deng-1",
+      "name_th": "ไฟนำร่อง รายการที่ 1",
+      "name_cn": "航灯 产品 1",
+      "price": 365,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "22-05-01-hang-deng-2",
+      "slug": "22-05-01-hang-deng-2",
+      "name_th": "ไฟนำร่อง รายการที่ 2",
+      "name_cn": "航灯 产品 2",
+      "price": 451,
+      "image": "/placeholder.png"
+    }
+  ]
+}

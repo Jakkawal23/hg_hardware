@@ -1,0 +1,25 @@
+{
+  "id": "11-06-05-huang-you-qiang",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-06-qiang-lei-gong-ju",
+  "name_th": "ปืนอัดจารบี",
+  "name_cn": "黄油枪",
+  "products": [
+    {
+      "id": "11-06-05-huang-you-qiang-1",
+      "slug": "11-06-05-huang-you-qiang-1",
+      "name_th": "ปืนอัดจารบี รายการที่ 1",
+      "name_cn": "黄油枪 产品 1",
+      "price": 903,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-06-05-huang-you-qiang-2",
+      "slug": "11-06-05-huang-you-qiang-2",
+      "name_th": "ปืนอัดจารบี รายการที่ 2",
+      "name_cn": "黄油枪 产品 2",
+      "price": 566,
+      "image": "/placeholder.png"
+    }
+  ]
+}

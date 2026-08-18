@@ -1,0 +1,25 @@
+{
+  "id": "19-01-08-su-liao-long-tou",
+  "main_category_slug": "19-shui-nuan-wei-yu",
+  "sub_category_slug": "19-01-long-tou-zhuan-qu",
+  "name_th": "ก๊อกน้ำพลาสติก",
+  "name_cn": "塑料龙头",
+  "products": [
+    {
+      "id": "19-01-08-su-liao-long-tou-1",
+      "slug": "19-01-08-su-liao-long-tou-1",
+      "name_th": "ก๊อกน้ำพลาสติก รายการที่ 1",
+      "name_cn": "塑料龙头 产品 1",
+      "price": 180,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "19-01-08-su-liao-long-tou-2",
+      "slug": "19-01-08-su-liao-long-tou-2",
+      "name_th": "ก๊อกน้ำพลาสติก รายการที่ 2",
+      "name_cn": "塑料龙头 产品 2",
+      "price": 574,
+      "image": "/placeholder.png"
+    }
+  ]
+}

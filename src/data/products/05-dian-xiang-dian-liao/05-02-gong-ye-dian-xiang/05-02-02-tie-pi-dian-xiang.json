@@ -1,0 +1,25 @@
+{
+  "id": "05-02-02-tie-pi-dian-xiang",
+  "main_category_slug": "05-dian-xiang-dian-liao",
+  "sub_category_slug": "05-02-gong-ye-dian-xiang",
+  "name_th": "ตู้แผ่นเหล็ก",
+  "name_cn": "铁皮电箱",
+  "products": [
+    {
+      "id": "05-02-02-tie-pi-dian-xiang-1",
+      "slug": "05-02-02-tie-pi-dian-xiang-1",
+      "name_th": "ตู้แผ่นเหล็ก รายการที่ 1",
+      "name_cn": "铁皮电箱 产品 1",
+      "price": 761,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "05-02-02-tie-pi-dian-xiang-2",
+      "slug": "05-02-02-tie-pi-dian-xiang-2",
+      "name_th": "ตู้แผ่นเหล็ก รายการที่ 2",
+      "name_cn": "铁皮电箱 产品 2",
+      "price": 297,
+      "image": "/placeholder.png"
+    }
+  ]
+}

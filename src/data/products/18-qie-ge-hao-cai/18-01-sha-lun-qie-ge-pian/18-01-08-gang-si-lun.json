@@ -1,0 +1,25 @@
+{
+  "id": "18-01-08-gang-si-lun",
+  "main_category_slug": "18-qie-ge-hao-cai",
+  "sub_category_slug": "18-01-sha-lun-qie-ge-pian",
+  "name_th": "แปรงลวดกลม",
+  "name_cn": "钢丝轮",
+  "products": [
+    {
+      "id": "18-01-08-gang-si-lun-1",
+      "slug": "18-01-08-gang-si-lun-1",
+      "name_th": "แปรงลวดกลม รายการที่ 1",
+      "name_cn": "钢丝轮 产品 1",
+      "price": 255,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "18-01-08-gang-si-lun-2",
+      "slug": "18-01-08-gang-si-lun-2",
+      "name_th": "แปรงลวดกลม รายการที่ 2",
+      "name_cn": "钢丝轮 产品 2",
+      "price": 137,
+      "image": "/placeholder.png"
+    }
+  ]
+}

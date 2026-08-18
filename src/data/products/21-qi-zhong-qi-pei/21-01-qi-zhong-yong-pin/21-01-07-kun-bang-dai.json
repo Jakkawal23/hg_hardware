@@ -1,0 +1,25 @@
+{
+  "id": "21-01-07-kun-bang-dai",
+  "main_category_slug": "21-qi-zhong-qi-pei",
+  "sub_category_slug": "21-01-qi-zhong-yong-pin",
+  "name_th": "สายรัดของ",
+  "name_cn": "捆绑带",
+  "products": [
+    {
+      "id": "21-01-07-kun-bang-dai-1",
+      "slug": "21-01-07-kun-bang-dai-1",
+      "name_th": "สายรัดของ รายการที่ 1",
+      "name_cn": "捆绑带 产品 1",
+      "price": 776,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "21-01-07-kun-bang-dai-2",
+      "slug": "21-01-07-kun-bang-dai-2",
+      "name_th": "สายรัดของ รายการที่ 2",
+      "name_cn": "捆绑带 产品 2",
+      "price": 1003,
+      "image": "/placeholder.png"
+    }
+  ]
+}

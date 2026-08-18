@@ -1,0 +1,25 @@
+{
+  "id": "06-01-01-dian-gong-gong-ju-lei",
+  "main_category_slug": "06-dian-dong-gong-ju",
+  "sub_category_slug": "06-01-dian-dong-gong-ju",
+  "name_th": "เครื่องมือช่างไฟฟ้า",
+  "name_cn": "电工工具类",
+  "products": [
+    {
+      "id": "06-01-01-dian-gong-gong-ju-lei-1",
+      "slug": "06-01-01-dian-gong-gong-ju-lei-1",
+      "name_th": "เครื่องมือช่างไฟฟ้า รายการที่ 1",
+      "name_cn": "电工工具类 产品 1",
+      "price": 361,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "06-01-01-dian-gong-gong-ju-lei-2",
+      "slug": "06-01-01-dian-gong-gong-ju-lei-2",
+      "name_th": "เครื่องมือช่างไฟฟ้า รายการที่ 2",
+      "name_cn": "电工工具类 产品 2",
+      "price": 880,
+      "image": "/placeholder.png"
+    }
+  ]
+}

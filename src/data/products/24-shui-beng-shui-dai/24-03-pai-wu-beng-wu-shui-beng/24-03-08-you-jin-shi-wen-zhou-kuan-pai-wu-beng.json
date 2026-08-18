@@ -1,0 +1,25 @@
+{
+  "id": "24-03-08-you-jin-shi-wen-zhou-kuan-pai-wu-beng",
+  "main_category_slug": "24-shui-beng-shui-dai",
+  "sub_category_slug": "24-03-pai-wu-beng-wu-shui-beng",
+  "name_th": "ปั๊มสูบสิ่งปฏิกูลแช่น้ำมัน รุ่นเวินโจว",
+  "name_cn": "油浸式温州款排污泵",
+  "products": [
+    {
+      "id": "24-03-08-you-jin-shi-wen-zhou-kuan-pai-wu-beng-1",
+      "slug": "24-03-08-you-jin-shi-wen-zhou-kuan-pai-wu-beng-1",
+      "name_th": "ปั๊มสูบสิ่งปฏิกูลแช่น้ำมัน รุ่นเวินโจว รายการที่ 1",
+      "name_cn": "油浸式温州款排污泵 产品 1",
+      "price": 1034,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "24-03-08-you-jin-shi-wen-zhou-kuan-pai-wu-beng-2",
+      "slug": "24-03-08-you-jin-shi-wen-zhou-kuan-pai-wu-beng-2",
+      "name_th": "ปั๊มสูบสิ่งปฏิกูลแช่น้ำมัน รุ่นเวินโจว รายการที่ 2",
+      "name_cn": "油浸式温州款排污泵 产品 2",
+      "price": 790,
+      "image": "/placeholder.png"
+    }
+  ]
+}

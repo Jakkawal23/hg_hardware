@@ -1,0 +1,25 @@
+{
+  "id": "05-01-04-huang-la-guan",
+  "main_category_slug": "05-dian-xiang-dian-liao",
+  "sub_category_slug": "05-01-dian-liao",
+  "name_th": "ท่อเหลือง (ท่อนวมขี้ผึ้ง)",
+  "name_cn": "黄腊管",
+  "products": [
+    {
+      "id": "05-01-04-huang-la-guan-1",
+      "slug": "05-01-04-huang-la-guan-1",
+      "name_th": "ท่อเหลือง (ท่อนวมขี้ผึ้ง) รายการที่ 1",
+      "name_cn": "黄腊管 产品 1",
+      "price": 848,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "05-01-04-huang-la-guan-2",
+      "slug": "05-01-04-huang-la-guan-2",
+      "name_th": "ท่อเหลือง (ท่อนวมขี้ผึ้ง) รายการที่ 2",
+      "name_cn": "黄腊管 产品 2",
+      "price": 1085,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "18-01-06-sha-lun-jiao-mo-pian",
+  "main_category_slug": "18-qie-ge-hao-cai",
+  "sub_category_slug": "18-01-sha-lun-qie-ge-pian",
+  "name_th": "ใบขัดมุม",
+  "name_cn": "砂轮角磨片",
+  "products": [
+    {
+      "id": "18-01-06-sha-lun-jiao-mo-pian-1",
+      "slug": "18-01-06-sha-lun-jiao-mo-pian-1",
+      "name_th": "ใบขัดมุม รายการที่ 1",
+      "name_cn": "砂轮角磨片 产品 1",
+      "price": 884,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "18-01-06-sha-lun-jiao-mo-pian-2",
+      "slug": "18-01-06-sha-lun-jiao-mo-pian-2",
+      "name_th": "ใบขัดมุม รายการที่ 2",
+      "name_cn": "砂轮角磨片 产品 2",
+      "price": 195,
+      "image": "/placeholder.png"
+    }
+  ]
+}

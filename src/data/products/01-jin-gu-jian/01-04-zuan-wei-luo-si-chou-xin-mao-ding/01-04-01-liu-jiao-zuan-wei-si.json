@@ -1,0 +1,25 @@
+{
+  "id": "01-04-01-liu-jiao-zuan-wei-si",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-04-zuan-wei-luo-si-chou-xin-mao-ding",
+  "name_th": "สกรูหัวหกเหลี่ยมปลายแหลม",
+  "name_cn": "六角钻尾丝",
+  "products": [
+    {
+      "id": "01-04-01-liu-jiao-zuan-wei-si-1",
+      "slug": "01-04-01-liu-jiao-zuan-wei-si-1",
+      "name_th": "สกรูหัวหกเหลี่ยมปลายแหลม รายการที่ 1",
+      "name_cn": "六角钻尾丝 产品 1",
+      "price": 231,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-04-01-liu-jiao-zuan-wei-si-2",
+      "slug": "01-04-01-liu-jiao-zuan-wei-si-2",
+      "name_th": "สกรูหัวหกเหลี่ยมปลายแหลม รายการที่ 2",
+      "name_cn": "六角钻尾丝 产品 2",
+      "price": 169,
+      "image": "/placeholder.png"
+    }
+  ]
+}

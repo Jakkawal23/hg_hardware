@@ -1,0 +1,25 @@
+{
+  "id": "13-06-01-yu-yi",
+  "main_category_slug": "13-lao-bao-yong-pin",
+  "sub_category_slug": "13-06-fang-yu-yong-pin",
+  "name_th": "เสื้อกันฝน",
+  "name_cn": "雨衣",
+  "products": [
+    {
+      "id": "13-06-01-yu-yi-1",
+      "slug": "13-06-01-yu-yi-1",
+      "name_th": "เสื้อกันฝน รายการที่ 1",
+      "name_cn": "雨衣 产品 1",
+      "price": 685,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "13-06-01-yu-yi-2",
+      "slug": "13-06-01-yu-yi-2",
+      "name_th": "เสื้อกันฝน รายการที่ 2",
+      "name_cn": "雨衣 产品 2",
+      "price": 120,
+      "image": "/placeholder.png"
+    }
+  ]
+}

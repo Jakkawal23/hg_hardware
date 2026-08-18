@@ -1,0 +1,25 @@
+{
+  "id": "11-08-01-zheng-zong-ye-lao-san-tie-ban",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-08-ni-wa-gong-ju",
+  "name_th": "เกรียงเหล็ก เย่เหลาซาน แท้",
+  "name_cn": "正宗叶老三铁板",
+  "products": [
+    {
+      "id": "11-08-01-zheng-zong-ye-lao-san-tie-ban-1",
+      "slug": "11-08-01-zheng-zong-ye-lao-san-tie-ban-1",
+      "name_th": "เกรียงเหล็ก เย่เหลาซาน แท้ รายการที่ 1",
+      "name_cn": "正宗叶老三铁板 产品 1",
+      "price": 1020,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-08-01-zheng-zong-ye-lao-san-tie-ban-2",
+      "slug": "11-08-01-zheng-zong-ye-lao-san-tie-ban-2",
+      "name_th": "เกรียงเหล็ก เย่เหลาซาน แท้ รายการที่ 2",
+      "name_cn": "正宗叶老三铁板 产品 2",
+      "price": 634,
+      "image": "/placeholder.png"
+    }
+  ]
+}

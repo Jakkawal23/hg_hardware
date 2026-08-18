@@ -1,0 +1,25 @@
+{
+  "id": "05-05-04-yong-guan-gao-ya-zi-nian-jiao-dai",
+  "main_category_slug": "05-dian-xiang-dian-liao",
+  "sub_category_slug": "05-05-dian-gong-jiao-bu",
+  "name_th": "เทปแรงดันสูงชนิดยึดในตัว ยงกวน",
+  "name_cn": "永冠高压自粘胶带",
+  "products": [
+    {
+      "id": "05-05-04-yong-guan-gao-ya-zi-nian-jiao-dai-1",
+      "slug": "05-05-04-yong-guan-gao-ya-zi-nian-jiao-dai-1",
+      "name_th": "เทปแรงดันสูงชนิดยึดในตัว ยงกวน รายการที่ 1",
+      "name_cn": "永冠高压自粘胶带 产品 1",
+      "price": 993,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "05-05-04-yong-guan-gao-ya-zi-nian-jiao-dai-2",
+      "slug": "05-05-04-yong-guan-gao-ya-zi-nian-jiao-dai-2",
+      "name_th": "เทปแรงดันสูงชนิดยึดในตัว ยงกวน รายการที่ 2",
+      "name_cn": "永冠高压自粘胶带 产品 2",
+      "price": 428,
+      "image": "/placeholder.png"
+    }
+  ]
+}

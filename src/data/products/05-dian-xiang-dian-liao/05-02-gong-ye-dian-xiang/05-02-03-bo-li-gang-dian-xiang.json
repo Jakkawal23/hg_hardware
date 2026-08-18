@@ -1,0 +1,25 @@
+{
+  "id": "05-02-03-bo-li-gang-dian-xiang",
+  "main_category_slug": "05-dian-xiang-dian-liao",
+  "sub_category_slug": "05-02-gong-ye-dian-xiang",
+  "name_th": "ตู้ไฟไฟเบอร์กลาส",
+  "name_cn": "玻璃钢电箱",
+  "products": [
+    {
+      "id": "05-02-03-bo-li-gang-dian-xiang-1",
+      "slug": "05-02-03-bo-li-gang-dian-xiang-1",
+      "name_th": "ตู้ไฟไฟเบอร์กลาส รายการที่ 1",
+      "name_cn": "玻璃钢电箱 产品 1",
+      "price": 615,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "05-02-03-bo-li-gang-dian-xiang-2",
+      "slug": "05-02-03-bo-li-gang-dian-xiang-2",
+      "name_th": "ตู้ไฟไฟเบอร์กลาส รายการที่ 2",
+      "name_cn": "玻璃钢电箱 产品 2",
+      "price": 341,
+      "image": "/placeholder.png"
+    }
+  ]
+}

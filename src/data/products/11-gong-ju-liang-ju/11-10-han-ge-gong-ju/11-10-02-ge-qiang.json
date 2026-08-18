@@ -1,0 +1,25 @@
+{
+  "id": "11-10-02-ge-qiang",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-10-han-ge-gong-ju",
+  "name_th": "หัวตัดแก๊ส",
+  "name_cn": "割枪",
+  "products": [
+    {
+      "id": "11-10-02-ge-qiang-1",
+      "slug": "11-10-02-ge-qiang-1",
+      "name_th": "หัวตัดแก๊ส รายการที่ 1",
+      "name_cn": "割枪 产品 1",
+      "price": 515,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-10-02-ge-qiang-2",
+      "slug": "11-10-02-ge-qiang-2",
+      "name_th": "หัวตัดแก๊ส รายการที่ 2",
+      "name_cn": "割枪 产品 2",
+      "price": 146,
+      "image": "/placeholder.png"
+    }
+  ]
+}

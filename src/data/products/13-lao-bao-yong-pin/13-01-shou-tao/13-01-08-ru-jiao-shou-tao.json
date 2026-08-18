@@ -1,0 +1,25 @@
+{
+  "id": "13-01-08-ru-jiao-shou-tao",
+  "main_category_slug": "13-lao-bao-yong-pin",
+  "sub_category_slug": "13-01-shou-tao",
+  "name_th": "ถุงมือยางลาเท็กซ์",
+  "name_cn": "乳胶手套",
+  "products": [
+    {
+      "id": "13-01-08-ru-jiao-shou-tao-1",
+      "slug": "13-01-08-ru-jiao-shou-tao-1",
+      "name_th": "ถุงมือยางลาเท็กซ์ รายการที่ 1",
+      "name_cn": "乳胶手套 产品 1",
+      "price": 901,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "13-01-08-ru-jiao-shou-tao-2",
+      "slug": "13-01-08-ru-jiao-shou-tao-2",
+      "name_th": "ถุงมือยางลาเท็กซ์ รายการที่ 2",
+      "name_cn": "乳胶手套 产品 2",
+      "price": 810,
+      "image": "/placeholder.png"
+    }
+  ]
+}

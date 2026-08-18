@@ -1,0 +1,25 @@
+{
+  "id": "11-06-07-zhi-jin-mei-feng-jiao-qiang",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-06-qiang-lei-gong-ju",
+  "name_th": "ปืนอุดรอยต่อ/ยาแนว",
+  "name_cn": "植筋、美缝胶枪",
+  "products": [
+    {
+      "id": "11-06-07-zhi-jin-mei-feng-jiao-qiang-1",
+      "slug": "11-06-07-zhi-jin-mei-feng-jiao-qiang-1",
+      "name_th": "ปืนอุดรอยต่อ/ยาแนว รายการที่ 1",
+      "name_cn": "植筋、美缝胶枪 产品 1",
+      "price": 107,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-06-07-zhi-jin-mei-feng-jiao-qiang-2",
+      "slug": "11-06-07-zhi-jin-mei-feng-jiao-qiang-2",
+      "name_th": "ปืนอุดรอยต่อ/ยาแนว รายการที่ 2",
+      "name_cn": "植筋、美缝胶枪 产品 2",
+      "price": 845,
+      "image": "/placeholder.png"
+    }
+  ]
+}

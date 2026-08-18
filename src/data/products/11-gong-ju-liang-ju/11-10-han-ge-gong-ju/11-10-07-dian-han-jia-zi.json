@@ -1,0 +1,25 @@
+{
+  "id": "11-10-07-dian-han-jia-zi",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-10-han-ge-gong-ju",
+  "name_th": "คีมจับสายเชื่อม",
+  "name_cn": "电焊夹子",
+  "products": [
+    {
+      "id": "11-10-07-dian-han-jia-zi-1",
+      "slug": "11-10-07-dian-han-jia-zi-1",
+      "name_th": "คีมจับสายเชื่อม รายการที่ 1",
+      "name_cn": "电焊夹子 产品 1",
+      "price": 1024,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-10-07-dian-han-jia-zi-2",
+      "slug": "11-10-07-dian-han-jia-zi-2",
+      "name_th": "คีมจับสายเชื่อม รายการที่ 2",
+      "name_cn": "电焊夹子 产品 2",
+      "price": 952,
+      "image": "/placeholder.png"
+    }
+  ]
+}

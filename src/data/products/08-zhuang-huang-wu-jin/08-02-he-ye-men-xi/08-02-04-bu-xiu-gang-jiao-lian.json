@@ -1,0 +1,25 @@
+{
+  "id": "08-02-04-bu-xiu-gang-jiao-lian",
+  "main_category_slug": "08-zhuang-huang-wu-jin",
+  "sub_category_slug": "08-02-he-ye-men-xi",
+  "name_th": "บานพับ (ฮิงจ์) สแตนเลส",
+  "name_cn": "不锈钢铰链",
+  "products": [
+    {
+      "id": "08-02-04-bu-xiu-gang-jiao-lian-1",
+      "slug": "08-02-04-bu-xiu-gang-jiao-lian-1",
+      "name_th": "บานพับ (ฮิงจ์) สแตนเลส รายการที่ 1",
+      "name_cn": "不锈钢铰链 产品 1",
+      "price": 968,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "08-02-04-bu-xiu-gang-jiao-lian-2",
+      "slug": "08-02-04-bu-xiu-gang-jiao-lian-2",
+      "name_th": "บานพับ (ฮิงจ์) สแตนเลส รายการที่ 2",
+      "name_cn": "不锈钢铰链 产品 2",
+      "price": 1038,
+      "image": "/placeholder.png"
+    }
+  ]
+}

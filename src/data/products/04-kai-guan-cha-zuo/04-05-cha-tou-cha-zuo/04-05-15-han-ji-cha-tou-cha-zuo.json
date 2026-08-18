@@ -1,0 +1,25 @@
+{
+  "id": "04-05-15-han-ji-cha-tou-cha-zuo",
+  "main_category_slug": "04-kai-guan-cha-zuo",
+  "sub_category_slug": "04-05-cha-tou-cha-zuo",
+  "name_th": "ปลั๊กเครื่องเชื่อม",
+  "name_cn": "焊机插头插座",
+  "products": [
+    {
+      "id": "04-05-15-han-ji-cha-tou-cha-zuo-1",
+      "slug": "04-05-15-han-ji-cha-tou-cha-zuo-1",
+      "name_th": "ปลั๊กเครื่องเชื่อม รายการที่ 1",
+      "name_cn": "焊机插头插座 产品 1",
+      "price": 544,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "04-05-15-han-ji-cha-tou-cha-zuo-2",
+      "slug": "04-05-15-han-ji-cha-tou-cha-zuo-2",
+      "name_th": "ปลั๊กเครื่องเชื่อม รายการที่ 2",
+      "name_cn": "焊机插头插座 产品 2",
+      "price": 1013,
+      "image": "/placeholder.png"
+    }
+  ]
+}

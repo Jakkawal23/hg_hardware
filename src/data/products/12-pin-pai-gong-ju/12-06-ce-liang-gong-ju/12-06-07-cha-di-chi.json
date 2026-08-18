@@ -1,0 +1,25 @@
+{
+  "id": "12-06-07-cha-di-chi",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-06-ce-liang-gong-ju",
+  "name_th": "ไม้วัดปักพื้น",
+  "name_cn": "插地尺",
+  "products": [
+    {
+      "id": "12-06-07-cha-di-chi-1",
+      "slug": "12-06-07-cha-di-chi-1",
+      "name_th": "ไม้วัดปักพื้น รายการที่ 1",
+      "name_cn": "插地尺 产品 1",
+      "price": 819,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-06-07-cha-di-chi-2",
+      "slug": "12-06-07-cha-di-chi-2",
+      "name_th": "ไม้วัดปักพื้น รายการที่ 2",
+      "name_cn": "插地尺 产品 2",
+      "price": 792,
+      "image": "/placeholder.png"
+    }
+  ]
+}

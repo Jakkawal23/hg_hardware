@@ -1,0 +1,25 @@
+{
+  "id": "19-07-05-zhi-neng-shui-biao",
+  "main_category_slug": "19-shui-nuan-wei-yu",
+  "sub_category_slug": "19-07-shui-biao-zhuan-qu",
+  "name_th": "มาตรวัดน้ำอัจฉริยะ",
+  "name_cn": "智能水表",
+  "products": [
+    {
+      "id": "19-07-05-zhi-neng-shui-biao-1",
+      "slug": "19-07-05-zhi-neng-shui-biao-1",
+      "name_th": "มาตรวัดน้ำอัจฉริยะ รายการที่ 1",
+      "name_cn": "智能水表 产品 1",
+      "price": 985,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "19-07-05-zhi-neng-shui-biao-2",
+      "slug": "19-07-05-zhi-neng-shui-biao-2",
+      "name_th": "มาตรวัดน้ำอัจฉริยะ รายการที่ 2",
+      "name_cn": "智能水表 产品 2",
+      "price": 412,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "19-06-06-wei-yu-pei-jian",
+  "main_category_slug": "19-shui-nuan-wei-yu",
+  "sub_category_slug": "19-06-chu-wei-zhuan-qu",
+  "name_th": "อุปกรณ์เสริมห้องน้ำ",
+  "name_cn": "卫浴配件",
+  "products": [
+    {
+      "id": "19-06-06-wei-yu-pei-jian-1",
+      "slug": "19-06-06-wei-yu-pei-jian-1",
+      "name_th": "อุปกรณ์เสริมห้องน้ำ รายการที่ 1",
+      "name_cn": "卫浴配件 产品 1",
+      "price": 274,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "19-06-06-wei-yu-pei-jian-2",
+      "slug": "19-06-06-wei-yu-pei-jian-2",
+      "name_th": "อุปกรณ์เสริมห้องน้ำ รายการที่ 2",
+      "name_cn": "卫浴配件 产品 2",
+      "price": 498,
+      "image": "/placeholder.png"
+    }
+  ]
+}

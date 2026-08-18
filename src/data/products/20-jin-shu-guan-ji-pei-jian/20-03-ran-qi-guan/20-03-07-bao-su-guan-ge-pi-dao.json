@@ -1,0 +1,25 @@
+{
+  "id": "20-03-07-bao-su-guan-ge-pi-dao",
+  "main_category_slug": "20-jin-shu-guan-ji-pei-jian",
+  "sub_category_slug": "20-03-ran-qi-guan",
+  "name_th": "มีดปอกผิวท่อหุ้มพลาสติก",
+  "name_cn": "包塑管割皮刀",
+  "products": [
+    {
+      "id": "20-03-07-bao-su-guan-ge-pi-dao-1",
+      "slug": "20-03-07-bao-su-guan-ge-pi-dao-1",
+      "name_th": "มีดปอกผิวท่อหุ้มพลาสติก รายการที่ 1",
+      "name_cn": "包塑管割皮刀 产品 1",
+      "price": 286,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "20-03-07-bao-su-guan-ge-pi-dao-2",
+      "slug": "20-03-07-bao-su-guan-ge-pi-dao-2",
+      "name_th": "มีดปอกผิวท่อหุ้มพลาสติก รายการที่ 2",
+      "name_cn": "包塑管割皮刀 产品 2",
+      "price": 465,
+      "image": "/placeholder.png"
+    }
+  ]
+}

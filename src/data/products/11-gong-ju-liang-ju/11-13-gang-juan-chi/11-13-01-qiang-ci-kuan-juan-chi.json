@@ -1,0 +1,25 @@
+{
+  "id": "11-13-01-qiang-ci-kuan-juan-chi",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-13-gang-juan-chi",
+  "name_th": "ตลับเมตรแม่เหล็กแรงสูง",
+  "name_cn": "强磁钢卷尺",
+  "products": [
+    {
+      "id": "11-13-01-qiang-ci-kuan-juan-chi-1",
+      "slug": "11-13-01-qiang-ci-kuan-juan-chi-1",
+      "name_th": "ตลับเมตรแม่เหล็กแรงสูง รายการที่ 1",
+      "name_cn": "强磁钢卷尺 产品 1",
+      "price": 155,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-13-01-qiang-ci-kuan-juan-chi-2",
+      "slug": "11-13-01-qiang-ci-kuan-juan-chi-2",
+      "name_th": "ตลับเมตรแม่เหล็กแรงสูง รายการที่ 2",
+      "name_cn": "强磁钢卷尺 产品 2",
+      "price": 408,
+      "image": "/placeholder.png"
+    }
+  ]
+}

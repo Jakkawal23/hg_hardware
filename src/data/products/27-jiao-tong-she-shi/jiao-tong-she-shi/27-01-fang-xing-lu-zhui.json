@@ -1,0 +1,25 @@
+{
+  "id": "27-01-fang-xing-lu-zhui",
+  "main_category_slug": "27-jiao-tong-she-shi",
+  "sub_category_slug": "jiao-tong-she-shi",
+  "name_th": "กรวยจราจรทรงเหลี่ยม",
+  "name_cn": "方形路锥",
+  "products": [
+    {
+      "id": "27-01-fang-xing-lu-zhui-1",
+      "slug": "27-01-fang-xing-lu-zhui-1",
+      "name_th": "กรวยจราจรทรงเหลี่ยม รายการที่ 1",
+      "name_cn": "方形路锥 产品 1",
+      "price": 591,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "27-01-fang-xing-lu-zhui-2",
+      "slug": "27-01-fang-xing-lu-zhui-2",
+      "name_th": "กรวยจราจรทรงเหลี่ยม รายการที่ 2",
+      "name_cn": "方形路锥 产品 2",
+      "price": 891,
+      "image": "/placeholder.png"
+    }
+  ]
+}

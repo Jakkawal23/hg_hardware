@@ -1,0 +1,25 @@
+{
+  "id": "32-01-01-dai-shan-chu-lei",
+  "main_category_slug": "32-dai-shan-chu-lei",
+  "sub_category_slug": "32-01-dai-shan-chu-lei",
+  "name_th": "หมวดรอลบ",
+  "name_cn": "待删除类",
+  "products": [
+    {
+      "id": "32-01-01-dai-shan-chu-lei-1",
+      "slug": "32-01-01-dai-shan-chu-lei-1",
+      "name_th": "หมวดรอลบ รายการที่ 1",
+      "name_cn": "待删除类 产品 1",
+      "price": 467,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "32-01-01-dai-shan-chu-lei-2",
+      "slug": "32-01-01-dai-shan-chu-lei-2",
+      "name_th": "หมวดรอลบ รายการที่ 2",
+      "name_cn": "待删除类 产品 2",
+      "price": 137,
+      "image": "/placeholder.png"
+    }
+  ]
+}

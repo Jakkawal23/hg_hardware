@@ -1,0 +1,25 @@
+{
+  "id": "03-12-03-bao-xian-guan-rong-duan-qi",
+  "main_category_slug": "03-di-ya-dian-qi",
+  "sub_category_slug": "03-12-shang-hai-ren-min-kai-guan",
+  "name_th": "ฟิวส์หลอด/ฟิวส์ตัด",
+  "name_cn": "保险管/熔断器",
+  "products": [
+    {
+      "id": "03-12-03-bao-xian-guan-rong-duan-qi-1",
+      "slug": "03-12-03-bao-xian-guan-rong-duan-qi-1",
+      "name_th": "ฟิวส์หลอด/ฟิวส์ตัด รายการที่ 1",
+      "name_cn": "保险管/熔断器 产品 1",
+      "price": 590,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "03-12-03-bao-xian-guan-rong-duan-qi-2",
+      "slug": "03-12-03-bao-xian-guan-rong-duan-qi-2",
+      "name_th": "ฟิวส์หลอด/ฟิวส์ตัด รายการที่ 2",
+      "name_cn": "保险管/熔断器 产品 2",
+      "price": 1055,
+      "image": "/placeholder.png"
+    }
+  ]
+}

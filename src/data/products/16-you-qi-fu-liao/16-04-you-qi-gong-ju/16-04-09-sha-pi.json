@@ -1,0 +1,25 @@
+{
+  "id": "16-04-09-sha-pi",
+  "main_category_slug": "16-you-qi-fu-liao",
+  "sub_category_slug": "16-04-you-qi-gong-ju",
+  "name_th": "กระดาษทราย",
+  "name_cn": "砂皮",
+  "products": [
+    {
+      "id": "16-04-09-sha-pi-1",
+      "slug": "16-04-09-sha-pi-1",
+      "name_th": "กระดาษทราย รายการที่ 1",
+      "name_cn": "砂皮 产品 1",
+      "price": 1081,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "16-04-09-sha-pi-2",
+      "slug": "16-04-09-sha-pi-2",
+      "name_th": "กระดาษทราย รายการที่ 2",
+      "name_cn": "砂皮 产品 2",
+      "price": 974,
+      "image": "/placeholder.png"
+    }
+  ]
+}

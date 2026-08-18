@@ -1,0 +1,25 @@
+{
+  "id": "11-01-08-dian-han-qian",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-01-qian-zi-lei",
+  "name_th": "คีมปอกสายเชื่อม",
+  "name_cn": "电焊钳",
+  "products": [
+    {
+      "id": "11-01-08-dian-han-qian-1",
+      "slug": "11-01-08-dian-han-qian-1",
+      "name_th": "คีมปอกสายเชื่อม รายการที่ 1",
+      "name_cn": "电焊钳 产品 1",
+      "price": 845,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-01-08-dian-han-qian-2",
+      "slug": "11-01-08-dian-han-qian-2",
+      "name_th": "คีมปอกสายเชื่อม รายการที่ 2",
+      "name_cn": "电焊钳 产品 2",
+      "price": 1054,
+      "image": "/placeholder.png"
+    }
+  ]
+}

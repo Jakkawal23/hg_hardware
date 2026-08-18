@@ -1,0 +1,25 @@
+{
+  "id": "12-10-15-ji-hao-bi",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-10-mu-gong-gong-ju",
+  "name_th": "ปากกาเขียนเครื่องหมาย",
+  "name_cn": "记号笔",
+  "products": [
+    {
+      "id": "12-10-15-ji-hao-bi-1",
+      "slug": "12-10-15-ji-hao-bi-1",
+      "name_th": "ปากกาเขียนเครื่องหมาย รายการที่ 1",
+      "name_cn": "记号笔 产品 1",
+      "price": 435,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-10-15-ji-hao-bi-2",
+      "slug": "12-10-15-ji-hao-bi-2",
+      "name_th": "ปากกาเขียนเครื่องหมาย รายการที่ 2",
+      "name_cn": "记号笔 产品 2",
+      "price": 727,
+      "image": "/placeholder.png"
+    }
+  ]
+}

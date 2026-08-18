@@ -1,0 +1,25 @@
+{
+  "id": "05-01-14-an-xian-he",
+  "main_category_slug": "05-dian-xiang-dian-liao",
+  "sub_category_slug": "05-01-dian-liao",
+  "name_th": "กล่องพักสายฝัง",
+  "name_cn": "暗线盒",
+  "products": [
+    {
+      "id": "05-01-14-an-xian-he-1",
+      "slug": "05-01-14-an-xian-he-1",
+      "name_th": "กล่องพักสายฝัง รายการที่ 1",
+      "name_cn": "暗线盒 产品 1",
+      "price": 1010,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "05-01-14-an-xian-he-2",
+      "slug": "05-01-14-an-xian-he-2",
+      "name_th": "กล่องพักสายฝัง รายการที่ 2",
+      "name_cn": "暗线盒 产品 2",
+      "price": 520,
+      "image": "/placeholder.png"
+    }
+  ]
+}

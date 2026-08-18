@@ -1,0 +1,25 @@
+{
+  "id": "11-10-09-dao-dian-zui",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-10-han-ge-gong-ju",
+  "name_th": "หัวนำไฟ (ดอกทัชท)",
+  "name_cn": "导电咀",
+  "products": [
+    {
+      "id": "11-10-09-dao-dian-zui-1",
+      "slug": "11-10-09-dao-dian-zui-1",
+      "name_th": "หัวนำไฟ (ดอกทัชท) รายการที่ 1",
+      "name_cn": "导电咀 产品 1",
+      "price": 203,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-10-09-dao-dian-zui-2",
+      "slug": "11-10-09-dao-dian-zui-2",
+      "name_th": "หัวนำไฟ (ดอกทัชท) รายการที่ 2",
+      "name_cn": "导电咀 产品 2",
+      "price": 930,
+      "image": "/placeholder.png"
+    }
+  ]
+}

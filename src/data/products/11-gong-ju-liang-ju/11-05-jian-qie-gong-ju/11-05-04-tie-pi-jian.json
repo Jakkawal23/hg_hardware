@@ -1,0 +1,25 @@
+{
+  "id": "11-05-04-tie-pi-jian",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-05-jian-qie-gong-ju",
+  "name_th": "กรรไกรตัดสังกะสี",
+  "name_cn": "铁皮剪",
+  "products": [
+    {
+      "id": "11-05-04-tie-pi-jian-1",
+      "slug": "11-05-04-tie-pi-jian-1",
+      "name_th": "กรรไกรตัดสังกะสี รายการที่ 1",
+      "name_cn": "铁皮剪 产品 1",
+      "price": 960,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-05-04-tie-pi-jian-2",
+      "slug": "11-05-04-tie-pi-jian-2",
+      "name_th": "กรรไกรตัดสังกะสี รายการที่ 2",
+      "name_cn": "铁皮剪 产品 2",
+      "price": 696,
+      "image": "/placeholder.png"
+    }
+  ]
+}

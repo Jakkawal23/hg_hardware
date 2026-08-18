@@ -1,0 +1,25 @@
+{
+  "id": "18-02-03-xiao-mi-feng-shi-cai-pian",
+  "main_category_slug": "18-qie-ge-hao-cai",
+  "sub_category_slug": "18-02-jin-gang-shi-ju-pian",
+  "name_th": "ใบเลื่อยหิน เสี่ยวมี่เฟิง",
+  "name_cn": "小蜜蜂石材片",
+  "products": [
+    {
+      "id": "18-02-03-xiao-mi-feng-shi-cai-pian-1",
+      "slug": "18-02-03-xiao-mi-feng-shi-cai-pian-1",
+      "name_th": "ใบเลื่อยหิน เสี่ยวมี่เฟิง รายการที่ 1",
+      "name_cn": "小蜜蜂石材片 产品 1",
+      "price": 114,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "18-02-03-xiao-mi-feng-shi-cai-pian-2",
+      "slug": "18-02-03-xiao-mi-feng-shi-cai-pian-2",
+      "name_th": "ใบเลื่อยหิน เสี่ยวมี่เฟิง รายการที่ 2",
+      "name_cn": "小蜜蜂石材片 产品 2",
+      "price": 418,
+      "image": "/placeholder.png"
+    }
+  ]
+}

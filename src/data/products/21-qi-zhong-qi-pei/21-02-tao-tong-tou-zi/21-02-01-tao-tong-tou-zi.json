@@ -1,0 +1,25 @@
+{
+  "id": "21-02-01-tao-tong-tou-zi",
+  "main_category_slug": "21-qi-zhong-qi-pei",
+  "sub_category_slug": "21-02-tao-tong-tou-zi",
+  "name_th": "หัวบล็อก",
+  "name_cn": "套筒头子",
+  "products": [
+    {
+      "id": "21-02-01-tao-tong-tou-zi-1",
+      "slug": "21-02-01-tao-tong-tou-zi-1",
+      "name_th": "หัวบล็อก รายการที่ 1",
+      "name_cn": "套筒头子 产品 1",
+      "price": 867,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "21-02-01-tao-tong-tou-zi-2",
+      "slug": "21-02-01-tao-tong-tou-zi-2",
+      "name_th": "หัวบล็อก รายการที่ 2",
+      "name_cn": "套筒头子 产品 2",
+      "price": 964,
+      "image": "/placeholder.png"
+    }
+  ]
+}

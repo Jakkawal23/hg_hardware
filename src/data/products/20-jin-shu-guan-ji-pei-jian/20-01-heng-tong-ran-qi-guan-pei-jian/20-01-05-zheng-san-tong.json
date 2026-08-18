@@ -1,0 +1,25 @@
+{
+  "id": "20-01-05-zheng-san-tong",
+  "main_category_slug": "20-jin-shu-guan-ji-pei-jian",
+  "sub_category_slug": "20-01-heng-tong-ran-qi-guan-pei-jian",
+  "name_th": "สามทางตรง",
+  "name_cn": "正三通",
+  "products": [
+    {
+      "id": "20-01-05-zheng-san-tong-1",
+      "slug": "20-01-05-zheng-san-tong-1",
+      "name_th": "สามทางตรง รายการที่ 1",
+      "name_cn": "正三通 产品 1",
+      "price": 472,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "20-01-05-zheng-san-tong-2",
+      "slug": "20-01-05-zheng-san-tong-2",
+      "name_th": "สามทางตรง รายการที่ 2",
+      "name_cn": "正三通 产品 2",
+      "price": 325,
+      "image": "/placeholder.png"
+    }
+  ]
+}

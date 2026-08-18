@@ -1,0 +1,25 @@
+{
+  "id": "22-02-03-chang-tiao-mo-zu",
+  "main_category_slug": "22-deng-ju-dian-zi",
+  "sub_category_slug": "22-02-mo-zu",
+  "name_th": "มอดูลแท่งยาว",
+  "name_cn": "长条模组",
+  "products": [
+    {
+      "id": "22-02-03-chang-tiao-mo-zu-1",
+      "slug": "22-02-03-chang-tiao-mo-zu-1",
+      "name_th": "มอดูลแท่งยาว รายการที่ 1",
+      "name_cn": "长条模组 产品 1",
+      "price": 625,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "22-02-03-chang-tiao-mo-zu-2",
+      "slug": "22-02-03-chang-tiao-mo-zu-2",
+      "name_th": "มอดูลแท่งยาว รายการที่ 2",
+      "name_cn": "长条模组 产品 2",
+      "price": 349,
+      "image": "/placeholder.png"
+    }
+  ]
+}

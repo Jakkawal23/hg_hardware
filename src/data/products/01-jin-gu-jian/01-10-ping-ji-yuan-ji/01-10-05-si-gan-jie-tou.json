@@ -1,0 +1,25 @@
+{
+  "id": "01-10-05-si-gan-jie-tou",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-10-ping-ji-yuan-ji",
+  "name_th": "ข้อต่อแกนเกลียว",
+  "name_cn": "丝杆接头",
+  "products": [
+    {
+      "id": "01-10-05-si-gan-jie-tou-1",
+      "slug": "01-10-05-si-gan-jie-tou-1",
+      "name_th": "ข้อต่อแกนเกลียว รายการที่ 1",
+      "name_cn": "丝杆接头 产品 1",
+      "price": 198,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-10-05-si-gan-jie-tou-2",
+      "slug": "01-10-05-si-gan-jie-tou-2",
+      "name_th": "ข้อต่อแกนเกลียว รายการที่ 2",
+      "name_cn": "丝杆接头 产品 2",
+      "price": 161,
+      "image": "/placeholder.png"
+    }
+  ]
+}

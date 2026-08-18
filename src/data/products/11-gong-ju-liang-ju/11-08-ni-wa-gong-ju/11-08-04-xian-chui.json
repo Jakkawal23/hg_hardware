@@ -1,0 +1,25 @@
+{
+  "id": "11-08-04-xian-chui",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-08-ni-wa-gong-ju",
+  "name_th": "ลูกดิ่ง",
+  "name_cn": "线锤",
+  "products": [
+    {
+      "id": "11-08-04-xian-chui-1",
+      "slug": "11-08-04-xian-chui-1",
+      "name_th": "ลูกดิ่ง รายการที่ 1",
+      "name_cn": "线锤 产品 1",
+      "price": 679,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-08-04-xian-chui-2",
+      "slug": "11-08-04-xian-chui-2",
+      "name_th": "ลูกดิ่ง รายการที่ 2",
+      "name_cn": "线锤 产品 2",
+      "price": 930,
+      "image": "/placeholder.png"
+    }
+  ]
+}

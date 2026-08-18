@@ -1,0 +1,25 @@
+{
+  "id": "12-01-03-tian-dao-qian-zi",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-01-tian-dao-gong-ju",
+  "name_th": "คีมทาชิมะ",
+  "name_cn": "田岛钳子",
+  "products": [
+    {
+      "id": "12-01-03-tian-dao-qian-zi-1",
+      "slug": "12-01-03-tian-dao-qian-zi-1",
+      "name_th": "คีมทาชิมะ รายการที่ 1",
+      "name_cn": "田岛钳子 产品 1",
+      "price": 481,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-01-03-tian-dao-qian-zi-2",
+      "slug": "12-01-03-tian-dao-qian-zi-2",
+      "name_th": "คีมทาชิมะ รายการที่ 2",
+      "name_cn": "田岛钳子 产品 2",
+      "price": 901,
+      "image": "/placeholder.png"
+    }
+  ]
+}

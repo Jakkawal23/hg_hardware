@@ -1,0 +1,25 @@
+{
+  "id": "12-07-07-kai-kong-qi",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-07-ren-ju-qie-ge",
+  "name_th": "ดอกเจาะรู (โฮลซอว์)",
+  "name_cn": "开孔器",
+  "products": [
+    {
+      "id": "12-07-07-kai-kong-qi-1",
+      "slug": "12-07-07-kai-kong-qi-1",
+      "name_th": "ดอกเจาะรู (โฮลซอว์) รายการที่ 1",
+      "name_cn": "开孔器 产品 1",
+      "price": 1009,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-07-07-kai-kong-qi-2",
+      "slug": "12-07-07-kai-kong-qi-2",
+      "name_th": "ดอกเจาะรู (โฮลซอว์) รายการที่ 2",
+      "name_cn": "开孔器 产品 2",
+      "price": 586,
+      "image": "/placeholder.png"
+    }
+  ]
+}

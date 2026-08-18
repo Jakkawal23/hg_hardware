@@ -1,0 +1,25 @@
+{
+  "id": "12-13-04-ge-huo",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-13-han-ge-gong-ju",
+  "name_th": "หัวพ่นไฟ",
+  "name_cn": "割炬",
+  "products": [
+    {
+      "id": "12-13-04-ge-huo-1",
+      "slug": "12-13-04-ge-huo-1",
+      "name_th": "หัวพ่นไฟ รายการที่ 1",
+      "name_cn": "割炬 产品 1",
+      "price": 1080,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-13-04-ge-huo-2",
+      "slug": "12-13-04-ge-huo-2",
+      "name_th": "หัวพ่นไฟ รายการที่ 2",
+      "name_cn": "割炬 产品 2",
+      "price": 886,
+      "image": "/placeholder.png"
+    }
+  ]
+}

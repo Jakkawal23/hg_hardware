@@ -1,0 +1,25 @@
+{
+  "id": "11-01-12-li-yu-qian",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-01-qian-zi-lei",
+  "name_th": "คีมจระเข้",
+  "name_cn": "鲤鱼钳",
+  "products": [
+    {
+      "id": "11-01-12-li-yu-qian-1",
+      "slug": "11-01-12-li-yu-qian-1",
+      "name_th": "คีมจระเข้ รายการที่ 1",
+      "name_cn": "鲤鱼钳 产品 1",
+      "price": 679,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-01-12-li-yu-qian-2",
+      "slug": "11-01-12-li-yu-qian-2",
+      "name_th": "คีมจระเข้ รายการที่ 2",
+      "name_cn": "鲤鱼钳 产品 2",
+      "price": 400,
+      "image": "/placeholder.png"
+    }
+  ]
+}

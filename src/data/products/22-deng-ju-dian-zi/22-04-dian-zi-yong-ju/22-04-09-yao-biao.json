@@ -1,0 +1,25 @@
+{
+  "id": "22-04-09-yao-biao",
+  "main_category_slug": "22-deng-ju-dian-zi",
+  "sub_category_slug": "22-04-dian-zi-yong-ju",
+  "name_th": "เครื่องวัดความต้านทานฉนวน",
+  "name_cn": "摇表",
+  "products": [
+    {
+      "id": "22-04-09-yao-biao-1",
+      "slug": "22-04-09-yao-biao-1",
+      "name_th": "เครื่องวัดความต้านทานฉนวน รายการที่ 1",
+      "name_cn": "摇表 产品 1",
+      "price": 795,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "22-04-09-yao-biao-2",
+      "slug": "22-04-09-yao-biao-2",
+      "name_th": "เครื่องวัดความต้านทานฉนวน รายการที่ 2",
+      "name_cn": "摇表 产品 2",
+      "price": 1077,
+      "image": "/placeholder.png"
+    }
+  ]
+}

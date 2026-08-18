@@ -1,0 +1,25 @@
+{
+  "id": "04-05-11-deng-tou-deng-zuo",
+  "main_category_slug": "04-kai-guan-cha-zuo",
+  "sub_category_slug": "04-05-cha-tou-cha-zuo",
+  "name_th": "ขั้วหลอดไฟ",
+  "name_cn": "灯头灯座",
+  "products": [
+    {
+      "id": "04-05-11-deng-tou-deng-zuo-1",
+      "slug": "04-05-11-deng-tou-deng-zuo-1",
+      "name_th": "ขั้วหลอดไฟ รายการที่ 1",
+      "name_cn": "灯头灯座 产品 1",
+      "price": 275,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "04-05-11-deng-tou-deng-zuo-2",
+      "slug": "04-05-11-deng-tou-deng-zuo-2",
+      "name_th": "ขั้วหลอดไฟ รายการที่ 2",
+      "name_cn": "灯头灯座 产品 2",
+      "price": 1011,
+      "image": "/placeholder.png"
+    }
+  ]
+}

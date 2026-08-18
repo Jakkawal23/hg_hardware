@@ -1,0 +1,25 @@
+{
+  "id": "12-08-04-dian-zi-jian",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-08-jian-qie-gong-ju",
+  "name_th": "กรรไกรตัดสายไฟฟ้า",
+  "name_cn": "电子剪",
+  "products": [
+    {
+      "id": "12-08-04-dian-zi-jian-1",
+      "slug": "12-08-04-dian-zi-jian-1",
+      "name_th": "กรรไกรตัดสายไฟฟ้า รายการที่ 1",
+      "name_cn": "电子剪 产品 1",
+      "price": 884,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-08-04-dian-zi-jian-2",
+      "slug": "12-08-04-dian-zi-jian-2",
+      "name_th": "กรรไกรตัดสายไฟฟ้า รายการที่ 2",
+      "name_cn": "电子剪 产品 2",
+      "price": 439,
+      "image": "/placeholder.png"
+    }
+  ]
+}

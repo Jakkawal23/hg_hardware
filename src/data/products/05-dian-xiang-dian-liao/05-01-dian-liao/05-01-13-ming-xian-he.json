@@ -1,0 +1,25 @@
+{
+  "id": "05-01-13-ming-xian-he",
+  "main_category_slug": "05-dian-xiang-dian-liao",
+  "sub_category_slug": "05-01-dian-liao",
+  "name_th": "กล่องพักสายลอย",
+  "name_cn": "明线盒",
+  "products": [
+    {
+      "id": "05-01-13-ming-xian-he-1",
+      "slug": "05-01-13-ming-xian-he-1",
+      "name_th": "กล่องพักสายลอย รายการที่ 1",
+      "name_cn": "明线盒 产品 1",
+      "price": 301,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "05-01-13-ming-xian-he-2",
+      "slug": "05-01-13-ming-xian-he-2",
+      "name_th": "กล่องพักสายลอย รายการที่ 2",
+      "name_cn": "明线盒 产品 2",
+      "price": 250,
+      "image": "/placeholder.png"
+    }
+  ]
+}

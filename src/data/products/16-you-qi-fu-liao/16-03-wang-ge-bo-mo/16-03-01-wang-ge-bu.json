@@ -1,0 +1,25 @@
+{
+  "id": "16-03-01-wang-ge-bu",
+  "main_category_slug": "16-you-qi-fu-liao",
+  "sub_category_slug": "16-03-wang-ge-bo-mo",
+  "name_th": "ผ้าใยแก้ว/ตาข่ายไฟเบอร์",
+  "name_cn": "网格布",
+  "products": [
+    {
+      "id": "16-03-01-wang-ge-bu-1",
+      "slug": "16-03-01-wang-ge-bu-1",
+      "name_th": "ผ้าใยแก้ว/ตาข่ายไฟเบอร์ รายการที่ 1",
+      "name_cn": "网格布 产品 1",
+      "price": 1091,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "16-03-01-wang-ge-bu-2",
+      "slug": "16-03-01-wang-ge-bu-2",
+      "name_th": "ผ้าใยแก้ว/ตาข่ายไฟเบอร์ รายการที่ 2",
+      "name_cn": "网格布 产品 2",
+      "price": 144,
+      "image": "/placeholder.png"
+    }
+  ]
+}

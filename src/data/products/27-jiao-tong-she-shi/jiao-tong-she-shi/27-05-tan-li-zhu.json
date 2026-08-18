@@ -1,0 +1,25 @@
+{
+  "id": "27-05-tan-li-zhu",
+  "main_category_slug": "27-jiao-tong-she-shi",
+  "sub_category_slug": "jiao-tong-she-shi",
+  "name_th": "เสาสปริงยืดหยุ่น",
+  "name_cn": "弹力柱",
+  "products": [
+    {
+      "id": "27-05-tan-li-zhu-1",
+      "slug": "27-05-tan-li-zhu-1",
+      "name_th": "เสาสปริงยืดหยุ่น รายการที่ 1",
+      "name_cn": "弹力柱 产品 1",
+      "price": 1006,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "27-05-tan-li-zhu-2",
+      "slug": "27-05-tan-li-zhu-2",
+      "name_th": "เสาสปริงยืดหยุ่น รายการที่ 2",
+      "name_cn": "弹力柱 产品 2",
+      "price": 817,
+      "image": "/placeholder.png"
+    }
+  ]
+}

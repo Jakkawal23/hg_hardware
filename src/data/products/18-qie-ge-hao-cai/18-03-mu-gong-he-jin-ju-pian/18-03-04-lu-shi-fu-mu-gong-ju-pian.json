@@ -1,0 +1,25 @@
+{
+  "id": "18-03-04-lu-shi-fu-mu-gong-ju-pian",
+  "main_category_slug": "18-qie-ge-hao-cai",
+  "sub_category_slug": "18-03-mu-gong-he-jin-ju-pian",
+  "name_th": "ใบเลื่อยไม้ ลู่ซือฟู",
+  "name_cn": "陆师傅木工锯片",
+  "products": [
+    {
+      "id": "18-03-04-lu-shi-fu-mu-gong-ju-pian-1",
+      "slug": "18-03-04-lu-shi-fu-mu-gong-ju-pian-1",
+      "name_th": "ใบเลื่อยไม้ ลู่ซือฟู รายการที่ 1",
+      "name_cn": "陆师傅木工锯片 产品 1",
+      "price": 596,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "18-03-04-lu-shi-fu-mu-gong-ju-pian-2",
+      "slug": "18-03-04-lu-shi-fu-mu-gong-ju-pian-2",
+      "name_th": "ใบเลื่อยไม้ ลู่ซือฟู รายการที่ 2",
+      "name_cn": "陆师傅木工锯片 产品 2",
+      "price": 334,
+      "image": "/placeholder.png"
+    }
+  ]
+}

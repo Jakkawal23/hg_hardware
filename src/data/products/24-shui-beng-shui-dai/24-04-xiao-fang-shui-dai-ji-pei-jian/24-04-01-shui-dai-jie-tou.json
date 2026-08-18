@@ -1,0 +1,25 @@
+{
+  "id": "24-04-01-shui-dai-jie-tou",
+  "main_category_slug": "24-shui-beng-shui-dai",
+  "sub_category_slug": "24-04-xiao-fang-shui-dai-ji-pei-jian",
+  "name_th": "ข้อต่อสายส่งน้ำ",
+  "name_cn": "水带接头",
+  "products": [
+    {
+      "id": "24-04-01-shui-dai-jie-tou-1",
+      "slug": "24-04-01-shui-dai-jie-tou-1",
+      "name_th": "ข้อต่อสายส่งน้ำ รายการที่ 1",
+      "name_cn": "水带接头 产品 1",
+      "price": 248,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "24-04-01-shui-dai-jie-tou-2",
+      "slug": "24-04-01-shui-dai-jie-tou-2",
+      "name_th": "ข้อต่อสายส่งน้ำ รายการที่ 2",
+      "name_cn": "水带接头 产品 2",
+      "price": 995,
+      "image": "/placeholder.png"
+    }
+  ]
+}

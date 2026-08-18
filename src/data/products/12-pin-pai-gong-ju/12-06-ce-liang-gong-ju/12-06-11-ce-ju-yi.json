@@ -1,0 +1,25 @@
+{
+  "id": "12-06-11-ce-ju-yi",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-06-ce-liang-gong-ju",
+  "name_th": "เครื่องวัดระยะเลเซอร์",
+  "name_cn": "测距仪",
+  "products": [
+    {
+      "id": "12-06-11-ce-ju-yi-1",
+      "slug": "12-06-11-ce-ju-yi-1",
+      "name_th": "เครื่องวัดระยะเลเซอร์ รายการที่ 1",
+      "name_cn": "测距仪 产品 1",
+      "price": 1005,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-06-11-ce-ju-yi-2",
+      "slug": "12-06-11-ce-ju-yi-2",
+      "name_th": "เครื่องวัดระยะเลเซอร์ รายการที่ 2",
+      "name_cn": "测距仪 产品 2",
+      "price": 711,
+      "image": "/placeholder.png"
+    }
+  ]
+}

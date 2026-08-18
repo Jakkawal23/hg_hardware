@@ -1,0 +1,25 @@
+{
+  "id": "22-06-01-xiao-fang-ying-ji-deng",
+  "main_category_slug": "22-deng-ju-dian-zi",
+  "sub_category_slug": "22-06-xiao-fang-ying-ji-deng",
+  "name_th": "ไฟฉุกเฉินดับเพลิง",
+  "name_cn": "消防应急灯",
+  "products": [
+    {
+      "id": "22-06-01-xiao-fang-ying-ji-deng-1",
+      "slug": "22-06-01-xiao-fang-ying-ji-deng-1",
+      "name_th": "ไฟฉุกเฉินดับเพลิง รายการที่ 1",
+      "name_cn": "消防应急灯 产品 1",
+      "price": 164,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "22-06-01-xiao-fang-ying-ji-deng-2",
+      "slug": "22-06-01-xiao-fang-ying-ji-deng-2",
+      "name_th": "ไฟฉุกเฉินดับเพลิง รายการที่ 2",
+      "name_cn": "消防应急灯 产品 2",
+      "price": 642,
+      "image": "/placeholder.png"
+    }
+  ]
+}

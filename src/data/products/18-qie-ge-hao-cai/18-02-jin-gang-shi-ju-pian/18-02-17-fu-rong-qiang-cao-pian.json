@@ -1,0 +1,25 @@
+{
+  "id": "18-02-17-fu-rong-qiang-cao-pian",
+  "main_category_slug": "18-qie-ge-hao-cai",
+  "sub_category_slug": "18-02-jin-gang-shi-ju-pian",
+  "name_th": "ใบตัดร่องผนัง ฝูหรง",
+  "name_cn": "福荣墙槽片",
+  "products": [
+    {
+      "id": "18-02-17-fu-rong-qiang-cao-pian-1",
+      "slug": "18-02-17-fu-rong-qiang-cao-pian-1",
+      "name_th": "ใบตัดร่องผนัง ฝูหรง รายการที่ 1",
+      "name_cn": "福荣墙槽片 产品 1",
+      "price": 657,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "18-02-17-fu-rong-qiang-cao-pian-2",
+      "slug": "18-02-17-fu-rong-qiang-cao-pian-2",
+      "name_th": "ใบตัดร่องผนัง ฝูหรง รายการที่ 2",
+      "name_cn": "福荣墙槽片 产品 2",
+      "price": 550,
+      "image": "/placeholder.png"
+    }
+  ]
+}

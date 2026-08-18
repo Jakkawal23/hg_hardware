@@ -1,0 +1,25 @@
+{
+  "id": "16-04-20-mei-feng-cheng-tao-gong-ju",
+  "main_category_slug": "16-you-qi-fu-liao",
+  "sub_category_slug": "16-04-you-qi-gong-ju",
+  "name_th": "ชุดเครื่องมือยาแนวสวย",
+  "name_cn": "美缝成套工具",
+  "products": [
+    {
+      "id": "16-04-20-mei-feng-cheng-tao-gong-ju-1",
+      "slug": "16-04-20-mei-feng-cheng-tao-gong-ju-1",
+      "name_th": "ชุดเครื่องมือยาแนวสวย รายการที่ 1",
+      "name_cn": "美缝成套工具 产品 1",
+      "price": 271,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "16-04-20-mei-feng-cheng-tao-gong-ju-2",
+      "slug": "16-04-20-mei-feng-cheng-tao-gong-ju-2",
+      "name_th": "ชุดเครื่องมือยาแนวสวย รายการที่ 2",
+      "name_cn": "美缝成套工具 产品 2",
+      "price": 727,
+      "image": "/placeholder.png"
+    }
+  ]
+}

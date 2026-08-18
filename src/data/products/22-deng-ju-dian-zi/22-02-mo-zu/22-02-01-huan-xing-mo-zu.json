@@ -1,0 +1,25 @@
+{
+  "id": "22-02-01-huan-xing-mo-zu",
+  "main_category_slug": "22-deng-ju-dian-zi",
+  "sub_category_slug": "22-02-mo-zu",
+  "name_th": "มอดูลวงแหวน",
+  "name_cn": "环形模组",
+  "products": [
+    {
+      "id": "22-02-01-huan-xing-mo-zu-1",
+      "slug": "22-02-01-huan-xing-mo-zu-1",
+      "name_th": "มอดูลวงแหวน รายการที่ 1",
+      "name_cn": "环形模组 产品 1",
+      "price": 1004,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "22-02-01-huan-xing-mo-zu-2",
+      "slug": "22-02-01-huan-xing-mo-zu-2",
+      "name_th": "มอดูลวงแหวน รายการที่ 2",
+      "name_cn": "环形模组 产品 2",
+      "price": 275,
+      "image": "/placeholder.png"
+    }
+  ]
+}

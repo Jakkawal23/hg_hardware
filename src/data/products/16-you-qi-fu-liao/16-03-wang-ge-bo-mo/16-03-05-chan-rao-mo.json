@@ -1,0 +1,25 @@
+{
+  "id": "16-03-05-chan-rao-mo",
+  "main_category_slug": "16-you-qi-fu-liao",
+  "sub_category_slug": "16-03-wang-ge-bo-mo",
+  "name_th": "ฟิล์มยืดพันหอ",
+  "name_cn": "缠绕膜",
+  "products": [
+    {
+      "id": "16-03-05-chan-rao-mo-1",
+      "slug": "16-03-05-chan-rao-mo-1",
+      "name_th": "ฟิล์มยืดพันหอ รายการที่ 1",
+      "name_cn": "缠绕膜 产品 1",
+      "price": 333,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "16-03-05-chan-rao-mo-2",
+      "slug": "16-03-05-chan-rao-mo-2",
+      "name_th": "ฟิล์มยืดพันหอ รายการที่ 2",
+      "name_cn": "缠绕膜 产品 2",
+      "price": 297,
+      "image": "/placeholder.png"
+    }
+  ]
+}

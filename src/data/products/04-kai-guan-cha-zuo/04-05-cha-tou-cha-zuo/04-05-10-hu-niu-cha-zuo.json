@@ -1,0 +1,25 @@
+{
+  "id": "04-05-10-hu-niu-cha-zuo",
+  "main_category_slug": "04-kai-guan-cha-zuo",
+  "sub_category_slug": "04-05-cha-tou-cha-zuo",
+  "name_th": "ปลั๊กตัวเมียหูหนีบ",
+  "name_cn": "沪牛插座",
+  "products": [
+    {
+      "id": "04-05-10-hu-niu-cha-zuo-1",
+      "slug": "04-05-10-hu-niu-cha-zuo-1",
+      "name_th": "ปลั๊กตัวเมียหูหนีบ รายการที่ 1",
+      "name_cn": "沪牛插座 产品 1",
+      "price": 491,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "04-05-10-hu-niu-cha-zuo-2",
+      "slug": "04-05-10-hu-niu-cha-zuo-2",
+      "name_th": "ปลั๊กตัวเมียหูหนีบ รายการที่ 2",
+      "name_cn": "沪牛插座 产品 2",
+      "price": 579,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "16-04-04-yang-mao-shua",
+  "main_category_slug": "16-you-qi-fu-liao",
+  "sub_category_slug": "16-04-you-qi-gong-ju",
+  "name_th": "แปรงขนแกะ",
+  "name_cn": "羊毛刷",
+  "products": [
+    {
+      "id": "16-04-04-yang-mao-shua-1",
+      "slug": "16-04-04-yang-mao-shua-1",
+      "name_th": "แปรงขนแกะ รายการที่ 1",
+      "name_cn": "羊毛刷 产品 1",
+      "price": 729,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "16-04-04-yang-mao-shua-2",
+      "slug": "16-04-04-yang-mao-shua-2",
+      "name_th": "แปรงขนแกะ รายการที่ 2",
+      "name_cn": "羊毛刷 产品 2",
+      "price": 1046,
+      "image": "/placeholder.png"
+    }
+  ]
+}

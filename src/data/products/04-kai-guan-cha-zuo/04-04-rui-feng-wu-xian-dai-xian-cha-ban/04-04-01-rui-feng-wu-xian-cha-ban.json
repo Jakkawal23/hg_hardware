@@ -1,0 +1,25 @@
+{
+  "id": "04-04-01-rui-feng-wu-xian-cha-ban",
+  "main_category_slug": "04-kai-guan-cha-zuo",
+  "sub_category_slug": "04-04-rui-feng-wu-xian-dai-xian-cha-ban",
+  "name_th": "ปลั๊กพ่วงรุ่ยเฟิง (ไม่มีสาย)",
+  "name_cn": "瑞风无线插板",
+  "products": [
+    {
+      "id": "04-04-01-rui-feng-wu-xian-cha-ban-1",
+      "slug": "04-04-01-rui-feng-wu-xian-cha-ban-1",
+      "name_th": "ปลั๊กพ่วงรุ่ยเฟิง (ไม่มีสาย) รายการที่ 1",
+      "name_cn": "瑞风无线插板 产品 1",
+      "price": 462,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "04-04-01-rui-feng-wu-xian-cha-ban-2",
+      "slug": "04-04-01-rui-feng-wu-xian-cha-ban-2",
+      "name_th": "ปลั๊กพ่วงรุ่ยเฟิง (ไม่มีสาย) รายการที่ 2",
+      "name_cn": "瑞风无线插板 产品 2",
+      "price": 960,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "15-04-02-han-de-li-zhong-xing-gui-tong-jiao-ruan-jiao",
+  "main_category_slug": "15-hua-gong-jiao-zhi",
+  "sub_category_slug": "15-04-jie-gou-jiao-ruan-jiao",
+  "name_th": "ซิลิโคนกลางฮั่นเต๋อลี่ (แบบนิ่ม)",
+  "name_cn": "汉得力中性硅酮胶(软胶)",
+  "products": [
+    {
+      "id": "15-04-02-han-de-li-zhong-xing-gui-tong-jiao-ruan-jiao-1",
+      "slug": "15-04-02-han-de-li-zhong-xing-gui-tong-jiao-ruan-jiao-1",
+      "name_th": "ซิลิโคนกลางฮั่นเต๋อลี่ (แบบนิ่ม) รายการที่ 1",
+      "name_cn": "汉得力中性硅酮胶(软胶) 产品 1",
+      "price": 847,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "15-04-02-han-de-li-zhong-xing-gui-tong-jiao-ruan-jiao-2",
+      "slug": "15-04-02-han-de-li-zhong-xing-gui-tong-jiao-ruan-jiao-2",
+      "name_th": "ซิลิโคนกลางฮั่นเต๋อลี่ (แบบนิ่ม) รายการที่ 2",
+      "name_cn": "汉得力中性硅酮胶(软胶) 产品 2",
+      "price": 586,
+      "image": "/placeholder.png"
+    }
+  ]
+}

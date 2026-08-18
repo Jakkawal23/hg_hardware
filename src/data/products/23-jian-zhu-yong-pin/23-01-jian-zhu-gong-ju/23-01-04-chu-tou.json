@@ -1,0 +1,25 @@
+{
+  "id": "23-01-04-chu-tou",
+  "main_category_slug": "23-jian-zhu-yong-pin",
+  "sub_category_slug": "23-01-jian-zhu-gong-ju",
+  "name_th": "จอบขุด",
+  "name_cn": "锄头",
+  "products": [
+    {
+      "id": "23-01-04-chu-tou-1",
+      "slug": "23-01-04-chu-tou-1",
+      "name_th": "จอบขุด รายการที่ 1",
+      "name_cn": "锄头 产品 1",
+      "price": 626,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "23-01-04-chu-tou-2",
+      "slug": "23-01-04-chu-tou-2",
+      "name_th": "จอบขุด รายการที่ 2",
+      "name_cn": "锄头 产品 2",
+      "price": 925,
+      "image": "/placeholder.png"
+    }
+  ]
+}

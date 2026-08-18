@@ -1,0 +1,25 @@
+{
+  "id": "17-05-07-zao-qiang-hua-chui",
+  "main_category_slug": "17-zuan-tou-kai-kong",
+  "sub_category_slug": "17-05-jian-bian-zao-zi",
+  "name_th": "ค้อนสกัดผนัง",
+  "name_cn": "凿墙花锤",
+  "products": [
+    {
+      "id": "17-05-07-zao-qiang-hua-chui-1",
+      "slug": "17-05-07-zao-qiang-hua-chui-1",
+      "name_th": "ค้อนสกัดผนัง รายการที่ 1",
+      "name_cn": "凿墙花锤 产品 1",
+      "price": 452,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "17-05-07-zao-qiang-hua-chui-2",
+      "slug": "17-05-07-zao-qiang-hua-chui-2",
+      "name_th": "ค้อนสกัดผนัง รายการที่ 2",
+      "name_cn": "凿墙花锤 产品 2",
+      "price": 586,
+      "image": "/placeholder.png"
+    }
+  ]
+}

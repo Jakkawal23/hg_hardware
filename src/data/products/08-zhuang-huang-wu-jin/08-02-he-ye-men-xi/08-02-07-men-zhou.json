@@ -1,0 +1,25 @@
+{
+  "id": "08-02-07-men-zhou",
+  "main_category_slug": "08-zhuang-huang-wu-jin",
+  "sub_category_slug": "08-02-he-ye-men-xi",
+  "name_th": "แกนบานประตู",
+  "name_cn": "门轴",
+  "products": [
+    {
+      "id": "08-02-07-men-zhou-1",
+      "slug": "08-02-07-men-zhou-1",
+      "name_th": "แกนบานประตู รายการที่ 1",
+      "name_cn": "门轴 产品 1",
+      "price": 1019,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "08-02-07-men-zhou-2",
+      "slug": "08-02-07-men-zhou-2",
+      "name_th": "แกนบานประตู รายการที่ 2",
+      "name_cn": "门轴 产品 2",
+      "price": 565,
+      "image": "/placeholder.png"
+    }
+  ]
+}

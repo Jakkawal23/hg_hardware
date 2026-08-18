@@ -1,0 +1,25 @@
+{
+  "id": "16-03-02-di-mian-bao-hu-mo",
+  "main_category_slug": "16-you-qi-fu-liao",
+  "sub_category_slug": "16-03-wang-ge-bo-mo",
+  "name_th": "ฟิล์มกันพื้น",
+  "name_cn": "地面保护膜",
+  "products": [
+    {
+      "id": "16-03-02-di-mian-bao-hu-mo-1",
+      "slug": "16-03-02-di-mian-bao-hu-mo-1",
+      "name_th": "ฟิล์มกันพื้น รายการที่ 1",
+      "name_cn": "地面保护膜 产品 1",
+      "price": 247,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "16-03-02-di-mian-bao-hu-mo-2",
+      "slug": "16-03-02-di-mian-bao-hu-mo-2",
+      "name_th": "ฟิล์มกันพื้น รายการที่ 2",
+      "name_cn": "地面保护膜 产品 2",
+      "price": 283,
+      "image": "/placeholder.png"
+    }
+  ]
+}

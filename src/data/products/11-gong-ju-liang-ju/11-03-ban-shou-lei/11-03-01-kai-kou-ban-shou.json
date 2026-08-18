@@ -1,0 +1,25 @@
+{
+  "id": "11-03-01-kai-kou-ban-shou",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-03-ban-shou-lei",
+  "name_th": "ประแจปากตาย",
+  "name_cn": "开口扳手",
+  "products": [
+    {
+      "id": "11-03-01-kai-kou-ban-shou-1",
+      "slug": "11-03-01-kai-kou-ban-shou-1",
+      "name_th": "ประแจปากตาย รายการที่ 1",
+      "name_cn": "开口扳手 产品 1",
+      "price": 275,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-03-01-kai-kou-ban-shou-2",
+      "slug": "11-03-01-kai-kou-ban-shou-2",
+      "name_th": "ประแจปากตาย รายการที่ 2",
+      "name_cn": "开口扳手 产品 2",
+      "price": 313,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "01-03-05-10-9ji-gang-jie-gou-luo-shuan",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-03-du-xin-luo-si",
+  "name_th": "สลักเกลียวโครงสร้างเหล็ก เกรด 10.9",
+  "name_cn": "10.9级钢结构螺栓",
+  "products": [
+    {
+      "id": "01-03-05-10-9ji-gang-jie-gou-luo-shuan-1",
+      "slug": "01-03-05-10-9ji-gang-jie-gou-luo-shuan-1",
+      "name_th": "สลักเกลียวโครงสร้างเหล็ก เกรด 10.9 รายการที่ 1",
+      "name_cn": "10.9级钢结构螺栓 产品 1",
+      "price": 856,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-03-05-10-9ji-gang-jie-gou-luo-shuan-2",
+      "slug": "01-03-05-10-9ji-gang-jie-gou-luo-shuan-2",
+      "name_th": "สลักเกลียวโครงสร้างเหล็ก เกรด 10.9 รายการที่ 2",
+      "name_cn": "10.9级钢结构螺栓 产品 2",
+      "price": 606,
+      "image": "/placeholder.png"
+    }
+  ]
+}

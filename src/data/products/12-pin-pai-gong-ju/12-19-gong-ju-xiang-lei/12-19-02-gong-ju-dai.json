@@ -1,0 +1,25 @@
+{
+  "id": "12-19-02-gong-ju-dai",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-19-gong-ju-xiang-lei",
+  "name_th": "กระเป๋าเครื่องมือ",
+  "name_cn": "工具袋",
+  "products": [
+    {
+      "id": "12-19-02-gong-ju-dai-1",
+      "slug": "12-19-02-gong-ju-dai-1",
+      "name_th": "กระเป๋าเครื่องมือ รายการที่ 1",
+      "name_cn": "工具袋 产品 1",
+      "price": 987,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-19-02-gong-ju-dai-2",
+      "slug": "12-19-02-gong-ju-dai-2",
+      "name_th": "กระเป๋าเครื่องมือ รายการที่ 2",
+      "name_cn": "工具袋 产品 2",
+      "price": 754,
+      "image": "/placeholder.png"
+    }
+  ]
+}

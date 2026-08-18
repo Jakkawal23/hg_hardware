@@ -1,0 +1,25 @@
+{
+  "id": "12-07-09-bao-ta-zuan",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-07-ren-ju-qie-ge",
+  "name_th": "ดอกเจาะขั้นบันได",
+  "name_cn": "宝塔钻",
+  "products": [
+    {
+      "id": "12-07-09-bao-ta-zuan-1",
+      "slug": "12-07-09-bao-ta-zuan-1",
+      "name_th": "ดอกเจาะขั้นบันได รายการที่ 1",
+      "name_cn": "宝塔钻 产品 1",
+      "price": 260,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-07-09-bao-ta-zuan-2",
+      "slug": "12-07-09-bao-ta-zuan-2",
+      "name_th": "ดอกเจาะขั้นบันได รายการที่ 2",
+      "name_cn": "宝塔钻 产品 2",
+      "price": 208,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "15-01-06-chu-xiu-ji",
+  "main_category_slug": "15-hua-gong-jiao-zhi",
+  "sub_category_slug": "15-01-qi-wu-ji",
+  "name_th": "น้ำยากำจัดสนิม",
+  "name_cn": "除锈剂",
+  "products": [
+    {
+      "id": "15-01-06-chu-xiu-ji-1",
+      "slug": "15-01-06-chu-xiu-ji-1",
+      "name_th": "น้ำยากำจัดสนิม รายการที่ 1",
+      "name_cn": "除锈剂 产品 1",
+      "price": 130,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "15-01-06-chu-xiu-ji-2",
+      "slug": "15-01-06-chu-xiu-ji-2",
+      "name_th": "น้ำยากำจัดสนิม รายการที่ 2",
+      "name_cn": "除锈剂 产品 2",
+      "price": 134,
+      "image": "/placeholder.png"
+    }
+  ]
+}

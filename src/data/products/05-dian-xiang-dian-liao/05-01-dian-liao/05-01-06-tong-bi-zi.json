@@ -1,0 +1,25 @@
+{
+  "id": "05-01-06-tong-bi-zi",
+  "main_category_slug": "05-dian-xiang-dian-liao",
+  "sub_category_slug": "05-01-dian-liao",
+  "name_th": "หางปลาทองแดง",
+  "name_cn": "铜鼻子",
+  "products": [
+    {
+      "id": "05-01-06-tong-bi-zi-1",
+      "slug": "05-01-06-tong-bi-zi-1",
+      "name_th": "หางปลาทองแดง รายการที่ 1",
+      "name_cn": "铜鼻子 产品 1",
+      "price": 878,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "05-01-06-tong-bi-zi-2",
+      "slug": "05-01-06-tong-bi-zi-2",
+      "name_th": "หางปลาทองแดง รายการที่ 2",
+      "name_cn": "铜鼻子 产品 2",
+      "price": 534,
+      "image": "/placeholder.png"
+    }
+  ]
+}

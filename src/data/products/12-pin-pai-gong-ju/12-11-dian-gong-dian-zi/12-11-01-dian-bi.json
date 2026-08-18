@@ -1,0 +1,25 @@
+{
+  "id": "12-11-01-dian-bi",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-11-dian-gong-dian-zi",
+  "name_th": "ไขควงลองไฟ",
+  "name_cn": "电笔",
+  "products": [
+    {
+      "id": "12-11-01-dian-bi-1",
+      "slug": "12-11-01-dian-bi-1",
+      "name_th": "ไขควงลองไฟ รายการที่ 1",
+      "name_cn": "电笔 产品 1",
+      "price": 976,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-11-01-dian-bi-2",
+      "slug": "12-11-01-dian-bi-2",
+      "name_th": "ไขควงลองไฟ รายการที่ 2",
+      "name_cn": "电笔 产品 2",
+      "price": 675,
+      "image": "/placeholder.png"
+    }
+  ]
+}

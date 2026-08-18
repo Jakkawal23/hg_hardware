@@ -1,0 +1,25 @@
+{
+  "id": "21-01-08-du-xin-lian-tiao",
+  "main_category_slug": "21-qi-zhong-qi-pei",
+  "sub_category_slug": "21-01-qi-zhong-yong-pin",
+  "name_th": "โซ่ชุบสังกะสี",
+  "name_cn": "镀锌链条",
+  "products": [
+    {
+      "id": "21-01-08-du-xin-lian-tiao-1",
+      "slug": "21-01-08-du-xin-lian-tiao-1",
+      "name_th": "โซ่ชุบสังกะสี รายการที่ 1",
+      "name_cn": "镀锌链条 产品 1",
+      "price": 494,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "21-01-08-du-xin-lian-tiao-2",
+      "slug": "21-01-08-du-xin-lian-tiao-2",
+      "name_th": "โซ่ชุบสังกะสี รายการที่ 2",
+      "name_cn": "镀锌链条 产品 2",
+      "price": 113,
+      "image": "/placeholder.png"
+    }
+  ]
+}

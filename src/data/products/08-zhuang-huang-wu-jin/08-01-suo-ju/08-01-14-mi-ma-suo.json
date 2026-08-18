@@ -1,0 +1,25 @@
+{
+  "id": "08-01-14-mi-ma-suo",
+  "main_category_slug": "08-zhuang-huang-wu-jin",
+  "sub_category_slug": "08-01-suo-ju",
+  "name_th": "กุญแจรหัส",
+  "name_cn": "密码锁",
+  "products": [
+    {
+      "id": "08-01-14-mi-ma-suo-1",
+      "slug": "08-01-14-mi-ma-suo-1",
+      "name_th": "กุญแจรหัส รายการที่ 1",
+      "name_cn": "密码锁 产品 1",
+      "price": 202,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "08-01-14-mi-ma-suo-2",
+      "slug": "08-01-14-mi-ma-suo-2",
+      "name_th": "กุญแจรหัส รายการที่ 2",
+      "name_cn": "密码锁 产品 2",
+      "price": 130,
+      "image": "/placeholder.png"
+    }
+  ]
+}

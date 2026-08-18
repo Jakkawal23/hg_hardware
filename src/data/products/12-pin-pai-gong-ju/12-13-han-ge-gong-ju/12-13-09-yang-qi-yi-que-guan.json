@@ -1,0 +1,25 @@
+{
+  "id": "12-13-09-yang-qi-yi-que-guan",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-13-han-ge-gong-ju",
+  "name_th": "สายแก๊สออกซิเจน-อะเซทิลีน",
+  "name_cn": "氧气乙炔管",
+  "products": [
+    {
+      "id": "12-13-09-yang-qi-yi-que-guan-1",
+      "slug": "12-13-09-yang-qi-yi-que-guan-1",
+      "name_th": "สายแก๊สออกซิเจน-อะเซทิลีน รายการที่ 1",
+      "name_cn": "氧气乙炔管 产品 1",
+      "price": 526,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-13-09-yang-qi-yi-que-guan-2",
+      "slug": "12-13-09-yang-qi-yi-que-guan-2",
+      "name_th": "สายแก๊สออกซิเจน-อะเซทิลีน รายการที่ 2",
+      "name_cn": "氧气乙炔管 产品 2",
+      "price": 298,
+      "image": "/placeholder.png"
+    }
+  ]
+}

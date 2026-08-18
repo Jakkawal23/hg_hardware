@@ -1,0 +1,25 @@
+{
+  "id": "01-11-05-diao-ding-yi-ti-ding",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-11-ding-lei",
+  "name_th": "ตะปูฝ้าเพดานสำเร็จ",
+  "name_cn": "吊顶一体钉",
+  "products": [
+    {
+      "id": "01-11-05-diao-ding-yi-ti-ding-1",
+      "slug": "01-11-05-diao-ding-yi-ti-ding-1",
+      "name_th": "ตะปูฝ้าเพดานสำเร็จ รายการที่ 1",
+      "name_cn": "吊顶一体钉 产品 1",
+      "price": 682,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-11-05-diao-ding-yi-ti-ding-2",
+      "slug": "01-11-05-diao-ding-yi-ti-ding-2",
+      "name_th": "ตะปูฝ้าเพดานสำเร็จ รายการที่ 2",
+      "name_cn": "吊顶一体钉 产品 2",
+      "price": 1041,
+      "image": "/placeholder.png"
+    }
+  ]
+}

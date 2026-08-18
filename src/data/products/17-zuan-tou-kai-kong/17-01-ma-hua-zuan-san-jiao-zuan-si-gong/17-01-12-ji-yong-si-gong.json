@@ -1,0 +1,25 @@
+{
+  "id": "17-01-12-ji-yong-si-gong",
+  "main_category_slug": "17-zuan-tou-kai-kong",
+  "sub_category_slug": "17-01-ma-hua-zuan-san-jiao-zuan-si-gong",
+  "name_th": "ดอกต๊าปเครื่อง",
+  "name_cn": "机用丝攻",
+  "products": [
+    {
+      "id": "17-01-12-ji-yong-si-gong-1",
+      "slug": "17-01-12-ji-yong-si-gong-1",
+      "name_th": "ดอกต๊าปเครื่อง รายการที่ 1",
+      "name_cn": "机用丝攻 产品 1",
+      "price": 383,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "17-01-12-ji-yong-si-gong-2",
+      "slug": "17-01-12-ji-yong-si-gong-2",
+      "name_th": "ดอกต๊าปเครื่อง รายการที่ 2",
+      "name_cn": "机用丝攻 产品 2",
+      "price": 891,
+      "image": "/placeholder.png"
+    }
+  ]
+}

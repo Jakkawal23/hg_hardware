@@ -1,0 +1,25 @@
+{
+  "id": "16-04-24-zhao-ping-qi-di-zuo",
+  "main_category_slug": "16-you-qi-fu-liao",
+  "sub_category_slug": "16-04-you-qi-gong-ju",
+  "name_th": "ฐานเครื่องมือปรับระดับ",
+  "name_cn": "找平器底座",
+  "products": [
+    {
+      "id": "16-04-24-zhao-ping-qi-di-zuo-1",
+      "slug": "16-04-24-zhao-ping-qi-di-zuo-1",
+      "name_th": "ฐานเครื่องมือปรับระดับ รายการที่ 1",
+      "name_cn": "找平器底座 产品 1",
+      "price": 325,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "16-04-24-zhao-ping-qi-di-zuo-2",
+      "slug": "16-04-24-zhao-ping-qi-di-zuo-2",
+      "name_th": "ฐานเครื่องมือปรับระดับ รายการที่ 2",
+      "name_cn": "找平器底座 产品 2",
+      "price": 707,
+      "image": "/placeholder.png"
+    }
+  ]
+}

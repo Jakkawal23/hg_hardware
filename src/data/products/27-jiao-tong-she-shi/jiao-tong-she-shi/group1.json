@@ -1,0 +1,25 @@
+{
+  "id": "group-1",
+  "main_category_slug": "27-jiao-tong-she-shi",
+  "sub_category_slug": "jiao-tong-she-shi",
+  "name_th": "อุปกรณ์และระบบอำนวยความสะดวกจราจร กลุ่ม 1",
+  "name_cn": "交通设施 组 1",
+  "products": [
+    {
+      "id": "prod-473",
+      "slug": "prod-474",
+      "name_th": "อุปกรณ์และระบบอำนวยความสะดวกจราจร รายการที่ 1 (กลุ่ม 1)",
+      "name_cn": "交通设施 产品 1 (组 1)",
+      "price": 660,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "prod-474",
+      "slug": "prod-475",
+      "name_th": "อุปกรณ์และระบบอำนวยความสะดวกจราจร รายการที่ 2 (กลุ่ม 1)",
+      "name_cn": "交通设施 产品 2 (组 1)",
+      "price": 455,
+      "image": "/placeholder.png"
+    }
+  ]
+}

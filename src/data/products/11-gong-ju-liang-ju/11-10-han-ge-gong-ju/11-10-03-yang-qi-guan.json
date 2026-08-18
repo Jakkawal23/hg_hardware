@@ -1,0 +1,25 @@
+{
+  "id": "11-10-03-yang-qi-guan",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-10-han-ge-gong-ju",
+  "name_th": "สายออกซิเจน-อะเซทิลีน",
+  "name_cn": "氧气管",
+  "products": [
+    {
+      "id": "11-10-03-yang-qi-guan-1",
+      "slug": "11-10-03-yang-qi-guan-1",
+      "name_th": "สายออกซิเจน-อะเซทิลีน รายการที่ 1",
+      "name_cn": "氧气管 产品 1",
+      "price": 953,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-10-03-yang-qi-guan-2",
+      "slug": "11-10-03-yang-qi-guan-2",
+      "name_th": "สายออกซิเจน-อะเซทิลีน รายการที่ 2",
+      "name_cn": "氧气管 产品 2",
+      "price": 537,
+      "image": "/placeholder.png"
+    }
+  ]
+}

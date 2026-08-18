@@ -1,0 +1,25 @@
+{
+  "id": "12-02-12-ji-lun-ban-shou",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-02-ban-shou-lei",
+  "name_th": "ประแจแรทเชท",
+  "name_cn": "棘轮扳手",
+  "products": [
+    {
+      "id": "12-02-12-ji-lun-ban-shou-1",
+      "slug": "12-02-12-ji-lun-ban-shou-1",
+      "name_th": "ประแจแรทเชท รายการที่ 1",
+      "name_cn": "棘轮扳手 产品 1",
+      "price": 1024,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-02-12-ji-lun-ban-shou-2",
+      "slug": "12-02-12-ji-lun-ban-shou-2",
+      "name_th": "ประแจแรทเชท รายการที่ 2",
+      "name_cn": "棘轮扳手 产品 2",
+      "price": 341,
+      "image": "/placeholder.png"
+    }
+  ]
+}

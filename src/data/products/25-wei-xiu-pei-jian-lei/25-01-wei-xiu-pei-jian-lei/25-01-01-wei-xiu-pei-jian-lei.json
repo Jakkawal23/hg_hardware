@@ -1,0 +1,25 @@
+{
+  "id": "25-01-01-wei-xiu-pei-jian-lei",
+  "main_category_slug": "25-wei-xiu-pei-jian-lei",
+  "sub_category_slug": "25-01-wei-xiu-pei-jian-lei",
+  "name_th": "อุปกรณ์การบำรุงรักษา",
+  "name_cn": "维修配件类",
+  "products": [
+    {
+      "id": "25-01-01-wei-xiu-pei-jian-lei-1",
+      "slug": "25-01-01-wei-xiu-pei-jian-lei-1",
+      "name_th": "อุปกรณ์การบำรุงรักษา รายการที่ 1",
+      "name_cn": "维修配件类 产品 1",
+      "price": 810,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "25-01-01-wei-xiu-pei-jian-lei-2",
+      "slug": "25-01-01-wei-xiu-pei-jian-lei-2",
+      "name_th": "อุปกรณ์การบำรุงรักษา รายการที่ 2",
+      "name_cn": "维修配件类 产品 2",
+      "price": 443,
+      "image": "/placeholder.png"
+    }
+  ]
+}

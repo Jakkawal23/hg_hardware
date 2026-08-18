@@ -1,0 +1,25 @@
+{
+  "id": "17-05-10-fang-da-wang-zao-lei",
+  "main_category_slug": "17-zuan-tou-kai-kong",
+  "sub_category_slug": "17-05-jian-bian-zao-zi",
+  "name_th": "สิ่วฟางต้าหวัง",
+  "name_cn": "方大王凿类",
+  "products": [
+    {
+      "id": "17-05-10-fang-da-wang-zao-lei-1",
+      "slug": "17-05-10-fang-da-wang-zao-lei-1",
+      "name_th": "สิ่วฟางต้าหวัง รายการที่ 1",
+      "name_cn": "方大王凿类 产品 1",
+      "price": 1051,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "17-05-10-fang-da-wang-zao-lei-2",
+      "slug": "17-05-10-fang-da-wang-zao-lei-2",
+      "name_th": "สิ่วฟางต้าหวัง รายการที่ 2",
+      "name_cn": "方大王凿类 产品 2",
+      "price": 1007,
+      "image": "/placeholder.png"
+    }
+  ]
+}

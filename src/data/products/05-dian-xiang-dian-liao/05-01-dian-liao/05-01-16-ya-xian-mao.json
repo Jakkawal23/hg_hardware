@@ -1,0 +1,25 @@
+{
+  "id": "05-01-16-ya-xian-mao",
+  "main_category_slug": "05-dian-xiang-dian-liao",
+  "sub_category_slug": "05-01-dian-liao",
+  "name_th": "ฝาครอบต่อสาย",
+  "name_cn": "压线帽",
+  "products": [
+    {
+      "id": "05-01-16-ya-xian-mao-1",
+      "slug": "05-01-16-ya-xian-mao-1",
+      "name_th": "ฝาครอบต่อสาย รายการที่ 1",
+      "name_cn": "压线帽 产品 1",
+      "price": 322,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "05-01-16-ya-xian-mao-2",
+      "slug": "05-01-16-ya-xian-mao-2",
+      "name_th": "ฝาครอบต่อสาย รายการที่ 2",
+      "name_cn": "压线帽 产品 2",
+      "price": 232,
+      "image": "/placeholder.png"
+    }
+  ]
+}

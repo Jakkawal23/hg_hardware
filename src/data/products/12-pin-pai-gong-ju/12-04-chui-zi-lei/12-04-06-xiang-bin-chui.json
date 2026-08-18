@@ -1,0 +1,25 @@
+{
+  "id": "12-04-06-xiang-bin-chui",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-04-chui-zi-lei",
+  "name_th": "ค้อนแขมเปญ (หัวแหลม)",
+  "name_cn": "橡胶锤",
+  "products": [
+    {
+      "id": "12-04-06-xiang-bin-chui-1",
+      "slug": "12-04-06-xiang-bin-chui-1",
+      "name_th": "ค้อนแขมเปญ (หัวแหลม) รายการที่ 1",
+      "name_cn": "橡胶锤 产品 1",
+      "price": 513,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-04-06-xiang-bin-chui-2",
+      "slug": "12-04-06-xiang-bin-chui-2",
+      "name_th": "ค้อนแขมเปญ (หัวแหลม) รายการที่ 2",
+      "name_cn": "橡胶锤 产品 2",
+      "price": 521,
+      "image": "/placeholder.png"
+    }
+  ]
+}

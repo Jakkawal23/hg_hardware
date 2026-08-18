@@ -1,0 +1,25 @@
+{
+  "id": "12-01-01-tian-dao-juan-chi",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-01-tian-dao-gong-ju",
+  "name_th": "ตลับเมตรทาชิมะ",
+  "name_cn": "田岛卷尺",
+  "products": [
+    {
+      "id": "12-01-01-tian-dao-juan-chi-1",
+      "slug": "12-01-01-tian-dao-juan-chi-1",
+      "name_th": "ตลับเมตรทาชิมะ รายการที่ 1",
+      "name_cn": "田岛卷尺 产品 1",
+      "price": 198,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-01-01-tian-dao-juan-chi-2",
+      "slug": "12-01-01-tian-dao-juan-chi-2",
+      "name_th": "ตลับเมตรทาชิมะ รายการที่ 2",
+      "name_cn": "田岛卷尺 产品 2",
+      "price": 555,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "03-09-02-4P-de-li-xi-lou-dian",
+  "main_category_slug": "03-di-ya-dian-qi",
+  "sub_category_slug": "03-09-4P-dai-lou-dian-bao-hu",
+  "name_th": "เบรกเกอร์กันดูดเดลิกซี 4P",
+  "name_cn": "4P德力西漏电",
+  "products": [
+    {
+      "id": "03-09-02-4P-de-li-xi-lou-dian-1",
+      "slug": "03-09-02-4P-de-li-xi-lou-dian-1",
+      "name_th": "เบรกเกอร์กันดูดเดลิกซี 4P รายการที่ 1",
+      "name_cn": "4P德力西漏电 产品 1",
+      "price": 459,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "03-09-02-4P-de-li-xi-lou-dian-2",
+      "slug": "03-09-02-4P-de-li-xi-lou-dian-2",
+      "name_th": "เบรกเกอร์กันดูดเดลิกซี 4P รายการที่ 2",
+      "name_cn": "4P德力西漏电 产品 2",
+      "price": 852,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "20-01-12-ran-qi-bo-wen-guan",
+  "main_category_slug": "20-jin-shu-guan-ji-pei-jian",
+  "sub_category_slug": "20-01-heng-tong-ran-qi-guan-pei-jian",
+  "name_th": "ท่อลูกฟูกแก๊ส",
+  "name_cn": "燃气波纹管",
+  "products": [
+    {
+      "id": "20-01-12-ran-qi-bo-wen-guan-1",
+      "slug": "20-01-12-ran-qi-bo-wen-guan-1",
+      "name_th": "ท่อลูกฟูกแก๊ส รายการที่ 1",
+      "name_cn": "燃气波纹管 产品 1",
+      "price": 660,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "20-01-12-ran-qi-bo-wen-guan-2",
+      "slug": "20-01-12-ran-qi-bo-wen-guan-2",
+      "name_th": "ท่อลูกฟูกแก๊ส รายการที่ 2",
+      "name_cn": "燃气波纹管 产品 2",
+      "price": 123,
+      "image": "/placeholder.png"
+    }
+  ]
+}

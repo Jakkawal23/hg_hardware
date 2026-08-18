@@ -1,0 +1,25 @@
+{
+  "id": "03-02-04-1P-xi-men-zi-kong-kai-shuang-jin-shuang-chu",
+  "main_category_slug": "03-di-ya-dian-qi",
+  "sub_category_slug": "03-02-1P+N-shuang-jin-shuang-chu-duan-lu-qi",
+  "name_th": "เบรกเกอร์ซีเมนส์ 1P (เข้าคู่ออกคู่)",
+  "name_cn": "1P西门子空开(双进双出)",
+  "products": [
+    {
+      "id": "03-02-04-1P-xi-men-zi-kong-kai-shuang-jin-shuang-chu-1",
+      "slug": "03-02-04-1P-xi-men-zi-kong-kai-shuang-jin-shuang-chu-1",
+      "name_th": "เบรกเกอร์ซีเมนส์ 1P (เข้าคู่ออกคู่) รายการที่ 1",
+      "name_cn": "1P西门子空开(双进双出) 产品 1",
+      "price": 729,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "03-02-04-1P-xi-men-zi-kong-kai-shuang-jin-shuang-chu-2",
+      "slug": "03-02-04-1P-xi-men-zi-kong-kai-shuang-jin-shuang-chu-2",
+      "name_th": "เบรกเกอร์ซีเมนส์ 1P (เข้าคู่ออกคู่) รายการที่ 2",
+      "name_cn": "1P西门子空开(双进双出) 产品 2",
+      "price": 751,
+      "image": "/placeholder.png"
+    }
+  ]
+}

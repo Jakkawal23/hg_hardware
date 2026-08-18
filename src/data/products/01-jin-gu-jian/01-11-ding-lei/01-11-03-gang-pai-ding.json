@@ -1,0 +1,25 @@
+{
+  "id": "01-11-03-gang-pai-ding",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-11-ding-lei",
+  "name_th": "ตะปูแม็กเหล็ก",
+  "name_cn": "钢排钉",
+  "products": [
+    {
+      "id": "01-11-03-gang-pai-ding-1",
+      "slug": "01-11-03-gang-pai-ding-1",
+      "name_th": "ตะปูแม็กเหล็ก รายการที่ 1",
+      "name_cn": "钢排钉 产品 1",
+      "price": 855,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-11-03-gang-pai-ding-2",
+      "slug": "01-11-03-gang-pai-ding-2",
+      "name_th": "ตะปูแม็กเหล็ก รายการที่ 2",
+      "name_cn": "钢排钉 产品 2",
+      "price": 970,
+      "image": "/placeholder.png"
+    }
+  ]
+}

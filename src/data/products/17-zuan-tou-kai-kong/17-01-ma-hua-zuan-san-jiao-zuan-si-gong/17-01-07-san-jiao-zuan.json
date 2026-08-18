@@ -1,0 +1,25 @@
+{
+  "id": "17-01-07-san-jiao-zuan",
+  "main_category_slug": "17-zuan-tou-kai-kong",
+  "sub_category_slug": "17-01-ma-hua-zuan-san-jiao-zuan-si-gong",
+  "name_th": "ดอกสว่านสามเหลี่ยม",
+  "name_cn": "三角钻",
+  "products": [
+    {
+      "id": "17-01-07-san-jiao-zuan-1",
+      "slug": "17-01-07-san-jiao-zuan-1",
+      "name_th": "ดอกสว่านสามเหลี่ยม รายการที่ 1",
+      "name_cn": "三角钻 产品 1",
+      "price": 576,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "17-01-07-san-jiao-zuan-2",
+      "slug": "17-01-07-san-jiao-zuan-2",
+      "name_th": "ดอกสว่านสามเหลี่ยม รายการที่ 2",
+      "name_cn": "三角钻 产品 2",
+      "price": 644,
+      "image": "/placeholder.png"
+    }
+  ]
+}

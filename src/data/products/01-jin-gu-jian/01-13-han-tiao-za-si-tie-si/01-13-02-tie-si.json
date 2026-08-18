@@ -1,0 +1,25 @@
+{
+  "id": "01-13-02-tie-si",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-13-han-tiao-za-si-tie-si",
+  "name_th": "ลวดเหล็ก",
+  "name_cn": "铁丝",
+  "products": [
+    {
+      "id": "01-13-02-tie-si-1",
+      "slug": "01-13-02-tie-si-1",
+      "name_th": "ลวดเหล็ก รายการที่ 1",
+      "name_cn": "铁丝 产品 1",
+      "price": 250,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-13-02-tie-si-2",
+      "slug": "01-13-02-tie-si-2",
+      "name_th": "ลวดเหล็ก รายการที่ 2",
+      "name_cn": "铁丝 产品 2",
+      "price": 585,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "21-01-10-dun-dai",
+  "main_category_slug": "21-qi-zhong-qi-pei",
+  "sub_category_slug": "21-01-qi-zhong-yong-pin",
+  "name_th": "ถุงบิ๊กแบ็ก",
+  "name_cn": "吨袋",
+  "products": [
+    {
+      "id": "21-01-10-dun-dai-1",
+      "slug": "21-01-10-dun-dai-1",
+      "name_th": "ถุงบิ๊กแบ็ก รายการที่ 1",
+      "name_cn": "吨袋 产品 1",
+      "price": 970,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "21-01-10-dun-dai-2",
+      "slug": "21-01-10-dun-dai-2",
+      "name_th": "ถุงบิ๊กแบ็ก รายการที่ 2",
+      "name_cn": "吨袋 产品 2",
+      "price": 854,
+      "image": "/placeholder.png"
+    }
+  ]
+}

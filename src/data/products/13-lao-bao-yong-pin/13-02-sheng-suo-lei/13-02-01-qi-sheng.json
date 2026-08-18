@@ -1,0 +1,25 @@
+{
+  "id": "13-02-01-qi-sheng",
+  "main_category_slug": "13-lao-bao-yong-pin",
+  "sub_category_slug": "13-02-sheng-suo-lei",
+  "name_th": "เชือกธง",
+  "name_cn": "旗绳",
+  "products": [
+    {
+      "id": "13-02-01-qi-sheng-1",
+      "slug": "13-02-01-qi-sheng-1",
+      "name_th": "เชือกธง รายการที่ 1",
+      "name_cn": "旗绳 产品 1",
+      "price": 822,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "13-02-01-qi-sheng-2",
+      "slug": "13-02-01-qi-sheng-2",
+      "name_th": "เชือกธง รายการที่ 2",
+      "name_cn": "旗绳 产品 2",
+      "price": 945,
+      "image": "/placeholder.png"
+    }
+  ]
+}

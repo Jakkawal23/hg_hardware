@@ -1,0 +1,25 @@
+{
+  "id": "21-03-04-duan-tou-qu-chu-qi",
+  "main_category_slug": "21-qi-zhong-qi-pei",
+  "sub_category_slug": "21-03-tao-tong-gong-ju",
+  "name_th": "เครื่องมือถอนสกรูหัวขาด",
+  "name_cn": "断头取出器",
+  "products": [
+    {
+      "id": "21-03-04-duan-tou-qu-chu-qi-1",
+      "slug": "21-03-04-duan-tou-qu-chu-qi-1",
+      "name_th": "เครื่องมือถอนสกรูหัวขาด รายการที่ 1",
+      "name_cn": "断头取出器 产品 1",
+      "price": 871,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "21-03-04-duan-tou-qu-chu-qi-2",
+      "slug": "21-03-04-duan-tou-qu-chu-qi-2",
+      "name_th": "เครื่องมือถอนสกรูหัวขาด รายการที่ 2",
+      "name_cn": "断头取出器 产品 2",
+      "price": 140,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "24-04-02-tu-su-shui-dai",
+  "main_category_slug": "24-shui-beng-shui-dai",
+  "sub_category_slug": "24-04-xiao-fang-shui-dai-ji-pei-jian",
+  "name_th": "สายส่งน้ำเคลือบพลาสติก",
+  "name_cn": "涂塑水带",
+  "products": [
+    {
+      "id": "24-04-02-tu-su-shui-dai-1",
+      "slug": "24-04-02-tu-su-shui-dai-1",
+      "name_th": "สายส่งน้ำเคลือบพลาสติก รายการที่ 1",
+      "name_cn": "涂塑水带 产品 1",
+      "price": 248,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "24-04-02-tu-su-shui-dai-2",
+      "slug": "24-04-02-tu-su-shui-dai-2",
+      "name_th": "สายส่งน้ำเคลือบพลาสติก รายการที่ 2",
+      "name_cn": "涂塑水带 产品 2",
+      "price": 754,
+      "image": "/placeholder.png"
+    }
+  ]
+}

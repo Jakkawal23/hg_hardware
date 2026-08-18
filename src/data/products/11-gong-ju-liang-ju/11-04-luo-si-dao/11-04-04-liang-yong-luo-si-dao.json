@@ -1,0 +1,25 @@
+{
+  "id": "11-04-04-liang-yong-luo-si-dao",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-04-luo-si-dao",
+  "name_th": "ไขควงสองหัว",
+  "name_cn": "两用螺丝刀",
+  "products": [
+    {
+      "id": "11-04-04-liang-yong-luo-si-dao-1",
+      "slug": "11-04-04-liang-yong-luo-si-dao-1",
+      "name_th": "ไขควงสองหัว รายการที่ 1",
+      "name_cn": "两用螺丝刀 产品 1",
+      "price": 951,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-04-04-liang-yong-luo-si-dao-2",
+      "slug": "11-04-04-liang-yong-luo-si-dao-2",
+      "name_th": "ไขควงสองหัว รายการที่ 2",
+      "name_cn": "两用螺丝刀 产品 2",
+      "price": 969,
+      "image": "/placeholder.png"
+    }
+  ]
+}

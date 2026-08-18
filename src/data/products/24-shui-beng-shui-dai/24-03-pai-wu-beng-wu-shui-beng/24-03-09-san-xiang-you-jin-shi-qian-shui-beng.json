@@ -1,0 +1,25 @@
+{
+  "id": "24-03-09-san-xiang-you-jin-shi-qian-shui-beng",
+  "main_category_slug": "24-shui-beng-shui-dai",
+  "sub_category_slug": "24-03-pai-wu-beng-wu-shui-beng",
+  "name_th": "ปั๊มแช่น้ำมันสามเฟส",
+  "name_cn": "三相油浸式潜水泵",
+  "products": [
+    {
+      "id": "24-03-09-san-xiang-you-jin-shi-qian-shui-beng-1",
+      "slug": "24-03-09-san-xiang-you-jin-shi-qian-shui-beng-1",
+      "name_th": "ปั๊มแช่น้ำมันสามเฟส รายการที่ 1",
+      "name_cn": "三相油浸式潜水泵 产品 1",
+      "price": 122,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "24-03-09-san-xiang-you-jin-shi-qian-shui-beng-2",
+      "slug": "24-03-09-san-xiang-you-jin-shi-qian-shui-beng-2",
+      "name_th": "ปั๊มแช่น้ำมันสามเฟส รายการที่ 2",
+      "name_cn": "三相油浸式潜水泵 产品 2",
+      "price": 520,
+      "image": "/placeholder.png"
+    }
+  ]
+}

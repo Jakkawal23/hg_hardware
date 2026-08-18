@@ -1,0 +1,25 @@
+{
+  "id": "13-05-15-jian-zhu-fang-hu-wang",
+  "main_category_slug": "13-lao-bao-yong-pin",
+  "sub_category_slug": "13-05-an-quan-fang-hu",
+  "name_th": "ตาข่ายกันตกงานก่อสร้าง",
+  "name_cn": "建筑防护网",
+  "products": [
+    {
+      "id": "13-05-15-jian-zhu-fang-hu-wang-1",
+      "slug": "13-05-15-jian-zhu-fang-hu-wang-1",
+      "name_th": "ตาข่ายกันตกงานก่อสร้าง รายการที่ 1",
+      "name_cn": "建筑防护网 产品 1",
+      "price": 584,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "13-05-15-jian-zhu-fang-hu-wang-2",
+      "slug": "13-05-15-jian-zhu-fang-hu-wang-2",
+      "name_th": "ตาข่ายกันตกงานก่อสร้าง รายการที่ 2",
+      "name_cn": "建筑防护网 产品 2",
+      "price": 503,
+      "image": "/placeholder.png"
+    }
+  ]
+}

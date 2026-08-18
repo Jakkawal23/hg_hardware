@@ -1,0 +1,25 @@
+{
+  "id": "11-02-11-kong-gu-chui",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-02-chui-zi-lei",
+  "name_th": "ค้อนเคาะโพรง",
+  "name_cn": "空鼓锤",
+  "products": [
+    {
+      "id": "11-02-11-kong-gu-chui-1",
+      "slug": "11-02-11-kong-gu-chui-1",
+      "name_th": "ค้อนเคาะโพรง รายการที่ 1",
+      "name_cn": "空鼓锤 产品 1",
+      "price": 383,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-02-11-kong-gu-chui-2",
+      "slug": "11-02-11-kong-gu-chui-2",
+      "name_th": "ค้อนเคาะโพรง รายการที่ 2",
+      "name_cn": "空鼓锤 产品 2",
+      "price": 189,
+      "image": "/placeholder.png"
+    }
+  ]
+}

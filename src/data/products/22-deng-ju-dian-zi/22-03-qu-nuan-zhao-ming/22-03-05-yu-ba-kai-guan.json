@@ -1,0 +1,25 @@
+{
+  "id": "22-03-05-yu-ba-kai-guan",
+  "main_category_slug": "22-deng-ju-dian-zi",
+  "sub_category_slug": "22-03-qu-nuan-zhao-ming",
+  "name_th": "สวิตช์ฮีทเตอร์อาบน้ำ",
+  "name_cn": "浴霸开关",
+  "products": [
+    {
+      "id": "22-03-05-yu-ba-kai-guan-1",
+      "slug": "22-03-05-yu-ba-kai-guan-1",
+      "name_th": "สวิตช์ฮีทเตอร์อาบน้ำ รายการที่ 1",
+      "name_cn": "浴霸开关 产品 1",
+      "price": 571,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "22-03-05-yu-ba-kai-guan-2",
+      "slug": "22-03-05-yu-ba-kai-guan-2",
+      "name_th": "สวิตช์ฮีทเตอร์อาบน้ำ รายการที่ 2",
+      "name_cn": "浴霸开关 产品 2",
+      "price": 155,
+      "image": "/placeholder.png"
+    }
+  ]
+}

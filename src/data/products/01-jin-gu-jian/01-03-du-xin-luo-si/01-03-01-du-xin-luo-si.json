@@ -1,0 +1,25 @@
+{
+  "id": "01-03-01-du-xin-luo-si",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-03-du-xin-luo-si",
+  "name_th": "สกรูชุบสังกะสี",
+  "name_cn": "镀锌螺丝",
+  "products": [
+    {
+      "id": "01-03-01-du-xin-luo-si-1",
+      "slug": "01-03-01-du-xin-luo-si-1",
+      "name_th": "สกรูชุบสังกะสี รายการที่ 1",
+      "name_cn": "镀锌螺丝 产品 1",
+      "price": 224,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-03-01-du-xin-luo-si-2",
+      "slug": "01-03-01-du-xin-luo-si-2",
+      "name_th": "สกรูชุบสังกะสี รายการที่ 2",
+      "name_cn": "镀锌螺丝 产品 2",
+      "price": 898,
+      "image": "/placeholder.png"
+    }
+  ]
+}

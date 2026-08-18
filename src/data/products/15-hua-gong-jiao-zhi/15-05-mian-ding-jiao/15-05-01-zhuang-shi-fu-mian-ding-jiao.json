@@ -1,0 +1,25 @@
+{
+  "id": "15-05-01-zhuang-shi-fu-mian-ding-jiao",
+  "main_category_slug": "15-hua-gong-jiao-zhi",
+  "sub_category_slug": "15-05-mian-ding-jiao",
+  "name_th": "กาวไม่ต้องตอกตะปูช่างจวง",
+  "name_cn": "装师傅免钉胶",
+  "products": [
+    {
+      "id": "15-05-01-zhuang-shi-fu-mian-ding-jiao-1",
+      "slug": "15-05-01-zhuang-shi-fu-mian-ding-jiao-1",
+      "name_th": "กาวไม่ต้องตอกตะปูช่างจวง รายการที่ 1",
+      "name_cn": "装师傅免钉胶 产品 1",
+      "price": 218,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "15-05-01-zhuang-shi-fu-mian-ding-jiao-2",
+      "slug": "15-05-01-zhuang-shi-fu-mian-ding-jiao-2",
+      "name_th": "กาวไม่ต้องตอกตะปูช่างจวง รายการที่ 2",
+      "name_cn": "装师傅免钉胶 产品 2",
+      "price": 1037,
+      "image": "/placeholder.png"
+    }
+  ]
+}

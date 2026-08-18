@@ -1,0 +1,25 @@
+{
+  "id": "19-02-10-ya-li-biao-fa",
+  "main_category_slug": "19-shui-nuan-wei-yu",
+  "sub_category_slug": "19-02-fa-men-zhuan-qu",
+  "name_th": "วาล์วเกจวัดแรงดัน",
+  "name_cn": "压力表阀",
+  "products": [
+    {
+      "id": "19-02-10-ya-li-biao-fa-1",
+      "slug": "19-02-10-ya-li-biao-fa-1",
+      "name_th": "วาล์วเกจวัดแรงดัน รายการที่ 1",
+      "name_cn": "压力表阀 产品 1",
+      "price": 468,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "19-02-10-ya-li-biao-fa-2",
+      "slug": "19-02-10-ya-li-biao-fa-2",
+      "name_th": "วาล์วเกจวัดแรงดัน รายการที่ 2",
+      "name_cn": "压力表阀 产品 2",
+      "price": 1096,
+      "image": "/placeholder.png"
+    }
+  ]
+}

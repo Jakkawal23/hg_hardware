@@ -1,0 +1,25 @@
+{
+  "id": "05-01-20-dian-xiang-dao-gui",
+  "main_category_slug": "05-dian-xiang-dian-liao",
+  "sub_category_slug": "05-01-dian-liao",
+  "name_th": "รางติดตั้งตู้ไฟ (DIN Rail)",
+  "name_cn": "电箱导轨",
+  "products": [
+    {
+      "id": "05-01-20-dian-xiang-dao-gui-1",
+      "slug": "05-01-20-dian-xiang-dao-gui-1",
+      "name_th": "รางติดตั้งตู้ไฟ (DIN Rail) รายการที่ 1",
+      "name_cn": "电箱导轨 产品 1",
+      "price": 819,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "05-01-20-dian-xiang-dao-gui-2",
+      "slug": "05-01-20-dian-xiang-dao-gui-2",
+      "name_th": "รางติดตั้งตู้ไฟ (DIN Rail) รายการที่ 2",
+      "name_cn": "电箱导轨 产品 2",
+      "price": 272,
+      "image": "/placeholder.png"
+    }
+  ]
+}

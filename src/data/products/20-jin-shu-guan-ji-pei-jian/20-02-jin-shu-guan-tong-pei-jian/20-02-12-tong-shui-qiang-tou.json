@@ -1,0 +1,25 @@
+{
+  "id": "20-02-12-tong-shui-qiang-tou",
+  "main_category_slug": "20-jin-shu-guan-ji-pei-jian",
+  "sub_category_slug": "20-02-jin-shu-guan-tong-pei-jian",
+  "name_th": "หัวปืนฉีดน้ำทองแดง",
+  "name_cn": "铜水枪头",
+  "products": [
+    {
+      "id": "20-02-12-tong-shui-qiang-tou-1",
+      "slug": "20-02-12-tong-shui-qiang-tou-1",
+      "name_th": "หัวปืนฉีดน้ำทองแดง รายการที่ 1",
+      "name_cn": "铜水枪头 产品 1",
+      "price": 250,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "20-02-12-tong-shui-qiang-tou-2",
+      "slug": "20-02-12-tong-shui-qiang-tou-2",
+      "name_th": "หัวปืนฉีดน้ำทองแดง รายการที่ 2",
+      "name_cn": "铜水枪头 产品 2",
+      "price": 260,
+      "image": "/placeholder.png"
+    }
+  ]
+}

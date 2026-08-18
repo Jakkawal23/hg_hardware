@@ -1,0 +1,25 @@
+{
+  "id": "01-11-11-qi-dong-qiang-ding",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-11-ding-lei",
+  "name_th": "ตะปูปืนลม",
+  "name_cn": "气动铆钉",
+  "products": [
+    {
+      "id": "01-11-11-qi-dong-qiang-ding-1",
+      "slug": "01-11-11-qi-dong-qiang-ding-1",
+      "name_th": "ตะปูปืนลม รายการที่ 1",
+      "name_cn": "气动铆钉 产品 1",
+      "price": 786,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-11-11-qi-dong-qiang-ding-2",
+      "slug": "01-11-11-qi-dong-qiang-ding-2",
+      "name_th": "ตะปูปืนลม รายการที่ 2",
+      "name_cn": "气动铆钉 产品 2",
+      "price": 716,
+      "image": "/placeholder.png"
+    }
+  ]
+}

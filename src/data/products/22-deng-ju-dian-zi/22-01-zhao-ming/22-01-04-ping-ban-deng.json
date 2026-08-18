@@ -1,0 +1,25 @@
+{
+  "id": "22-01-04-ping-ban-deng",
+  "main_category_slug": "22-deng-ju-dian-zi",
+  "sub_category_slug": "22-01-zhao-ming",
+  "name_th": "โคมไฟแผงเรียบ",
+  "name_cn": "平板灯",
+  "products": [
+    {
+      "id": "22-01-04-ping-ban-deng-1",
+      "slug": "22-01-04-ping-ban-deng-1",
+      "name_th": "โคมไฟแผงเรียบ รายการที่ 1",
+      "name_cn": "平板灯 产品 1",
+      "price": 169,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "22-01-04-ping-ban-deng-2",
+      "slug": "22-01-04-ping-ban-deng-2",
+      "name_th": "โคมไฟแผงเรียบ รายการที่ 2",
+      "name_cn": "平板灯 产品 2",
+      "price": 501,
+      "image": "/placeholder.png"
+    }
+  ]
+}

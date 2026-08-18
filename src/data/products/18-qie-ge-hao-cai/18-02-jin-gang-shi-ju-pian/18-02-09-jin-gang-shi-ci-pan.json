@@ -1,0 +1,25 @@
+{
+  "id": "18-02-09-jin-gang-shi-ci-pan",
+  "main_category_slug": "18-qie-ge-hao-cai",
+  "sub_category_slug": "18-02-jin-gang-shi-ju-pian",
+  "name_th": "จานเพชรขัดเซรามิก",
+  "name_cn": "金刚石瓷盘",
+  "products": [
+    {
+      "id": "18-02-09-jin-gang-shi-ci-pan-1",
+      "slug": "18-02-09-jin-gang-shi-ci-pan-1",
+      "name_th": "จานเพชรขัดเซรามิก รายการที่ 1",
+      "name_cn": "金刚石瓷盘 产品 1",
+      "price": 937,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "18-02-09-jin-gang-shi-ci-pan-2",
+      "slug": "18-02-09-jin-gang-shi-ci-pan-2",
+      "name_th": "จานเพชรขัดเซรามิก รายการที่ 2",
+      "name_cn": "金刚石瓷盘 产品 2",
+      "price": 563,
+      "image": "/placeholder.png"
+    }
+  ]
+}

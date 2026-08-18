@@ -1,0 +1,25 @@
+{
+  "id": "01-01-04-cu-ya-luo-gan",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-01-quan-ya-si-gan",
+  "name_th": "สกรูเกลียวหยาบ",
+  "name_cn": "粗牙螺杆",
+  "products": [
+    {
+      "id": "01-01-04-cu-ya-luo-gan-1",
+      "slug": "01-01-04-cu-ya-luo-gan-1",
+      "name_th": "สกรูเกลียวหยาบ รายการที่ 1",
+      "name_cn": "粗牙螺杆 产品 1",
+      "price": 1024,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-01-04-cu-ya-luo-gan-2",
+      "slug": "01-01-04-cu-ya-luo-gan-2",
+      "name_th": "สกรูเกลียวหยาบ รายการที่ 2",
+      "name_cn": "粗牙螺杆 产品 2",
+      "price": 671,
+      "image": "/placeholder.png"
+    }
+  ]
+}

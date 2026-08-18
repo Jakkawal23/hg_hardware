@@ -1,0 +1,25 @@
+{
+  "id": "01-08-03-tong-he-gan-bi-ding-hei-se",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-08-zi-gong-si-gan-bi-ding",
+  "name_th": "สกรูยิงฝ้าสีดำ (ทงเหอ)",
+  "name_cn": "通和干壁钉(黑色)",
+  "products": [
+    {
+      "id": "01-08-03-tong-he-gan-bi-ding-hei-se-1",
+      "slug": "01-08-03-tong-he-gan-bi-ding-hei-se-1",
+      "name_th": "สกรูยิงฝ้าสีดำ (ทงเหอ) รายการที่ 1",
+      "name_cn": "通和干壁钉(黑色) 产品 1",
+      "price": 973,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-08-03-tong-he-gan-bi-ding-hei-se-2",
+      "slug": "01-08-03-tong-he-gan-bi-ding-hei-se-2",
+      "name_th": "สกรูยิงฝ้าสีดำ (ทงเหอ) รายการที่ 2",
+      "name_cn": "通和干壁钉(黑色) 产品 2",
+      "price": 325,
+      "image": "/placeholder.png"
+    }
+  ]
+}

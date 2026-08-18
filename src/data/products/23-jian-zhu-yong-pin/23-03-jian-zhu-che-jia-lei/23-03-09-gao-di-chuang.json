@@ -1,0 +1,25 @@
+{
+  "id": "23-03-09-gao-di-chuang",
+  "main_category_slug": "23-jian-zhu-yong-pin",
+  "sub_category_slug": "23-03-jian-zhu-che-jia-lei",
+  "name_th": "แคร่/บันไดสูงต่ำ",
+  "name_cn": "高低床",
+  "products": [
+    {
+      "id": "23-03-09-gao-di-chuang-1",
+      "slug": "23-03-09-gao-di-chuang-1",
+      "name_th": "แคร่/บันไดสูงต่ำ รายการที่ 1",
+      "name_cn": "高低床 产品 1",
+      "price": 654,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "23-03-09-gao-di-chuang-2",
+      "slug": "23-03-09-gao-di-chuang-2",
+      "name_th": "แคร่/บันไดสูงต่ำ รายการที่ 2",
+      "name_cn": "高低床 产品 2",
+      "price": 716,
+      "image": "/placeholder.png"
+    }
+  ]
+}

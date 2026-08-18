@@ -1,0 +1,25 @@
+{
+  "id": "11-09-08-hang-kong-jian",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-09-jian-lei-dao-ju-lei",
+  "name_th": "กรรไกรตัดแผ่นโลหะ",
+  "name_cn": "航空剪",
+  "products": [
+    {
+      "id": "11-09-08-hang-kong-jian-1",
+      "slug": "11-09-08-hang-kong-jian-1",
+      "name_th": "กรรไกรตัดแผ่นโลหะ รายการที่ 1",
+      "name_cn": "航空剪 产品 1",
+      "price": 743,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-09-08-hang-kong-jian-2",
+      "slug": "11-09-08-hang-kong-jian-2",
+      "name_th": "กรรไกรตัดแผ่นโลหะ รายการที่ 2",
+      "name_cn": "航空剪 产品 2",
+      "price": 596,
+      "image": "/placeholder.png"
+    }
+  ]
+}

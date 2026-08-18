@@ -1,0 +1,25 @@
+{
+  "id": "01-10-09-da-mei-hou-gu",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-10-ping-ji-yuan-ji",
+  "name_th": "เข็มขัดรัดท่อขนาดใหญ่",
+  "name_cn": "大美喉箍",
+  "products": [
+    {
+      "id": "01-10-09-da-mei-hou-gu-1",
+      "slug": "01-10-09-da-mei-hou-gu-1",
+      "name_th": "เข็มขัดรัดท่อขนาดใหญ่ รายการที่ 1",
+      "name_cn": "大美喉箍 产品 1",
+      "price": 763,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-10-09-da-mei-hou-gu-2",
+      "slug": "01-10-09-da-mei-hou-gu-2",
+      "name_th": "เข็มขัดรัดท่อขนาดใหญ่ รายการที่ 2",
+      "name_cn": "大美喉箍 产品 2",
+      "price": 572,
+      "image": "/placeholder.png"
+    }
+  ]
+}

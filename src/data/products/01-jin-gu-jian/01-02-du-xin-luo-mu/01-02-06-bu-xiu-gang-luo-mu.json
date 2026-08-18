@@ -1,0 +1,25 @@
+{
+  "id": "01-02-06-bu-xiu-gang-luo-mu",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-02-du-xin-luo-mu",
+  "name_th": "น็อตสแตนเลส",
+  "name_cn": "不锈钢螺母",
+  "products": [
+    {
+      "id": "01-02-06-bu-xiu-gang-luo-mu-1",
+      "slug": "01-02-06-bu-xiu-gang-luo-mu-1",
+      "name_th": "น็อตสแตนเลส รายการที่ 1",
+      "name_cn": "不锈钢螺母 产品 1",
+      "price": 375,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-02-06-bu-xiu-gang-luo-mu-2",
+      "slug": "01-02-06-bu-xiu-gang-luo-mu-2",
+      "name_th": "น็อตสแตนเลส รายการที่ 2",
+      "name_cn": "不锈钢螺母 产品 2",
+      "price": 913,
+      "image": "/placeholder.png"
+    }
+  ]
+}

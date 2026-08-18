@@ -1,0 +1,25 @@
+{
+  "id": "17-01-08-mu-gong-si-cao-zuan",
+  "main_category_slug": "17-zuan-tou-kai-kong",
+  "sub_category_slug": "17-01-ma-hua-zuan-san-jiao-zuan-si-gong",
+  "name_th": "ดอกสว่านไม้สี่ร่อง",
+  "name_cn": "木工四槽钻",
+  "products": [
+    {
+      "id": "17-01-08-mu-gong-si-cao-zuan-1",
+      "slug": "17-01-08-mu-gong-si-cao-zuan-1",
+      "name_th": "ดอกสว่านไม้สี่ร่อง รายการที่ 1",
+      "name_cn": "木工四槽钻 产品 1",
+      "price": 717,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "17-01-08-mu-gong-si-cao-zuan-2",
+      "slug": "17-01-08-mu-gong-si-cao-zuan-2",
+      "name_th": "ดอกสว่านไม้สี่ร่อง รายการที่ 2",
+      "name_cn": "木工四槽钻 产品 2",
+      "price": 560,
+      "image": "/placeholder.png"
+    }
+  ]
+}

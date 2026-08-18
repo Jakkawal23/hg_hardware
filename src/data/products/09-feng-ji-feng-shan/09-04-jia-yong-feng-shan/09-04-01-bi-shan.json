@@ -1,0 +1,25 @@
+{
+  "id": "09-04-01-bi-shan",
+  "main_category_slug": "09-feng-ji-feng-shan",
+  "sub_category_slug": "09-04-jia-yong-feng-shan",
+  "name_th": "พัดลมติดผนัง",
+  "name_cn": "壁扇",
+  "products": [
+    {
+      "id": "09-04-01-bi-shan-1",
+      "slug": "09-04-01-bi-shan-1",
+      "name_th": "พัดลมติดผนัง รายการที่ 1",
+      "name_cn": "壁扇 产品 1",
+      "price": 521,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "09-04-01-bi-shan-2",
+      "slug": "09-04-01-bi-shan-2",
+      "name_th": "พัดลมติดผนัง รายการที่ 2",
+      "name_cn": "壁扇 产品 2",
+      "price": 540,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "01-11-02-wa-si-ding",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-11-ding-lei",
+  "name_th": "ตะปูแก๊ส",
+  "name_cn": "瓦斯钉",
+  "products": [
+    {
+      "id": "01-11-02-wa-si-ding-1",
+      "slug": "01-11-02-wa-si-ding-1",
+      "name_th": "ตะปูแก๊ส รายการที่ 1",
+      "name_cn": "瓦斯钉 产品 1",
+      "price": 1081,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-11-02-wa-si-ding-2",
+      "slug": "01-11-02-wa-si-ding-2",
+      "name_th": "ตะปูแก๊ส รายการที่ 2",
+      "name_cn": "瓦斯钉 产品 2",
+      "price": 720,
+      "image": "/placeholder.png"
+    }
+  ]
+}

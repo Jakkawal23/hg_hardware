@@ -1,0 +1,25 @@
+{
+  "id": "20-04-05-bu-xiu-gang-bu-xin",
+  "main_category_slug": "20-jin-shu-guan-ji-pei-jian",
+  "sub_category_slug": "20-04-bu-xiu-gang-guan-pei-jian",
+  "name_th": "ข้อต่อลดขนาดสแตนเลส",
+  "name_cn": "不锈钢补芯",
+  "products": [
+    {
+      "id": "20-04-05-bu-xiu-gang-bu-xin-1",
+      "slug": "20-04-05-bu-xiu-gang-bu-xin-1",
+      "name_th": "ข้อต่อลดขนาดสแตนเลส รายการที่ 1",
+      "name_cn": "不锈钢补芯 产品 1",
+      "price": 154,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "20-04-05-bu-xiu-gang-bu-xin-2",
+      "slug": "20-04-05-bu-xiu-gang-bu-xin-2",
+      "name_th": "ข้อต่อลดขนาดสแตนเลส รายการที่ 2",
+      "name_cn": "不锈钢补芯 产品 2",
+      "price": 741,
+      "image": "/placeholder.png"
+    }
+  ]
+}

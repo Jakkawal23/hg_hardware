@@ -1,0 +1,25 @@
+{
+  "id": "01-10-01-yuan-ji",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-10-ping-ji-yuan-ji",
+  "name_th": "สกรูหัวกลมแอน",
+  "name_cn": "元机",
+  "products": [
+    {
+      "id": "01-10-01-yuan-ji-1",
+      "slug": "01-10-01-yuan-ji-1",
+      "name_th": "สกรูหัวกลมแอน รายการที่ 1",
+      "name_cn": "元机 产品 1",
+      "price": 700,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-10-01-yuan-ji-2",
+      "slug": "01-10-01-yuan-ji-2",
+      "name_th": "สกรูหัวกลมแอน รายการที่ 2",
+      "name_cn": "元机 产品 2",
+      "price": 544,
+      "image": "/placeholder.png"
+    }
+  ]
+}

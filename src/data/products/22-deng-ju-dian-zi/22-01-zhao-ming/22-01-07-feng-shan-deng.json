@@ -1,0 +1,25 @@
+{
+  "id": "22-01-07-feng-shan-deng",
+  "main_category_slug": "22-deng-ju-dian-zi",
+  "sub_category_slug": "22-01-zhao-ming",
+  "name_th": "พัดลมติดไฟ",
+  "name_cn": "风扇灯",
+  "products": [
+    {
+      "id": "22-01-07-feng-shan-deng-1",
+      "slug": "22-01-07-feng-shan-deng-1",
+      "name_th": "พัดลมติดไฟ รายการที่ 1",
+      "name_cn": "风扇灯 产品 1",
+      "price": 228,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "22-01-07-feng-shan-deng-2",
+      "slug": "22-01-07-feng-shan-deng-2",
+      "name_th": "พัดลมติดไฟ รายการที่ 2",
+      "name_cn": "风扇灯 产品 2",
+      "price": 293,
+      "image": "/placeholder.png"
+    }
+  ]
+}

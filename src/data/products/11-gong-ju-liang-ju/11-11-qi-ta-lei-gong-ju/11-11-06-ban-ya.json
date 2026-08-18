@@ -1,0 +1,25 @@
+{
+  "id": "11-11-06-ban-ya",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-11-qi-ta-lei-gong-ju",
+  "name_th": "ตอกทำเกลียวนอก",
+  "name_cn": "扳鱼",
+  "products": [
+    {
+      "id": "11-11-06-ban-ya-1",
+      "slug": "11-11-06-ban-ya-1",
+      "name_th": "ตอกทำเกลียวนอก รายการที่ 1",
+      "name_cn": "扳鱼 产品 1",
+      "price": 915,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-11-06-ban-ya-2",
+      "slug": "11-11-06-ban-ya-2",
+      "name_th": "ตอกทำเกลียวนอก รายการที่ 2",
+      "name_cn": "扳鱼 产品 2",
+      "price": 696,
+      "image": "/placeholder.png"
+    }
+  ]
+}

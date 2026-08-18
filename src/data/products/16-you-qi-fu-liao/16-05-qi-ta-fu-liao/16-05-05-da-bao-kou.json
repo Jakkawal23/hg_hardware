@@ -1,0 +1,25 @@
+{
+  "id": "16-05-05-da-bao-kou",
+  "main_category_slug": "16-you-qi-fu-liao",
+  "sub_category_slug": "16-05-qi-ta-fu-liao",
+  "name_th": "หัวล็อคสายรัด",
+  "name_cn": "打包扣",
+  "products": [
+    {
+      "id": "16-05-05-da-bao-kou-1",
+      "slug": "16-05-05-da-bao-kou-1",
+      "name_th": "หัวล็อคสายรัด รายการที่ 1",
+      "name_cn": "打包扣 产品 1",
+      "price": 546,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "16-05-05-da-bao-kou-2",
+      "slug": "16-05-05-da-bao-kou-2",
+      "name_th": "หัวล็อคสายรัด รายการที่ 2",
+      "name_cn": "打包扣 产品 2",
+      "price": 135,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "04-05-12-dian-chi",
+  "main_category_slug": "04-kai-guan-cha-zuo",
+  "sub_category_slug": "04-05-cha-tou-cha-zuo",
+  "name_th": "ถ่านไฟฉาย/แบตเตอรี่",
+  "name_cn": "电池",
+  "products": [
+    {
+      "id": "04-05-12-dian-chi-1",
+      "slug": "04-05-12-dian-chi-1",
+      "name_th": "ถ่านไฟฉาย/แบตเตอรี่ รายการที่ 1",
+      "name_cn": "电池 产品 1",
+      "price": 656,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "04-05-12-dian-chi-2",
+      "slug": "04-05-12-dian-chi-2",
+      "name_th": "ถ่านไฟฉาย/แบตเตอรี่ รายการที่ 2",
+      "name_cn": "电池 产品 2",
+      "price": 334,
+      "image": "/placeholder.png"
+    }
+  ]
+}

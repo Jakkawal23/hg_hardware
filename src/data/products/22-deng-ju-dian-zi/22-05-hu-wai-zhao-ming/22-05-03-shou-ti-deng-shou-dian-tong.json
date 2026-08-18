@@ -1,0 +1,25 @@
+{
+  "id": "22-05-03-shou-ti-deng-shou-dian-tong",
+  "main_category_slug": "22-deng-ju-dian-zi",
+  "sub_category_slug": "22-05-hu-wai-zhao-ming",
+  "name_th": "โคมไฟมือถือ/ไฟฉาย",
+  "name_cn": "手提灯/手电筒",
+  "products": [
+    {
+      "id": "22-05-03-shou-ti-deng-shou-dian-tong-1",
+      "slug": "22-05-03-shou-ti-deng-shou-dian-tong-1",
+      "name_th": "โคมไฟมือถือ/ไฟฉาย รายการที่ 1",
+      "name_cn": "手提灯/手电筒 产品 1",
+      "price": 567,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "22-05-03-shou-ti-deng-shou-dian-tong-2",
+      "slug": "22-05-03-shou-ti-deng-shou-dian-tong-2",
+      "name_th": "โคมไฟมือถือ/ไฟฉาย รายการที่ 2",
+      "name_cn": "手提灯/手电筒 产品 2",
+      "price": 724,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "20-02-11-tong-lv-su-guan-pei-jian",
+  "main_category_slug": "20-jin-shu-guan-ji-pei-jian",
+  "sub_category_slug": "20-02-jin-shu-guan-tong-pei-jian",
+  "name_th": "อุปกรณ์ท่อ PAP ทองแดง",
+  "name_cn": "铜铝塑管配件",
+  "products": [
+    {
+      "id": "20-02-11-tong-lv-su-guan-pei-jian-1",
+      "slug": "20-02-11-tong-lv-su-guan-pei-jian-1",
+      "name_th": "อุปกรณ์ท่อ PAP ทองแดง รายการที่ 1",
+      "name_cn": "铜铝塑管配件 产品 1",
+      "price": 443,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "20-02-11-tong-lv-su-guan-pei-jian-2",
+      "slug": "20-02-11-tong-lv-su-guan-pei-jian-2",
+      "name_th": "อุปกรณ์ท่อ PAP ทองแดง รายการที่ 2",
+      "name_cn": "铜铝塑管配件 产品 2",
+      "price": 350,
+      "image": "/placeholder.png"
+    }
+  ]
+}

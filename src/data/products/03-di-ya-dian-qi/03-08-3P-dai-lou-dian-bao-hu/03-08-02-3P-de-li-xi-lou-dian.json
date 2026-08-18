@@ -1,0 +1,25 @@
+{
+  "id": "03-08-02-3P-de-li-xi-lou-dian",
+  "main_category_slug": "03-di-ya-dian-qi",
+  "sub_category_slug": "03-08-3P-dai-lou-dian-bao-hu",
+  "name_th": "เบรกเกอร์กันดูดเดลิกซี 3P",
+  "name_cn": "3P德力西漏电",
+  "products": [
+    {
+      "id": "03-08-02-3P-de-li-xi-lou-dian-1",
+      "slug": "03-08-02-3P-de-li-xi-lou-dian-1",
+      "name_th": "เบรกเกอร์กันดูดเดลิกซี 3P รายการที่ 1",
+      "name_cn": "3P德力西漏电 产品 1",
+      "price": 220,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "03-08-02-3P-de-li-xi-lou-dian-2",
+      "slug": "03-08-02-3P-de-li-xi-lou-dian-2",
+      "name_th": "เบรกเกอร์กันดูดเดลิกซี 3P รายการที่ 2",
+      "name_cn": "3P德力西漏电 产品 2",
+      "price": 541,
+      "image": "/placeholder.png"
+    }
+  ]
+}

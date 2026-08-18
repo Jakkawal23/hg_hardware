@@ -1,0 +1,25 @@
+{
+  "id": "05-05-02-yong-guan-dian-gong-jiao-bu",
+  "main_category_slug": "05-dian-xiang-dian-liao",
+  "sub_category_slug": "05-05-dian-gong-jiao-bu",
+  "name_th": "เทปพันสายไฟ ยงกวน",
+  "name_cn": "永冠电工胶布",
+  "products": [
+    {
+      "id": "05-05-02-yong-guan-dian-gong-jiao-bu-1",
+      "slug": "05-05-02-yong-guan-dian-gong-jiao-bu-1",
+      "name_th": "เทปพันสายไฟ ยงกวน รายการที่ 1",
+      "name_cn": "永冠电工胶布 产品 1",
+      "price": 260,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "05-05-02-yong-guan-dian-gong-jiao-bu-2",
+      "slug": "05-05-02-yong-guan-dian-gong-jiao-bu-2",
+      "name_th": "เทปพันสายไฟ ยงกวน รายการที่ 2",
+      "name_cn": "永冠电工胶布 产品 2",
+      "price": 621,
+      "image": "/placeholder.png"
+    }
+  ]
+}

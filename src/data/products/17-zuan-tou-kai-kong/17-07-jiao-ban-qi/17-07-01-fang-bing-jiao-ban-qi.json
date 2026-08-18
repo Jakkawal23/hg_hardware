@@ -1,0 +1,25 @@
+{
+  "id": "17-07-01-fang-bing-jiao-ban-qi",
+  "main_category_slug": "17-zuan-tou-kai-kong",
+  "sub_category_slug": "17-07-jiao-ban-qi",
+  "name_th": "หัวกวนผสมด้ามเหลี่ยม",
+  "name_cn": "方柄搅拌器",
+  "products": [
+    {
+      "id": "17-07-01-fang-bing-jiao-ban-qi-1",
+      "slug": "17-07-01-fang-bing-jiao-ban-qi-1",
+      "name_th": "หัวกวนผสมด้ามเหลี่ยม รายการที่ 1",
+      "name_cn": "方柄搅拌器 产品 1",
+      "price": 225,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "17-07-01-fang-bing-jiao-ban-qi-2",
+      "slug": "17-07-01-fang-bing-jiao-ban-qi-2",
+      "name_th": "หัวกวนผสมด้ามเหลี่ยม รายการที่ 2",
+      "name_cn": "方柄搅拌器 产品 2",
+      "price": 870,
+      "image": "/placeholder.png"
+    }
+  ]
+}

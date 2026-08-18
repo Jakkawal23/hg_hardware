@@ -1,0 +1,25 @@
+{
+  "id": "01-14-03-mi-feng-jiao-bu",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-14-tong-feng-pei-jian-zhuan-qu",
+  "name_th": "เทปซีล",
+  "name_cn": "密封胶布",
+  "products": [
+    {
+      "id": "01-14-03-mi-feng-jiao-bu-1",
+      "slug": "01-14-03-mi-feng-jiao-bu-1",
+      "name_th": "เทปซีล รายการที่ 1",
+      "name_cn": "密封胶布 产品 1",
+      "price": 883,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-14-03-mi-feng-jiao-bu-2",
+      "slug": "01-14-03-mi-feng-jiao-bu-2",
+      "name_th": "เทปซีล รายการที่ 2",
+      "name_cn": "密封胶布 产品 2",
+      "price": 568,
+      "image": "/placeholder.png"
+    }
+  ]
+}

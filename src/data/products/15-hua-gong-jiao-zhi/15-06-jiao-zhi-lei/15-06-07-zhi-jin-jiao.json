@@ -1,0 +1,25 @@
+{
+  "id": "15-06-07-zhi-jin-jiao",
+  "main_category_slug": "15-hua-gong-jiao-zhi",
+  "sub_category_slug": "15-06-jiao-zhi-lei",
+  "name_th": "กาวเคมีฝังเหล็ก",
+  "name_cn": "植筋胶",
+  "products": [
+    {
+      "id": "15-06-07-zhi-jin-jiao-1",
+      "slug": "15-06-07-zhi-jin-jiao-1",
+      "name_th": "กาวเคมีฝังเหล็ก รายการที่ 1",
+      "name_cn": "植筋胶 产品 1",
+      "price": 400,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "15-06-07-zhi-jin-jiao-2",
+      "slug": "15-06-07-zhi-jin-jiao-2",
+      "name_th": "กาวเคมีฝังเหล็ก รายการที่ 2",
+      "name_cn": "植筋胶 产品 2",
+      "price": 894,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "01-10-03-U-xing-ka",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-10-ping-ji-yuan-ji",
+  "name_th": "แคลมป์รูตัวยู",
+  "name_cn": "U型卡",
+  "products": [
+    {
+      "id": "01-10-03-U-xing-ka-1",
+      "slug": "01-10-03-U-xing-ka-1",
+      "name_th": "แคลมป์รูตัวยู รายการที่ 1",
+      "name_cn": "U型卡 产品 1",
+      "price": 179,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-10-03-U-xing-ka-2",
+      "slug": "01-10-03-U-xing-ka-2",
+      "name_th": "แคลมป์รูตัวยู รายการที่ 2",
+      "name_cn": "U型卡 产品 2",
+      "price": 625,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "01-11-04-shui-ni-ding",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-11-ding-lei",
+  "name_th": "ตะปูปูน",
+  "name_cn": "水泥钉",
+  "products": [
+    {
+      "id": "01-11-04-shui-ni-ding-1",
+      "slug": "01-11-04-shui-ni-ding-1",
+      "name_th": "ตะปูปูน รายการที่ 1",
+      "name_cn": "水泥钉 产品 1",
+      "price": 446,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-11-04-shui-ni-ding-2",
+      "slug": "01-11-04-shui-ni-ding-2",
+      "name_th": "ตะปูปูน รายการที่ 2",
+      "name_cn": "水泥钉 产品 2",
+      "price": 1020,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "01-04-05-chou-xin-mao-ding-tie-mao-ding",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-04-zuan-wei-luo-si-chou-xin-mao-ding",
+  "name_th": "หมุดย้ำ / หมุดเหล็ก",
+  "name_cn": "抽芯铆钉/铁铆钉",
+  "products": [
+    {
+      "id": "01-04-05-chou-xin-mao-ding-tie-mao-ding-1",
+      "slug": "01-04-05-chou-xin-mao-ding-tie-mao-ding-1",
+      "name_th": "หมุดย้ำ / หมุดเหล็ก รายการที่ 1",
+      "name_cn": "抽芯铆钉/铁铆钉 产品 1",
+      "price": 286,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-04-05-chou-xin-mao-ding-tie-mao-ding-2",
+      "slug": "01-04-05-chou-xin-mao-ding-tie-mao-ding-2",
+      "name_th": "หมุดย้ำ / หมุดเหล็ก รายการที่ 2",
+      "name_cn": "抽芯铆钉/铁铆钉 产品 2",
+      "price": 597,
+      "image": "/placeholder.png"
+    }
+  ]
+}

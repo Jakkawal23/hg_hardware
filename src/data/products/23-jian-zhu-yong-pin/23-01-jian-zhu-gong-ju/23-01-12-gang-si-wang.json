@@ -1,0 +1,25 @@
+{
+  "id": "23-01-12-gang-si-wang",
+  "main_category_slug": "23-jian-zhu-yong-pin",
+  "sub_category_slug": "23-01-jian-zhu-gong-ju",
+  "name_th": "ตาข่ายลวดเหล็ก",
+  "name_cn": "钢丝网",
+  "products": [
+    {
+      "id": "23-01-12-gang-si-wang-1",
+      "slug": "23-01-12-gang-si-wang-1",
+      "name_th": "ตาข่ายลวดเหล็ก รายการที่ 1",
+      "name_cn": "钢丝网 产品 1",
+      "price": 627,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "23-01-12-gang-si-wang-2",
+      "slug": "23-01-12-gang-si-wang-2",
+      "name_th": "ตาข่ายลวดเหล็ก รายการที่ 2",
+      "name_cn": "钢丝网 产品 2",
+      "price": 637,
+      "image": "/placeholder.png"
+    }
+  ]
+}

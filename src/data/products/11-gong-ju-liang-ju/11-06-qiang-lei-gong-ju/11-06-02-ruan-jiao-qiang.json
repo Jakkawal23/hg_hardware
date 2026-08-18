@@ -1,0 +1,25 @@
+{
+  "id": "11-06-02-ruan-jiao-qiang",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-06-qiang-lei-gong-ju",
+  "name_th": "ปืนยิงกาวอ่อน",
+  "name_cn": "软胶枪",
+  "products": [
+    {
+      "id": "11-06-02-ruan-jiao-qiang-1",
+      "slug": "11-06-02-ruan-jiao-qiang-1",
+      "name_th": "ปืนยิงกาวอ่อน รายการที่ 1",
+      "name_cn": "软胶枪 产品 1",
+      "price": 372,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-06-02-ruan-jiao-qiang-2",
+      "slug": "11-06-02-ruan-jiao-qiang-2",
+      "name_th": "ปืนยิงกาวอ่อน รายการที่ 2",
+      "name_cn": "软胶枪 产品 2",
+      "price": 408,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "01-12-01-bu-bu-jin",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-12-jian-zhu-pei-jian",
+  "name_th": "ข้อต่อรัดท่อ",
+  "name_cn": "步步紧",
+  "products": [
+    {
+      "id": "01-12-01-bu-bu-jin-1",
+      "slug": "01-12-01-bu-bu-jin-1",
+      "name_th": "ข้อต่อรัดท่อ รายการที่ 1",
+      "name_cn": "步步紧 产品 1",
+      "price": 204,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-12-01-bu-bu-jin-2",
+      "slug": "01-12-01-bu-bu-jin-2",
+      "name_th": "ข้อต่อรัดท่อ รายการที่ 2",
+      "name_cn": "步步紧 产品 2",
+      "price": 912,
+      "image": "/placeholder.png"
+    }
+  ]
+}

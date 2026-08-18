@@ -1,0 +1,25 @@
+{
+  "id": "01-07-02-kai-hua-hua-lei",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-07-suo-ju",
+  "name_th": "หัวสลิงบาน",
+  "name_cn": "开花花蕾",
+  "products": [
+    {
+      "id": "01-07-02-kai-hua-hua-lei-1",
+      "slug": "01-07-02-kai-hua-hua-lei-1",
+      "name_th": "หัวสลิงบาน รายการที่ 1",
+      "name_cn": "开花花蕾 产品 1",
+      "price": 909,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-07-02-kai-hua-hua-lei-2",
+      "slug": "01-07-02-kai-hua-hua-lei-2",
+      "name_th": "หัวสลิงบาน รายการที่ 2",
+      "name_cn": "开花花蕾 产品 2",
+      "price": 227,
+      "image": "/placeholder.png"
+    }
+  ]
+}

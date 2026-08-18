@@ -1,0 +1,25 @@
+{
+  "id": "11-13-04-san-quan-gang-juan-chi",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-13-gang-juan-chi",
+  "name_th": "ตลับเมตรสามมง",
+  "name_cn": "三圆钢卷尺",
+  "products": [
+    {
+      "id": "11-13-04-san-quan-gang-juan-chi-1",
+      "slug": "11-13-04-san-quan-gang-juan-chi-1",
+      "name_th": "ตลับเมตรสามมง รายการที่ 1",
+      "name_cn": "三圆钢卷尺 产品 1",
+      "price": 907,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-13-04-san-quan-gang-juan-chi-2",
+      "slug": "11-13-04-san-quan-gang-juan-chi-2",
+      "name_th": "ตลับเมตรสามมง รายการที่ 2",
+      "name_cn": "三圆钢卷尺 产品 2",
+      "price": 708,
+      "image": "/placeholder.png"
+    }
+  ]
+}

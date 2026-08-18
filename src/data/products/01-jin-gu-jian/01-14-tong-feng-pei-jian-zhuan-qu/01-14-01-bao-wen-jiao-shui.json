@@ -1,0 +1,25 @@
+{
+  "id": "01-14-01-bao-wen-jiao-shui",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-14-tong-feng-pei-jian-zhuan-qu",
+  "name_th": "กาวฉนวน",
+  "name_cn": "保温胶水",
+  "products": [
+    {
+      "id": "01-14-01-bao-wen-jiao-shui-1",
+      "slug": "01-14-01-bao-wen-jiao-shui-1",
+      "name_th": "กาวฉนวน รายการที่ 1",
+      "name_cn": "保温胶水 产品 1",
+      "price": 355,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-14-01-bao-wen-jiao-shui-2",
+      "slug": "01-14-01-bao-wen-jiao-shui-2",
+      "name_th": "กาวฉนวน รายการที่ 2",
+      "name_cn": "保温胶水 产品 2",
+      "price": 788,
+      "image": "/placeholder.png"
+    }
+  ]
+}

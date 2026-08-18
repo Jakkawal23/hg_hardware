@@ -1,0 +1,25 @@
+{
+  "id": "12-06-02-ka-chi",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-06-ce-liang-gong-ju",
+  "name_th": "เวอร์เนียคาลิปเปอร์",
+  "name_cn": "卡尺",
+  "products": [
+    {
+      "id": "12-06-02-ka-chi-1",
+      "slug": "12-06-02-ka-chi-1",
+      "name_th": "เวอร์เนียคาลิปเปอร์ รายการที่ 1",
+      "name_cn": "卡尺 产品 1",
+      "price": 832,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-06-02-ka-chi-2",
+      "slug": "12-06-02-ka-chi-2",
+      "name_th": "เวอร์เนียคาลิปเปอร์ รายการที่ 2",
+      "name_cn": "卡尺 产品 2",
+      "price": 988,
+      "image": "/placeholder.png"
+    }
+  ]
+}

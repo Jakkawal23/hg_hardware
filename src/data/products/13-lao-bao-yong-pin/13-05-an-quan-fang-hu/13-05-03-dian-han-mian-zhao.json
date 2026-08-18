@@ -1,0 +1,25 @@
+{
+  "id": "13-05-03-dian-han-mian-zhao",
+  "main_category_slug": "13-lao-bao-yong-pin",
+  "sub_category_slug": "13-05-an-quan-fang-hu",
+  "name_th": "หน้ากากเชื่อม",
+  "name_cn": "电焊面罩",
+  "products": [
+    {
+      "id": "13-05-03-dian-han-mian-zhao-1",
+      "slug": "13-05-03-dian-han-mian-zhao-1",
+      "name_th": "หน้ากากเชื่อม รายการที่ 1",
+      "name_cn": "电焊面罩 产品 1",
+      "price": 628,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "13-05-03-dian-han-mian-zhao-2",
+      "slug": "13-05-03-dian-han-mian-zhao-2",
+      "name_th": "หน้ากากเชื่อม รายการที่ 2",
+      "name_cn": "电焊面罩 产品 2",
+      "price": 383,
+      "image": "/placeholder.png"
+    }
+  ]
+}

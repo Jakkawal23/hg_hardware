@@ -1,0 +1,25 @@
+{
+  "id": "15-06-06-mi-feng-jiao",
+  "main_category_slug": "15-hua-gong-jiao-zhi",
+  "sub_category_slug": "15-06-jiao-zhi-lei",
+  "name_th": "กาวซีลกันรั่ว",
+  "name_cn": "密封胶",
+  "products": [
+    {
+      "id": "15-06-06-mi-feng-jiao-1",
+      "slug": "15-06-06-mi-feng-jiao-1",
+      "name_th": "กาวซีลกันรั่ว รายการที่ 1",
+      "name_cn": "密封胶 产品 1",
+      "price": 624,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "15-06-06-mi-feng-jiao-2",
+      "slug": "15-06-06-mi-feng-jiao-2",
+      "name_th": "กาวซีลกันรั่ว รายการที่ 2",
+      "name_cn": "密封胶 产品 2",
+      "price": 874,
+      "image": "/placeholder.png"
+    }
+  ]
+}

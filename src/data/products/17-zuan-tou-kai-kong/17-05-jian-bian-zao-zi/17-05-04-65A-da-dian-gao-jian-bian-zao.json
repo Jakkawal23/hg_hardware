@@ -1,0 +1,25 @@
+{
+  "id": "17-05-04-65A-da-dian-gao-jian-bian-zao",
+  "main_category_slug": "17-zuan-tou-kai-kong",
+  "sub_category_slug": "17-05-jian-bian-zao-zi",
+  "name_th": "สิ่วปลายแหลมสำหรับสกัดไฟฟ้า 65A",
+  "name_cn": "65A大电镐尖扁凿",
+  "products": [
+    {
+      "id": "17-05-04-65A-da-dian-gao-jian-bian-zao-1",
+      "slug": "17-05-04-65A-da-dian-gao-jian-bian-zao-1",
+      "name_th": "สิ่วปลายแหลมสำหรับสกัดไฟฟ้า 65A รายการที่ 1",
+      "name_cn": "65A大电镐尖扁凿 产品 1",
+      "price": 953,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "17-05-04-65A-da-dian-gao-jian-bian-zao-2",
+      "slug": "17-05-04-65A-da-dian-gao-jian-bian-zao-2",
+      "name_th": "สิ่วปลายแหลมสำหรับสกัดไฟฟ้า 65A รายการที่ 2",
+      "name_cn": "65A大电镐尖扁凿 产品 2",
+      "price": 304,
+      "image": "/placeholder.png"
+    }
+  ]
+}

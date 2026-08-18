@@ -1,0 +1,25 @@
+{
+  "id": "22-02-02-fang-xing-mo-zu",
+  "main_category_slug": "22-deng-ju-dian-zi",
+  "sub_category_slug": "22-02-mo-zu",
+  "name_th": "มอดูลสี่เหลี่ยม",
+  "name_cn": "方形模组",
+  "products": [
+    {
+      "id": "22-02-02-fang-xing-mo-zu-1",
+      "slug": "22-02-02-fang-xing-mo-zu-1",
+      "name_th": "มอดูลสี่เหลี่ยม รายการที่ 1",
+      "name_cn": "方形模组 产品 1",
+      "price": 159,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "22-02-02-fang-xing-mo-zu-2",
+      "slug": "22-02-02-fang-xing-mo-zu-2",
+      "name_th": "มอดูลสี่เหลี่ยม รายการที่ 2",
+      "name_cn": "方形模组 产品 2",
+      "price": 412,
+      "image": "/placeholder.png"
+    }
+  ]
+}

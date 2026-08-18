@@ -1,0 +1,25 @@
+{
+  "id": "11-09-02-bo-li-dao-dao-lun",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-09-jian-lei-dao-ju-lei",
+  "name_th": "มีดตัดกระจก/ล้อตัด",
+  "name_cn": "玻璃刀、刀轮",
+  "products": [
+    {
+      "id": "11-09-02-bo-li-dao-dao-lun-1",
+      "slug": "11-09-02-bo-li-dao-dao-lun-1",
+      "name_th": "มีดตัดกระจก/ล้อตัด รายการที่ 1",
+      "name_cn": "玻璃刀、刀轮 产品 1",
+      "price": 795,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-09-02-bo-li-dao-dao-lun-2",
+      "slug": "11-09-02-bo-li-dao-dao-lun-2",
+      "name_th": "มีดตัดกระจก/ล้อตัด รายการที่ 2",
+      "name_cn": "玻璃刀、刀轮 产品 2",
+      "price": 478,
+      "image": "/placeholder.png"
+    }
+  ]
+}

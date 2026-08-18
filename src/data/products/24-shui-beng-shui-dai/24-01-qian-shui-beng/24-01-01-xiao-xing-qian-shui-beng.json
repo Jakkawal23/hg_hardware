@@ -1,0 +1,25 @@
+{
+  "id": "24-01-01-xiao-xing-qian-shui-beng",
+  "main_category_slug": "24-shui-beng-shui-dai",
+  "sub_category_slug": "24-01-qian-shui-beng",
+  "name_th": "ปั๊มแช่น้ำขนาดเล็ก",
+  "name_cn": "小型潜水泵",
+  "products": [
+    {
+      "id": "24-01-01-xiao-xing-qian-shui-beng-1",
+      "slug": "24-01-01-xiao-xing-qian-shui-beng-1",
+      "name_th": "ปั๊มแช่น้ำขนาดเล็ก รายการที่ 1",
+      "name_cn": "小型潜水泵 产品 1",
+      "price": 748,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "24-01-01-xiao-xing-qian-shui-beng-2",
+      "slug": "24-01-01-xiao-xing-qian-shui-beng-2",
+      "name_th": "ปั๊มแช่น้ำขนาดเล็ก รายการที่ 2",
+      "name_cn": "小型潜水泵 产品 2",
+      "price": 1004,
+      "image": "/placeholder.png"
+    }
+  ]
+}

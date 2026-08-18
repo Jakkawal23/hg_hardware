@@ -1,0 +1,25 @@
+{
+  "id": "23-01-02-yang-gao-yang-gao-bing",
+  "main_category_slug": "23-jian-zhu-yong-pin",
+  "sub_category_slug": "23-01-jian-zhu-gong-ju",
+  "name_th": "จอบเหล็ก/ด้ามจอบ",
+  "name_cn": "洋镐/洋镐柄",
+  "products": [
+    {
+      "id": "23-01-02-yang-gao-yang-gao-bing-1",
+      "slug": "23-01-02-yang-gao-yang-gao-bing-1",
+      "name_th": "จอบเหล็ก/ด้ามจอบ รายการที่ 1",
+      "name_cn": "洋镐/洋镐柄 产品 1",
+      "price": 1036,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "23-01-02-yang-gao-yang-gao-bing-2",
+      "slug": "23-01-02-yang-gao-yang-gao-bing-2",
+      "name_th": "จอบเหล็ก/ด้ามจอบ รายการที่ 2",
+      "name_cn": "洋镐/洋镐柄 产品 2",
+      "price": 729,
+      "image": "/placeholder.png"
+    }
+  ]
+}

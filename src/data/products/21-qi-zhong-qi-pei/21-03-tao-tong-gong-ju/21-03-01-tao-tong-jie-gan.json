@@ -1,0 +1,25 @@
+{
+  "id": "21-03-01-tao-tong-jie-gan",
+  "main_category_slug": "21-qi-zhong-qi-pei",
+  "sub_category_slug": "21-03-tao-tong-gong-ju",
+  "name_th": "ด้ามต่อบล็อก",
+  "name_cn": "套筒接杆",
+  "products": [
+    {
+      "id": "21-03-01-tao-tong-jie-gan-1",
+      "slug": "21-03-01-tao-tong-jie-gan-1",
+      "name_th": "ด้ามต่อบล็อก รายการที่ 1",
+      "name_cn": "套筒接杆 产品 1",
+      "price": 999,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "21-03-01-tao-tong-jie-gan-2",
+      "slug": "21-03-01-tao-tong-jie-gan-2",
+      "name_th": "ด้ามต่อบล็อก รายการที่ 2",
+      "name_cn": "套筒接杆 产品 2",
+      "price": 902,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "11-13-03-chang-xiao-kuan-juan-chi",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-13-gang-juan-chi",
+  "name_th": "ตลับเมตรรุ่นขายดี",
+  "name_cn": "畅销款钢卷尺",
+  "products": [
+    {
+      "id": "11-13-03-chang-xiao-kuan-juan-chi-1",
+      "slug": "11-13-03-chang-xiao-kuan-juan-chi-1",
+      "name_th": "ตลับเมตรรุ่นขายดี รายการที่ 1",
+      "name_cn": "畅销款钢卷尺 产品 1",
+      "price": 901,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-13-03-chang-xiao-kuan-juan-chi-2",
+      "slug": "11-13-03-chang-xiao-kuan-juan-chi-2",
+      "name_th": "ตลับเมตรรุ่นขายดี รายการที่ 2",
+      "name_cn": "畅销款钢卷尺 产品 2",
+      "price": 814,
+      "image": "/placeholder.png"
+    }
+  ]
+}

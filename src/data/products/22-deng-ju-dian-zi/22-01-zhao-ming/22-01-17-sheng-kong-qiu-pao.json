@@ -1,0 +1,25 @@
+{
+  "id": "22-01-17-sheng-kong-qiu-pao",
+  "main_category_slug": "22-deng-ju-dian-zi",
+  "sub_category_slug": "22-01-zhao-ming",
+  "name_th": "หลอดไฟเซนเซอร์เสียง",
+  "name_cn": "声控球泡",
+  "products": [
+    {
+      "id": "22-01-17-sheng-kong-qiu-pao-1",
+      "slug": "22-01-17-sheng-kong-qiu-pao-1",
+      "name_th": "หลอดไฟเซนเซอร์เสียง รายการที่ 1",
+      "name_cn": "声控球泡 产品 1",
+      "price": 587,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "22-01-17-sheng-kong-qiu-pao-2",
+      "slug": "22-01-17-sheng-kong-qiu-pao-2",
+      "name_th": "หลอดไฟเซนเซอร์เสียง รายการที่ 2",
+      "name_cn": "声控球泡 产品 2",
+      "price": 205,
+      "image": "/placeholder.png"
+    }
+  ]
+}

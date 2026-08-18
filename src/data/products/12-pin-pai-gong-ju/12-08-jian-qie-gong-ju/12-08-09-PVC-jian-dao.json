@@ -1,0 +1,25 @@
+{
+  "id": "12-08-09-PVC-jian-dao",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-08-jian-qie-gong-ju",
+  "name_th": "กรรไกรตัดท่อ PVC",
+  "name_cn": "PVC剪刀",
+  "products": [
+    {
+      "id": "12-08-09-PVC-jian-dao-1",
+      "slug": "12-08-09-PVC-jian-dao-1",
+      "name_th": "กรรไกรตัดท่อ PVC รายการที่ 1",
+      "name_cn": "PVC剪刀 产品 1",
+      "price": 1079,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-08-09-PVC-jian-dao-2",
+      "slug": "12-08-09-PVC-jian-dao-2",
+      "name_th": "กรรไกรตัดท่อ PVC รายการที่ 2",
+      "name_cn": "PVC剪刀 产品 2",
+      "price": 102,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "08-01-05-zi-xing-che-suo",
+  "main_category_slug": "08-zhuang-huang-wu-jin",
+  "sub_category_slug": "08-01-suo-ju",
+  "name_th": "กุญแจล็อคจักรยาน",
+  "name_cn": "自行车锁",
+  "products": [
+    {
+      "id": "08-01-05-zi-xing-che-suo-1",
+      "slug": "08-01-05-zi-xing-che-suo-1",
+      "name_th": "กุญแจล็อคจักรยาน รายการที่ 1",
+      "name_cn": "自行车锁 产品 1",
+      "price": 990,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "08-01-05-zi-xing-che-suo-2",
+      "slug": "08-01-05-zi-xing-che-suo-2",
+      "name_th": "กุญแจล็อคจักรยาน รายการที่ 2",
+      "name_cn": "自行车锁 产品 2",
+      "price": 509,
+      "image": "/placeholder.png"
+    }
+  ]
+}

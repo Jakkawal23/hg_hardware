@@ -1,0 +1,25 @@
+{
+  "id": "01-12-06-di-jiao-si",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-12-jian-zhu-pei-jian",
+  "name_th": "สกรูฐาน",
+  "name_cn": "地脚丝",
+  "products": [
+    {
+      "id": "01-12-06-di-jiao-si-1",
+      "slug": "01-12-06-di-jiao-si-1",
+      "name_th": "สกรูฐาน รายการที่ 1",
+      "name_cn": "地脚丝 产品 1",
+      "price": 846,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-12-06-di-jiao-si-2",
+      "slug": "01-12-06-di-jiao-si-2",
+      "name_th": "สกรูฐาน รายการที่ 2",
+      "name_cn": "地脚丝 产品 2",
+      "price": 786,
+      "image": "/placeholder.png"
+    }
+  ]
+}

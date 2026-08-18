@@ -1,0 +1,25 @@
+{
+  "id": "12-12-03-da-cao-jian",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-12-yuan-lin-gong-ju",
+  "name_th": "กรรไกรตัดหญ้าใหญ่",
+  "name_cn": "大草剪",
+  "products": [
+    {
+      "id": "12-12-03-da-cao-jian-1",
+      "slug": "12-12-03-da-cao-jian-1",
+      "name_th": "กรรไกรตัดหญ้าใหญ่ รายการที่ 1",
+      "name_cn": "大草剪 产品 1",
+      "price": 239,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-12-03-da-cao-jian-2",
+      "slug": "12-12-03-da-cao-jian-2",
+      "name_th": "กรรไกรตัดหญ้าใหญ่ รายการที่ 2",
+      "name_cn": "大草剪 产品 2",
+      "price": 1010,
+      "image": "/placeholder.png"
+    }
+  ]
+}

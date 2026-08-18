@@ -1,0 +1,25 @@
+{
+  "id": "13-05-18-bei-bei-jia-ding-he",
+  "main_category_slug": "13-lao-bao-yong-pin",
+  "sub_category_slug": "13-05-an-quan-fang-hu",
+  "name_th": "กล่องอุปกรณ์เข็มขัดพยุงหลัง",
+  "name_cn": "背背佳钉盒",
+  "products": [
+    {
+      "id": "13-05-18-bei-bei-jia-ding-he-1",
+      "slug": "13-05-18-bei-bei-jia-ding-he-1",
+      "name_th": "กล่องอุปกรณ์เข็มขัดพยุงหลัง รายการที่ 1",
+      "name_cn": "背背佳钉盒 产品 1",
+      "price": 945,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "13-05-18-bei-bei-jia-ding-he-2",
+      "slug": "13-05-18-bei-bei-jia-ding-he-2",
+      "name_th": "กล่องอุปกรณ์เข็มขัดพยุงหลัง รายการที่ 2",
+      "name_cn": "背背佳钉盒 产品 2",
+      "price": 656,
+      "image": "/placeholder.png"
+    }
+  ]
+}

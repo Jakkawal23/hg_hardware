@@ -1,0 +1,25 @@
+{
+  "id": "19-06-10-gang-jiao-jia",
+  "main_category_slug": "19-shui-nuan-wei-yu",
+  "sub_category_slug": "19-06-chu-wei-zhuan-qu",
+  "name_th": "ขาตั้งเหล็กมุม",
+  "name_cn": "钢角架",
+  "products": [
+    {
+      "id": "19-06-10-gang-jiao-jia-1",
+      "slug": "19-06-10-gang-jiao-jia-1",
+      "name_th": "ขาตั้งเหล็กมุม รายการที่ 1",
+      "name_cn": "钢角架 产品 1",
+      "price": 1088,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "19-06-10-gang-jiao-jia-2",
+      "slug": "19-06-10-gang-jiao-jia-2",
+      "name_th": "ขาตั้งเหล็กมุม รายการที่ 2",
+      "name_cn": "钢角架 产品 2",
+      "price": 1009,
+      "image": "/placeholder.png"
+    }
+  ]
+}

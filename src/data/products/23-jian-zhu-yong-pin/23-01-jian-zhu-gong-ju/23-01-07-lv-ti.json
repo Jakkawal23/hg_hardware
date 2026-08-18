@@ -1,0 +1,25 @@
+{
+  "id": "23-01-07-lv-ti",
+  "main_category_slug": "23-jian-zhu-yong-pin",
+  "sub_category_slug": "23-01-jian-zhu-gong-ju",
+  "name_th": "บันไดอลูมิเนียม",
+  "name_cn": "铝梯",
+  "products": [
+    {
+      "id": "23-01-07-lv-ti-1",
+      "slug": "23-01-07-lv-ti-1",
+      "name_th": "บันไดอลูมิเนียม รายการที่ 1",
+      "name_cn": "铝梯 产品 1",
+      "price": 167,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "23-01-07-lv-ti-2",
+      "slug": "23-01-07-lv-ti-2",
+      "name_th": "บันไดอลูมิเนียม รายการที่ 2",
+      "name_cn": "铝梯 产品 2",
+      "price": 877,
+      "image": "/placeholder.png"
+    }
+  ]
+}

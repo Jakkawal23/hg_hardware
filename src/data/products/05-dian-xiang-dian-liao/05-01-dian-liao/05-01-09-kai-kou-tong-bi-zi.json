@@ -1,0 +1,25 @@
+{
+  "id": "05-01-09-kai-kou-tong-bi-zi",
+  "main_category_slug": "05-dian-xiang-dian-liao",
+  "sub_category_slug": "05-01-dian-liao",
+  "name_th": "หางปลาทองแดงแบบเปิด",
+  "name_cn": "开口铜鼻子",
+  "products": [
+    {
+      "id": "05-01-09-kai-kou-tong-bi-zi-1",
+      "slug": "05-01-09-kai-kou-tong-bi-zi-1",
+      "name_th": "หางปลาทองแดงแบบเปิด รายการที่ 1",
+      "name_cn": "开口铜鼻子 产品 1",
+      "price": 969,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "05-01-09-kai-kou-tong-bi-zi-2",
+      "slug": "05-01-09-kai-kou-tong-bi-zi-2",
+      "name_th": "หางปลาทองแดงแบบเปิด รายการที่ 2",
+      "name_cn": "开口铜鼻子 产品 2",
+      "price": 1025,
+      "image": "/placeholder.png"
+    }
+  ]
+}

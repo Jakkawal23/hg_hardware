@@ -1,0 +1,25 @@
+{
+  "id": "23-04-02-zhong-xing-jiao-lun",
+  "main_category_slug": "23-jian-zhu-yong-pin",
+  "sub_category_slug": "23-04-jiao-lun-xi-lie",
+  "name_th": "ล้อเลื่อนงานหนัก",
+  "name_cn": "重型脚轮",
+  "products": [
+    {
+      "id": "23-04-02-zhong-xing-jiao-lun-1",
+      "slug": "23-04-02-zhong-xing-jiao-lun-1",
+      "name_th": "ล้อเลื่อนงานหนัก รายการที่ 1",
+      "name_cn": "重型脚轮 产品 1",
+      "price": 429,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "23-04-02-zhong-xing-jiao-lun-2",
+      "slug": "23-04-02-zhong-xing-jiao-lun-2",
+      "name_th": "ล้อเลื่อนงานหนัก รายการที่ 2",
+      "name_cn": "重型脚轮 产品 2",
+      "price": 740,
+      "image": "/placeholder.png"
+    }
+  ]
+}

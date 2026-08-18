@@ -1,0 +1,25 @@
+{
+  "id": "12-20-31-leng-ya-qian",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-20-qian-zi-lei",
+  "name_th": "คีมย้ำสายไฟแบบเย็น",
+  "name_cn": "冷压钳",
+  "products": [
+    {
+      "id": "12-20-31-leng-ya-qian-1",
+      "slug": "12-20-31-leng-ya-qian-1",
+      "name_th": "คีมย้ำสายไฟแบบเย็น รายการที่ 1",
+      "name_cn": "冷压钳 产品 1",
+      "price": 483,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-20-31-leng-ya-qian-2",
+      "slug": "12-20-31-leng-ya-qian-2",
+      "name_th": "คีมย้ำสายไฟแบบเย็น รายการที่ 2",
+      "name_cn": "冷压钳 产品 2",
+      "price": 1071,
+      "image": "/placeholder.png"
+    }
+  ]
+}

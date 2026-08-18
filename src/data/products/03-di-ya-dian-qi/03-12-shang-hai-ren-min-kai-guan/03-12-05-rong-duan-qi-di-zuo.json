@@ -1,0 +1,25 @@
+{
+  "id": "03-12-05-rong-duan-qi-di-zuo",
+  "main_category_slug": "03-di-ya-dian-qi",
+  "sub_category_slug": "03-12-shang-hai-ren-min-kai-guan",
+  "name_th": "ฐานฟิวส์",
+  "name_cn": "熔断器底座",
+  "products": [
+    {
+      "id": "03-12-05-rong-duan-qi-di-zuo-1",
+      "slug": "03-12-05-rong-duan-qi-di-zuo-1",
+      "name_th": "ฐานฟิวส์ รายการที่ 1",
+      "name_cn": "熔断器底座 产品 1",
+      "price": 221,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "03-12-05-rong-duan-qi-di-zuo-2",
+      "slug": "03-12-05-rong-duan-qi-di-zuo-2",
+      "name_th": "ฐานฟิวส์ รายการที่ 2",
+      "name_cn": "熔断器底座 产品 2",
+      "price": 900,
+      "image": "/placeholder.png"
+    }
+  ]
+}

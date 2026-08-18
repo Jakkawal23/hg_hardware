@@ -1,0 +1,25 @@
+{
+  "id": "26-01-01-qi-ta-lei",
+  "main_category_slug": "26-qi-ta-lei",
+  "sub_category_slug": "26-01-qi-ta-lei",
+  "name_th": "อื่นๆ",
+  "name_cn": "其他类",
+  "products": [
+    {
+      "id": "26-01-01-qi-ta-lei-1",
+      "slug": "26-01-01-qi-ta-lei-1",
+      "name_th": "อื่นๆ รายการที่ 1",
+      "name_cn": "其他类 产品 1",
+      "price": 100,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "26-01-01-qi-ta-lei-2",
+      "slug": "26-01-01-qi-ta-lei-2",
+      "name_th": "อื่นๆ รายการที่ 2",
+      "name_cn": "其他类 产品 2",
+      "price": 904,
+      "image": "/placeholder.png"
+    }
+  ]
+}

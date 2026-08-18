@@ -1,0 +1,25 @@
+{
+  "id": "23-03-07-lao-dong-che-pei-jian",
+  "main_category_slug": "23-jian-zhu-yong-pin",
+  "sub_category_slug": "23-03-jian-zhu-che-jia-lei",
+  "name_th": "อะไหล่รถเข็นงาน",
+  "name_cn": "劳动车配件",
+  "products": [
+    {
+      "id": "23-03-07-lao-dong-che-pei-jian-1",
+      "slug": "23-03-07-lao-dong-che-pei-jian-1",
+      "name_th": "อะไหล่รถเข็นงาน รายการที่ 1",
+      "name_cn": "劳动车配件 产品 1",
+      "price": 343,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "23-03-07-lao-dong-che-pei-jian-2",
+      "slug": "23-03-07-lao-dong-che-pei-jian-2",
+      "name_th": "อะไหล่รถเข็นงาน รายการที่ 2",
+      "name_cn": "劳动车配件 产品 2",
+      "price": 1065,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "11-09-07-cao-jian-shu-zhi-jian",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-09-jian-lei-dao-ju-lei",
+  "name_th": "กรรไกรตัดหญ้า/กิ่งไม้",
+  "name_cn": "草剪/树枝剪",
+  "products": [
+    {
+      "id": "11-09-07-cao-jian-shu-zhi-jian-1",
+      "slug": "11-09-07-cao-jian-shu-zhi-jian-1",
+      "name_th": "กรรไกรตัดหญ้า/กิ่งไม้ รายการที่ 1",
+      "name_cn": "草剪/树枝剪 产品 1",
+      "price": 539,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-09-07-cao-jian-shu-zhi-jian-2",
+      "slug": "11-09-07-cao-jian-shu-zhi-jian-2",
+      "name_th": "กรรไกรตัดหญ้า/กิ่งไม้ รายการที่ 2",
+      "name_cn": "草剪/树枝剪 产品 2",
+      "price": 167,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "05-01-11-shui-jing-jie-tou",
+  "main_category_slug": "05-dian-xiang-dian-liao",
+  "sub_category_slug": "05-01-dian-liao",
+  "name_th": "ข้อต่อคริสตัล (RJ45)",
+  "name_cn": "水晶接头",
+  "products": [
+    {
+      "id": "05-01-11-shui-jing-jie-tou-1",
+      "slug": "05-01-11-shui-jing-jie-tou-1",
+      "name_th": "ข้อต่อคริสตัล (RJ45) รายการที่ 1",
+      "name_cn": "水晶接头 产品 1",
+      "price": 130,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "05-01-11-shui-jing-jie-tou-2",
+      "slug": "05-01-11-shui-jing-jie-tou-2",
+      "name_th": "ข้อต่อคริสตัล (RJ45) รายการที่ 2",
+      "name_cn": "水晶接头 产品 2",
+      "price": 774,
+      "image": "/placeholder.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "12-07-24-tao-ci-pian",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-07-ren-ju-qie-ge",
+  "name_th": "ใบตัดเซรามิก",
+  "name_cn": "陶瓷片",
+  "products": [
+    {
+      "id": "12-07-24-tao-ci-pian-1",
+      "slug": "12-07-24-tao-ci-pian-1",
+      "name_th": "ใบตัดเซรามิก รายการที่ 1",
+      "name_cn": "陶瓷片 产品 1",
+      "price": 656,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "12-07-24-tao-ci-pian-2",
+      "slug": "12-07-24-tao-ci-pian-2",
+      "name_th": "ใบตัดเซรามิก รายการที่ 2",
+      "name_cn": "陶瓷片 产品 2",
+      "price": 931,
+      "image": "/placeholder.png"
+    }
+  ]
+}

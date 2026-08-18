@@ -1,0 +1,25 @@
+{
+  "id": "01-14-02-kang-jun-tong-feng-pei-jian",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-14-tong-feng-pei-jian-zhuan-qu",
+  "name_th": "อุปกรณ์ต้านเชื้อ / ระบายอากาศ",
+  "name_cn": "抗菌/通风保温钉",
+  "products": [
+    {
+      "id": "01-14-02-kang-jun-tong-feng-pei-jian-1",
+      "slug": "01-14-02-kang-jun-tong-feng-pei-jian-1",
+      "name_th": "อุปกรณ์ต้านเชื้อ / ระบายอากาศ รายการที่ 1",
+      "name_cn": "抗菌/通风保温钉 产品 1",
+      "price": 789,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "01-14-02-kang-jun-tong-feng-pei-jian-2",
+      "slug": "01-14-02-kang-jun-tong-feng-pei-jian-2",
+      "name_th": "อุปกรณ์ต้านเชื้อ / ระบายอากาศ รายการที่ 2",
+      "name_cn": "抗菌/通风保温钉 产品 2",
+      "price": 973,
+      "image": "/placeholder.png"
+    }
+  ]
+}

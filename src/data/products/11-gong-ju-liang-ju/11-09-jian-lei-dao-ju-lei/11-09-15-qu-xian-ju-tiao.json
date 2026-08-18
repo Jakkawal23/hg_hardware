@@ -1,0 +1,25 @@
+{
+  "id": "11-09-15-qu-xian-ju-tiao",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-09-jian-lei-dao-ju-lei",
+  "name_th": "ใบเลื่อยจิ๊กซอ",
+  "name_cn": "曲线锯条",
+  "products": [
+    {
+      "id": "11-09-15-qu-xian-ju-tiao-1",
+      "slug": "11-09-15-qu-xian-ju-tiao-1",
+      "name_th": "ใบเลื่อยจิ๊กซอ รายการที่ 1",
+      "name_cn": "曲线锯条 产品 1",
+      "price": 652,
+      "image": "/placeholder.png"
+    },
+    {
+      "id": "11-09-15-qu-xian-ju-tiao-2",
+      "slug": "11-09-15-qu-xian-ju-tiao-2",
+      "name_th": "ใบเลื่อยจิ๊กซอ รายการที่ 2",
+      "name_cn": "曲线锯条 产品 2",
+      "price": 267,
+      "image": "/placeholder.png"
+    }
+  ]
+}
