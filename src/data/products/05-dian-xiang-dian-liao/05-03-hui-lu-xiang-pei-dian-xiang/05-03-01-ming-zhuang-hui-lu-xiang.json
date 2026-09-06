@@ -6,20 +6,36 @@
   "name_cn": "明装回路箱",
   "products": [
     {
-      "id": "05-03-01-ming-zhuang-hui-lu-xiang-1",
-      "slug": "05-03-01-ming-zhuang-hui-lu-xiang-1",
-      "name_th": "ตู้ไฟย่อยแบบลอย รายการที่ 1",
-      "name_cn": "明装回路箱 产品 1",
-      "price": 609,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "05-03-01-ming-zhuang-hui-lu-xiang-2",
-      "slug": "05-03-01-ming-zhuang-hui-lu-xiang-2",
-      "name_th": "ตู้ไฟย่อยแบบลอย รายการที่ 2",
-      "name_cn": "明装回路箱 产品 2",
-      "price": 115,
-      "image": "/placeholder.png"
+      "id": "05-03-01-015",
+      "slug": "05-03-01-015",
+      "code": "05.03.01.015",
+      "sku": "HLX-JXF-3025-01",
+      "name_th": "ตู้ไฟควบคุม JXF-K3-3025 (แบบหนา)",
+      "name_cn": "加厚非标箱/回路箱 JXF-K3-3025/15M/J",
+      "price": 306,
+      "image": "/placeholder.svg",
+      "name_th_full": "กล่อง/กล่องวงจรแบบหนาพิเศษ รุ่นไม่มาตรฐาน JXF-K3-3025/15M/J",
+      "name_cn_full": "加厚非标箱/回路箱 JXF-K3-3025/15M/J",
+      "product_name_raw": "加厚非标箱/回路箱 JXF-K3-3025/15M/J ตู้คอนซูมเมอร์",
+      "model": null,
+      "unit": "个/ชิ้น",
+      "storage_location": null,
+      "qty_sub_unit": "39个/ชิ้น",
+      "qty_main_unit": 39,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 255,
+      "wholesale_price_2": null,
+      "last_import_date": "2025-05-16",
+      "category_cn": "回路箱",
+      "category_code": "HLX",
+      "material_cn": "加厚非标",
+      "material_code": "JXF",
+      "spec_number": "3025-01",
+      "row_no": 132,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

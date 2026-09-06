@@ -6,20 +6,36 @@
   "name_cn": "快速扳手",
   "products": [
     {
-      "id": "21-03-02-kuai-su-ban-shou-1",
-      "slug": "21-03-02-kuai-su-ban-shou-1",
-      "name_th": "ประแจไว รายการที่ 1",
-      "name_cn": "快速扳手 产品 1",
-      "price": 424,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "21-03-02-kuai-su-ban-shou-2",
-      "slug": "21-03-02-kuai-su-ban-shou-2",
-      "name_th": "ประแจไว รายการที่ 2",
-      "name_cn": "快速扳手 产品 2",
-      "price": 793,
-      "image": "/placeholder.png"
+      "id": "21-03-02-001",
+      "slug": "21-03-02-001",
+      "code": "21.03.02.001",
+      "sku": "KSBS-GD-01",
+      "name_th": "ด้ามฟรี/ด้ามก๊อกแก็ก เกรดพรีเมียม",
+      "name_cn": "快速扳手 高档",
+      "price": 96,
+      "image": "/placeholder.svg",
+      "name_th_full": "ประแจขันเร็วคุณภาพสูง",
+      "name_cn_full": "快速扳手 高档",
+      "product_name_raw": "快速扳手 高档",
+      "model": null,
+      "unit": "把",
+      "storage_location": "B7-2-3",
+      "qty_sub_unit": "5把",
+      "qty_main_unit": 5,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 80,
+      "wholesale_price_2": null,
+      "last_import_date": "2026-06-03",
+      "category_cn": "快速扳手",
+      "category_code": "KSBS",
+      "material_cn": "高档",
+      "material_code": "GD",
+      "spec_number": "01",
+      "row_no": 151,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

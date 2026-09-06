@@ -6,20 +6,36 @@
   "name_cn": "铜水表",
   "products": [
     {
-      "id": "19-07-01-tong-shui-biao-1",
-      "slug": "19-07-01-tong-shui-biao-1",
-      "name_th": "มาตรวัดน้ำทองแดง รายการที่ 1",
-      "name_cn": "铜水表 产品 1",
-      "price": 244,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "19-07-01-tong-shui-biao-2",
-      "slug": "19-07-01-tong-shui-biao-2",
-      "name_th": "มาตรวัดน้ำทองแดง รายการที่ 2",
-      "name_cn": "铜水表 产品 2",
-      "price": 103,
-      "image": "/placeholder.png"
+      "id": "19-07-01-021",
+      "slug": "19-07-01-021",
+      "code": "19.07.01.021",
+      "sku": "SB-QT-6-01",
+      "name_th": "มาตรวัดน้ำ/มิเตอร์น้ำทองเหลืองแท้ ขนาด 6 หุน Jinliwang",
+      "name_cn": "金力王6分全铜水表",
+      "price": 372,
+      "image": "/placeholder.svg",
+      "name_th_full": "มิเตอร์น้ำทองแดง 6 จุด Jinliwang",
+      "name_cn_full": "金力王6分全铜水表",
+      "product_name_raw": "金力王6分全铜水表",
+      "model": "DN20-JLW090200",
+      "unit": "个",
+      "storage_location": null,
+      "qty_sub_unit": "4个",
+      "qty_main_unit": 4,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 310,
+      "wholesale_price_2": null,
+      "last_import_date": "2025-05-16",
+      "category_cn": "水表",
+      "category_code": "SB",
+      "material_cn": "全铜",
+      "material_code": "QT",
+      "spec_number": "6-01",
+      "row_no": 42,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

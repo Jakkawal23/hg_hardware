@@ -6,20 +6,36 @@
   "name_cn": "阴阳角刨刀",
   "products": [
     {
-      "id": "11-08-07-yin-yang-jiao-bao-dao-1",
-      "slug": "11-08-07-yin-yang-jiao-bao-dao-1",
-      "name_th": "กบไสมุมฉาก รายการที่ 1",
-      "name_cn": "阴阳角刨刀 产品 1",
-      "price": 384,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "11-08-07-yin-yang-jiao-bao-dao-2",
-      "slug": "11-08-07-yin-yang-jiao-bao-dao-2",
-      "name_th": "กบไสมุมฉาก รายการที่ 2",
-      "name_cn": "阴阳角刨刀 产品 2",
-      "price": 1032,
-      "image": "/placeholder.png"
+      "id": "11-08-07-002",
+      "slug": "11-08-07-002",
+      "code": "11.08.07.002",
+      "sku": "YJPD-BP-00000-01",
+      "name_th": "กบไสเข้ามุม บรรจุ 50 ชิ้น/ลัง",
+      "name_cn": "阴角刨刀（50个/箱）",
+      "price": 33.6,
+      "image": "/placeholder.svg",
+      "name_th_full": "เครื่องไสไม้เข้ามุม (50 ชิ้น/กล่อง)",
+      "name_cn_full": "阴角刨刀（50个/箱）",
+      "product_name_raw": "阴角刨刀（50个/箱）",
+      "model": null,
+      "unit": "个",
+      "storage_location": "B1-1-5",
+      "qty_sub_unit": "2箱",
+      "qty_main_unit": 100,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 28,
+      "wholesale_price_2": null,
+      "last_import_date": "2025-05-16",
+      "category_cn": "阴角刨刀",
+      "category_code": "YJPD",
+      "material_cn": "标配",
+      "material_code": "BP",
+      "spec_number": "00000-01",
+      "row_no": 576,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

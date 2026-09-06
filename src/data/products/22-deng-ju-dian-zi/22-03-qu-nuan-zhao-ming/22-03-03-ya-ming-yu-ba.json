@@ -6,20 +6,36 @@
   "name_cn": "亚明浴霸",
   "products": [
     {
-      "id": "22-03-03-ya-ming-yu-ba-1",
-      "slug": "22-03-03-ya-ming-yu-ba-1",
-      "name_th": "ฮีทเตอร์อาบน้ำ ย่าหมิง รายการที่ 1",
-      "name_cn": "亚明浴霸 产品 1",
-      "price": 438,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "22-03-03-ya-ming-yu-ba-2",
-      "slug": "22-03-03-ya-ming-yu-ba-2",
-      "name_th": "ฮีทเตอร์อาบน้ำ ย่าหมิง รายการที่ 2",
-      "name_cn": "亚明浴霸 产品 2",
-      "price": 458,
-      "image": "/placeholder.png"
+      "id": "22-03-03-002",
+      "slug": "22-03-03-002",
+      "code": "22.03.03.002",
+      "sku": "YB-YM-4D-BS-300300",
+      "name_th": "เครื่องทำความร้อนในห้องน้ำแบบ 4 หลอด Yaming 300x300 (ครึ่งพลาสติก)",
+      "name_cn": "亚明四灯浴霸 300*300/半塑",
+      "price": 744,
+      "image": "/placeholder.svg",
+      "name_th_full": "เครื่องทำความร้อนในห้องน้ำ Yaming แบบสี่ดวง ขนาด 300*300 มม. / วัสดุผสมพลาสติก",
+      "name_cn_full": "亚明四灯浴霸 300*300/半塑",
+      "product_name_raw": "亚明四灯浴霸 300*300/半塑",
+      "model": null,
+      "unit": "个",
+      "storage_location": null,
+      "qty_sub_unit": "1箱+1个",
+      "qty_main_unit": 5,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 620,
+      "wholesale_price_2": null,
+      "last_import_date": "2025-05-16",
+      "category_cn": "浴霸",
+      "category_code": "YB",
+      "material_cn": "亚明四灯半塑",
+      "material_code": "YM-4D-BS",
+      "spec_number": "300300.0",
+      "row_no": 85,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

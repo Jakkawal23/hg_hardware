@@ -11,7 +11,7 @@
       "name_th": "ตะปูแผ่นไฟเบอร์ รายการที่ 1",
       "name_cn": "纤维板钉 产品 1",
       "price": 367,
-      "image": "/placeholder.png"
+      "image": "/placeholder.svg"
     },
     {
       "id": "01-11-12-xian-wei-ban-ding-2",
@@ -19,7 +19,7 @@
       "name_th": "ตะปูแผ่นไฟเบอร์ รายการที่ 2",
       "name_cn": "纤维板钉 产品 2",
       "price": 505,
-      "image": "/placeholder.png"
+      "image": "/placeholder.svg"
     }
   ]
 }

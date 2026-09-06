@@ -6,20 +6,36 @@
   "name_cn": "角磨机扳手",
   "products": [
     {
-      "id": "12-02-17-jiao-mo-ji-ban-shou-1",
-      "slug": "12-02-17-jiao-mo-ji-ban-shou-1",
-      "name_th": "ประแจลูกหมู (เครื่องเจียร) รายการที่ 1",
-      "name_cn": "角磨机扳手 产品 1",
-      "price": 910,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "12-02-17-jiao-mo-ji-ban-shou-2",
-      "slug": "12-02-17-jiao-mo-ji-ban-shou-2",
-      "name_th": "ประแจลูกหมู (เครื่องเจียร) รายการที่ 2",
-      "name_cn": "角磨机扳手 产品 2",
-      "price": 719,
-      "image": "/placeholder.png"
+      "id": "12-02-17-002",
+      "slug": "12-02-17-002",
+      "code": "12.02.17.002",
+      "sku": "BS-TY-01-01",
+      "name_th": "ประแจขันหินเจียร Dongcheng แบบทั่วไป",
+      "name_cn": "东成角磨机扳手-通用",
+      "price": 30,
+      "image": "/placeholder.svg",
+      "name_th_full": "ประแจสำหรับเครื่องเจียรไฟฟ้า Dongcheng - อเนกประสงค์",
+      "name_cn_full": "东成角磨机扳手-通用",
+      "product_name_raw": "东成角磨机扳手-通用",
+      "model": null,
+      "unit": "把",
+      "storage_location": null,
+      "qty_sub_unit": "203把",
+      "qty_main_unit": 203,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 25,
+      "wholesale_price_2": null,
+      "last_import_date": "2025-05-16",
+      "category_cn": "扳手",
+      "category_code": "BS",
+      "material_cn": "通用",
+      "material_code": "TY",
+      "spec_number": "01-01",
+      "row_no": 17,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

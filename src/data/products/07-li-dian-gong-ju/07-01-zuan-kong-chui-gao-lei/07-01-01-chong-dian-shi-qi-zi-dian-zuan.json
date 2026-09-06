@@ -11,7 +11,7 @@
       "name_th": "สว่าน/ไขควงไฟฟ้าแบบชาร์จ รายการที่ 1",
       "name_cn": "充电式起子电钻 产品 1",
       "price": 131,
-      "image": "/placeholder.png"
+      "image": "/placeholder.svg"
     },
     {
       "id": "07-01-01-chong-dian-shi-qi-zi-dian-zuan-2",
@@ -19,7 +19,7 @@
       "name_th": "สว่าน/ไขควงไฟฟ้าแบบชาร์จ รายการที่ 2",
       "name_cn": "充电式起子电钻 产品 2",
       "price": 814,
-      "image": "/placeholder.png"
+      "image": "/placeholder.svg"
     }
   ]
 }

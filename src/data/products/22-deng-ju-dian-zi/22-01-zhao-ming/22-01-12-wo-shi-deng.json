@@ -6,20 +6,36 @@
   "name_cn": "卧室灯",
   "products": [
     {
-      "id": "22-01-12-wo-shi-deng-1",
-      "slug": "22-01-12-wo-shi-deng-1",
-      "name_th": "ไฟห้องนอน รายการที่ 1",
-      "name_cn": "卧室灯 产品 1",
-      "price": 975,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "22-01-12-wo-shi-deng-2",
-      "slug": "22-01-12-wo-shi-deng-2",
-      "name_th": "ไฟห้องนอน รายการที่ 2",
-      "name_cn": "卧室灯 产品 2",
-      "price": 573,
-      "image": "/placeholder.png"
+      "id": "22-01-12-007",
+      "slug": "22-01-12-007",
+      "code": "22.01.12.007",
+      "sku": "WSD-YM-6009-60W",
+      "name_th": "โคมไฟห้องนอน Yaming รุ่น 6009 ทรงกลมขอบขาว 60W",
+      "name_cn": "亚明卧室灯6009 圆形白框60W",
+      "price": 475.2,
+      "image": "/placeholder.svg",
+      "name_th_full": "โคมไฟห้องนอน Yaming รุ่น 6009 ทรงกลม กรอบสีขาว กำลังไฟ 60 วัตต์",
+      "name_cn_full": "亚明卧室灯6009 圆形白框60W",
+      "product_name_raw": "亚明卧室灯6009 圆形白框60W",
+      "model": null,
+      "unit": "个",
+      "storage_location": null,
+      "qty_sub_unit": "5个",
+      "qty_main_unit": 5,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 396,
+      "wholesale_price_2": null,
+      "last_import_date": "2025-05-16",
+      "category_cn": "卧室灯",
+      "category_code": "WSD",
+      "material_cn": "亚明系列",
+      "material_code": "YM",
+      "spec_number": "6009-60W",
+      "row_no": 50,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

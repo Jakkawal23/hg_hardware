@@ -6,20 +6,36 @@
   "name_cn": "打气筒",
   "products": [
     {
-      "id": "11-11-05-da-qi-tong-1",
-      "slug": "11-11-05-da-qi-tong-1",
-      "name_th": "สูบลม รายการที่ 1",
-      "name_cn": "打气筒 产品 1",
-      "price": 419,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "11-11-05-da-qi-tong-2",
-      "slug": "11-11-05-da-qi-tong-2",
-      "name_th": "สูบลม รายการที่ 2",
-      "name_cn": "打气筒 产品 2",
-      "price": 787,
-      "image": "/placeholder.png"
+      "id": "11-11-05-005",
+      "slug": "11-11-05-005",
+      "code": "11.11.05.005",
+      "sku": "DQT-SK-38000-01",
+      "name_th": "สูบลมแรงดันสูง ยี่ห้อShike ขนาด 38 บรรจุ 10 ชิ้น/กล่อง",
+      "name_cn": "世克 高压打气筒（38)（10个/盒）",
+      "price": 240,
+      "image": "/placeholder.svg",
+      "name_th_full": "ปั๊มลมแรงดันสูง Sike (38) (10 ชิ้น/กล่อง)",
+      "name_cn_full": "世克 高压打气筒（38)（10个/盒）",
+      "product_name_raw": "世克 高压打气筒（38)（10个/盒）",
+      "model": null,
+      "unit": "支",
+      "storage_location": null,
+      "qty_sub_unit": "409支",
+      "qty_main_unit": 409,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 200,
+      "wholesale_price_2": null,
+      "last_import_date": "2025-05-16",
+      "category_cn": "打气筒",
+      "category_code": "DQT",
+      "material_cn": "世克",
+      "material_code": "SK",
+      "spec_number": "38000-01",
+      "row_no": 717,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

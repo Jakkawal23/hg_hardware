@@ -6,20 +6,36 @@
   "name_cn": "密封胶",
   "products": [
     {
-      "id": "15-06-06-mi-feng-jiao-1",
-      "slug": "15-06-06-mi-feng-jiao-1",
-      "name_th": "กาวซีลกันรั่ว รายการที่ 1",
-      "name_cn": "密封胶 产品 1",
-      "price": 624,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "15-06-06-mi-feng-jiao-2",
-      "slug": "15-06-06-mi-feng-jiao-2",
-      "name_th": "กาวซีลกันรั่ว รายการที่ 2",
-      "name_cn": "密封胶 产品 2",
-      "price": 874,
-      "image": "/placeholder.png"
+      "id": "15-06-06-001",
+      "slug": "15-06-06-001",
+      "code": "15.06.06.001",
+      "sku": "MFJ-SH-1-01",
+      "name_th": "กาวซีลแลนท์/กาวประเก็น Sanhe",
+      "name_cn": "三和密封胶",
+      "price": 30,
+      "image": "/placeholder.svg",
+      "name_th_full": "ซีลแลนท์ซานเฮ",
+      "name_cn_full": "三和密封胶",
+      "product_name_raw": "三和密封胶",
+      "model": null,
+      "unit": "支",
+      "storage_location": "B14-3-1-3",
+      "qty_sub_unit": "1箱+115支",
+      "qty_main_unit": 235,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 25,
+      "wholesale_price_2": null,
+      "last_import_date": "2025-05-16",
+      "category_cn": "密封胶",
+      "category_code": "MFJ",
+      "material_cn": "三和",
+      "material_code": "SH",
+      "spec_number": "1-01",
+      "row_no": 41,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

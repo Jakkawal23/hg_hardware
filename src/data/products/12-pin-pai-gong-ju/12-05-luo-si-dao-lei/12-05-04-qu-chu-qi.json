@@ -6,20 +6,36 @@
   "name_cn": "取出器",
   "products": [
     {
-      "id": "12-05-04-qu-chu-qi-1",
-      "slug": "12-05-04-qu-chu-qi-1",
-      "name_th": "เครื่องมือถอดสกรูหลอด รายการที่ 1",
-      "name_cn": "取出器 产品 1",
-      "price": 439,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "12-05-04-qu-chu-qi-2",
-      "slug": "12-05-04-qu-chu-qi-2",
-      "name_th": "เครื่องมือถอดสกรูหลอด รายการที่ 2",
-      "name_cn": "取出器 产品 2",
-      "price": 564,
-      "image": "/placeholder.png"
+      "id": "12-05-04-002",
+      "slug": "12-05-04-002",
+      "code": "12.05.04.002",
+      "sku": "LSCQ-6J-01-01",
+      "name_th": "ชุดถอนสกรู Shike 6 ชิ้น",
+      "name_cn": "世克 螺丝取出器 6件套（12套/盒）",
+      "price": 84,
+      "image": "/placeholder.svg",
+      "name_th_full": "ชุดเครื่องมือถอดสกรู Sike 6 ชิ้น (12 ชุด/กล่อง)",
+      "name_cn_full": "世克 螺丝取出器 6件套（12套/盒）",
+      "product_name_raw": "世克 螺丝取出器 6件套（12套/盒）",
+      "model": null,
+      "unit": "套",
+      "storage_location": "B14-1-2-10",
+      "qty_sub_unit": "10套",
+      "qty_main_unit": 10,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 70,
+      "wholesale_price_2": null,
+      "last_import_date": "2025-05-16",
+      "category_cn": "螺丝取出器",
+      "category_code": "LSCQ",
+      "material_cn": "6件套",
+      "material_code": "6J",
+      "spec_number": "01-01",
+      "row_no": 76,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

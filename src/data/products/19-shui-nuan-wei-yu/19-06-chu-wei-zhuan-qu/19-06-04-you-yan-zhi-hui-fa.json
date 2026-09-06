@@ -6,20 +6,36 @@
   "name_cn": "油烟止回阀",
   "products": [
     {
-      "id": "19-06-04-you-yan-zhi-hui-fa-1",
-      "slug": "19-06-04-you-yan-zhi-hui-fa-1",
-      "name_th": "วาล์วกันควันย้อนกลับ รายการที่ 1",
-      "name_cn": "油烟止回阀 产品 1",
-      "price": 182,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "19-06-04-you-yan-zhi-hui-fa-2",
-      "slug": "19-06-04-you-yan-zhi-hui-fa-2",
-      "name_th": "วาล์วกันควันย้อนกลับ รายการที่ 2",
-      "name_cn": "油烟止回阀 产品 2",
-      "price": 836,
-      "image": "/placeholder.png"
+      "id": "19-06-04-002",
+      "slug": "19-06-04-002",
+      "code": "19.06.04.002",
+      "sku": "ZHF-WSJ-XJ-80120",
+      "name_th": "วาล์วกันย้อนลมกลับท่อระบายอากาศยางเล็กห้องน้ำ Jinliwang 80-120 มม.",
+      "name_cn": "金力王卫生间小胶排风止回阀单向80-120-JLW.800120",
+      "price": 48,
+      "image": "/placeholder.svg",
+      "name_th_full": "วาล์วกันกลับท่อระบายอากาศยางขนาดเล็กสำหรับห้องน้ำ Jinliwang รุ่น 80-120-JLW.800120",
+      "name_cn_full": "金力王卫生间小胶排风止回阀单向80-120-JLW.800120",
+      "product_name_raw": "金力王卫生间小胶排风止回阀单向80-120-JLW.800120",
+      "model": null,
+      "unit": "个",
+      "storage_location": "B16-4-2",
+      "qty_sub_unit": "88个",
+      "qty_main_unit": 88,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 40,
+      "wholesale_price_2": null,
+      "last_import_date": "2025-05-16",
+      "category_cn": "止回阀",
+      "category_code": "ZHF",
+      "material_cn": "卫生间小胶单向",
+      "material_code": "WSJ-XJ",
+      "spec_number": "80120.0",
+      "row_no": 19,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

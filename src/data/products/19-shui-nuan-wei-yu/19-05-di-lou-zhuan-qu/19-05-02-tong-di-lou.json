@@ -6,20 +6,36 @@
   "name_cn": "铜地漏",
   "products": [
     {
-      "id": "19-05-02-tong-di-lou-1",
-      "slug": "19-05-02-tong-di-lou-1",
-      "name_th": "ตะแกรงระบายน้ำพื้นทองแดง รายการที่ 1",
-      "name_cn": "铜地漏 产品 1",
-      "price": 917,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "19-05-02-tong-di-lou-2",
-      "slug": "19-05-02-tong-di-lou-2",
-      "name_th": "ตะแกรงระบายน้ำพื้นทองแดง รายการที่ 2",
-      "name_cn": "铜地漏 产品 2",
-      "price": 266,
-      "image": "/placeholder.png"
+      "id": "19-05-02-003",
+      "slug": "19-05-02-003",
+      "code": "19.05.02.003",
+      "sku": "DL-TYX-YX-370-00578",
+      "name_th": "ตะแกรงดักกลิ่นซ่อนรูปทรงกลมทองเหลืองเกรดพรีเมียม SHPERSA 370g",
+      "name_cn": "SHPERSA/00578/高档/铜圆形隐形地漏/370g",
+      "price": 438,
+      "image": "/placeholder.svg",
+      "name_th_full": "SHPERSA/00578/High-end/Copper Round Invisible Floor Drain/370g",
+      "name_cn_full": "SHPERSA/00578/高档/铜圆形隐形地漏/370g",
+      "product_name_raw": "SHPERSA/00578/高档/铜圆形隐形地漏/370g",
+      "model": null,
+      "unit": "个",
+      "storage_location": "B2-1-1-7",
+      "qty_sub_unit": "15个",
+      "qty_main_unit": 15,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 365,
+      "wholesale_price_2": null,
+      "last_import_date": "2025-05-16",
+      "category_cn": "地漏",
+      "category_code": "DL",
+      "material_cn": "铜圆形隐形",
+      "material_code": "TYX-YX",
+      "spec_number": "370-00578",
+      "row_no": 14,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

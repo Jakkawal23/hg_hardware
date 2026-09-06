@@ -6,20 +6,36 @@
   "name_cn": "刀刷",
   "products": [
     {
-      "id": "16-04-06-dao-shua-1",
-      "slug": "16-04-06-dao-shua-1",
-      "name_th": "แปรงใบมีด รายการที่ 1",
-      "name_cn": "刀刷 产品 1",
-      "price": 463,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "16-04-06-dao-shua-2",
-      "slug": "16-04-06-dao-shua-2",
-      "name_th": "แปรงใบมีด รายการที่ 2",
-      "name_cn": "刀刷 产品 2",
-      "price": 675,
-      "image": "/placeholder.png"
+      "id": "16-04-06-001",
+      "slug": "16-04-06-001",
+      "code": "16.04.06.001",
+      "sku": "DS-PT-1-01",
+      "name_th": "แปรงลวดทรงเหลี่ยม/แปรงทรงมีด",
+      "name_cn": "刀刷",
+      "price": 12,
+      "image": "/placeholder.svg",
+      "name_th_full": "แปรงมีด",
+      "name_cn_full": "刀刷",
+      "product_name_raw": "刀刷",
+      "model": null,
+      "unit": "个",
+      "storage_location": "B3-3-4",
+      "qty_sub_unit": "70个",
+      "qty_main_unit": 70,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 10,
+      "wholesale_price_2": null,
+      "last_import_date": "2026-04-14",
+      "category_cn": "刀刷",
+      "category_code": "DS",
+      "material_cn": "普通",
+      "material_code": "PT",
+      "spec_number": "1-01",
+      "row_no": 59,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

@@ -6,20 +6,36 @@
   "name_cn": "风帽",
   "products": [
     {
-      "id": "19-06-08-feng-mao-1",
-      "slug": "19-06-08-feng-mao-1",
-      "name_th": "ฝาครอบระบายอากาศ รายการที่ 1",
-      "name_cn": "风帽 产品 1",
-      "price": 543,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "19-06-08-feng-mao-2",
-      "slug": "19-06-08-feng-mao-2",
-      "name_th": "ฝาครอบระบายอากาศ รายการที่ 2",
-      "name_cn": "风帽 产品 2",
-      "price": 545,
-      "image": "/placeholder.png"
+      "id": "19-06-07-002",
+      "slug": "19-06-07-002",
+      "code": "19.06.07.002",
+      "sku": "FM-LG-150-000150",
+      "name_th": "หน้ากากระบายอากาศ/ฝาครอบช่องระบายลมสแตนเลสเงา Jinliwang 150 มม.",
+      "name_cn": "金力王亮光风帽150-JLW.000150",
+      "price": 105.6,
+      "image": "/placeholder.svg",
+      "name_th_full": "ฝากระโปรงหน้าเงา Jinliwang รุ่น 150-JLW.000150",
+      "name_cn_full": "金力王亮光风帽150-JLW.000150",
+      "product_name_raw": "金力王亮光风帽150-JLW.000150",
+      "model": null,
+      "unit": "个",
+      "storage_location": "B17-2-2",
+      "qty_sub_unit": "2箱",
+      "qty_main_unit": 300,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 88,
+      "wholesale_price_2": null,
+      "last_import_date": "2025-05-16",
+      "category_cn": "风帽",
+      "category_code": "FM",
+      "material_cn": "亮光",
+      "material_code": "LG",
+      "spec_number": "150-000150",
+      "row_no": 39,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

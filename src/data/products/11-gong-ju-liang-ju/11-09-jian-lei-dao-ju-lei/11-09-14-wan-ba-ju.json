@@ -6,20 +6,36 @@
   "name_cn": "弯把锯",
   "products": [
     {
-      "id": "11-09-14-wan-ba-ju-1",
-      "slug": "11-09-14-wan-ba-ju-1",
-      "name_th": "เลื่อยด้ามโค้ง รายการที่ 1",
-      "name_cn": "弯把锯 产品 1",
-      "price": 602,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "11-09-14-wan-ba-ju-2",
-      "slug": "11-09-14-wan-ba-ju-2",
-      "name_th": "เลื่อยด้ามโค้ง รายการที่ 2",
-      "name_cn": "弯把锯 产品 2",
-      "price": 550,
-      "image": "/placeholder.png"
+      "id": "11-09-14-002",
+      "slug": "11-09-14-002",
+      "code": "11.09.14.002",
+      "sku": "WBJ-BP-70000-01",
+      "name_th": "เลื่อยด้ามโค้ง ขนาด 700 มม.",
+      "name_cn": "弯把锯 700",
+      "price": 84,
+      "image": "/placeholder.svg",
+      "name_th_full": "เลื่อยด้ามโค้ง 700",
+      "name_cn_full": "弯把锯 700",
+      "product_name_raw": "弯把锯 700",
+      "model": null,
+      "unit": "把",
+      "storage_location": "A11-1-4",
+      "qty_sub_unit": "9把",
+      "qty_main_unit": 9,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 70,
+      "wholesale_price_2": null,
+      "last_import_date": "2026-06-16",
+      "category_cn": "弯把锯",
+      "category_code": "WBJ",
+      "material_cn": "标配",
+      "material_code": "BP",
+      "spec_number": "70000-01",
+      "row_no": 644,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

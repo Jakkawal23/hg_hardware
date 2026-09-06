@@ -6,20 +6,36 @@
   "name_cn": "导电咀",
   "products": [
     {
-      "id": "11-10-09-dao-dian-zui-1",
-      "slug": "11-10-09-dao-dian-zui-1",
-      "name_th": "หัวนำไฟ (ดอกทัชท) รายการที่ 1",
-      "name_cn": "导电咀 产品 1",
-      "price": 203,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "11-10-09-dao-dian-zui-2",
-      "slug": "11-10-09-dao-dian-zui-2",
-      "name_th": "หัวนำไฟ (ดอกทัชท) รายการที่ 2",
-      "name_cn": "导电咀 产品 2",
-      "price": 930,
-      "image": "/placeholder.png"
+      "id": "11-10-09-0003",
+      "slug": "11-10-09-0003",
+      "code": "11.10.09.0003",
+      "sku": "DDZ-JHC-45100-01",
+      "name_th": "นมหนูเชื่อม ยี่ห้อ Jiahang ขนาด 45x1.0 มม. (ทองแดงบริสุทธิ์)",
+      "name_cn": "佳航 导电咀45*1.0紫铜",
+      "price": 30,
+      "image": "/placeholder.svg",
+      "name_th_full": "ปลายตัวนำไฟฟ้า Jiahang 45*1.0 ทองแดง",
+      "name_cn_full": "佳航 导电咀45*1.0紫铜",
+      "product_name_raw": "佳航 导电咀45*1.0紫铜",
+      "model": null,
+      "unit": "个",
+      "storage_location": null,
+      "qty_sub_unit": "2包",
+      "qty_main_unit": 40,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 25,
+      "wholesale_price_2": null,
+      "last_import_date": "2026-05-02",
+      "category_cn": "导电咀",
+      "category_code": "DDZ",
+      "material_cn": "佳航紫铜",
+      "material_code": "JHC",
+      "spec_number": "45100-01",
+      "row_no": 703,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

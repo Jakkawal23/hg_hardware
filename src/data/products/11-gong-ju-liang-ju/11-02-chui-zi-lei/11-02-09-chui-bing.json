@@ -6,20 +6,36 @@
   "name_cn": "锤柄",
   "products": [
     {
-      "id": "11-02-09-chui-bing-1",
-      "slug": "11-02-09-chui-bing-1",
-      "name_th": "ด้ามค้อน รายการที่ 1",
-      "name_cn": "锤柄 产品 1",
-      "price": 333,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "11-02-09-chui-bing-2",
-      "slug": "11-02-09-chui-bing-2",
-      "name_th": "ด้ามค้อน รายการที่ 2",
-      "name_cn": "锤柄 产品 2",
-      "price": 613,
-      "image": "/placeholder.png"
+      "id": "11-02-09-002",
+      "slug": "11-02-09-002",
+      "code": "11.02.09.002",
+      "sku": "QGC-JG-00-01",
+      "name_th": "ค้อนด้ามฉนวนสีเขียว",
+      "name_cn": "绝缘柄绿色/锤柄",
+      "price": 36,
+      "image": "/placeholder.svg",
+      "name_th_full": "ด้ามจับหุ้มฉนวนสีเขียว/ด้ามค้อน",
+      "name_cn_full": "绝缘柄绿色/锤柄",
+      "product_name_raw": "绝缘柄绿色/锤柄",
+      "model": null,
+      "unit": "根",
+      "storage_location": "A19-4-3",
+      "qty_sub_unit": "80根",
+      "qty_main_unit": 80,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 30,
+      "wholesale_price_2": null,
+      "last_import_date": "2025-05-16",
+      "category_cn": "钳工锤",
+      "category_code": "QGC",
+      "material_cn": "绝缘柄绿色",
+      "material_code": "JG",
+      "spec_number": "00-01",
+      "row_no": 116,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

@@ -6,20 +6,36 @@
   "name_cn": "钢丝网",
   "products": [
     {
-      "id": "23-01-12-gang-si-wang-1",
-      "slug": "23-01-12-gang-si-wang-1",
-      "name_th": "ตาข่ายลวดเหล็ก รายการที่ 1",
-      "name_cn": "钢丝网 产品 1",
-      "price": 627,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "23-01-12-gang-si-wang-2",
-      "slug": "23-01-12-gang-si-wang-2",
-      "name_th": "ตาข่ายลวดเหล็ก รายการที่ 2",
-      "name_cn": "钢丝网 产品 2",
-      "price": 637,
-      "image": "/placeholder.png"
+      "id": "23-01-12-005",
+      "slug": "23-01-12-005",
+      "code": "23.01.12.005",
+      "sku": "GSW-FQ-FL-MH-45-06-15",
+      "name_th": "ตาข่ายลวดกรงไก่/ตาข่ายฉาบปูนกันแตก (ลวด45/รู0.6/กว้าง1ม.*ยาว5ม.)",
+      "name_cn": "钢丝网/粉墙网/防裂网/抹灰网 45丝/0.6孔/1米高*5米长",
+      "price": 204,
+      "image": "/placeholder.svg",
+      "name_th_full": "ตาข่ายลวดเหล็ก/ตาข่ายฉาบปูน/ตาข่ายป้องกันรอยแตก/ตาข่ายฉาบปูน 45 เส้น/0.6 ช่อง/สูง 1 เมตร * ยาว 5 เมตร",
+      "name_cn_full": "钢丝网/粉墙网/防裂网/抹灰网 45丝/0.6孔/1米高*5米长",
+      "product_name_raw": "钢丝网/粉墙网/防裂网/抹灰网 45丝/0.6孔/1米高*5米长",
+      "model": null,
+      "unit": "卷",
+      "storage_location": null,
+      "qty_sub_unit": "3袋+4卷",
+      "qty_main_unit": 19,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 170,
+      "wholesale_price_2": null,
+      "last_import_date": "2026-06-11",
+      "category_cn": "钢丝网",
+      "category_code": "GSW",
+      "material_cn": "粉墙防裂抹灰",
+      "material_code": "FQ-FL-MH",
+      "spec_number": "45-06-15",
+      "row_no": 25,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

@@ -6,20 +6,36 @@
   "name_cn": "地面保护膜",
   "products": [
     {
-      "id": "16-03-02-di-mian-bao-hu-mo-1",
-      "slug": "16-03-02-di-mian-bao-hu-mo-1",
-      "name_th": "ฟิล์มกันพื้น รายการที่ 1",
-      "name_cn": "地面保护膜 产品 1",
-      "price": 247,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "16-03-02-di-mian-bao-hu-mo-2",
-      "slug": "16-03-02-di-mian-bao-hu-mo-2",
-      "name_th": "ฟิล์มกันพื้น รายการที่ 2",
-      "name_cn": "地面保护膜 产品 2",
-      "price": 283,
-      "image": "/placeholder.png"
+      "id": "16-03-02-002",
+      "slug": "16-03-02-002",
+      "code": "16.03.02.002",
+      "sku": "DM-LS-8-15",
+      "name_th": "ฟิล์มกันรอยพื้นผิว สีเขียว หนามาตรฐาน 0.8 มม. 15เมตร",
+      "name_cn": "地膜/地面保护膜（绿色）标准0.8厚15米",
+      "price": 120,
+      "image": "/placeholder.svg",
+      "name_th_full": "แผ่นฟิล์มคลุมดิน/แผ่นฟิล์มป้องกันพื้นดิน (สีเขียว) มาตรฐาน: ความหนา 0.8 มม., ยาว 15 ม.",
+      "name_cn_full": "地膜/地面保护膜（绿色）标准0.8厚15米",
+      "product_name_raw": "地膜/地面保护膜（绿色）标准0.8厚15米",
+      "model": "1捆=10卷",
+      "unit": "卷",
+      "storage_location": null,
+      "qty_sub_unit": "16捆",
+      "qty_main_unit": 160,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 100,
+      "wholesale_price_2": null,
+      "last_import_date": "2026-05-14",
+      "category_cn": "地膜",
+      "category_code": "DM",
+      "material_cn": "绿色保护",
+      "material_code": "LS",
+      "spec_number": "8-15",
+      "row_no": 39,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

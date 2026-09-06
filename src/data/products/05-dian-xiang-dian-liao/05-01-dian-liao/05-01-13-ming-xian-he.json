@@ -6,20 +6,36 @@
   "name_cn": "明线盒",
   "products": [
     {
-      "id": "05-01-13-ming-xian-he-1",
-      "slug": "05-01-13-ming-xian-he-1",
-      "name_th": "กล่องพักสายลอย รายการที่ 1",
-      "name_cn": "明线盒 产品 1",
-      "price": 301,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "05-01-13-ming-xian-he-2",
-      "slug": "05-01-13-ming-xian-he-2",
-      "name_th": "กล่องพักสายลอย รายการที่ 2",
-      "name_cn": "明线盒 产品 2",
-      "price": 250,
-      "image": "/placeholder.png"
+      "id": "05-01-13-003",
+      "slug": "05-01-13-003",
+      "code": "05.01.13.003",
+      "sku": "MH-GJ-100-01",
+      "name_th": "กล่องพักสายไฟแบบลอย Wanju (100 ตัว/ลัง)",
+      "name_cn": "万巨-高级明线盒/明盒 100个/箱",
+      "price": 5.04,
+      "image": "/placeholder.svg",
+      "name_th_full": "Wanju - กล่องสายไฟเปลือยคุณภาพสูง / 100 ชิ้น/กล่อง",
+      "name_cn_full": "万巨-高级明线盒/明盒 100个/箱",
+      "product_name_raw": "万巨-高级明线盒/明盒 100个/箱 บล็อกลอย",
+      "model": null,
+      "unit": "个/ชิ้น",
+      "storage_location": null,
+      "qty_sub_unit": "17个/ชิ้น",
+      "qty_main_unit": 17,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 4.2,
+      "wholesale_price_2": null,
+      "last_import_date": "2026-05-14",
+      "category_cn": "明盒",
+      "category_code": "MH",
+      "material_cn": "高级",
+      "material_code": "GJ",
+      "spec_number": "100-01",
+      "row_no": 81,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

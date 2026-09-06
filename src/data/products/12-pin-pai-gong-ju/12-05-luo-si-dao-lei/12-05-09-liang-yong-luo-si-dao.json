@@ -6,20 +6,36 @@
   "name_cn": "两用螺丝刀",
   "products": [
     {
-      "id": "12-05-09-liang-yong-luo-si-dao-1",
-      "slug": "12-05-09-liang-yong-luo-si-dao-1",
-      "name_th": "ไขควงสองหัว รายการที่ 1",
-      "name_cn": "两用螺丝刀 产品 1",
-      "price": 785,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "12-05-09-liang-yong-luo-si-dao-2",
-      "slug": "12-05-09-liang-yong-luo-si-dao-2",
-      "name_th": "ไขควงสองหัว รายการที่ 2",
-      "name_cn": "两用螺丝刀 产品 2",
-      "price": 252,
-      "image": "/placeholder.png"
+      "id": "12-05-09-0001",
+      "slug": "12-05-09-0001",
+      "code": "12.05.09.0001",
+      "sku": "LSD-SS-6100-01",
+      "name_th": "ไขควงยืดหดได้ ขนาด 4-6 นิ้ว รุ่น YT-70804",
+      "name_cn": "4寸-6寸伸缩螺丝刀6”/100（12把/盒）YT-70804",
+      "price": 54,
+      "image": "/placeholder.svg",
+      "name_th_full": "ไขควงแบบยืดหดได้ 4 นิ้ว ถึง 6 นิ้ว 6”/100 (12 ชิ้น/กล่อง) YT-70804",
+      "name_cn_full": "4寸-6寸伸缩螺丝刀6”/100（12把/盒）YT-70804",
+      "product_name_raw": "4寸-6寸伸缩螺丝刀6”/100（12把/盒）YT-70804 ไขควง",
+      "model": null,
+      "unit": "把/กำมือ",
+      "storage_location": null,
+      "qty_sub_unit": "56把/กำมือ",
+      "qty_main_unit": 56,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 45,
+      "wholesale_price_2": null,
+      "last_import_date": null,
+      "category_cn": "螺丝刀",
+      "category_code": "LSD",
+      "material_cn": "伸缩",
+      "material_code": "SS",
+      "spec_number": "6100-01",
+      "row_no": 77,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

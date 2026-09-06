@@ -6,20 +6,36 @@
   "name_cn": "黄色进口双面胶",
   "products": [
     {
-      "id": "16-01-05-huang-se-jin-kou-shuang-mian-jiao-1",
-      "slug": "16-01-05-huang-se-jin-kou-shuang-mian-jiao-1",
-      "name_th": "เทปกาวสองหน้าสีเหลืองนำเข้า รายการที่ 1",
-      "name_cn": "黄色进口双面胶 产品 1",
-      "price": 359,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "16-01-05-huang-se-jin-kou-shuang-mian-jiao-2",
-      "slug": "16-01-05-huang-se-jin-kou-shuang-mian-jiao-2",
-      "name_th": "เทปกาวสองหน้าสีเหลืองนำเข้า รายการที่ 2",
-      "name_cn": "黄色进口双面胶 产品 2",
-      "price": 172,
-      "image": "/placeholder.png"
+      "id": "16-01-05-002",
+      "slug": "16-01-05-002",
+      "code": "16.01.05.002",
+      "sku": "SMJ-YKJKH-3-01",
+      "name_th": "เทปสองหน้าสีเหลืองนำเข้า Yongkuan 3 ซม. (50ม้วน/ลัง)",
+      "name_cn": "《永冠进口》双面胶黄色 3公分 （50卷/件）",
+      "price": 19.2,
+      "image": "/placeholder.svg",
+      "name_th_full": "เทปกาวสองหน้านำเข้าจากยงกวน สีเหลือง ขนาด 3 ซม. (50 ม้วน/กล่อง)",
+      "name_cn_full": "《永冠进口》双面胶黄色 3公分 （50卷/件）",
+      "product_name_raw": "《永冠进口》双面胶黄色 3公分 （50卷/件）",
+      "model": null,
+      "unit": "卷",
+      "storage_location": null,
+      "qty_sub_unit": "3箱",
+      "qty_main_unit": 150,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 16,
+      "wholesale_price_2": null,
+      "last_import_date": "2026-06-19",
+      "category_cn": "双面胶",
+      "category_code": "SMJ",
+      "material_cn": "永冠进口黄",
+      "material_code": "YKJKH",
+      "spec_number": "3-01",
+      "row_no": 14,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

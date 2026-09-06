@@ -11,7 +11,7 @@
       "name_th": "พุกในหนัง (ทงเหอ) รายการที่ 1",
       "name_cn": "通和内泡 产品 1",
       "price": 598,
-      "image": "/placeholder.png"
+      "image": "/placeholder.svg"
     },
     {
       "id": "01-05-04-tong-he-nei-po-2",
@@ -19,7 +19,7 @@
       "name_th": "พุกในหนัง (ทงเหอ) รายการที่ 2",
       "name_cn": "通和内泡 产品 2",
       "price": 717,
-      "image": "/placeholder.png"
+      "image": "/placeholder.svg"
     }
   ]
 }

@@ -6,20 +6,36 @@
   "name_cn": "消防农用水带",
   "products": [
     {
-      "id": "24-04-04-xiao-fang-nong-yong-shui-dai-1",
-      "slug": "24-04-04-xiao-fang-nong-yong-shui-dai-1",
-      "name_th": "สายส่งน้ำดับเพลิง/เกษตร รายการที่ 1",
-      "name_cn": "消防农用水带 产品 1",
-      "price": 680,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "24-04-04-xiao-fang-nong-yong-shui-dai-2",
-      "slug": "24-04-04-xiao-fang-nong-yong-shui-dai-2",
-      "name_th": "สายส่งน้ำดับเพลิง/เกษตร รายการที่ 2",
-      "name_cn": "消防农用水带 产品 2",
-      "price": 356,
-      "image": "/placeholder.png"
+      "id": "24-04-04-003",
+      "slug": "24-04-04-003",
+      "code": "24.04.04.003",
+      "sku": "SD-XF-NY-BA-3-18M",
+      "name_th": "สายส่งน้ำผ้าใบดับเพลิง/การเกษตร Pangyu 3 นิ้ว ยาว 18ม. (สีขาว)",
+      "name_cn": "螃鱼消防农用水带 3寸/18米 白色",
+      "price": 360,
+      "image": "/placeholder.svg",
+      "name_th_full": "สายยางดับเพลิงรูปทรงปู สำหรับใช้ในงานเกษตรกรรม ขนาด 3 นิ้ว/18 เมตร สีขาว",
+      "name_cn_full": "螃鱼消防农用水带 3寸/18米 白色",
+      "product_name_raw": "螃鱼消防农用水带 3寸/18米 白色",
+      "model": null,
+      "unit": "卷",
+      "storage_location": "D14",
+      "qty_sub_unit": "6卷",
+      "qty_main_unit": 6,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 300,
+      "wholesale_price_2": null,
+      "last_import_date": "2026-05-02",
+      "category_cn": "水带",
+      "category_code": "SD",
+      "material_cn": "消防农用白色",
+      "material_code": "XF-NY-BA",
+      "spec_number": "3-18M",
+      "row_no": 14,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

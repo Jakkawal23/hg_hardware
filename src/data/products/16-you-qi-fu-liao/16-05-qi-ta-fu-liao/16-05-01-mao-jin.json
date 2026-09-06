@@ -6,20 +6,36 @@
   "name_cn": "毛巾",
   "products": [
     {
-      "id": "16-05-01-mao-jin-1",
-      "slug": "16-05-01-mao-jin-1",
-      "name_th": "ผ้าขนหนู รายการที่ 1",
-      "name_cn": "毛巾 产品 1",
-      "price": 995,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "16-05-01-mao-jin-2",
-      "slug": "16-05-01-mao-jin-2",
-      "name_th": "ผ้าขนหนู รายการที่ 2",
-      "name_cn": "毛巾 产品 2",
-      "price": 663,
-      "image": "/placeholder.png"
+      "id": "16-05-01-001",
+      "slug": "16-05-01-001",
+      "code": "16.05.01.001",
+      "sku": "MJ-LS-100-01",
+      "name_th": "ผ้าขนหนูเช็ดทำความสะอาด สีน้ำเงิน (100ผืน/แพ็ค)",
+      "name_cn": "蓝色毛巾（100条/包）",
+      "price": 18,
+      "image": "/placeholder.svg",
+      "name_th_full": "ผ้าเช็ดตัวสีฟ้า (100 ผืน/แพ็ค)",
+      "name_cn_full": "蓝色毛巾（100条/包）",
+      "product_name_raw": "蓝色毛巾（100条/包）",
+      "model": null,
+      "unit": "条",
+      "storage_location": "A11-1-1",
+      "qty_sub_unit": "2包",
+      "qty_main_unit": 200,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 15,
+      "wholesale_price_2": null,
+      "last_import_date": "2026-07-03",
+      "category_cn": "毛巾",
+      "category_code": "MJ",
+      "material_cn": "蓝色",
+      "material_code": "LS",
+      "spec_number": "100-01",
+      "row_no": 92,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

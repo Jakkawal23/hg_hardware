@@ -223,9 +223,14 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
                 slug={product.slug}
                 name_th={product.name_th}
                 name_cn={product.name_cn}
-                image={product.images ? product.images[0] : product.image}
-                specs={product.specs || {}}
-                price_display={product.pricing_tier?.price_display || product.price?.toString()}
+                images={product.images && product.images.length > 0 ? product.images : undefined}
+                image={product.image}
+                specs={product.specs}
+                sku={product.sku}
+                unit={product.unit}
+                wholesale_price_1={product.wholesale_price_1}
+                price={product.price}
+                price_display={product.pricing_tier?.price_display}
               />
             ))}
           </div>

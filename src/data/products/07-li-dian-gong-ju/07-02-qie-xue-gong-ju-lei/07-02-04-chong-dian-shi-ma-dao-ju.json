@@ -11,7 +11,7 @@
       "name_th": "เลื่อยดาบไฟฟ้าแบบชาร์จ รายการที่ 1",
       "name_cn": "充电式马刀锯 产品 1",
       "price": 824,
-      "image": "/placeholder.png"
+      "image": "/placeholder.svg"
     },
     {
       "id": "07-02-04-chong-dian-shi-ma-dao-ju-2",
@@ -19,7 +19,7 @@
       "name_th": "เลื่อยดาบไฟฟ้าแบบชาร์จ รายการที่ 2",
       "name_cn": "充电式马刀锯 产品 2",
       "price": 430,
-      "image": "/placeholder.png"
+      "image": "/placeholder.svg"
     }
   ]
 }

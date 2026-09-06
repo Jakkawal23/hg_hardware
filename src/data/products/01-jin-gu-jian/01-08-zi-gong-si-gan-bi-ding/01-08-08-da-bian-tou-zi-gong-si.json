@@ -11,7 +11,7 @@
       "name_th": "สกรูเกลียวปล่อยหัวบานใหญ่ รายการที่ 1",
       "name_cn": "大扁头自攻丝 产品 1",
       "price": 1036,
-      "image": "/placeholder.png"
+      "image": "/placeholder.svg"
     },
     {
       "id": "01-08-08-da-bian-tou-zi-gong-si-2",
@@ -19,7 +19,7 @@
       "name_th": "สกรูเกลียวปล่อยหัวบานใหญ่ รายการที่ 2",
       "name_cn": "大扁头自攻丝 产品 2",
       "price": 1081,
-      "image": "/placeholder.png"
+      "image": "/placeholder.svg"
     }
   ]
 }

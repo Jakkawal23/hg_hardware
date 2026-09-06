@@ -6,20 +6,36 @@
   "name_cn": "方柄搅拌器",
   "products": [
     {
-      "id": "17-07-01-fang-bing-jiao-ban-qi-1",
-      "slug": "17-07-01-fang-bing-jiao-ban-qi-1",
-      "name_th": "หัวกวนผสมด้ามเหลี่ยม รายการที่ 1",
-      "name_cn": "方柄搅拌器 产品 1",
-      "price": 225,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "17-07-01-fang-bing-jiao-ban-qi-2",
-      "slug": "17-07-01-fang-bing-jiao-ban-qi-2",
-      "name_th": "หัวกวนผสมด้ามเหลี่ยม รายการที่ 2",
-      "name_cn": "方柄搅拌器 产品 2",
-      "price": 870,
-      "image": "/placeholder.png"
+      "id": "17-07-01-003",
+      "slug": "17-07-01-003",
+      "code": "17.07.01.003",
+      "sku": "JBQ-FB-0-78",
+      "name_th": "ก้านผสมปูน/สี ก้านเหลี่ยม",
+      "name_cn": "方柄搅拌器双山款 镀锌",
+      "price": 60,
+      "image": "/placeholder.svg",
+      "name_th_full": "เครื่องผสมอาหารแบบด้ามจับทรงสี่เหลี่ยม สไตล์ภูเขาคู่ ชุบสังกะสี",
+      "name_cn_full": "方柄搅拌器双山款 镀锌",
+      "product_name_raw": "方柄搅拌器双山款 镀锌",
+      "model": null,
+      "unit": "支",
+      "storage_location": "F20-1X",
+      "qty_sub_unit": "9支",
+      "qty_main_unit": 9,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 50,
+      "wholesale_price_2": null,
+      "last_import_date": "2026-05-14",
+      "category_cn": "搅拌器",
+      "category_code": "JBQ",
+      "material_cn": "方柄",
+      "material_code": "FB",
+      "spec_number": "0-78",
+      "row_no": 532,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

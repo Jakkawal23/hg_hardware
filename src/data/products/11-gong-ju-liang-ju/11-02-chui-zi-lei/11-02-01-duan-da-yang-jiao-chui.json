@@ -6,20 +6,36 @@
   "name_cn": "锻打羊角锤",
   "products": [
     {
-      "id": "11-02-01-duan-da-yang-jiao-chui-1",
-      "slug": "11-02-01-duan-da-yang-jiao-chui-1",
-      "name_th": "ค้อนหงอนตีขึ้นรูป รายการที่ 1",
-      "name_cn": "锻打羊角锤 产品 1",
-      "price": 748,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "11-02-01-duan-da-yang-jiao-chui-2",
-      "slug": "11-02-01-duan-da-yang-jiao-chui-2",
-      "name_th": "ค้อนหงอนตีขึ้นรูป รายการที่ 2",
-      "name_cn": "锻打羊角锤 产品 2",
-      "price": 618,
-      "image": "/placeholder.png"
+      "id": "11-02-01-002",
+      "slug": "11-02-01-002",
+      "code": "11.02.01.002",
+      "sku": "YJC-MB-00-01",
+      "name_th": "ค้อนหงอน ด้ามไม้",
+      "name_cn": "（木柄）羊角锤",
+      "price": 78,
+      "image": "/placeholder.svg",
+      "name_th_full": "ค้อนตอกตะปู (ด้ามไม้)",
+      "name_cn_full": "（木柄）羊角锤",
+      "product_name_raw": "（木柄）羊角锤",
+      "model": "0.5KG",
+      "unit": "把",
+      "storage_location": "A10-1-2-2",
+      "qty_sub_unit": "3盒+1把",
+      "qty_main_unit": 37,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 65,
+      "wholesale_price_2": null,
+      "last_import_date": "2026-06-30",
+      "category_cn": "羊角锤",
+      "category_code": "YJC",
+      "material_cn": "木柄",
+      "material_code": "MB",
+      "spec_number": "00-01",
+      "row_no": 63,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

@@ -6,20 +6,36 @@
   "name_cn": "脱卸合页",
   "products": [
     {
-      "id": "08-02-05-tuo-xie-he-ye-1",
-      "slug": "08-02-05-tuo-xie-he-ye-1",
-      "name_th": "บานพับถอดได้ รายการที่ 1",
-      "name_cn": "脱卸合页 产品 1",
-      "price": 204,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "08-02-05-tuo-xie-he-ye-2",
-      "slug": "08-02-05-tuo-xie-he-ye-2",
-      "name_th": "บานพับถอดได้ รายการที่ 2",
-      "name_cn": "脱卸合页 产品 2",
-      "price": 201,
-      "image": "/placeholder.png"
+      "id": "08-02-05-001",
+      "slug": "08-02-05-001",
+      "code": "08.02.05.001",
+      "sku": "JL-DXQX-4-01",
+      "name_th": "บานพับธงชุบกัลวาไนซ์ ขนาด 4 นิ้ว (บรรจุ 5 คู่/กล่อง)",
+      "name_cn": "镀锌旗型铰链合页/脱卸合页 4寸 （5付/盒）",
+      "price": 48,
+      "image": "/placeholder.svg",
+      "name_th_full": "บานพับธงชุบสังกะสี/บานพับถอดได้ ขนาด 4 นิ้ว (5 ชุด/กล่อง)",
+      "name_cn_full": "镀锌旗型铰链合页/脱卸合页 4寸 （5付/盒）",
+      "product_name_raw": "镀锌旗型铰链合页/脱卸合页 4寸 （5付/盒）",
+      "model": null,
+      "unit": "付",
+      "storage_location": "B18-3-2-6",
+      "qty_sub_unit": "2箱+2盒(130付)",
+      "qty_main_unit": 130,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 40,
+      "wholesale_price_2": null,
+      "last_import_date": "2025-05-16",
+      "category_cn": "铰链",
+      "category_code": "JL",
+      "material_cn": "镀锌旗型",
+      "material_code": "DXQX",
+      "spec_number": "4-01",
+      "row_no": 71,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

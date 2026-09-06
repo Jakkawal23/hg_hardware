@@ -6,20 +6,36 @@
   "name_cn": "保险管/熔断器",
   "products": [
     {
-      "id": "03-12-03-bao-xian-guan-rong-duan-qi-1",
-      "slug": "03-12-03-bao-xian-guan-rong-duan-qi-1",
-      "name_th": "ฟิวส์หลอด/ฟิวส์ตัด รายการที่ 1",
-      "name_cn": "保险管/熔断器 产品 1",
-      "price": 590,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "03-12-03-bao-xian-guan-rong-duan-qi-2",
-      "slug": "03-12-03-bao-xian-guan-rong-duan-qi-2",
-      "name_th": "ฟิวส์หลอด/ฟิวส์ตัด รายการที่ 2",
-      "name_cn": "保险管/熔断器 产品 2",
-      "price": 1055,
-      "image": "/placeholder.png"
+      "id": "03-12-03-001",
+      "slug": "03-12-03-001",
+      "code": "03.12.03.001",
+      "sku": "RDC-RT18-32A-01",
+      "name_th": "ฟิวส์หลอด/ฟิวส์ RT18 (32A) (บรรจุ 20 ชิ้น/กล่องเล็ก)",
+      "name_cn": "保险管/熔断器 RT18(32A)（20支/小盒）",
+      "price": 36,
+      "image": "/placeholder.svg",
+      "name_th_full": "ฟิวส์/ตัวตัดวงจร RT18 (32A) (20 ชิ้น/กล่อง)",
+      "name_cn_full": "保险管/熔断器 RT18(32A)（20支/小盒）",
+      "product_name_raw": "保险管/熔断器 RT18(32A)（20支/小盒）",
+      "model": null,
+      "unit": "小盒",
+      "storage_location": "B14-2-4",
+      "qty_sub_unit": "10小盒",
+      "qty_main_unit": 10,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 30,
+      "wholesale_price_2": null,
+      "last_import_date": "2025-05-16",
+      "category_cn": "熔断器",
+      "category_code": "RDC",
+      "material_cn": "RT18",
+      "material_code": "RT18",
+      "spec_number": "32A-01",
+      "row_no": 15,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

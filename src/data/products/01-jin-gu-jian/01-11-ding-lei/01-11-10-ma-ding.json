@@ -11,7 +11,7 @@
       "name_th": "ลวดเย็บ รายการที่ 1",
       "name_cn": "码钉 产品 1",
       "price": 135,
-      "image": "/placeholder.png"
+      "image": "/placeholder.svg"
     },
     {
       "id": "01-11-10-ma-ding-2",
@@ -19,7 +19,7 @@
       "name_th": "ลวดเย็บ รายการที่ 2",
       "name_cn": "码钉 产品 2",
       "price": 906,
-      "image": "/placeholder.png"
+      "image": "/placeholder.svg"
     }
   ]
 }

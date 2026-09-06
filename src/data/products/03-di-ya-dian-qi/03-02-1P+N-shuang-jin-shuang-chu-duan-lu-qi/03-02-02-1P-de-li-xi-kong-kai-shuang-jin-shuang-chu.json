@@ -6,20 +6,36 @@
   "name_cn": "1P德力西空开(双进双出)",
   "products": [
     {
-      "id": "03-02-02-1P-de-li-xi-kong-kai-shuang-jin-shuang-chu-1",
-      "slug": "03-02-02-1P-de-li-xi-kong-kai-shuang-jin-shuang-chu-1",
-      "name_th": "เบรกเกอร์เดลิกซี 1P (เข้าคู่ออกคู่) รายการที่ 1",
-      "name_cn": "1P德力西空开(双进双出) 产品 1",
-      "price": 397,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "03-02-02-1P-de-li-xi-kong-kai-shuang-jin-shuang-chu-2",
-      "slug": "03-02-02-1P-de-li-xi-kong-kai-shuang-jin-shuang-chu-2",
-      "name_th": "เบรกเกอร์เดลิกซี 1P (เข้าคู่ออกคู่) รายการที่ 2",
-      "name_cn": "1P德力西空开(双进双出) 产品 2",
-      "price": 650,
-      "image": "/placeholder.png"
+      "id": "03-02-0001",
+      "slug": "03-02-0001",
+      "code": "03.02.0001",
+      "sku": "WD-DZ47PLE-1PN32A-01",
+      "name_th": "เบรกเกอร์จิ๋ว DELIXI DZ47PLE 1P+N 32A (บรรจุ 6 ตัว/กล่อง)",
+      "name_cn": "德力西微断DZ47PLE 1P+N 32A（6个/盒）",
+      "price": 180,
+      "image": "/placeholder.svg",
+      "name_th_full": "Delixi Micro-break DZ47PLE 1P+N 32A (6 ชิ้น/กล่อง)",
+      "name_cn_full": "德力西微断DZ47PLE 1P+N 32A（6个/盒）",
+      "product_name_raw": "德力西微断DZ47PLE 1P+N 32A（6个/盒）เบรกเกอร์กันไฟดูด",
+      "model": null,
+      "unit": "个/ชิ้น",
+      "storage_location": null,
+      "qty_sub_unit": "24个/ชิ้น",
+      "qty_main_unit": 24,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 150,
+      "wholesale_price_2": null,
+      "last_import_date": null,
+      "category_cn": "微断",
+      "category_code": "WD",
+      "material_cn": "DZ47PLE",
+      "material_code": "DZ47PLE",
+      "spec_number": "1PN32A-01",
+      "row_no": 1,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

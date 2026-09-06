@@ -6,20 +6,36 @@
   "name_cn": "断头取出器",
   "products": [
     {
-      "id": "21-03-04-duan-tou-qu-chu-qi-1",
-      "slug": "21-03-04-duan-tou-qu-chu-qi-1",
-      "name_th": "เครื่องมือถอนสกรูหัวขาด รายการที่ 1",
-      "name_cn": "断头取出器 产品 1",
-      "price": 871,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "21-03-04-duan-tou-qu-chu-qi-2",
-      "slug": "21-03-04-duan-tou-qu-chu-qi-2",
-      "name_th": "เครื่องมือถอนสกรูหัวขาด รายการที่ 2",
-      "name_cn": "断头取出器 产品 2",
-      "price": 140,
-      "image": "/placeholder.png"
+      "id": "21-03-04-001",
+      "slug": "21-03-04-001",
+      "code": "21.03.04.001",
+      "sku": "LSQCQ-5JT-05",
+      "name_th": "ชุดถอนเกลียวซ้าย/ชุดเครื่องมือถอดน็อตขาด เซ็ต 5 ชิ้น",
+      "name_cn": "螺丝取出器/取丝器 5件套",
+      "price": 42,
+      "image": "/placeholder.svg",
+      "name_th_full": "ชุดเครื่องมือถอดสกรู/ถอดเกลียว 5 ชิ้น",
+      "name_cn_full": "螺丝取出器/取丝器 5件套",
+      "product_name_raw": "螺丝取出器/取丝器 5件套",
+      "model": null,
+      "unit": "套",
+      "storage_location": "B14-4-2-6",
+      "qty_sub_unit": "136套",
+      "qty_main_unit": 136,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 35,
+      "wholesale_price_2": null,
+      "last_import_date": "2025-05-16",
+      "category_cn": "螺丝取出器",
+      "category_code": "LSQCQ",
+      "material_cn": "5件套",
+      "material_code": "5JT",
+      "spec_number": "05",
+      "row_no": 153,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

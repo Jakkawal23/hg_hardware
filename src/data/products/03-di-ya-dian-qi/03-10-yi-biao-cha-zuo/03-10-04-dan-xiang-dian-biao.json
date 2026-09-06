@@ -6,20 +6,36 @@
   "name_cn": "单相电表",
   "products": [
     {
-      "id": "03-10-04-dan-xiang-dian-biao-1",
-      "slug": "03-10-04-dan-xiang-dian-biao-1",
-      "name_th": "มิเตอร์ไฟเฟสเดียว รายการที่ 1",
-      "name_cn": "单相电表 产品 1",
-      "price": 663,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "03-10-04-dan-xiang-dian-biao-2",
-      "slug": "03-10-04-dan-xiang-dian-biao-2",
-      "name_th": "มิเตอร์ไฟเฟสเดียว รายการที่ 2",
-      "name_cn": "单相电表 产品 2",
-      "price": 343,
-      "image": "/placeholder.png"
+      "id": "03-10-04-001",
+      "slug": "03-10-04-001",
+      "code": "03.10.04.001",
+      "sku": "DB-LY-1560A-01",
+      "name_th": "มิเตอร์ไฟฟ้าเฟสเดียวระบบบลูทูธแบบเติมเงิน 15-60A",
+      "name_cn": "单相蓝牙预付费电表 15-60A",
+      "price": 498,
+      "image": "/placeholder.svg",
+      "name_th_full": "มิเตอร์ไฟฟ้าแบบเติมเงินบลูทูธเฟสเดียว 15-60A",
+      "name_cn_full": "单相蓝牙预付费电表 15-60A",
+      "product_name_raw": "单相蓝牙预付费电表 15-60A",
+      "model": null,
+      "unit": "台",
+      "storage_location": "A12-1-3",
+      "qty_sub_unit": "25台",
+      "qty_main_unit": 25,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 415,
+      "wholesale_price_2": null,
+      "last_import_date": "2025-05-16",
+      "category_cn": "电表",
+      "category_code": "DB",
+      "material_cn": "蓝牙预付费",
+      "material_code": "LY",
+      "spec_number": "1560A-01",
+      "row_no": 3,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

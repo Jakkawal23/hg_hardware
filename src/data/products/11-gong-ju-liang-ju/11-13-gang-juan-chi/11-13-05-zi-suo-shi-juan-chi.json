@@ -6,20 +6,36 @@
   "name_cn": "自锁式卷尺",
   "products": [
     {
-      "id": "11-13-05-zi-suo-shi-juan-chi-1",
-      "slug": "11-13-05-zi-suo-shi-juan-chi-1",
-      "name_th": "ตลับเมตรล็อคอัตโนมัติ รายการที่ 1",
-      "name_cn": "自锁式卷尺 产品 1",
-      "price": 796,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "11-13-05-zi-suo-shi-juan-chi-2",
-      "slug": "11-13-05-zi-suo-shi-juan-chi-2",
-      "name_th": "ตลับเมตรล็อคอัตโนมัติ รายการที่ 2",
-      "name_cn": "自锁式卷尺 产品 2",
-      "price": 267,
-      "image": "/placeholder.png"
+      "id": "11-13-05-003",
+      "slug": "11-13-05-003",
+      "code": "11.13.05.003",
+      "sku": "JC-HFZS-110525-01",
+      "name_th": "ตลับเมตรแบบล็อคอัตโนมัติ ยี่ห้อHufan รุ่น 110525",
+      "name_cn": "沪帆 自锁式卷尺 110525",
+      "price": 60,
+      "image": "/placeholder.svg",
+      "name_th_full": "เทปวัดแบบล็อคตัวเอง Hufan รุ่น 110525",
+      "name_cn_full": "沪帆 自锁式卷尺 110525",
+      "product_name_raw": "沪帆 自锁式卷尺 110525",
+      "model": "5*25",
+      "unit": "把",
+      "storage_location": "A43-2-1",
+      "qty_sub_unit": "1盒",
+      "qty_main_unit": 12,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 50,
+      "wholesale_price_2": null,
+      "last_import_date": "2025-11-16",
+      "category_cn": "卷尺",
+      "category_code": "JC",
+      "material_cn": "沪帆自锁",
+      "material_code": "HFZS",
+      "spec_number": "110525-01",
+      "row_no": 753,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

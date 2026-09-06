@@ -6,20 +6,36 @@
   "name_cn": "下水器",
   "products": [
     {
-      "id": "19-09-02-xia-shui-qi-1",
-      "slug": "19-09-02-xia-shui-qi-1",
-      "name_th": "ตัวระบายน้ำทิ้ง รายการที่ 1",
-      "name_cn": "下水器 产品 1",
-      "price": 889,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "19-09-02-xia-shui-qi-2",
-      "slug": "19-09-02-xia-shui-qi-2",
-      "name_th": "ตัวระบายน้ำทิ้ง รายการที่ 2",
-      "name_cn": "下水器 产品 2",
-      "price": 596,
-      "image": "/placeholder.png"
+      "id": "19-09-02-014",
+      "slug": "19-09-02-014",
+      "code": "19.09.02.014",
+      "sku": "XSQ-FG-TDD-1611",
+      "name_th": "สะดืออ่างล้างหน้าแบบฝาพลิก ทองเหลืองชุบโครเมียม Hufan",
+      "name_cn": "沪帆/HF1611/翻盖下水器/铜电镀",
+      "price": 276,
+      "image": "/placeholder.svg",
+      "name_th_full": "ชุดท่อระบายน้ำแบบฝาเปิดปิด Hufan/HF1611/ชุบทองแดง",
+      "name_cn_full": "沪帆/HF1611/翻盖下水器/铜电镀",
+      "product_name_raw": "沪帆/HF1611/翻盖下水器/铜电镀",
+      "model": null,
+      "unit": "个",
+      "storage_location": "B2-2-1-1",
+      "qty_sub_unit": "17个",
+      "qty_main_unit": 17,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 230,
+      "wholesale_price_2": null,
+      "last_import_date": "2025-05-16",
+      "category_cn": "下水器",
+      "category_code": "XSQ",
+      "material_cn": "翻盖铜电镀",
+      "material_code": "FG-TDD",
+      "spec_number": "1611.0",
+      "row_no": 59,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

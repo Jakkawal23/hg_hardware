@@ -6,20 +6,36 @@
   "name_cn": "管子剪",
   "products": [
     {
-      "id": "11-05-03-guan-zi-jian-1",
-      "slug": "11-05-03-guan-zi-jian-1",
-      "name_th": "กรรไกรตัดท่อ รายการที่ 1",
-      "name_cn": "管子剪 产品 1",
-      "price": 148,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "11-05-03-guan-zi-jian-2",
-      "slug": "11-05-03-guan-zi-jian-2",
-      "name_th": "กรรไกรตัดท่อ รายการที่ 2",
-      "name_cn": "管子剪 产品 2",
-      "price": 874,
-      "image": "/placeholder.png"
+      "id": "11-05-03-005",
+      "slug": "11-05-03-005",
+      "code": "11.05.03.005",
+      "sku": "GZQ-JH-450-01",
+      "name_th": "ประแจคอม้า (Pipe Wrench) อเมริกัน ขนาด 450 มม. (18 นิ้ว)",
+      "name_cn": "金虎美式管子钳 450（18寸）",
+      "price": 408,
+      "image": "/placeholder.svg",
+      "name_th_full": "ประแจท่อแบบอเมริกัน ยี่ห้อ Golden Tiger รุ่น 450 (18 นิ้ว)",
+      "name_cn_full": "金虎美式管子钳 450（18寸）",
+      "product_name_raw": "金虎美式管子钳 450（18寸คีมท่อ）",
+      "model": null,
+      "unit": "把",
+      "storage_location": "B21-3-2",
+      "qty_sub_unit": "8把",
+      "qty_main_unit": 8,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 340,
+      "wholesale_price_2": null,
+      "last_import_date": "2026-04-14",
+      "category_cn": "管子钳",
+      "category_code": "GZQ",
+      "material_cn": "金虎",
+      "material_code": "JH",
+      "spec_number": "450-01",
+      "row_no": 453,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

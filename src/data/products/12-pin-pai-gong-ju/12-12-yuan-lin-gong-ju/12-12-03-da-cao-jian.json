@@ -6,20 +6,36 @@
   "name_cn": "大草剪",
   "products": [
     {
-      "id": "12-12-03-da-cao-jian-1",
-      "slug": "12-12-03-da-cao-jian-1",
-      "name_th": "กรรไกรตัดหญ้าใหญ่ รายการที่ 1",
-      "name_cn": "大草剪 产品 1",
-      "price": 239,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "12-12-03-da-cao-jian-2",
-      "slug": "12-12-03-da-cao-jian-2",
-      "name_th": "กรรไกรตัดหญ้าใหญ่ รายการที่ 2",
-      "name_cn": "大草剪 产品 2",
-      "price": 1010,
-      "image": "/placeholder.png"
+      "id": "12-12-03-008",
+      "slug": "12-12-03-008",
+      "code": "12.12.03.008",
+      "sku": "CJ-24C-01-01",
+      "name_th": "กรรไกรตัดหญ้า ขนาด 24 นิ้ว",
+      "name_cn": "24”大草剪（12把/盒）YT-202002 / 24",
+      "price": 276,
+      "image": "/placeholder.svg",
+      "name_th_full": "กรรไตัดหญ้าขนาดใหญ่ 24 นิ้ว (12 ชิ้น/กล่อง) YT-202002 / 24",
+      "name_cn_full": "24”大草剪（12把/盒）YT-202002 / 24",
+      "product_name_raw": "24”大草剪（12把/盒）YT-202002 / กรรไกรตัดหญ้า ขนาดใหญ่ 24",
+      "model": null,
+      "unit": "把/กำมือ",
+      "storage_location": null,
+      "qty_sub_unit": "3把/กำมือ",
+      "qty_main_unit": 3,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 230,
+      "wholesale_price_2": null,
+      "last_import_date": null,
+      "category_cn": "草剪",
+      "category_code": "CJ",
+      "material_cn": "24寸",
+      "material_code": "24C",
+      "spec_number": "01-01",
+      "row_no": 142,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

@@ -6,20 +6,36 @@
   "name_cn": "绝缘手套",
   "products": [
     {
-      "id": "13-01-06-jue-yuan-shou-tao-1",
-      "slug": "13-01-06-jue-yuan-shou-tao-1",
-      "name_th": "ถุงมือกันไฟฟ้า รายการที่ 1",
-      "name_cn": "绝缘手套 产品 1",
-      "price": 672,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "13-01-06-jue-yuan-shou-tao-2",
-      "slug": "13-01-06-jue-yuan-shou-tao-2",
-      "name_th": "ถุงมือกันไฟฟ้า รายการที่ 2",
-      "name_cn": "绝缘手套 产品 2",
-      "price": 686,
-      "image": "/placeholder.png"
+      "id": "13-01-06-001",
+      "slug": "13-01-06-001",
+      "code": "13.01.06.001",
+      "sku": "ST-JY-12-01",
+      "name_th": "ถุงมือยางกันไฟฟ้าแรงสูง 12KV Hengju",
+      "name_cn": "恒聚-橡胶绝缘手套 12KV电压",
+      "price": 228,
+      "image": "/placeholder.svg",
+      "name_th_full": "ถุงมือยางหุ้มฉนวน Hengju แรงดัน 12KV",
+      "name_cn_full": "恒聚-橡胶绝缘手套 12KV电压",
+      "product_name_raw": "恒聚-橡胶绝缘手套 12KV电压",
+      "model": null,
+      "unit": "双",
+      "storage_location": "A7-3-3",
+      "qty_sub_unit": "3双",
+      "qty_main_unit": 3,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 190,
+      "wholesale_price_2": null,
+      "last_import_date": "2026-05-08",
+      "category_cn": "手套",
+      "category_code": "ST",
+      "material_cn": "绝缘",
+      "material_code": "JY",
+      "spec_number": "12-01",
+      "row_no": 7,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

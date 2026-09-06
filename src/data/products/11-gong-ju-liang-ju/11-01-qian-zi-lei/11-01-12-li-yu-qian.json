@@ -6,20 +6,36 @@
   "name_cn": "鲤鱼钳",
   "products": [
     {
-      "id": "11-01-12-li-yu-qian-1",
-      "slug": "11-01-12-li-yu-qian-1",
-      "name_th": "คีมจระเข้ รายการที่ 1",
-      "name_cn": "鲤鱼钳 产品 1",
-      "price": 679,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "11-01-12-li-yu-qian-2",
-      "slug": "11-01-12-li-yu-qian-2",
-      "name_th": "คีมจระเข้ รายการที่ 2",
-      "name_cn": "鲤鱼钳 产品 2",
-      "price": 400,
-      "image": "/placeholder.png"
+      "id": "11-01-12-001",
+      "slug": "11-01-12-001",
+      "code": "11.01.12.001",
+      "sku": "LYQ-PT-08-01",
+      "name_th": "คีมปากจระเข้ 8 นิ้ว",
+      "name_cn": "鲤鱼钳 8寸",
+      "price": 90,
+      "image": "/placeholder.svg",
+      "name_th_full": "คีมจับปลาคาร์พ ขนาด 8 นิ้ว",
+      "name_cn_full": "鲤鱼钳 8寸",
+      "product_name_raw": "鲤鱼钳 8寸",
+      "model": null,
+      "unit": "把",
+      "storage_location": "B10-1-4",
+      "qty_sub_unit": "9盒(90把)",
+      "qty_main_unit": 90,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 75,
+      "wholesale_price_2": null,
+      "last_import_date": "2025-05-16",
+      "category_cn": "鲤鱼钳",
+      "category_code": "LYQ",
+      "material_cn": "普通",
+      "material_code": "PT",
+      "spec_number": "08-01",
+      "row_no": 58,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

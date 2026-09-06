@@ -6,20 +6,36 @@
   "name_cn": "发泡枪",
   "products": [
     {
-      "id": "11-06-04-fa-pao-qiang-1",
-      "slug": "11-06-04-fa-pao-qiang-1",
-      "name_th": "ปืนยิงโฟม รายการที่ 1",
-      "name_cn": "发泡枪 产品 1",
-      "price": 806,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "11-06-04-fa-pao-qiang-2",
-      "slug": "11-06-04-fa-pao-qiang-2",
-      "name_th": "ปืนยิงโฟม รายการที่ 2",
-      "name_cn": "发泡枪 产品 2",
-      "price": 424,
-      "image": "/placeholder.png"
+      "id": "11-06-04-001",
+      "slug": "11-06-04-001",
+      "code": "11.06.04.001",
+      "sku": "FPQ-SL-00000-01",
+      "name_th": "ปืนยิงโฟมพียู แบบพลาสติก สีเหลือง บรรจุ 2 ชิ้น/กล่อง",
+      "name_cn": "-5发泡枪 塑料黄色（2把/盒）",
+      "price": 105.6,
+      "image": "/placeholder.svg",
+      "name_th_full": "-5 ปืนฉีดโฟม พลาสติกสีเหลือง (2 กระบอก/กล่อง)",
+      "name_cn_full": "-5发泡枪 塑料黄色（2把/盒）",
+      "product_name_raw": "-5发泡枪 塑料黄色（2把/盒）",
+      "model": null,
+      "unit": "把",
+      "storage_location": "A9-1-1-1",
+      "qty_sub_unit": "1盒+1把(3把)",
+      "qty_main_unit": 3,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 88,
+      "wholesale_price_2": null,
+      "last_import_date": "2025-05-16",
+      "category_cn": "发泡枪",
+      "category_code": "FPQ",
+      "material_cn": "塑料",
+      "material_code": "SL",
+      "spec_number": "00000-01",
+      "row_no": 474,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

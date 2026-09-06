@@ -6,20 +6,36 @@
   "name_cn": "弹力柱",
   "products": [
     {
-      "id": "27-05-tan-li-zhu-1",
-      "slug": "27-05-tan-li-zhu-1",
-      "name_th": "เสาสปริงยืดหยุ่น รายการที่ 1",
-      "name_cn": "弹力柱 产品 1",
-      "price": 1006,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "27-05-tan-li-zhu-2",
-      "slug": "27-05-tan-li-zhu-2",
-      "name_th": "เสาสปริงยืดหยุ่น รายการที่ 2",
-      "name_cn": "弹力柱 产品 2",
-      "price": 817,
-      "image": "/placeholder.png"
+      "id": "27-05-0002",
+      "slug": "27-05-0002",
+      "code": "27.05.0002",
+      "sku": "JSZ-PU-TL-FZ-700MM",
+      "name_th": "เสาจราจรล้มลุกพลาสติก PU กันกระแทก สูง 70 ซม. (700มม.)",
+      "name_cn": "PU弹力柱/防撞柱/警示柱 700cm",
+      "price": 96,
+      "image": "/placeholder.svg",
+      "name_th_full": "เสาจราจรยางยืด PU/เสาป้องกันการชน/เสาเตือนภัย ยาว 700 ซม.",
+      "name_cn_full": "PU弹力柱/防撞柱/警示柱 700cm",
+      "product_name_raw": "PU弹力柱/防撞柱/警示柱 700cm",
+      "model": null,
+      "unit": "个",
+      "storage_location": null,
+      "qty_sub_unit": "30个",
+      "qty_main_unit": 30,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 80,
+      "wholesale_price_2": null,
+      "last_import_date": "2026-04-07",
+      "category_cn": "警示柱",
+      "category_code": "JSZ",
+      "material_cn": "PU弹力防撞",
+      "material_code": "PU-TL-FZ",
+      "spec_number": "700MM",
+      "row_no": 7,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

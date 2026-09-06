@@ -6,20 +6,36 @@
   "name_cn": "电箱导轨",
   "products": [
     {
-      "id": "05-01-20-dian-xiang-dao-gui-1",
-      "slug": "05-01-20-dian-xiang-dao-gui-1",
-      "name_th": "รางติดตั้งตู้ไฟ (DIN Rail) รายการที่ 1",
-      "name_cn": "电箱导轨 产品 1",
-      "price": 819,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "05-01-20-dian-xiang-dao-gui-2",
-      "slug": "05-01-20-dian-xiang-dao-gui-2",
-      "name_th": "รางติดตั้งตู้ไฟ (DIN Rail) รายการที่ 2",
-      "name_cn": "电箱导轨 产品 2",
-      "price": 272,
-      "image": "/placeholder.png"
+      "id": "05-01-20-001",
+      "slug": "05-01-20-001",
+      "code": "05.01.20.001",
+      "sku": "HLX-DG08-081000-01",
+      "name_th": "รางปีกนกสำหรับตู้ไฟ 0.8*1000",
+      "name_cn": "配电箱导轨/回路箱 0.8*1000（不退换）",
+      "price": 24,
+      "image": "/placeholder.svg",
+      "name_th_full": "กล่องจ่ายไฟแบบราง/กล่องวงจร 0.8*1000 (ไม่สามารถคืนเงินหรือเปลี่ยนสินค้าได้)",
+      "name_cn_full": "配电箱导轨/回路箱 0.8*1000（不退换）",
+      "product_name_raw": "配电箱导轨/回路箱 0.8*1000（不退换）",
+      "model": null,
+      "unit": "根",
+      "storage_location": "C2-4-2",
+      "qty_sub_unit": "15根",
+      "qty_main_unit": 15,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 20,
+      "wholesale_price_2": null,
+      "last_import_date": "2026-04-07",
+      "category_cn": "回路箱",
+      "category_code": "HLX",
+      "material_cn": "导轨0.8",
+      "material_code": "DG08",
+      "spec_number": "081000-01",
+      "row_no": 96,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

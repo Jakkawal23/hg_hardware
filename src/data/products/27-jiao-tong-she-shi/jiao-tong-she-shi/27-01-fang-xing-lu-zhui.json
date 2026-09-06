@@ -6,20 +6,36 @@
   "name_cn": "方形路锥",
   "products": [
     {
-      "id": "27-01-fang-xing-lu-zhui-1",
-      "slug": "27-01-fang-xing-lu-zhui-1",
-      "name_th": "กรวยจราจรทรงเหลี่ยม รายการที่ 1",
-      "name_cn": "方形路锥 产品 1",
-      "price": 591,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "27-01-fang-xing-lu-zhui-2",
-      "slug": "27-01-fang-xing-lu-zhui-2",
-      "name_th": "กรวยจราจรทรงเหลี่ยม รายการที่ 2",
-      "name_cn": "方形路锥 产品 2",
-      "price": 891,
-      "image": "/placeholder.png"
+      "id": "27-01-0002",
+      "slug": "27-01-0002",
+      "code": "27.01.0002",
+      "sku": "LZ-FX-HB-70CM",
+      "name_th": "กรวยจราจรฐานเหลี่ยม สีแดง-ขาว สูง 70 ซม.",
+      "name_cn": "70方形路锥红白/警示锥",
+      "price": 102,
+      "image": "/placeholder.svg",
+      "name_th_full": "กรวยจราจรทรงสี่เหลี่ยม 70 อัน (สีแดงและสีขาว) / กรวยเตือนภัย",
+      "name_cn_full": "70方形路锥红白/警示锥",
+      "product_name_raw": "70方形路锥红白/警示锥",
+      "model": null,
+      "unit": "个",
+      "storage_location": null,
+      "qty_sub_unit": "700个",
+      "qty_main_unit": 700,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 85,
+      "wholesale_price_2": null,
+      "last_import_date": "2026-06-16",
+      "category_cn": "路锥",
+      "category_code": "LZ",
+      "material_cn": "方形红白",
+      "material_code": "FX-HB",
+      "spec_number": "70CM",
+      "row_no": 1,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

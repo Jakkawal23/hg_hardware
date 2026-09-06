@@ -6,20 +6,36 @@
   "name_cn": "吊顶扳手",
   "products": [
     {
-      "id": "11-03-08-diao-ding-ban-shou-1",
-      "slug": "11-03-08-diao-ding-ban-shou-1",
-      "name_th": "ประแจงานฝ้าเพดาน รายการที่ 1",
-      "name_cn": "吊顶扳手 产品 1",
-      "price": 168,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "11-03-08-diao-ding-ban-shou-2",
-      "slug": "11-03-08-diao-ding-ban-shou-2",
-      "name_th": "ประแจงานฝ้าเพดาน รายการที่ 2",
-      "name_cn": "吊顶扳手 产品 2",
-      "price": 1023,
-      "image": "/placeholder.png"
+      "id": "11-03-08-001",
+      "slug": "11-03-08-001",
+      "code": "11.03.08.001",
+      "sku": "DJB-KS-1214-01",
+      "name_th": "ประแจสำหรับขันสกรูยึดฝ้า Kangge 12-14mm",
+      "name_cn": "康歌吊顶丝杆专用扳手/吊顶扳手 12-14",
+      "price": 132,
+      "image": "/placeholder.svg",
+      "name_th_full": "ประแจขันสกรูฝ้าเพดาน Kangge / ประแจขันสกรูฝ้าเพดาน 12-14",
+      "name_cn_full": "康歌吊顶丝杆专用扳手/吊顶扳手 12-14",
+      "product_name_raw": "康歌吊顶丝杆专用扳手/吊顶扳手 12-14",
+      "model": null,
+      "unit": "把",
+      "storage_location": "A9-1-0",
+      "qty_sub_unit": "2盒+3把",
+      "qty_main_unit": 23,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 110,
+      "wholesale_price_2": null,
+      "last_import_date": "2025-05-16",
+      "category_cn": "吊顶扳手",
+      "category_code": "DJB",
+      "material_cn": "康歌专用",
+      "material_code": "KS",
+      "spec_number": "1214-01",
+      "row_no": 293,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

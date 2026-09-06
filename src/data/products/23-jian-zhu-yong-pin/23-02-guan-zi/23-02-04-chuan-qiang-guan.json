@@ -6,20 +6,36 @@
   "name_cn": "穿墙管",
   "products": [
     {
-      "id": "23-02-04-chuan-qiang-guan-1",
-      "slug": "23-02-04-chuan-qiang-guan-1",
-      "name_th": "ท่อลอดผนัง รายการที่ 1",
-      "name_cn": "穿墙管 产品 1",
-      "price": 334,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "23-02-04-chuan-qiang-guan-2",
-      "slug": "23-02-04-chuan-qiang-guan-2",
-      "name_th": "ท่อลอดผนัง รายการที่ 2",
-      "name_cn": "穿墙管 产品 2",
-      "price": 951,
-      "image": "/placeholder.png"
+      "id": "23-02-04-001",
+      "slug": "23-02-04-001",
+      "code": "23.02.04.001",
+      "sku": "CQG-CXG-ZY-2.5M-18",
+      "name_th": "ท่อร้อยสายไฟทะลุกำแพง ยาว 2.5 เมตร ขนาด 18 มม.",
+      "name_cn": "穿墙管2.5米 φ18（穿线管）",
+      "price": 7.2,
+      "image": "/placeholder.svg",
+      "name_th_full": "ท่อร้อยสายไฟแบบทะลุผนัง ยาว 2.5 เมตร เส้นผ่านศูนย์กลาง 18 มม. (ท่อสำหรับเดินสายไฟ)",
+      "name_cn_full": "穿墙管2.5米 φ18（穿线管）",
+      "product_name_raw": "穿墙管2.5米 φ18（穿线管）",
+      "model": "一捆50支",
+      "unit": "支",
+      "storage_location": null,
+      "qty_sub_unit": "471捆",
+      "qty_main_unit": 23550,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 6,
+      "wholesale_price_2": null,
+      "last_import_date": "2026-06-02",
+      "category_cn": "穿墙管",
+      "category_code": "CQG",
+      "material_cn": "穿线管专用",
+      "material_code": "CXG-ZY",
+      "spec_number": "2.5M-18",
+      "row_no": 30,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

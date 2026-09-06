@@ -6,20 +6,36 @@
   "name_cn": "油桶",
   "products": [
     {
-      "id": "23-03-05-you-tong-1",
-      "slug": "23-03-05-you-tong-1",
-      "name_th": "ถังน้ำมัน รายการที่ 1",
-      "name_cn": "油桶 产品 1",
-      "price": 379,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "23-03-05-you-tong-2",
-      "slug": "23-03-05-you-tong-2",
-      "name_th": "ถังน้ำมัน รายการที่ 2",
-      "name_cn": "油桶 产品 2",
-      "price": 807,
-      "image": "/placeholder.png"
+      "id": "23-03-05-008",
+      "slug": "23-03-05-008",
+      "code": "23.03.05.008",
+      "sku": "YT-SB-TI-30L",
+      "name_th": "ถังใส่น้ำมันเหล็กชนิด 3 หูหิ้ว ขนาด 30 ลิตร",
+      "name_cn": "三柄油桶 30升",
+      "price": 444,
+      "image": "/placeholder.svg",
+      "name_th_full": "ถังน้ำมัน 3 ถัง ถังละ 30 ลิตร",
+      "name_cn_full": "三柄油桶 30升",
+      "product_name_raw": "三柄油桶 30升",
+      "model": null,
+      "unit": "个/ชิ้น",
+      "storage_location": null,
+      "qty_sub_unit": "7个/ชิ้น",
+      "qty_main_unit": 7,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 370,
+      "wholesale_price_2": null,
+      "last_import_date": null,
+      "category_cn": "油桶",
+      "category_code": "YT",
+      "material_cn": "三柄铁质",
+      "material_code": "SB-TI",
+      "spec_number": "30L",
+      "row_no": 41,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

@@ -6,20 +6,36 @@
   "name_cn": "防雨飞碟灯",
   "products": [
     {
-      "id": "22-01-13-fang-yu-fei-die-deng-1",
-      "slug": "22-01-13-fang-yu-fei-die-deng-1",
-      "name_th": "โคมไฟจานบินกันฝน รายการที่ 1",
-      "name_cn": "防雨飞碟灯 产品 1",
-      "price": 912,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "22-01-13-fang-yu-fei-die-deng-2",
-      "slug": "22-01-13-fang-yu-fei-die-deng-2",
-      "name_th": "โคมไฟจานบินกันฝน รายการที่ 2",
-      "name_cn": "防雨飞碟灯 产品 2",
-      "price": 400,
-      "image": "/placeholder.png"
+      "id": "22-01-13-001",
+      "slug": "22-01-13-001",
+      "code": "22.01.13.001",
+      "sku": "GKD-YM-FYFD-100W",
+      "name_th": "โคมไฟโรงงานทรงไฮเบย์/จานบินกันน้ำ Yaming 100W",
+      "name_cn": "亚明防雨水飞碟工矿灯 100w",
+      "price": 372,
+      "image": "/placeholder.svg",
+      "name_th_full": "โคมไฟอุตสาหกรรมและเหมืองแร่รูปทรง UFO กันน้ำ กำลังไฟ 100 วัตต์ ยี่ห้อ Yaming",
+      "name_cn_full": "亚明防雨水飞碟工矿灯 100w",
+      "product_name_raw": "亚明防雨水飞碟工矿灯 100w",
+      "model": null,
+      "unit": "个",
+      "storage_location": null,
+      "qty_sub_unit": "2个",
+      "qty_main_unit": 2,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 310,
+      "wholesale_price_2": null,
+      "last_import_date": "2025-05-16",
+      "category_cn": "工矿灯",
+      "category_code": "GKD",
+      "material_cn": "亚明防雨飞碟",
+      "material_code": "YM-FYFD",
+      "spec_number": "100W",
+      "row_no": 51,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

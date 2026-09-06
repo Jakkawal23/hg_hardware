@@ -6,20 +6,36 @@
   "name_cn": "螺杆及配件",
   "products": [
     {
-      "id": "01-12-03-luo-gan-ji-pei-jian-1",
-      "slug": "01-12-03-luo-gan-ji-pei-jian-1",
-      "name_th": "แกนเกลียวและอุปกรณ์เสริม รายการที่ 1",
-      "name_cn": "螺杆及配件 产品 1",
-      "price": 552,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "01-12-03-luo-gan-ji-pei-jian-2",
-      "slug": "01-12-03-luo-gan-ji-pei-jian-2",
-      "name_th": "แกนเกลียวและอุปกรณ์เสริม รายการที่ 2",
-      "name_cn": "螺杆及配件 产品 2",
-      "price": 984,
-      "image": "/placeholder.png"
+      "id": "01-12-03-001",
+      "slug": "01-12-03-001",
+      "code": "01.12.03.001",
+      "sku": "SXK-SX-001-01",
+      "name_th": "แคลมป์ทรงภูเขา",
+      "name_cn": "山型卡",
+      "price": 3,
+      "image": "/placeholder.svg",
+      "name_th_full": "การ์ดรูปภูเขา",
+      "name_cn_full": "山型卡",
+      "product_name_raw": "山型卡",
+      "model": null,
+      "unit": "个",
+      "storage_location": null,
+      "qty_sub_unit": "5件+100个",
+      "qty_main_unit": 1100,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 2.5,
+      "wholesale_price_2": null,
+      "last_import_date": "2026-05-02",
+      "category_cn": "山型卡",
+      "category_code": "SXK",
+      "material_cn": "山型",
+      "material_code": "SX",
+      "spec_number": "001-01",
+      "row_no": 786,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

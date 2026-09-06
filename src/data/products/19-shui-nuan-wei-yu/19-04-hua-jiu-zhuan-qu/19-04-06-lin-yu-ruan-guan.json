@@ -6,20 +6,36 @@
   "name_cn": "淋浴软管",
   "products": [
     {
-      "id": "19-04-06-lin-yu-ruan-guan-1",
-      "slug": "19-04-06-lin-yu-ruan-guan-1",
-      "name_th": "สายฝักบัวอ่อน รายการที่ 1",
-      "name_cn": "淋浴软管 产品 1",
-      "price": 618,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "19-04-06-lin-yu-ruan-guan-2",
-      "slug": "19-04-06-lin-yu-ruan-guan-2",
-      "name_th": "สายฝักบัวอ่อน รายการที่ 2",
-      "name_cn": "淋浴软管 产品 2",
-      "price": 184,
-      "image": "/placeholder.png"
+      "id": "19-04-06-006",
+      "slug": "19-04-06-006",
+      "code": "19.04.06.006",
+      "sku": "LYRG-DD-QT-1.5-01671",
+      "name_th": "สายฝักบัวชุบโครเมียมถักถี่ SHPERSA น็อตทองเหลืองแท้ 1.5 เมตร (แพ็คแผง)",
+      "name_cn": "SHPERSA/01671/电镀加密淋浴软管全铜螺帽/1.5米/吸塑包装",
+      "price": 108,
+      "image": "/placeholder.svg",
+      "name_th_full": "สายฝักบัวชุบไฟฟ้าแบบเข้ารหัส SHPERSA/01671/1.5 เมตร/บรรจุภัณฑ์แบบแผงพลาสติก",
+      "name_cn_full": "SHPERSA/01671/电镀加密淋浴软管全铜螺帽/1.5米/吸塑包装",
+      "product_name_raw": "SHPERSA/01671/电镀加密淋浴软管全铜螺帽/1.5米/吸塑包装",
+      "model": null,
+      "unit": "根",
+      "storage_location": "B46-2-1",
+      "qty_sub_unit": "8根",
+      "qty_main_unit": 8,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 90,
+      "wholesale_price_2": null,
+      "last_import_date": "2026-04-28",
+      "category_cn": "淋浴软管",
+      "category_code": "LYRG",
+      "material_cn": "电镀加密全铜帽",
+      "material_code": "DD-QT",
+      "spec_number": "1.5-01671",
+      "row_no": 8,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

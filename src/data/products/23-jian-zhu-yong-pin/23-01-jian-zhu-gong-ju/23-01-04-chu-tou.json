@@ -6,20 +6,36 @@
   "name_cn": "锄头",
   "products": [
     {
-      "id": "23-01-04-chu-tou-1",
-      "slug": "23-01-04-chu-tou-1",
-      "name_th": "จอบขุด รายการที่ 1",
-      "name_cn": "锄头 产品 1",
-      "price": 626,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "23-01-04-chu-tou-2",
-      "slug": "23-01-04-chu-tou-2",
-      "name_th": "จอบขุด รายการที่ 2",
-      "name_cn": "锄头 产品 2",
-      "price": 925,
-      "image": "/placeholder.png"
+      "id": "23-01-04-001",
+      "slug": "23-01-04-001",
+      "code": "23.01.04.001",
+      "sku": "CT-NY-WK-766",
+      "name_th": "จอบขุดดินการเกษตร-ปากโค้ง รุ่น 766",
+      "name_cn": "农用锄头-弯口 灰刮 766",
+      "price": 69.6,
+      "image": "/placeholder.svg",
+      "name_th_full": "จอบเกษตร - ใบมีดโค้ง, ที่ขูด 766",
+      "name_cn_full": "农用锄头-弯口 灰刮 766",
+      "product_name_raw": "农用锄头-弯口 灰刮 766",
+      "model": null,
+      "unit": "个",
+      "storage_location": null,
+      "qty_sub_unit": "1捆+18个",
+      "qty_main_unit": 68,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 58,
+      "wholesale_price_2": null,
+      "last_import_date": "2026-04-03",
+      "category_cn": "锄头",
+      "category_code": "CT",
+      "material_cn": "农用弯口",
+      "material_code": "NY-WK",
+      "spec_number": "766.0",
+      "row_no": 9,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

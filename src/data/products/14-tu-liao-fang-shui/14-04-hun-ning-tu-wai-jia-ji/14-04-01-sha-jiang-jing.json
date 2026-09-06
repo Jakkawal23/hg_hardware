@@ -11,7 +11,7 @@
       "name_th": "สารเพิ่มประสิทธิภาพปูนทราย รายการที่ 1",
       "name_cn": "砂浆精 产品 1",
       "price": 736,
-      "image": "/placeholder.png"
+      "image": "/placeholder.svg"
     },
     {
       "id": "14-04-01-sha-jiang-jing-2",
@@ -19,7 +19,7 @@
       "name_th": "สารเพิ่มประสิทธิภาพปูนทราย รายการที่ 2",
       "name_cn": "砂浆精 产品 2",
       "price": 880,
-      "image": "/placeholder.png"
+      "image": "/placeholder.svg"
     }
   ]
 }

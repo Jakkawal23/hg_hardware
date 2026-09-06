@@ -7,6 +7,7 @@ import { Plus, ChevronLeft, ChevronRight } from 'lucide-react';
 import { Link } from '@/i18n/routing';
 import { useLocale } from 'next-intl';
 import { toast } from 'sonner';
+import { formatPriceRange } from '@/lib/pricing';
 
 interface ProductProps {
   id: string;
@@ -15,18 +16,24 @@ interface ProductProps {
   name_cn: string;
   images?: string[];
   image?: string; // For backward compatibility
-  specs: Record<string, any>;
+  specs?: Record<string, any>;
+  sku?: string;
+  unit?: string | null;
+  wholesale_price_1?: number | null;
+  price?: number | null;
   price_display?: { th: string; cn: string };
 }
 
-export function ProductCard({ id, slug, name_th, name_cn, images, image, specs, price_display }: ProductProps) {
+export function ProductCard({ id, slug, name_th, name_cn, images, image, specs, sku, unit, wholesale_price_1, price, price_display }: ProductProps) {
   const addItem = useQuoteStore(state => state.addItem);
   const locale = useLocale();
   const name = locale === 'cn' ? name_cn : name_th;
-  const price = price_display ? (locale === 'cn' ? price_display.cn : price_display.th) : null;
-  
+  const legacyPrice = price_display ? (locale === 'cn' ? price_display.cn : price_display.th) : null;
+  const rangePrice = formatPriceRange(wholesale_price_1 ?? price, locale);
+  const displayPrice = legacyPrice || rangePrice;
+
   // Use images array if available, otherwise fallback to single image
-  const displayImages = images && images.length > 0 ? images : (image ? [image] : ['https://picsum.photos/seed/placeholder/800/800']);
+  const displayImages = images && images.length > 0 ? images : (image ? [image] : ['/placeholder.svg']);
 
   const [activeIndex, setActiveIndex] = useState(0);
   const scrollRef = useRef<HTMLDivElement>(null);
@@ -89,16 +96,25 @@ export function ProductCard({ id, slug, name_th, name_cn, images, image, specs, 
             {name}
           </h3>
           
-          {price && (
+          {displayPrice ? (
             <p className="text-brand-red font-semibold text-sm md:text-base mb-2">
-              {price}
+              {displayPrice}{unit ? ` / ${unit}` : ''}
+            </p>
+          ) : (
+            <p className="text-slate-400 text-xs md:text-sm mb-2 italic">
+              {locale === 'cn' ? '联系销售获取报价' : 'ติดต่อสอบถามราคา'}
             </p>
           )}
-          
+
           <div className="flex flex-wrap gap-1 mb-3 mt-auto">
+            {sku && (
+              <Badge variant="secondary" className="text-[10px] bg-slate-100 text-slate-600 font-normal">
+                {sku}
+              </Badge>
+            )}
             {specs && Object.entries(specs).slice(0, 2).map(([key, value]) => (
               <Badge variant="secondary" key={key} className="text-[10px] bg-slate-100 text-slate-600 font-normal">
-                {value}
+                {value as string}
               </Badge>
             ))}
           </div>

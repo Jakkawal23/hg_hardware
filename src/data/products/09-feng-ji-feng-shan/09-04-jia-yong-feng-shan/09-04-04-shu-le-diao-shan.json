@@ -6,20 +6,36 @@
   "name_cn": "舒乐吊扇",
   "products": [
     {
-      "id": "09-04-04-shu-le-diao-shan-1",
-      "slug": "09-04-04-shu-le-diao-shan-1",
-      "name_th": "พัดลมเพดานซูเล่อ รายการที่ 1",
-      "name_cn": "舒乐吊扇 产品 1",
-      "price": 350,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "09-04-04-shu-le-diao-shan-2",
-      "slug": "09-04-04-shu-le-diao-shan-2",
-      "name_th": "พัดลมเพดานซูเล่อ รายการที่ 2",
-      "name_cn": "舒乐吊扇 产品 2",
-      "price": 676,
-      "image": "/placeholder.png"
+      "id": "09-04-04-002",
+      "slug": "09-04-04-002",
+      "code": "09.04.04.002",
+      "sku": "DS-JL-140-01",
+      "name_th": "พัดลมเพดาน AC ยี่ห้อชูเล่อ รุ่น FD3A-140 (หน้ากล่องอักษรสีน้ำเงิน)",
+      "name_cn": "舒乐牌交流吊扇-外箱蓝字 FD3A-140",
+      "price": 1296,
+      "image": "/placeholder.svg",
+      "name_th_full": "พัดลมเพดานปรับอากาศยี่ห้อ Shule - ตัวอักษรสีน้ำเงินบนกล่องด้านนอก รุ่น FD3A-140",
+      "name_cn_full": "舒乐牌交流吊扇-外箱蓝字 FD3A-140",
+      "product_name_raw": "舒乐牌交流吊扇-外箱蓝字 FD3A-140",
+      "model": null,
+      "unit": "台",
+      "storage_location": null,
+      "qty_sub_unit": "1箱",
+      "qty_main_unit": 3,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 1080,
+      "wholesale_price_2": null,
+      "last_import_date": "2025-05-16",
+      "category_cn": "吊扇",
+      "category_code": "DS",
+      "material_cn": "交流",
+      "material_code": "JL",
+      "spec_number": "140-01",
+      "row_no": 8,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

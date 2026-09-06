@@ -11,7 +11,7 @@
       "name_th": "เพลาเกลียวสีดิบ ยาว 1 เมตร รายการที่ 1",
       "name_cn": "1米本色方键 产品 1",
       "price": 707,
-      "image": "/placeholder.png"
+      "image": "/placeholder.svg"
     },
     {
       "id": "01-01-05-yi-mi-ben-se-fang-jian-2",
@@ -19,7 +19,7 @@
       "name_th": "เพลาเกลียวสีดิบ ยาว 1 เมตร รายการที่ 2",
       "name_cn": "1米本色方键 产品 2",
       "price": 211,
-      "image": "/placeholder.png"
+      "image": "/placeholder.svg"
     }
   ]
 }

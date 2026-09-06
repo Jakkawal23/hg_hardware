@@ -6,20 +6,36 @@
   "name_cn": "砂皮架",
   "products": [
     {
-      "id": "16-04-10-sha-pi-jia-1",
-      "slug": "16-04-10-sha-pi-jia-1",
-      "name_th": "ที่จับกระดาษทราย รายการที่ 1",
-      "name_cn": "砂皮架 产品 1",
-      "price": 295,
-      "image": "/placeholder.png"
-    },
-    {
-      "id": "16-04-10-sha-pi-jia-2",
-      "slug": "16-04-10-sha-pi-jia-2",
-      "name_th": "ที่จับกระดาษทราย รายการที่ 2",
-      "name_cn": "砂皮架 产品 2",
-      "price": 916,
-      "image": "/placeholder.png"
+      "id": "16-04-10-002",
+      "slug": "16-04-10-002",
+      "code": "16.04.10.002",
+      "sku": "SPJ-GD-1-01",
+      "name_th": "แท่นจับกระดาษทรายเกรดพรีเมียม",
+      "name_cn": "砂皮架 高档",
+      "price": 30,
+      "image": "/placeholder.svg",
+      "name_th_full": "ชั้นวางกระดาษทรายคุณภาพสูง",
+      "name_cn_full": "砂皮架 高档",
+      "product_name_raw": "砂皮架 高档",
+      "model": null,
+      "unit": "个",
+      "storage_location": "B7-1-5",
+      "qty_sub_unit": "50个",
+      "qty_main_unit": 50,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 25,
+      "wholesale_price_2": null,
+      "last_import_date": "2026-06-08",
+      "category_cn": "砂皮架",
+      "category_code": "SPJ",
+      "material_cn": "高档",
+      "material_code": "GD",
+      "spec_number": "1-01",
+      "row_no": 70,
+      "col_o": null,
+      "col_r": null
     }
   ]
 }

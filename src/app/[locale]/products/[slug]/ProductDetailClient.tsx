@@ -9,6 +9,7 @@ import { useLocale } from 'next-intl';
 
 import { useState, useRef } from 'react';
 import { toast } from 'sonner';
+import { formatPriceRange } from '@/lib/pricing';
 
 export function ProductDetailClient({ product }: { product: any }) {
   const locale = useLocale();
@@ -19,7 +20,25 @@ export function ProductDetailClient({ product }: { product: any }) {
   const localizedName = locale === 'cn' ? product.name_cn : product.name_th;
   const shortDesc = locale === 'cn' ? (product.short_description as any)?.cn : (product.short_description as any)?.th;
   const fullDescHtml = locale === 'cn' ? (product.full_description_html as any)?.cn : (product.full_description_html as any)?.th;
-  const priceDisplay = locale === 'cn' ? (product.pricing_tier?.price_display as any)?.cn : (product.pricing_tier?.price_display as any)?.th;
+  const legacyPriceDisplay = locale === 'cn' ? (product.pricing_tier?.price_display as any)?.cn : (product.pricing_tier?.price_display as any)?.th;
+  // We only know the wholesale price, so the site shows a +/-20% band around it
+  // (e.g. a 100 THB wholesale price displays as "80 - 120") rather than one exact number.
+  const rangePriceDisplay = formatPriceRange(product.wholesale_price_1 ?? product.price, locale);
+  const priceDisplay = legacyPriceDisplay || rangePriceDisplay;
+
+  // Specs shown on the detail page — built from whichever fields this product actually has.
+  // Internal-only fields (cost, warehouse bin location, last import date) are deliberately excluded.
+  const specEntries: [string, string][] = product.specs
+    ? Object.entries(product.specs).map(([k, v]) => [k, String(v)])
+    : ([
+        [locale === 'cn' ? '货号' : 'รหัสสินค้า', product.code],
+        ['SKU', product.sku],
+        [locale === 'cn' ? '型号' : 'รุ่น/โมเดล', product.model],
+        [locale === 'cn' ? '规格' : 'ขนาด/สเปค', product.spec_number],
+        [locale === 'cn' ? '单位' : 'หน่วยนับ', product.unit],
+        [locale === 'cn' ? '材质' : 'วัสดุ', product.material_cn],
+        [locale === 'cn' ? '分类' : 'หมวดย่อย (จีน)', product.category_cn],
+      ].filter(([, v]) => !!v) as [string, string][]);
 
   const handleAdd = () => {
     if (product.variants && product.variants.length > 0 && !selectedVariant) {
@@ -27,12 +46,13 @@ export function ProductDetailClient({ product }: { product: any }) {
       return;
     }
     const cartId = selectedVariant ? `${product.id}_${selectedVariant}` : product.id;
-    addItem({ 
-      id: cartId, 
-      name_th: product.name_th || localizedName, 
-      name_cn: product.name_cn || localizedName, 
+    const firstImage = (product.images && product.images[0]) || product.image || '/placeholder.svg';
+    addItem({
+      id: cartId,
+      name_th: product.name_th || localizedName,
+      name_cn: product.name_cn || localizedName,
       quantity: 1,
-      image: product.images[0],
+      image: firstImage,
       variant: selectedVariant || undefined
     });
     toast.success(locale === 'th' ? 'เพิ่มลงในรายการขอใบเสนอราคาแล้ว' : '已添加到报价单');
@@ -51,7 +71,7 @@ export function ProductDetailClient({ product }: { product: any }) {
     }
   };
 
-  const displayImages = product.images && product.images.length > 0 ? product.images : (product.image ? [product.image] : ['/placeholder.png']);
+  const displayImages = product.images && product.images.length > 0 ? product.images : (product.image ? [product.image] : ['/placeholder.svg']);
 
   const handleNext = () => {
     if (activeImageIndex < displayImages.length - 1) {
@@ -145,26 +165,34 @@ export function ProductDetailClient({ product }: { product: any }) {
           {/* Details & Pricing Content */}
           <div className="p-8 lg:p-12 flex flex-col bg-white">
             <Badge className="w-fit mb-4 bg-slate-100 text-brand-navy hover:bg-slate-200 uppercase tracking-wider text-[10px] font-bold border border-slate-200">
-              {product.category_slug ? product.category_slug.replace('-', ' ') : (product.sub_category_slug ? product.sub_category_slug.replace('-', ' ') : 'HARDWARE')}
+              {product.category_cn || product.category_slug || product.sub_category_slug || 'HARDWARE'}
             </Badge>
-            
+
             <h1 className="text-3xl font-extrabold text-brand-navy mb-4 leading-tight">
               {localizedName}
             </h1>
-            
-            <p className="text-slate-600 mb-6 font-medium">
-              {shortDesc}
-            </p>
+
+            {(shortDesc || product.sku) && (
+              <p className="text-slate-600 mb-6 font-medium">
+                {shortDesc || (locale === 'cn' ? `货号：${product.sku}` : `รหัสอ้างอิง: ${product.sku}`)}
+              </p>
+            )}
 
             {/* Pricing Area */}
             <div className="bg-brand-surface border border-slate-200 rounded-xl p-6 mb-8">
               <div className="mb-4">
                 <span className="text-sm font-bold text-slate-500 uppercase tracking-wider">
-                  {locale === 'cn' ? '批发价 / Wholesale Price' : 'ราคาส่ง / Wholesale Price'}
+                  {locale === 'cn' ? '批发价参考区间 / Estimated Price Range' : 'ช่วงราคาโดยประมาณ / Estimated Price Range'}
                 </span>
                 <div className="text-3xl font-extrabold text-brand-red mt-1">
                   {priceDisplay || (locale === 'cn' ? '联系销售获取报价' : 'ติดต่อสอบถามราคา')}
+                  {priceDisplay && product.unit && <span className="text-base font-semibold text-slate-500 ml-1">/ {product.unit}</span>}
                 </div>
+                {priceDisplay && (
+                  <p className="text-xs text-slate-500 mt-2">
+                    {locale === 'cn' ? '此区间仅供参考，实际报价请联系销售人员。' : 'ราคานี้เป็นช่วงโดยประมาณเท่านั้น กรุณาติดต่อฝ่ายขายเพื่อขอราคาที่แน่นอน'}
+                  </p>
+                )}
               </div>
 
               {product.pricing_tier?.type === 'tiered' && product.pricing_tier.tiers && (
@@ -294,10 +322,10 @@ export function ProductDetailClient({ product }: { product: any }) {
               </div>
               <Table>
                 <TableBody>
-                  {product.specs && Object.entries(product.specs).map(([key, value], idx) => (
+                  {specEntries.map(([key, value], idx) => (
                     <TableRow key={key} className={idx % 2 === 0 ? 'bg-white' : 'bg-slate-50'}>
                       <TableCell className="font-semibold text-slate-700 py-3 w-1/3">{key}</TableCell>
-                      <TableCell className="text-slate-600 py-3">{value as React.ReactNode}</TableCell>
+                      <TableCell className="text-slate-600 py-3">{value}</TableCell>
                     </TableRow>
                   ))}
                 </TableBody>

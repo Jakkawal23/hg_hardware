@@ -11,7 +11,7 @@
       "name_th": "ชุดสกรูเกรด 8 (ดำ) รายการที่ 1",
       "name_cn": "8级螺丝组 产品 1",
       "price": 855,
-      "image": "/placeholder.png"
+      "image": "/placeholder.svg"
     },
     {
       "id": "01-03-09-8ji-luo-si-zu-2",
@@ -19,7 +19,7 @@
       "name_th": "ชุดสกรูเกรด 8 (ดำ) รายการที่ 2",
       "name_cn": "8级螺丝组 产品 2",
       "price": 1072,
-      "image": "/placeholder.png"
+      "image": "/placeholder.svg"
     }
   ]
 }
