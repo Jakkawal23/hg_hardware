@@ -1,0 +1,41 @@
+{
+  "id": "18-02-16-fu-rong-tao-ci-pian",
+  "main_category_slug": "18-qie-ge-hao-cai",
+  "sub_category_slug": "18-02-jin-gang-shi-ju-pian",
+  "name_th": "ใบตัดกระเบื้อง ฝูหรง",
+  "name_cn": "福荣陶瓷片",
+  "products": [
+    {
+      "id": "18-02-16-002",
+      "slug": "18-02-16-002",
+      "code": "18.02.16.002",
+      "sku": "BHZZY-FR-HSB-105-01",
+      "name_th": "ใบตัดกระเบื้องแกรนิตโต้ Furong สีเทา เกรด B",
+      "name_cn": "福荣玻化砖专用-灰色 B",
+      "price": 66,
+      "image": "/placeholder.svg",
+      "name_th_full": "กระเบื้องเคลือบเซรามิก Furong รุ่นพิเศษ - สีเทา B",
+      "name_cn_full": "福荣玻化砖专用-灰色 B",
+      "product_name_raw": "福荣玻化砖专用-灰色 B ใบตัดกระเบื้อง",
+      "model": null,
+      "unit": "片",
+      "storage_location": "B6-4-3-2",
+      "qty_sub_unit": "7片",
+      "qty_main_unit": 7,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 55,
+      "wholesale_price_2": null,
+      "last_import_date": "2025-05-16",
+      "category_cn": "玻化砖专用",
+      "category_code": "BHZZY",
+      "material_cn": "福荣灰色B",
+      "material_code": "FR-HSB",
+      "spec_number": "105-01",
+      "row_no": 30,
+      "col_o": null,
+      "col_r": null
+    }
+  ]
+}

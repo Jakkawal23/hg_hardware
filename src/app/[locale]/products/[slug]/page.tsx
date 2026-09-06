@@ -36,7 +36,7 @@ export async function generateMetadata(
     openGraph: {
       title,
       description,
-      images: [product.images ? product.images[0] : (product.image || '')],
+      images: [product.images && product.images.length > 0 ? product.images[0] : (product.image || '')],
       type: 'website',
     },
   };
@@ -59,9 +59,9 @@ export default async function ProductDetailPage({ params }: Props) {
     '@context': 'https://schema.org',
     '@type': 'Product',
     name: localizedName,
-    image: product.images ? product.images[0] : (product.image || ''),
+    image: product.images && product.images.length > 0 ? product.images[0] : (product.image || ''),
     description: description,
-    sku: product.slug,
+    sku: product.sku || product.slug,
     offers: {
       '@type': 'AggregateOffer',
       offerCount: product.pricing_tier?.tiers?.length || 1,

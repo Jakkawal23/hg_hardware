@@ -1,0 +1,41 @@
+{
+  "id": "13-05-08-cai-qi",
+  "main_category_slug": "13-lao-bao-yong-pin",
+  "sub_category_slug": "13-05-an-quan-fang-hu",
+  "name_th": "ธงสี",
+  "name_cn": "彩旗",
+  "products": [
+    {
+      "id": "13-05-08-004",
+      "slug": "13-05-08-004",
+      "code": "13.05.08.004",
+      "sku": "CQ-SSK-20-200",
+      "name_th": "ธงราวหลากสี 20 เมตร แบบร้อยเชือก (200เมตร/มัด)",
+      "name_cn": "彩旗20米/绳索款（200米/捆）",
+      "price": 225.6,
+      "image": "/placeholder.svg",
+      "name_th_full": "ธงสี / เชือกยาว 20 เมตร (มัดละ 200 เมตร)",
+      "name_cn_full": "彩旗20米/绳索款（200米/捆）",
+      "product_name_raw": "彩旗20米/绳索款（200米/捆）ธงสีมีเชือก",
+      "model": null,
+      "unit": "包",
+      "storage_location": null,
+      "qty_sub_unit": "225包",
+      "qty_main_unit": 225,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 188,
+      "wholesale_price_2": null,
+      "last_import_date": null,
+      "category_cn": "彩旗",
+      "category_code": "CQ",
+      "material_cn": "绳索款",
+      "material_code": "SSK",
+      "spec_number": "20-200",
+      "row_no": 109,
+      "col_o": null,
+      "col_r": null
+    }
+  ]
+}

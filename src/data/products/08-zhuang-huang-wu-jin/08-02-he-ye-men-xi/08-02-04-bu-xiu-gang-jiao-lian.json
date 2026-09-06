@@ -1,0 +1,41 @@
+{
+  "id": "08-02-04-bu-xiu-gang-jiao-lian",
+  "main_category_slug": "08-zhuang-huang-wu-jin",
+  "sub_category_slug": "08-02-he-ye-men-xi",
+  "name_th": "บานพับ (ฮิงจ์) สแตนเลส",
+  "name_cn": "不锈钢铰链",
+  "products": [
+    {
+      "id": "08-02-04-012",
+      "slug": "08-02-04-012",
+      "code": "08.02.04.012",
+      "sku": "JL-YY-02-01",
+      "name_th": "บานพับถ้วยไฮดรอลิก Kaidigu/Yinghua สแตนเลส (แพ็ค 2 ชิ้น) แบบทับขอบ",
+      "name_cn": "楷迪固/樱花-不锈钢吸塑液压铰链2只装 大弯/不盖",
+      "price": 60,
+      "image": "/placeholder.svg",
+      "name_th_full": "บานพับไฮดรอลิกขึ้นรูปสุญญากาศสแตนเลส Kaidigu/Sakura จำนวน 2 ชิ้น สำหรับดัดโค้งขนาดใหญ่/แบบไม่มีฝาครอบ",
+      "name_cn_full": "楷迪固/樱花-不锈钢吸塑液压铰链2只装 大弯/不盖",
+      "product_name_raw": "楷迪固/樱花-不锈钢吸塑液压铰链2只装 大弯/不盖",
+      "model": null,
+      "unit": "付",
+      "storage_location": null,
+      "qty_sub_unit": "17付",
+      "qty_main_unit": 17,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 50,
+      "wholesale_price_2": null,
+      "last_import_date": "2026-05-14",
+      "category_cn": "铰链",
+      "category_code": "JL",
+      "material_cn": "液压",
+      "material_code": "YY",
+      "spec_number": "02-01",
+      "row_no": 70,
+      "col_o": null,
+      "col_r": null
+    }
+  ]
+}

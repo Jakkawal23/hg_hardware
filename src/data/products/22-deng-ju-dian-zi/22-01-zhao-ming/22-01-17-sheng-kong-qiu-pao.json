@@ -1,0 +1,41 @@
+{
+  "id": "22-01-17-sheng-kong-qiu-pao",
+  "main_category_slug": "22-deng-ju-dian-zi",
+  "sub_category_slug": "22-01-zhao-ming",
+  "name_th": "หลอดไฟเซนเซอร์เสียง",
+  "name_cn": "声控球泡",
+  "products": [
+    {
+      "id": "22-01-17-001",
+      "slug": "22-01-17-001",
+      "code": "22.01.17.001",
+      "sku": "ZNGYD-SGK-GY-5W",
+      "name_th": "หลอด LED อัจฉริยะควบคุมด้วยเสียงและแสง Hongri 5W",
+      "name_cn": "红日LED智能感应球泡-声光控 5W",
+      "price": 54,
+      "image": "/placeholder.svg",
+      "name_th_full": "หลอดไฟ LED อัจฉริยะ Hongri - ควบคุมด้วยเสียงและแสง 5W",
+      "name_cn_full": "红日LED智能感应球泡-声光控 5W",
+      "product_name_raw": "红日LED智能感应球泡-声光控 5W",
+      "model": null,
+      "unit": "个",
+      "storage_location": null,
+      "qty_sub_unit": "15个",
+      "qty_main_unit": 15,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 45,
+      "wholesale_price_2": null,
+      "last_import_date": "2025-05-16",
+      "category_cn": "智能感应灯",
+      "category_code": "ZNGYD",
+      "material_cn": "声光控感应",
+      "material_code": "SGK-GY",
+      "spec_number": "5W",
+      "row_no": 56,
+      "col_o": null,
+      "col_r": null
+    }
+  ]
+}

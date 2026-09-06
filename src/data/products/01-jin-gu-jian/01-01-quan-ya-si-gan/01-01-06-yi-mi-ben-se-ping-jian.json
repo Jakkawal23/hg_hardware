@@ -1,0 +1,25 @@
+{
+  "id": "01-01-06-yi-mi-ben-se-ping-jian",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-01-quan-ya-si-gan",
+  "name_th": "เพลาแบนสีดิบ ยาว 1 เมตร",
+  "name_cn": "1米本色平键",
+  "products": [
+    {
+      "id": "01-01-06-yi-mi-ben-se-ping-jian-1",
+      "slug": "01-01-06-yi-mi-ben-se-ping-jian-1",
+      "name_th": "เพลาแบนสีดิบ ยาว 1 เมตร รายการที่ 1",
+      "name_cn": "1米本色平键 产品 1",
+      "price": 784,
+      "image": "/placeholder.svg"
+    },
+    {
+      "id": "01-01-06-yi-mi-ben-se-ping-jian-2",
+      "slug": "01-01-06-yi-mi-ben-se-ping-jian-2",
+      "name_th": "เพลาแบนสีดิบ ยาว 1 เมตร รายการที่ 2",
+      "name_cn": "1米本色平键 产品 2",
+      "price": 484,
+      "image": "/placeholder.svg"
+    }
+  ]
+}

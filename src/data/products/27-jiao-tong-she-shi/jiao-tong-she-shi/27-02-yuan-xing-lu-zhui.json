@@ -1,0 +1,41 @@
+{
+  "id": "27-02-yuan-xing-lu-zhui",
+  "main_category_slug": "27-jiao-tong-she-shi",
+  "sub_category_slug": "jiao-tong-she-shi",
+  "name_th": "กรวยจราจรทรงกลม",
+  "name_cn": "圆形路锥",
+  "products": [
+    {
+      "id": "27-02-0002",
+      "slug": "27-02-0002",
+      "code": "27.02.0002",
+      "sku": "LZ-YX-TH-60CM",
+      "name_th": "กรวยจราจรหัวห่วงกลม สูง 60 ซม.",
+      "name_cn": "60圆形提环锥/警示锥",
+      "price": 72,
+      "image": "/placeholder.svg",
+      "name_th_full": "กรวยยกทรงกลม/กรวยเตือนภัย 60 ชิ้น",
+      "name_cn_full": "60圆形提环锥/警示锥",
+      "product_name_raw": "60圆形提环锥/警示锥 กรวย",
+      "model": null,
+      "unit": "个/ชิ้น",
+      "storage_location": null,
+      "qty_sub_unit": "291个/ชิ้น",
+      "qty_main_unit": 291,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 60,
+      "wholesale_price_2": null,
+      "last_import_date": "2026-06-16",
+      "category_cn": "路锥",
+      "category_code": "LZ",
+      "material_cn": "圆形提环",
+      "material_code": "YX-TH",
+      "spec_number": "60CM",
+      "row_no": 2,
+      "col_o": null,
+      "col_r": null
+    }
+  ]
+}

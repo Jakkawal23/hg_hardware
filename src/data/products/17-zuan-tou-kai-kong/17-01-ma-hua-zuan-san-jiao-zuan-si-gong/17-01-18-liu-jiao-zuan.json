@@ -1,0 +1,41 @@
+{
+  "id": "17-01-18-liu-jiao-zuan",
+  "main_category_slug": "17-zuan-tou-kai-kong",
+  "sub_category_slug": "17-01-ma-hua-zuan-san-jiao-zuan-si-gong",
+  "name_th": "ดอกสว่านหกเหลี่ยม",
+  "name_cn": "六角钻",
+  "products": [
+    {
+      "id": "17-01-18-004",
+      "slug": "17-01-18-004",
+      "code": "17.01.18.004",
+      "sku": null,
+      "name_th": "เพชรทรงหกเหลี่ยม Hans King Diamond 12 (5 ชิ้น/กล่องเล็ก)",
+      "name_cn": "汉斯六角霸王钻 12（5支/小盒）",
+      "price": 38.4,
+      "image": "/placeholder.svg",
+      "name_th_full": "เพชรทรงหกเหลี่ยม Hans King Diamond 12 (5 ชิ้น/กล่องเล็ก)",
+      "name_cn_full": "汉斯六角霸王钻 12（5支/小盒）",
+      "product_name_raw": "汉斯六角霸王钻 12（5支/小盒）",
+      "model": null,
+      "unit": "支",
+      "storage_location": "B15-4-2-18",
+      "qty_sub_unit": "3小盒(15支)",
+      "qty_main_unit": 15,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 32,
+      "wholesale_price_2": null,
+      "last_import_date": "2025-05-16",
+      "category_cn": null,
+      "category_code": null,
+      "material_cn": null,
+      "material_code": null,
+      "spec_number": null,
+      "row_no": 214,
+      "col_o": null,
+      "col_r": null
+    }
+  ]
+}

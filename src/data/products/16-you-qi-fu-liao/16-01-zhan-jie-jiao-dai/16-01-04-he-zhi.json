@@ -1,0 +1,41 @@
+{
+  "id": "16-01-04-he-zhi",
+  "main_category_slug": "16-you-qi-fu-liao",
+  "sub_category_slug": "16-01-zhan-jie-jiao-dai",
+  "name_th": "เทปกระดาษวาซิ (มาสกิ้งเทปกระดาษ)",
+  "name_cn": "和纸",
+  "products": [
+    {
+      "id": "16-01-04-012",
+      "slug": "16-01-04-012",
+      "code": "16.01.04.012",
+      "sku": "HZJD-2410-24-01",
+      "name_th": "เทปกระดาษวาชิ 2410 (50ม้วน/กล่อง)",
+      "name_cn": "和纸胶带 2410（50卷/盒）",
+      "price": 7.2,
+      "image": "/placeholder.svg",
+      "name_th_full": "เทปวาชิ 2410 (50 ม้วน/กล่อง)",
+      "name_cn_full": "和纸胶带 2410（50卷/盒）",
+      "product_name_raw": "和纸胶带 2410（50卷/盒）",
+      "model": null,
+      "unit": "卷",
+      "storage_location": null,
+      "qty_sub_unit": "15卷",
+      "qty_main_unit": 15,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 6,
+      "wholesale_price_2": null,
+      "last_import_date": "2026-05-02",
+      "category_cn": "和纸胶带",
+      "category_code": "HZJD",
+      "material_cn": "2410.0",
+      "material_code": "2410.0",
+      "spec_number": "24-01",
+      "row_no": 13,
+      "col_o": null,
+      "col_r": null
+    }
+  ]
+}

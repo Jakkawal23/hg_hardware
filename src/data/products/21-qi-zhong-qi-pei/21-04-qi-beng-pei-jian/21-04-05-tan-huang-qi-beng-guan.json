@@ -1,0 +1,41 @@
+{
+  "id": "21-04-05-tan-huang-qi-beng-guan",
+  "main_category_slug": "21-qi-zhong-qi-pei",
+  "sub_category_slug": "21-04-qi-beng-pei-jian",
+  "name_th": "สายปั๊มลมสปริง",
+  "name_cn": "弹簧气泵管",
+  "products": [
+    {
+      "id": "21-04-05-001",
+      "slug": "21-04-05-001",
+      "code": "21.04.05.001",
+      "sku": "THQBG-JP-TH-8-9M",
+      "name_th": "สายลมสปริง/สายลมขดพรีเมียม เบอร์ 8 ยาว 9 เมตร",
+      "name_cn": "精品弹簧气泵管8# 9米",
+      "price": 78,
+      "image": "/placeholder.svg",
+      "name_th_full": "สายยางปั๊มลมคุณภาพสูงเบอร์ 8 ยาว 9 เมตร",
+      "name_cn_full": "精品弹簧气泵管8# 9米",
+      "product_name_raw": "精品弹簧气泵管8# 9米",
+      "model": null,
+      "unit": "卷",
+      "storage_location": "A13-2-4",
+      "qty_sub_unit": "14卷",
+      "qty_main_unit": 14,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 65,
+      "wholesale_price_2": null,
+      "last_import_date": "2026-05-08",
+      "category_cn": "弹簧气泵管",
+      "category_code": "THQBG",
+      "material_cn": "精品弹簧",
+      "material_code": "JP-TH",
+      "spec_number": "8-9M",
+      "row_no": 173,
+      "col_o": null,
+      "col_r": null
+    }
+  ]
+}

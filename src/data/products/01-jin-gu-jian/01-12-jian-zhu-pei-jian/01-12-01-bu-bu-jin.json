@@ -1,0 +1,41 @@
+{
+  "id": "01-12-01-bu-bu-jin",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-12-jian-zhu-pei-jian",
+  "name_th": "ข้อต่อรัดท่อ",
+  "name_cn": "步步紧",
+  "products": [
+    {
+      "id": "01-12-01-002",
+      "slug": "01-12-01-002",
+      "code": "01.12.01.002",
+      "sku": "BBJ-M800-800-01",
+      "name_th": "แคลมป์ล็อคแบบ M800",
+      "name_cn": "步步紧M800",
+      "price": 22.8,
+      "image": "/placeholder.svg",
+      "name_th_full": "สเต็ปไทท์ M800",
+      "name_cn_full": "步步紧M800",
+      "product_name_raw": "步步紧M800",
+      "model": null,
+      "unit": "支",
+      "storage_location": null,
+      "qty_sub_unit": "350捆",
+      "qty_main_unit": 3500,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 19,
+      "wholesale_price_2": null,
+      "last_import_date": "2026-05-02",
+      "category_cn": "步步紧",
+      "category_code": "BBJ",
+      "material_cn": "M800",
+      "material_code": "M800",
+      "spec_number": "800-01",
+      "row_no": 778,
+      "col_o": null,
+      "col_r": null
+    }
+  ]
+}

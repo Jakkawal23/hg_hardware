@@ -1,0 +1,41 @@
+{
+  "id": "12-11-07-wan-yong-biao",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-11-dian-gong-dian-zi",
+  "name_th": "มัลติมิเตอร์",
+  "name_cn": "万用表",
+  "products": [
+    {
+      "id": "12-11-07-011",
+      "slug": "12-11-07-011",
+      "code": "12.11.07.011",
+      "sku": "WYB-SX-01-01",
+      "name_th": "มัลติมิเตอร์แบบดิจิตอล",
+      "name_cn": "数显万用表（60把/盒）YT-707002",
+      "price": 174,
+      "image": "/placeholder.svg",
+      "name_th_full": "มัลติมิเตอร์ดิจิทัล (60 ชิ้น/กล่อง) YT-707002",
+      "name_cn_full": "数显万用表（60把/盒）YT-707002",
+      "product_name_raw": "数显万用表（60把/盒）YT-707002 เครื่องวัดไฟดิจิตอล",
+      "model": null,
+      "unit": "支/กิ่ง",
+      "storage_location": null,
+      "qty_sub_unit": "41支/กิ่ง",
+      "qty_main_unit": 41,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 145,
+      "wholesale_price_2": null,
+      "last_import_date": null,
+      "category_cn": "万用表",
+      "category_code": "WYB",
+      "material_cn": "数显",
+      "material_code": "SX",
+      "spec_number": "01-01",
+      "row_no": 138,
+      "col_o": null,
+      "col_r": null
+    }
+  ]
+}

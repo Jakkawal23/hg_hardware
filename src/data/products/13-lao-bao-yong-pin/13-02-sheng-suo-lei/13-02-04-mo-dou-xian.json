@@ -1,0 +1,41 @@
+{
+  "id": "13-02-04-mo-dou-xian",
+  "main_category_slug": "13-lao-bao-yong-pin",
+  "sub_category_slug": "13-02-sheng-suo-lei",
+  "name_th": "เส้นด้ายกล่องหมึก",
+  "name_cn": "墨斗线",
+  "products": [
+    {
+      "id": "13-02-04-003",
+      "slug": "13-02-04-003",
+      "code": "13.02.04.003",
+      "sku": "MX-DJ-220-01",
+      "name_th": "ด้ายดิบม้วนใหญ่ (220กรัม/ม้วน) 100ม้วน/ลัง",
+      "name_cn": "大卷棉线（220克/卷） 100卷/件",
+      "price": 24,
+      "image": "/placeholder.svg",
+      "name_th_full": "เส้นด้ายฝ้ายม้วนใหญ่ (220 กรัม/ม้วน) 100 ม้วน/กล่อง",
+      "name_cn_full": "大卷棉线（220克/卷） 100卷/件",
+      "product_name_raw": "大卷棉线（220克/卷） 100卷/件 ด้าย",
+      "model": null,
+      "unit": "卷",
+      "storage_location": null,
+      "qty_sub_unit": "377卷",
+      "qty_main_unit": 377,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 20,
+      "wholesale_price_2": null,
+      "last_import_date": "2026-06-06",
+      "category_cn": "棉线",
+      "category_code": "MX",
+      "material_cn": "大卷",
+      "material_code": "DJ",
+      "spec_number": "220-01",
+      "row_no": 13,
+      "col_o": null,
+      "col_r": null
+    }
+  ]
+}

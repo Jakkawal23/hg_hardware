@@ -1,0 +1,41 @@
+{
+  "id": "12-06-09-san-jiao-chi",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-06-ce-liang-gong-ju",
+  "name_th": "ไม้ฉากสามเหลี่ยม",
+  "name_cn": "三角尺",
+  "products": [
+    {
+      "id": "12-06-09-007",
+      "slug": "12-06-09-007",
+      "code": "12.06.09.007",
+      "sku": "SJ-BXG-250-01",
+      "name_th": "ฉากเหล็กสแตนเลสคุณภาพสูง ขนาด 250 มม.",
+      "name_cn": "精品不锈钢三角尺10/250mm（10把/盒）YT-621235 / 10/250",
+      "price": 183.6,
+      "image": "/placeholder.svg",
+      "name_th_full": "ไม้บรรทัดสามเหลี่ยมสแตนเลสคุณภาพสูง 10/250 มม. (10 ชิ้น/กล่อง) YT-621235 / 10/250",
+      "name_cn_full": "精品不锈钢三角尺10/250mm（10把/盒）YT-621235 / 10/250",
+      "product_name_raw": "精品不锈钢三角尺10/250mm（10把/盒）YT-621235 / ไม้บรรทัดสามเหลี่ยมสแตนเลสเนื้อดี 10/250มม",
+      "model": null,
+      "unit": "把/กำมือ",
+      "storage_location": null,
+      "qty_sub_unit": "4把/กำมือ",
+      "qty_main_unit": 4,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 153,
+      "wholesale_price_2": null,
+      "last_import_date": "2026-06-06",
+      "category_cn": "三角尺",
+      "category_code": "SJ",
+      "material_cn": "不锈钢",
+      "material_code": "BXG",
+      "spec_number": "250-01",
+      "row_no": 85,
+      "col_o": null,
+      "col_r": null
+    }
+  ]
+}

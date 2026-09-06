@@ -1,0 +1,41 @@
+{
+  "id": "21-03-03-cheng-tao-gong-ju",
+  "main_category_slug": "21-qi-zhong-qi-pei",
+  "sub_category_slug": "21-03-tao-tong-gong-ju",
+  "name_th": "ชุดเครื่องมือ",
+  "name_cn": "成套工具",
+  "products": [
+    {
+      "id": "21-03-03-002",
+      "slug": "21-03-03-002",
+      "code": "21.03.03.002",
+      "sku": "TTBS-YT-32-10860",
+      "name_th": "ชุดเครื่องมือบ็อกซ์ 32 ชิ้น รุ่น YT-10860 (5 ชุด/ลัง)",
+      "name_cn": "32件套筒扳手 (5套/件)YT-10860",
+      "price": 1680,
+      "image": "/placeholder.svg",
+      "name_th_full": "ชุดประแจซ็อกเก็ต 32 ชิ้น (5 ชุด/ชิ้น) YT-10860",
+      "name_cn_full": "32件套筒扳手 (5套/件)YT-10860",
+      "product_name_raw": "32件套筒扳手 (5套/件)YT-10860 ชุดประแจ",
+      "model": null,
+      "unit": "套/คลุม",
+      "storage_location": null,
+      "qty_sub_unit": "1套/คลุม",
+      "qty_main_unit": 1,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 1400,
+      "wholesale_price_2": null,
+      "last_import_date": null,
+      "category_cn": "套筒扳手套装",
+      "category_code": "TTBS",
+      "material_cn": "YT系列",
+      "material_code": "YT",
+      "spec_number": "32-10860",
+      "row_no": 152,
+      "col_o": null,
+      "col_r": null
+    }
+  ]
+}

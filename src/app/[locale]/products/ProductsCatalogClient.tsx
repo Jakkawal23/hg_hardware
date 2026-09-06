@@ -59,10 +59,12 @@ function ProductsCatalogContent({ products, categories }: Props) {
     .map(group => {
       // Filter products inside the group based on search query
       const filteredProductsInGroup = group.products.filter(product => {
-        const matchesSearch = searchQuery === '' || 
-          product.name_th.toLowerCase().includes(searchQuery.toLowerCase()) || 
-          product.name_cn.toLowerCase().includes(searchQuery.toLowerCase()) ||
-          product.slug.toLowerCase().includes(searchQuery.toLowerCase());
+        const q = searchQuery.toLowerCase();
+        const matchesSearch = searchQuery === '' ||
+          product.name_th?.toLowerCase().includes(q) ||
+          product.name_cn?.toLowerCase().includes(q) ||
+          product.sku?.toLowerCase().includes(q) ||
+          product.slug?.toLowerCase().includes(q);
         return matchesSearch;
       });
       return {
@@ -206,9 +208,13 @@ function ProductsCatalogContent({ products, categories }: Props) {
                         slug={product.slug}
                         name_th={product.name_th}
                         name_cn={product.name_cn}
-                        images={product.images || [product.image]}
+                        images={product.images && product.images.length > 0 ? product.images : (product.image ? [product.image] : undefined)}
                         specs={product.specs}
-                        price_display={product.pricing_tier?.price_display || product.price?.toString()}
+                        sku={product.sku}
+                        unit={product.unit}
+                        wholesale_price_1={product.wholesale_price_1}
+                        price={product.price}
+                        price_display={product.pricing_tier?.price_display}
                       />
                     ))}
                   </div>

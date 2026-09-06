@@ -1,0 +1,41 @@
+{
+  "id": "19-10-01-xi-yi-ji-jin-shui-guan",
+  "main_category_slug": "19-shui-nuan-wei-yu",
+  "sub_category_slug": "19-10-su-liao-ruan-guan",
+  "name_th": "สายน้ำเข้าเครื่องซักผ้า",
+  "name_cn": "洗衣机进水管",
+  "products": [
+    {
+      "id": "19-10-01-003",
+      "slug": "19-10-01-003",
+      "code": "19.10.01.003",
+      "sku": "JSG-XYJ-LT-3-X00300",
+      "name_th": "สายน้ำเข้าเครื่องซักผ้าพร้อมหัวต่ออลูมิเนียม Jinliwang 3 เมตร",
+      "name_cn": "金力王洗衣机进水管带铝头3米-JLW.X00300",
+      "price": 132,
+      "image": "/placeholder.svg",
+      "name_th_full": "สายยางทางเข้าเครื่องซักผ้า Jinliwang พร้อมหัวอลูมิเนียม ยาว 3 เมตร - JLW.X00300",
+      "name_cn_full": "金力王洗衣机进水管带铝头3米-JLW.X00300",
+      "product_name_raw": "金力王洗衣机进水管带铝头3米-JLW.X00300",
+      "model": null,
+      "unit": "卷",
+      "storage_location": "B20-3-3",
+      "qty_sub_unit": "31卷",
+      "qty_main_unit": 31,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 110,
+      "wholesale_price_2": null,
+      "last_import_date": "2025-05-16",
+      "category_cn": "进水管",
+      "category_code": "JSG",
+      "material_cn": "洗衣机带铝头",
+      "material_code": "XYJ-LT",
+      "spec_number": "3-X00300",
+      "row_no": 60,
+      "col_o": null,
+      "col_r": null
+    }
+  ]
+}

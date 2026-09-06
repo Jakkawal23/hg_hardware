@@ -1,0 +1,13 @@
+{
+  "id": "power-tool-maintenance-basics",
+  "slug": "power-tool-maintenance-basics",
+  "category_slug": "hardware-knowledge",
+  "title_th": "การดูแลรักษาเครื่องมือไฟฟ้าเบื้องต้น ให้ใช้งานได้ยาวนาน",
+  "title_cn": "电动工具基础保养知识，延长使用寿命",
+  "excerpt_th": "เคล็ดลับดูแลรักษาสว่าน เครื่องเจียร และเครื่องมือไฟฟ้าอื่นๆ หลังใช้งาน เพื่อยืดอายุการใช้งานและลดอุบัติเหตุจากอุปกรณ์ชำรุด",
+  "excerpt_cn": "分享电钻、角磨机等电动工具使用后的保养技巧，延长工具寿命并降低因设备故障导致的安全事故。",
+  "cover_image": "https://images.unsplash.com/photo-1572981779307-38b8cabb2407?q=80&w=1600&auto=format&fit=crop",
+  "published_date": "2026-07-22",
+  "author_th": "ทีมงาน HG Hardware",
+  "author_cn": "HG Hardware 团队"
+}

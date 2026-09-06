@@ -1,0 +1,41 @@
+{
+  "id": "16-02-03-bu-ji-jiao-dai",
+  "main_category_slug": "16-you-qi-fu-liao",
+  "sub_category_slug": "16-02-bao-zhuang-fang-shui-jiao-dai",
+  "name_th": "เทปผ้า",
+  "name_cn": "布基胶带",
+  "products": [
+    {
+      "id": "16-02-03-001",
+      "slug": "16-02-03-001",
+      "code": "16.02.03.001",
+      "sku": "BJJD-YK-45-10",
+      "name_th": "เทปผ้าแลคซีน Yongkuan 4.5 ซม. 10เมตร (48ม้วน/ลัง)",
+      "name_cn": "永冠布基胶带 4.5*10m（48卷/件）",
+      "price": 30,
+      "image": "/placeholder.svg",
+      "name_th_full": "เทปกาวผ้า Yongguan ขนาด 4.5*10 เมตร (48 ม้วน/กล่อง)",
+      "name_cn_full": "永冠布基胶带 4.5*10m（48卷/件）",
+      "product_name_raw": "永冠布基胶带 4.5*10m（48卷/件）",
+      "model": "红",
+      "unit": "卷",
+      "storage_location": "H仓",
+      "qty_sub_unit": "4箱",
+      "qty_main_unit": 192,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 25,
+      "wholesale_price_2": null,
+      "last_import_date": "2026-04-14",
+      "category_cn": "布基胶带",
+      "category_code": "BJJD",
+      "material_cn": "永冠",
+      "material_code": "YK",
+      "spec_number": "45-10",
+      "row_no": 27,
+      "col_o": null,
+      "col_r": null
+    }
+  ]
+}

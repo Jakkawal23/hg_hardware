@@ -1,0 +1,41 @@
+{
+  "id": "16-04-02-shuang-bing-tie-ban",
+  "main_category_slug": "16-you-qi-fu-liao",
+  "sub_category_slug": "16-04-you-qi-gong-ju",
+  "name_th": "เกรียงเหล็กสองด้าม",
+  "name_cn": "双柄铁板",
+  "products": [
+    {
+      "id": "16-04-02-001",
+      "slug": "16-04-02-001",
+      "code": "16.04.02.001",
+      "sku": "YQB-HSSL-45-01",
+      "name_th": "ถาดรองลูกกลิ้งพลาสติกสีเหลืองด้ามคู่ 45 ซม.",
+      "name_cn": "黄色塑料双柄油漆板 45公分",
+      "price": 42,
+      "image": "/placeholder.svg",
+      "name_th_full": "กระดานพลาสติกสีเหลืองมีหูหิ้วสองข้าง ทาสีแล้ว ขนาด 45 ซม.",
+      "name_cn_full": "黄色塑料双柄油漆板 45公分",
+      "product_name_raw": "黄色塑料双柄油漆板 45公分",
+      "model": null,
+      "unit": "个",
+      "storage_location": "B2-2-4",
+      "qty_sub_unit": "20个",
+      "qty_main_unit": 20,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 35,
+      "wholesale_price_2": null,
+      "last_import_date": "2026-05-08",
+      "category_cn": "油漆板",
+      "category_code": "YQB",
+      "material_cn": "黄色塑料",
+      "material_code": "HSSL",
+      "spec_number": "45-01",
+      "row_no": 44,
+      "col_o": null,
+      "col_r": null
+    }
+  ]
+}

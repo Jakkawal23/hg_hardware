@@ -1,0 +1,41 @@
+{
+  "id": "21-04-08-pen-qiang",
+  "main_category_slug": "21-qi-zhong-qi-pei",
+  "sub_category_slug": "21-04-qi-beng-pei-jian",
+  "name_th": "ปืนพ่นสี",
+  "name_cn": "喷枪",
+  "products": [
+    {
+      "id": "21-04-08-002",
+      "slug": "21-04-08-002",
+      "code": "21.04.08.002",
+      "sku": "SQG-YK-DH-PQ2",
+      "name_th": "ปืนพ่นสี/กาพ่นสีทรงถังล่าง Yuekai รุ่น PQ-2 ขนาดใหญ่",
+      "name_cn": "悦凯喷枪/喷壶 PQ-2 大",
+      "price": 360,
+      "image": "/placeholder.svg",
+      "name_th_full": "ปืนพ่นสี/ขวดพ่นสี Yuekai รุ่น PQ-2 (ขนาดใหญ่)",
+      "name_cn_full": "悦凯喷枪/喷壶 PQ-2 大",
+      "product_name_raw": "悦凯喷枪/喷壶 PQ-2 大",
+      "model": null,
+      "unit": "把",
+      "storage_location": "B3-2-3-2",
+      "qty_sub_unit": "1把",
+      "qty_main_unit": 1,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 300,
+      "wholesale_price_2": null,
+      "last_import_date": "2025-05-16",
+      "category_cn": "喷枪",
+      "category_code": "SQG",
+      "material_cn": "悦凯大号",
+      "material_code": "YK-DH",
+      "spec_number": "PQ2",
+      "row_no": 187,
+      "col_o": null,
+      "col_r": null
+    }
+  ]
+}

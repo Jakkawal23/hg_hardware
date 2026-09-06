@@ -1,0 +1,25 @@
+{
+  "id": "01-08-07-bu-xiu-gang-ping-zi-gong-si",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-08-zi-gong-si-gan-bi-ding",
+  "name_th": "สกรูเกลียวปล่อยหัวแบนสแตนเลส",
+  "name_cn": "不锈钢平自攻丝",
+  "products": [
+    {
+      "id": "01-08-07-bu-xiu-gang-ping-zi-gong-si-1",
+      "slug": "01-08-07-bu-xiu-gang-ping-zi-gong-si-1",
+      "name_th": "สกรูเกลียวปล่อยหัวแบนสแตนเลส รายการที่ 1",
+      "name_cn": "不锈钢平自攻丝 产品 1",
+      "price": 716,
+      "image": "/placeholder.svg"
+    },
+    {
+      "id": "01-08-07-bu-xiu-gang-ping-zi-gong-si-2",
+      "slug": "01-08-07-bu-xiu-gang-ping-zi-gong-si-2",
+      "name_th": "สกรูเกลียวปล่อยหัวแบนสแตนเลส รายการที่ 2",
+      "name_cn": "不锈钢平自攻丝 产品 2",
+      "price": 820,
+      "image": "/placeholder.svg"
+    }
+  ]
+}

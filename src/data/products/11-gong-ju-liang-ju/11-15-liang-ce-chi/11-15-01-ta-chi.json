@@ -1,0 +1,41 @@
+{
+  "id": "11-15-01-ta-chi",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-15-liang-ce-chi",
+  "name_th": "ไม้วัดระดับ",
+  "name_cn": "塔尺",
+  "products": [
+    {
+      "id": "11-15-01-003",
+      "slug": "11-15-01-003",
+      "code": "11.15.01.003",
+      "sku": "TC-LJ-05000-01",
+      "name_th": "สต๊าฟวัดระดับ (Tower Scale) อะลูมิเนียม ขนาด 5 เมตร",
+      "name_cn": "铝合金塔尺5米",
+      "price": 468,
+      "image": "/placeholder.svg",
+      "name_th_full": "ไม้บรรทัดอลูมิเนียมอัลลอยด์ยาว 5 เมตร",
+      "name_cn_full": "铝合金塔尺5米",
+      "product_name_raw": "铝合金塔尺5米 ไม้บรรทัดทาวเวอร์",
+      "model": null,
+      "unit": "个/ชิ้น",
+      "storage_location": null,
+      "qty_sub_unit": "20个/ชิ้น",
+      "qty_main_unit": 20,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 390,
+      "wholesale_price_2": null,
+      "last_import_date": "2025-05-16",
+      "category_cn": "塔尺",
+      "category_code": "TC",
+      "material_cn": "铝合金",
+      "material_code": "LJ",
+      "spec_number": "05000-01",
+      "row_no": 777,
+      "col_o": null,
+      "col_r": null
+    }
+  ]
+}

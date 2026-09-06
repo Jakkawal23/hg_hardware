@@ -1,0 +1,41 @@
+{
+  "id": "13-05-18-bei-bei-jia-ding-he",
+  "main_category_slug": "13-lao-bao-yong-pin",
+  "sub_category_slug": "13-05-an-quan-fang-hu",
+  "name_th": "กล่องอุปกรณ์เข็มขัดพยุงหลัง",
+  "name_cn": "背背佳钉盒",
+  "products": [
+    {
+      "id": "13-05-18-0002",
+      "slug": "13-05-18-0002",
+      "code": "13.05.18.0002",
+      "sku": "TDH-SG-2-01",
+      "name_th": "กล่องใส่ตะปู/สายพยุงหลัง แบบ 2 ช่อง",
+      "name_cn": "背背佳/铁钉盒 双格",
+      "price": 42,
+      "image": "/placeholder.svg",
+      "name_th_full": "กล่องใส่ตะปู/ที่ลับเล็บ แบบสองช่อง",
+      "name_cn_full": "背背佳/铁钉盒 双格",
+      "product_name_raw": "背背佳/铁钉盒 双格",
+      "model": null,
+      "unit": "个",
+      "storage_location": "B3-3-3",
+      "qty_sub_unit": "45个",
+      "qty_main_unit": 45,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 35,
+      "wholesale_price_2": null,
+      "last_import_date": "2026-05-02",
+      "category_cn": "铁钉盒",
+      "category_code": "TDH",
+      "material_cn": "双格",
+      "material_code": "SG",
+      "spec_number": "2-01",
+      "row_no": 120,
+      "col_o": null,
+      "col_r": null
+    }
+  ]
+}

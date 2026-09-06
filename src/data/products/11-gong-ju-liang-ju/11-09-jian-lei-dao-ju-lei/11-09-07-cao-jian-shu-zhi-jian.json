@@ -1,0 +1,41 @@
+{
+  "id": "11-09-07-cao-jian-shu-zhi-jian",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-09-jian-lei-dao-ju-lei",
+  "name_th": "กรรไกรตัดหญ้า/กิ่งไม้",
+  "name_cn": "草剪/树枝剪",
+  "products": [
+    {
+      "id": "11-09-07-001",
+      "slug": "11-09-07-001",
+      "code": "11.09.07.001",
+      "sku": "SZJ-ZD-00000-01",
+      "name_th": "กรรไกรตัดกิ่งไม้ รุ่นมาตรฐาน",
+      "name_cn": "树枝剪 中档",
+      "price": 60,
+      "image": "/placeholder.svg",
+      "name_th_full": "กรรไกรตัดแต่งกิ่งไม้เกรดปานกลาง",
+      "name_cn_full": "树枝剪 中档",
+      "product_name_raw": "树枝剪 中档",
+      "model": null,
+      "unit": "把",
+      "storage_location": "B10-2-1-1",
+      "qty_sub_unit": "3箱+4把",
+      "qty_main_unit": 220,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 50,
+      "wholesale_price_2": null,
+      "last_import_date": "2025-05-16",
+      "category_cn": "树枝剪",
+      "category_code": "SZJ",
+      "material_cn": "中档",
+      "material_code": "ZD",
+      "spec_number": "00000-01",
+      "row_no": 622,
+      "col_o": null,
+      "col_r": null
+    }
+  ]
+}

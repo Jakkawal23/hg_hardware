@@ -1,0 +1,41 @@
+{
+  "id": "05-03-06-bu-xiu-gang-pei-dian-xiang",
+  "main_category_slug": "05-dian-xiang-dian-liao",
+  "sub_category_slug": "05-03-hui-lu-xiang-pei-dian-xiang",
+  "name_th": "ตู้จ่ายไฟสแตนเลส",
+  "name_cn": "不锈钢配电箱",
+  "products": [
+    {
+      "id": "05-03-06-006",
+      "slug": "05-03-06-006",
+      "code": "05.03.06.006",
+      "sku": "PDX-BXGC-5070-01",
+      "name_th": "ตู้ไฟสแตนเลส (รุ่นชาร์จ) ขนาด 50*70 ซม.",
+      "name_cn": "不锈钢配电箱充电款 宽50cm*高70cm",
+      "price": 1560,
+      "image": "/placeholder.svg",
+      "name_th_full": "กล่องจ่ายไฟสแตนเลส (แบบชาร์จไฟได้) ขนาดกว้าง 50 ซม. สูง 70 ซม.",
+      "name_cn_full": "不锈钢配电箱充电款 宽50cm*高70cm",
+      "product_name_raw": "不锈钢配电箱充电款 宽50cm*高70cm",
+      "model": null,
+      "unit": "台",
+      "storage_location": null,
+      "qty_sub_unit": "3台",
+      "qty_main_unit": 3,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 1300,
+      "wholesale_price_2": null,
+      "last_import_date": "2025-05-16",
+      "category_cn": "配电箱",
+      "category_code": "PDX",
+      "material_cn": "不锈钢充电",
+      "material_code": "BXGC",
+      "spec_number": "5070-01",
+      "row_no": 144,
+      "col_o": null,
+      "col_r": null
+    }
+  ]
+}

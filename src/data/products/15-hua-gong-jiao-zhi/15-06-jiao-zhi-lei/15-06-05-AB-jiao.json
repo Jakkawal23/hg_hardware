@@ -1,0 +1,41 @@
+{
+  "id": "15-06-05-AB-jiao",
+  "main_category_slug": "15-hua-gong-jiao-zhi",
+  "sub_category_slug": "15-06-jiao-zhi-lei",
+  "name_th": "กาว AB (อีพ็อกซี่)",
+  "name_cn": "AB胶",
+  "products": [
+    {
+      "id": "15-06-05-002",
+      "slug": "15-06-05-002",
+      "code": "15.06.05.002",
+      "sku": "ABJ-XH-1-01",
+      "name_th": "กาว AB กล่องเล็ก",
+      "name_cn": "AB胶 小盒",
+      "price": 15.6,
+      "image": "/placeholder.svg",
+      "name_th_full": "กาว AB กล่องเล็ก",
+      "name_cn_full": "AB胶 小盒",
+      "product_name_raw": "AB胶 小盒",
+      "model": null,
+      "unit": "盒",
+      "storage_location": "B14-3-1-1",
+      "qty_sub_unit": "50盒",
+      "qty_main_unit": 50,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 13,
+      "wholesale_price_2": null,
+      "last_import_date": "2025-05-16",
+      "category_cn": "AB胶",
+      "category_code": "ABJ",
+      "material_cn": "小盒",
+      "material_code": "XH",
+      "spec_number": "1-01",
+      "row_no": 40,
+      "col_o": null,
+      "col_r": null
+    }
+  ]
+}

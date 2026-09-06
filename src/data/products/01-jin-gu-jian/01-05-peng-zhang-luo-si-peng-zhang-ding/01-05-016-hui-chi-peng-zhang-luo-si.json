@@ -1,0 +1,25 @@
+{
+  "id": "01-05-016-hui-chi-peng-zhang-luo-si",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-05-peng-zhang-luo-si-peng-zhang-ding",
+  "name_th": "พุกยึง",
+  "name_cn": "辉塑膨胀螺丝",
+  "products": [
+    {
+      "id": "01-05-016-hui-chi-peng-zhang-luo-si-1",
+      "slug": "01-05-016-hui-chi-peng-zhang-luo-si-1",
+      "name_th": "พุกยึง รายการที่ 1",
+      "name_cn": "辉塑膨胀螺丝 产品 1",
+      "price": 376,
+      "image": "/placeholder.svg"
+    },
+    {
+      "id": "01-05-016-hui-chi-peng-zhang-luo-si-2",
+      "slug": "01-05-016-hui-chi-peng-zhang-luo-si-2",
+      "name_th": "พุกยึง รายการที่ 2",
+      "name_cn": "辉塑膨胀螺丝 产品 2",
+      "price": 579,
+      "image": "/placeholder.svg"
+    }
+  ]
+}

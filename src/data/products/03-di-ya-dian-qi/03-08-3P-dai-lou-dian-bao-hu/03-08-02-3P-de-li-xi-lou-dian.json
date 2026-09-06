@@ -1,0 +1,41 @@
+{
+  "id": "03-08-02-3P-de-li-xi-lou-dian",
+  "main_category_slug": "03-di-ya-dian-qi",
+  "sub_category_slug": "03-08-3P-dai-lou-dian-bao-hu",
+  "name_th": "เบรกเกอร์กันดูดเดลิกซี 3P",
+  "name_cn": "3P德力西漏电",
+  "products": [
+    {
+      "id": "03-08-02-007",
+      "slug": "03-08-02-007",
+      "code": "03.08.02.007",
+      "sku": "WD-DZ47SLE-3PC63A-01",
+      "name_th": "เบรกเกอร์จิ๋ว DELIXI DZ47sLE 3P C 63A (บรรจุ 2 ตัว/กล่อง)",
+      "name_cn": "德力西微断DZ47sLE 3P C 63A（2个/盒）",
+      "price": 300,
+      "image": "/placeholder.svg",
+      "name_th_full": "Delixi Micro-break DZ47sLE 3P C 63A (2 ชิ้น/กล่อง)",
+      "name_cn_full": "德力西微断DZ47sLE 3P C 63A（2个/盒）",
+      "product_name_raw": "德力西微断DZ47sLE 3P C 63A（2个/盒）",
+      "model": null,
+      "unit": "个",
+      "storage_location": "B19-2-4",
+      "qty_sub_unit": "1盒(2个)",
+      "qty_main_unit": 2,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 250,
+      "wholesale_price_2": null,
+      "last_import_date": "2025-05-16",
+      "category_cn": "微断",
+      "category_code": "WD",
+      "material_cn": "DZ47sLE",
+      "material_code": "DZ47SLE",
+      "spec_number": "3PC63A-01",
+      "row_no": 2,
+      "col_o": null,
+      "col_r": null
+    }
+  ]
+}

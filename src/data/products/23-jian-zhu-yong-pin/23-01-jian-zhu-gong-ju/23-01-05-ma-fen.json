@@ -1,0 +1,41 @@
+{
+  "id": "23-01-05-ma-fen",
+  "main_category_slug": "23-jian-zhu-yong-pin",
+  "sub_category_slug": "23-01-jian-zhu-gong-ju",
+  "name_th": "พลั่ว/ที่ตักดิน",
+  "name_cn": "马粪",
+  "products": [
+    {
+      "id": "23-01-05-013",
+      "slug": "23-01-05-013",
+      "code": "23.01.05.013",
+      "sku": "MD-KQ-YS-JZ-40-15",
+      "name_th": "ม้าตั่งเหล็กตะแกรงพ่นสีเหลือง รุ่นหนาพิเศษ 40x1.5 (27 ชั่ง)",
+      "name_cn": "烤漆黄色网格马凳-加重型40*1.5（27斤）",
+      "price": 1296,
+      "image": "/placeholder.svg",
+      "name_th_full": "เก้าอี้ตาข่ายสีเหลือง - แข็งแรงทนทาน ขนาด 40*1.5 นิ้ว (27 กิโลกรัม)",
+      "name_cn_full": "烤漆黄色网格马凳-加重型40*1.5（27斤）",
+      "product_name_raw": "烤漆黄色网格马凳-加重型40*1.5（27斤）นั่งร้านตาข่ายสำเร็จรูป",
+      "model": null,
+      "unit": "个/ชิ้น",
+      "storage_location": null,
+      "qty_sub_unit": "1个/ชิ้น",
+      "qty_main_unit": 1,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 1080,
+      "wholesale_price_2": null,
+      "last_import_date": null,
+      "category_cn": "马凳",
+      "category_code": "MD",
+      "material_cn": "烤漆黄色加重",
+      "material_code": "KQ-YS-JZ",
+      "spec_number": "40-15",
+      "row_no": 10,
+      "col_o": null,
+      "col_r": null
+    }
+  ]
+}

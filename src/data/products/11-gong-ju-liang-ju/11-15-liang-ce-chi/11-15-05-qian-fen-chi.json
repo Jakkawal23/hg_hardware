@@ -1,0 +1,41 @@
+{
+  "id": "11-15-05-qian-fen-chi",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-15-liang-ce-chi",
+  "name_th": "ไมโครมิเตอร์",
+  "name_cn": "千分尺",
+  "products": [
+    {
+      "id": "11-15-05-001",
+      "slug": "11-15-05-001",
+      "code": "11.15.05.001",
+      "sku": "QFC-HT-00025-01",
+      "name_th": "ไมโครมิเตอร์ (Micrometer) ยี่ห้อHangtai ขนาด 0-25 มม.",
+      "name_cn": "杭泰千分尺 0-25",
+      "price": 288,
+      "image": "/placeholder.svg",
+      "name_th_full": "ไมโครมิเตอร์หางไท่ 0-25",
+      "name_cn_full": "杭泰千分尺 0-25",
+      "product_name_raw": "杭泰千分尺 0-25",
+      "model": null,
+      "unit": "把",
+      "storage_location": "B17-2-3-1",
+      "qty_sub_unit": "10把",
+      "qty_main_unit": 10,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 240,
+      "wholesale_price_2": null,
+      "last_import_date": "2025-05-16",
+      "category_cn": "千分尺",
+      "category_code": "QFC",
+      "material_cn": "杭泰",
+      "material_code": "HT",
+      "spec_number": "00025-01",
+      "row_no": 784,
+      "col_o": null,
+      "col_r": null
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "09-04-01-bi-shan",
+  "main_category_slug": "09-feng-ji-feng-shan",
+  "sub_category_slug": "09-04-jia-yong-feng-shan",
+  "name_th": "พัดลมติดผนัง",
+  "name_cn": "壁扇",
+  "products": [
+    {
+      "id": "09-04-01-002",
+      "slug": "09-04-01-002",
+      "code": "09.04.01.002",
+      "sku": "BS-HHX-400-01",
+      "name_th": "พัดลมติดผนังหรู ยี่ห้อหยางจื่อ รุ่น FB16A ขนาด 400 มม. 220V สีดำ",
+      "name_cn": "扬子豪华型壁扇FB16A/400mm-220黑色",
+      "price": 624,
+      "image": "/placeholder.svg",
+      "name_th_full": "พัดลมติดผนัง Yangtze Deluxe รุ่น FB16A/400mm-220 สีดำ",
+      "name_cn_full": "扬子豪华型壁扇FB16A/400mm-220黑色",
+      "product_name_raw": "扬子豪华型壁扇FB16A/400mm-220黑色",
+      "model": null,
+      "unit": "台",
+      "storage_location": null,
+      "qty_sub_unit": "1台",
+      "qty_main_unit": 1,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 520,
+      "wholesale_price_2": null,
+      "last_import_date": "2025-05-16",
+      "category_cn": "壁扇",
+      "category_code": "BS",
+      "material_cn": "豪华型",
+      "material_code": "HHX",
+      "spec_number": "400-01",
+      "row_no": 7,
+      "col_o": null,
+      "col_r": null
+    }
+  ]
+}

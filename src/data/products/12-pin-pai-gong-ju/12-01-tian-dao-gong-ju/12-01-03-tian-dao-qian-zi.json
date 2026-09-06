@@ -1,0 +1,41 @@
+{
+  "id": "12-01-03-tian-dao-qian-zi",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-01-tian-dao-gong-ju",
+  "name_th": "คีมทาชิมะ",
+  "name_cn": "田岛钳子",
+  "products": [
+    {
+      "id": "12-01-03-002",
+      "slug": "12-01-03-002",
+      "code": "12.01.03.002",
+      "sku": "XZQ-MS-160-01",
+      "name_th": "คีมตัดปากเฉียงทาจิม่าแท้ รุ่น SHP-D6 ขนาด 160 มม. (6 นิ้ว)",
+      "name_cn": "正品田岛美式斜嘴钳160/6寸 SHP-D6(不退换）",
+      "price": 198,
+      "image": "/placeholder.svg",
+      "name_th_full": "คีมตัดเฉียงแบบอเมริกันแท้จาก Tajima ขนาด 160/6 นิ้ว รุ่น SHP-D6 (ไม่สามารถคืนเงินหรือเปลี่ยนสินค้าได้)",
+      "name_cn_full": "正品田岛美式斜嘴钳160/6寸 SHP-D6(不退换）",
+      "product_name_raw": "正品田岛美式斜嘴钳160/6寸 SHP-D6(不退换）",
+      "model": "1202-2204",
+      "unit": "把",
+      "storage_location": "B20-3-3",
+      "qty_sub_unit": "72把",
+      "qty_main_unit": 72,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 165,
+      "wholesale_price_2": null,
+      "last_import_date": "2025-05-16",
+      "category_cn": "斜嘴钳",
+      "category_code": "XZQ",
+      "material_cn": "美式",
+      "material_code": "MS",
+      "spec_number": "160-01",
+      "row_no": 3,
+      "col_o": null,
+      "col_r": null
+    }
+  ]
+}

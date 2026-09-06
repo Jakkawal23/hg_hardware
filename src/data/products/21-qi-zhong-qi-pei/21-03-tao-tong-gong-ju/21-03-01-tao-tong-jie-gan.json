@@ -1,0 +1,41 @@
+{
+  "id": "21-03-01-tao-tong-jie-gan",
+  "main_category_slug": "21-qi-zhong-qi-pei",
+  "sub_category_slug": "21-03-tao-tong-gong-ju",
+  "name_th": "ด้ามต่อบล็อก",
+  "name_cn": "套筒接杆",
+  "products": [
+    {
+      "id": "21-03-01-001",
+      "slug": "21-03-01-001",
+      "code": "21.03.01.001",
+      "sku": "WG-GD-01",
+      "name_th": "ด้ามขันบ็อกซ์/ด้ามขันแอล เกรดพรีเมียม",
+      "name_cn": "高档弯杆",
+      "price": 72,
+      "image": "/placeholder.svg",
+      "name_th_full": "แท่งดัดคุณภาพสูง",
+      "name_cn_full": "高档弯杆",
+      "product_name_raw": "高档弯杆",
+      "model": null,
+      "unit": "把",
+      "storage_location": "A10-1-4",
+      "qty_sub_unit": "8把",
+      "qty_main_unit": 8,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 60,
+      "wholesale_price_2": null,
+      "last_import_date": "2025-10-30",
+      "category_cn": "弯杆",
+      "category_code": "WG",
+      "material_cn": "高档",
+      "material_code": "GD",
+      "spec_number": "01",
+      "row_no": 150,
+      "col_o": null,
+      "col_r": null
+    }
+  ]
+}

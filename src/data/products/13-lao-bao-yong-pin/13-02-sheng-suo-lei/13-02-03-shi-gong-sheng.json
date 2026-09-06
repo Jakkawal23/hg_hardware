@@ -1,0 +1,41 @@
+{
+  "id": "13-02-03-shi-gong-sheng",
+  "main_category_slug": "13-lao-bao-yong-pin",
+  "sub_category_slug": "13-02-sheng-suo-lei",
+  "name_th": "เชือกงานก่อสร้าง",
+  "name_cn": "施工绳",
+  "products": [
+    {
+      "id": "13-02-03-002",
+      "slug": "13-02-03-002",
+      "code": "13.02.03.002",
+      "sku": "SGX-HS-9-01",
+      "name_th": "ด้ายหลอดตราเจดีย์/ด้ายก่อสร้าง 9เหลียง สีแดง",
+      "name_cn": "宝塔线/施工线 9两 红色",
+      "price": null,
+      "image": "/placeholder.svg",
+      "name_th_full": "เชือกผูกเจดีย์/เชือกก่อสร้าง ขนาด 9 ออนซ์ สีแดง",
+      "name_cn_full": "宝塔线/施工线 9两 红色",
+      "product_name_raw": "宝塔线/施工线 9两 红色",
+      "model": null,
+      "unit": "卷",
+      "storage_location": "A7-3-2",
+      "qty_sub_unit": "9卷",
+      "qty_main_unit": 9,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": null,
+      "wholesale_price_2": null,
+      "last_import_date": "2026-06-24",
+      "category_cn": "施工线",
+      "category_code": "SGX",
+      "material_cn": "红色",
+      "material_code": "HS",
+      "spec_number": "9-01",
+      "row_no": 12,
+      "col_o": null,
+      "col_r": null
+    }
+  ]
+}

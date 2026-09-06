@@ -1,0 +1,25 @@
+{
+  "id": "01-05-04-tong-he-nei-po",
+  "main_category_slug": "01-jin-gu-jian",
+  "sub_category_slug": "01-05-peng-zhang-luo-si-peng-zhang-ding",
+  "name_th": "พุกในหนัง (ทงเหอ)",
+  "name_cn": "通和内泡",
+  "products": [
+    {
+      "id": "01-05-04-tong-he-nei-po-1",
+      "slug": "01-05-04-tong-he-nei-po-1",
+      "name_th": "พุกในหนัง (ทงเหอ) รายการที่ 1",
+      "name_cn": "通和内泡 产品 1",
+      "price": 598,
+      "image": "/placeholder.svg"
+    },
+    {
+      "id": "01-05-04-tong-he-nei-po-2",
+      "slug": "01-05-04-tong-he-nei-po-2",
+      "name_th": "พุกในหนัง (ทงเหอ) รายการที่ 2",
+      "name_cn": "通和内泡 产品 2",
+      "price": 717,
+      "image": "/placeholder.svg"
+    }
+  ]
+}

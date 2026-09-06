@@ -1,0 +1,41 @@
+{
+  "id": "05-01-21-dian-lan-gua-gou",
+  "main_category_slug": "05-dian-xiang-dian-liao",
+  "sub_category_slug": "05-01-dian-liao",
+  "name_th": "ตะขอแขวนสายเคเบิล",
+  "name_cn": "电缆挂钩",
+  "products": [
+    {
+      "id": "05-01-21-0002",
+      "slug": "05-01-21-0002",
+      "code": "05.01.21.0002",
+      "sku": "ZYGJ-GJ-01-01",
+      "name_th": "ตะขอเกี่ยวฉนวน",
+      "name_cn": "绝缘挂钩",
+      "price": 3.12,
+      "image": "/placeholder.svg",
+      "name_th_full": "ตะขอฉนวน",
+      "name_cn_full": "绝缘挂钩",
+      "product_name_raw": "绝缘挂钩 ตะขอตัวเอส",
+      "model": null,
+      "unit": "个/ชิ้น",
+      "storage_location": null,
+      "qty_sub_unit": "980个/ชิ้น",
+      "qty_main_unit": 980,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 2.6,
+      "wholesale_price_2": null,
+      "last_import_date": "2026-04-03",
+      "category_cn": "绝缘挂钩",
+      "category_code": "ZYGJ",
+      "material_cn": "挂钩",
+      "material_code": "GJ",
+      "spec_number": "01-01",
+      "row_no": 97,
+      "col_o": null,
+      "col_r": null
+    }
+  ]
+}

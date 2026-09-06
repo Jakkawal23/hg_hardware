@@ -1,0 +1,41 @@
+{
+  "id": "22-05-01-hang-deng",
+  "main_category_slug": "22-deng-ju-dian-zi",
+  "sub_category_slug": "22-05-hu-wai-zhao-ming",
+  "name_th": "ไฟนำร่อง",
+  "name_cn": "航灯",
+  "products": [
+    {
+      "id": "22-05-01-002",
+      "slug": "22-05-01-002",
+      "code": "22.05.01.002",
+      "sku": "HD-LED-DX-32Z-10M",
+      "name_th": "ไฟราว/ไฟสัญญาณเดินเรือ LED 32 ดวง ยาว 10 เมตร พร้อมสาย",
+      "name_cn": "LED 32珠10米带线航灯",
+      "price": 192,
+      "image": "/placeholder.svg",
+      "name_th_full": "ไฟนำทาง LED 32 ดวง ยาว 10 เมตร พร้อมสายไฟ",
+      "name_cn_full": "LED 32珠10米带线航灯",
+      "product_name_raw": "LED 32珠10米带线航灯",
+      "model": null,
+      "unit": "个",
+      "storage_location": "A12-2-3",
+      "qty_sub_unit": "15个",
+      "qty_main_unit": 15,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 160,
+      "wholesale_price_2": null,
+      "last_import_date": "2026-05-14",
+      "category_cn": "航灯",
+      "category_code": "HD",
+      "material_cn": "LED带线",
+      "material_code": "LED-DX",
+      "spec_number": "32Z-10M",
+      "row_no": 118,
+      "col_o": null,
+      "col_r": null
+    }
+  ]
+}

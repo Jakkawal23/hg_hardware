@@ -1,0 +1,41 @@
+{
+  "id": "16-04-22-shi-zi-jiao-li",
+  "main_category_slug": "16-you-qi-fu-liao",
+  "sub_category_slug": "16-04-you-qi-gong-ju",
+  "name_th": "ลูกปูนสเปเซอร์กระเบื้อง",
+  "name_cn": "十字胶粒",
+  "products": [
+    {
+      "id": "16-04-22-0003",
+      "slug": "16-04-22-0003",
+      "code": "16.04.22.0003",
+      "sku": "SZJ-JL-20-100",
+      "name_th": "อุปกรณ์จัดแนวกระเบื้องทรงกากบาท 2.0 มม. (100ชิ้น/แพ็ค)",
+      "name_cn": "瓷砖十字架/贴砖十字卡/胶粒 2.0mm（100粒/小包）",
+      "price": 4.08,
+      "image": "/placeholder.svg",
+      "name_th_full": "ตัวล็อกกระเบื้อง/คลิปยึดกระเบื้อง/เม็ดกาว 2.0 มม. (100 เม็ด/แพ็คเล็ก)",
+      "name_cn_full": "瓷砖十字架/贴砖十字卡/胶粒 2.0mm（100粒/小包）",
+      "product_name_raw": "瓷砖十字架/贴砖十字卡/胶粒 2.0mm（100粒/小包）",
+      "model": null,
+      "unit": "包",
+      "storage_location": "A11-2-4",
+      "qty_sub_unit": "90包",
+      "qty_main_unit": 90,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 3.4,
+      "wholesale_price_2": null,
+      "last_import_date": "2026-05-14",
+      "category_cn": "十字架",
+      "category_code": "SZJ",
+      "material_cn": "胶粒",
+      "material_code": "JL",
+      "spec_number": "20-100",
+      "row_no": 89,
+      "col_o": null,
+      "col_r": null
+    }
+  ]
+}

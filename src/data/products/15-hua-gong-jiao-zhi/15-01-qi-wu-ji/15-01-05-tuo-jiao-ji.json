@@ -1,0 +1,41 @@
+{
+  "id": "15-01-05-tuo-jiao-ji",
+  "main_category_slug": "15-hua-gong-jiao-zhi",
+  "sub_category_slug": "15-01-qi-wu-ji",
+  "name_th": "น้ำยาลอกกาว",
+  "name_cn": "脱胶剂",
+  "products": [
+    {
+      "id": "15-01-05-002",
+      "slug": "15-01-05-002",
+      "code": "15.01.05.002",
+      "sku": "QCJ-NM-450-01",
+      "name_th": "น้ำยาล้างคราบกาว Ningmeng 450 มล.",
+      "name_cn": "宁檬不干胶清除剂/脱胶剂/除胶剂/ 450ML",
+      "price": 1512,
+      "image": "/placeholder.svg",
+      "name_th_full": "น้ำยาล้างกาว Ningmeng / น้ำยาขจัดคราบกาว / 450 มล.",
+      "name_cn_full": "宁檬不干胶清除剂/脱胶剂/除胶剂/ 450ML",
+      "product_name_raw": "宁檬不干胶清除剂/脱胶剂/除胶剂/ 450ML",
+      "model": null,
+      "unit": "箱",
+      "storage_location": null,
+      "qty_sub_unit": "39箱",
+      "qty_main_unit": 39,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 1260,
+      "wholesale_price_2": null,
+      "last_import_date": "2026-07-02",
+      "category_cn": "清除剂",
+      "category_code": "QCJ",
+      "material_cn": "宁檬",
+      "material_code": "NM",
+      "spec_number": "450-01",
+      "row_no": 16,
+      "col_o": null,
+      "col_r": null
+    }
+  ]
+}

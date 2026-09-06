@@ -1,0 +1,41 @@
+{
+  "id": "22-01-20-mu-zhi-qiu-pao",
+  "main_category_slug": "22-deng-ju-dian-zi",
+  "sub_category_slug": "22-01-zhao-ming",
+  "name_th": "หลอดไฟจิ๋ว",
+  "name_cn": "拇指球泡",
+  "products": [
+    {
+      "id": "22-01-20-002",
+      "slug": "22-01-20-002",
+      "code": "22.01.20.002",
+      "sku": "QPD-HR-MZ-E27-9W",
+      "name_th": "หลอดไฟ LED ทรงนิ้วมือ ขั้ว E27 Hongri 9W",
+      "name_cn": "红日LED拇指球泡E27 9W",
+      "price": 36,
+      "image": "/placeholder.svg",
+      "name_th_full": "หลอดไฟ LED Hongri แบบหัวแม่มือ ขั้ว E27 9W",
+      "name_cn_full": "红日LED拇指球泡E27 9W",
+      "product_name_raw": "红日LED拇指球泡E27 9W",
+      "model": null,
+      "unit": "个",
+      "storage_location": null,
+      "qty_sub_unit": "3个",
+      "qty_main_unit": 3,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 30,
+      "wholesale_price_2": null,
+      "last_import_date": "2025-05-16",
+      "category_cn": "球泡灯",
+      "category_code": "QPD",
+      "material_cn": "红日拇指型",
+      "material_code": "HR-MZ",
+      "spec_number": "E27-9W",
+      "row_no": 60,
+      "col_o": null,
+      "col_r": null
+    }
+  ]
+}

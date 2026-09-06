@@ -1,0 +1,41 @@
+{
+  "id": "11-08-08-lv-he-jin-zhi-chi",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-08-ni-wa-gong-ju",
+  "name_th": "ไม้บรรทัดอลูมิเนียม",
+  "name_cn": "铝合金直尺",
+  "products": [
+    {
+      "id": "11-08-08-008",
+      "slug": "11-08-08-008",
+      "code": "11.08.08.008",
+      "sku": "ZC-LJ-75002-01",
+      "name_th": "ไม้บรรทัดอลูมิเนียม รุ่นพรีเมียม แบบขอบเหลี่ยม กว้าง 7.5 ซม. ยาว 2 เมตร",
+      "name_cn": "精品方口铝合金直尺 （黑盖中厚）宽7.5cm-2米",
+      "price": 312,
+      "image": "/placeholder.svg",
+      "name_th_full": "ไม้บรรทัดอลูมิเนียมอัลลอยด์คุณภาพสูง ปากสี่เหลี่ยม (ฝาสีดำ ความหนาปานกลาง) กว้าง 7.5 ซม. ยาว 2 เมตร",
+      "name_cn_full": "精品方口铝合金直尺 （黑盖中厚）宽7.5cm-2米",
+      "product_name_raw": "精品方口铝合金直尺 （黑盖中厚）宽7.5cm-2米",
+      "model": null,
+      "unit": "根",
+      "storage_location": null,
+      "qty_sub_unit": "30根",
+      "qty_main_unit": 30,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 260,
+      "wholesale_price_2": null,
+      "last_import_date": "2026-06-06",
+      "category_cn": "直尺",
+      "category_code": "ZC",
+      "material_cn": "铝合金",
+      "material_code": "LJ",
+      "spec_number": "75002-01",
+      "row_no": 577,
+      "col_o": null,
+      "col_r": null
+    }
+  ]
+}

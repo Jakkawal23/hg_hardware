@@ -30,6 +30,9 @@ export function Navbar() {
 
           <div className="hidden md:flex items-center gap-6 text-white font-medium">
             <Link href="/products" className="hover:text-brand-yellow transition-colors">{t('products')}</Link>
+            <Link href="/articles" className="hover:text-brand-yellow transition-colors">{t('articles')}</Link>
+            <Link href="/about" className="hover:text-brand-yellow transition-colors">{t('about')}</Link>
+            <Link href="/contact" className="hover:text-brand-yellow transition-colors">{t('contact')}</Link>
             <div className="h-6 w-px bg-slate-700"></div>
             
             {/* Language Switcher */}
@@ -103,6 +106,15 @@ export function Navbar() {
                     </Link>
                     <Link href="/products" onClick={() => setIsMobileMenuOpen(false)} className="text-lg font-bold text-brand-navy hover:text-brand-red py-2 border-b border-slate-50">
                       {t('products')}
+                    </Link>
+                    <Link href="/articles" onClick={() => setIsMobileMenuOpen(false)} className="text-lg font-bold text-brand-navy hover:text-brand-red py-2 border-b border-slate-50">
+                      {t('articles')}
+                    </Link>
+                    <Link href="/about" onClick={() => setIsMobileMenuOpen(false)} className="text-lg font-bold text-brand-navy hover:text-brand-red py-2 border-b border-slate-50">
+                      {t('about')}
+                    </Link>
+                    <Link href="/contact" onClick={() => setIsMobileMenuOpen(false)} className="text-lg font-bold text-brand-navy hover:text-brand-red py-2 border-b border-slate-50">
+                      {t('contact')}
                     </Link>
                   </div>
                 </div>

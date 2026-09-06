@@ -1,0 +1,41 @@
+{
+  "id": "11-11-03-bo-li-xi-pan",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-11-qi-ta-lei-gong-ju",
+  "name_th": "ที่ดูดกระจก",
+  "name_cn": "玻璃吸盘",
+  "products": [
+    {
+      "id": "11-11-03-006",
+      "slug": "11-11-03-006",
+      "code": "11.11.03.006",
+      "sku": "XP-WLS-00000-01",
+      "name_th": "ตัวจับสุญญากาศ แบบ 3 ขา ยี่ห้อ Weilishi",
+      "name_cn": "(威力狮B3) 三爪吸盘",
+      "price": 432,
+      "image": "/placeholder.svg",
+      "name_th_full": "(B3 ทรงพลัง) ตัวดูดแบบสามขา",
+      "name_cn_full": "(威力狮B3) 三爪吸盘",
+      "product_name_raw": "(威力狮B3) 三爪吸盘",
+      "model": null,
+      "unit": "个",
+      "storage_location": null,
+      "qty_sub_unit": "3个",
+      "qty_main_unit": 3,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 360,
+      "wholesale_price_2": null,
+      "last_import_date": "2025-05-16",
+      "category_cn": "吸盘",
+      "category_code": "XP",
+      "material_cn": "威力狮",
+      "material_code": "WLS",
+      "spec_number": "00000-01",
+      "row_no": 715,
+      "col_o": null,
+      "col_r": null
+    }
+  ]
+}

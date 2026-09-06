@@ -1,0 +1,41 @@
+{
+  "id": "13-02-05-bian-zhi-sheng",
+  "main_category_slug": "13-lao-bao-yong-pin",
+  "sub_category_slug": "13-02-sheng-suo-lei",
+  "name_th": "เชือกถัก",
+  "name_cn": "编织绳",
+  "products": [
+    {
+      "id": "13-02-05-001",
+      "slug": "13-02-05-001",
+      "code": "13.02.05.001",
+      "sku": "SZ-BZ-12-100",
+      "name_th": "เชือกถัก/เชือกมัด/เชือกนิรภัย 12 มม. (100เมตร/มัด 8กก.)",
+      "name_cn": "编织绳/捆绑绳/安全绳子 12mm（100米/捆8公斤）",
+      "price": 672,
+      "image": "/placeholder.svg",
+      "name_th_full": "เชือกถัก/เชือกผูก/เชือกนิรภัย ขนาด 12 มม. (100 เมตร/มัด น้ำหนัก 8 กก.)",
+      "name_cn_full": "编织绳/捆绑绳/安全绳子 12mm（100米/捆8公斤）",
+      "product_name_raw": "编织绳/捆绑绳/安全绳子 12mm（100米/捆8公斤）",
+      "model": null,
+      "unit": "捆",
+      "storage_location": "A8-1-2",
+      "qty_sub_unit": "5捆",
+      "qty_main_unit": 5,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 560,
+      "wholesale_price_2": null,
+      "last_import_date": "2026-05-02",
+      "category_cn": "绳子",
+      "category_code": "SZ",
+      "material_cn": "编织",
+      "material_code": "BZ",
+      "spec_number": "12-100",
+      "row_no": 14,
+      "col_o": null,
+      "col_r": null
+    }
+  ]
+}

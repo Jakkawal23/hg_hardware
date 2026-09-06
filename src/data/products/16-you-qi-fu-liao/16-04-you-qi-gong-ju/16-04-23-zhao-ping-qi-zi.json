@@ -1,0 +1,41 @@
+{
+  "id": "16-04-23-zhao-ping-qi-zi",
+  "main_category_slug": "16-you-qi-fu-liao",
+  "sub_category_slug": "16-04-you-qi-gong-ju",
+  "name_th": "ลิ่มปรับระดับ",
+  "name_cn": "找平契子",
+  "products": [
+    {
+      "id": "16-04-23-0001",
+      "slug": "16-04-23-0001",
+      "code": "16.04.23.0001",
+      "sku": "ZPQ-XZHS-100-01",
+      "name_th": "ลิ่มปรับระดับกระเบื้อง สีแดง (100ชิ้น/แพ็ค)",
+      "name_cn": "瓷砖找平器楔子/找平器插片 红色（100个/包）",
+      "price": 60,
+      "image": "/placeholder.svg",
+      "name_th_full": "ลิ่มปรับระดับกระเบื้อง/ตัวแทรกปรับระดับ สีแดง (100 ชิ้น/แพ็ค)",
+      "name_cn_full": "瓷砖找平器楔子/找平器插片 红色（100个/包）",
+      "product_name_raw": "瓷砖找平器楔子/找平器插片 红色（100个/包）",
+      "model": null,
+      "unit": "包",
+      "storage_location": "A11-1-4",
+      "qty_sub_unit": "1大袋+10包",
+      "qty_main_unit": 80,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 50,
+      "wholesale_price_2": null,
+      "last_import_date": "2026-05-14",
+      "category_cn": "找平器",
+      "category_code": "ZPQ",
+      "material_cn": "楔子红色",
+      "material_code": "XZHS",
+      "spec_number": "100-01",
+      "row_no": 90,
+      "col_o": null,
+      "col_r": null
+    }
+  ]
+}

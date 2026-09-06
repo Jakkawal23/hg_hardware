@@ -1,0 +1,41 @@
+{
+  "id": "17-05-04-65A-da-dian-gao-jian-bian-zao",
+  "main_category_slug": "17-zuan-tou-kai-kong",
+  "sub_category_slug": "17-05-jian-bian-zao-zi",
+  "name_th": "สิ่วปลายแหลมสำหรับสกัดไฟฟ้า 65A",
+  "name_cn": "65A大电镐尖扁凿",
+  "products": [
+    {
+      "id": "17-05-04-002",
+      "slug": "17-05-04-002",
+      "code": "17.05.04.002",
+      "sku": "DGZ-BZ-30-400",
+      "name_th": "ดอกสกัดแบนสำหรับ 65A Hufan 30x400",
+      "name_cn": "《沪帆》65A大电镐30*400 扁凿",
+      "price": 180,
+      "image": "/placeholder.svg",
+      "name_th_full": "พลั่วไฟฟ้าขนาดใหญ่ \"Hufan\" 65A พร้อมหัวสกัดแบน 30*400 มม.",
+      "name_cn_full": "《沪帆》65A大电镐30*400 扁凿",
+      "product_name_raw": "《沪帆》65A大电镐30*400 扁凿",
+      "model": "（桔色套筒）",
+      "unit": "支",
+      "storage_location": "B12-1-4",
+      "qty_sub_unit": "1件+20支",
+      "qty_main_unit": 50,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 150,
+      "wholesale_price_2": null,
+      "last_import_date": "2025-05-16",
+      "category_cn": "电镐凿子",
+      "category_code": "DGZ",
+      "material_cn": "扁凿",
+      "material_code": "BZ",
+      "spec_number": "30-400",
+      "row_no": 308,
+      "col_o": null,
+      "col_r": null
+    }
+  ]
+}

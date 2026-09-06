@@ -1,0 +1,41 @@
+{
+  "id": "12-02-14-kuai-su-ban-shou",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-02-ban-shou-lei",
+  "name_th": "ประแจไว",
+  "name_cn": "快速扳手",
+  "products": [
+    {
+      "id": "12-02-14-004",
+      "slug": "12-02-14-004",
+      "code": "12.02.14.004",
+      "sku": "KSBS-TB-1218-01",
+      "name_th": "ประแจเร็ว ด้ามเหล็ก รุ่น YT-418003 ขนาด 1/2 นิ้ว x 18 มม.",
+      "name_cn": "铁柄快速扳手1/2\"x18mm（60把/件）YT-418003",
+      "price": 144,
+      "image": "/placeholder.svg",
+      "name_th_full": "ประแจด้ามเหล็กแบบปลดเร็ว ขนาด 1/2 นิ้ว x 18 มม. (60 ชิ้น/แพ็ค) YT-418003",
+      "name_cn_full": "铁柄快速扳手1/2\"x18mm（60把/件）YT-418003",
+      "product_name_raw": "铁柄快速扳手1/2\"x18mm（60把/件）YT-418003 ประแจแหวนข้างปากตาย",
+      "model": null,
+      "unit": "把/กำมือ",
+      "storage_location": null,
+      "qty_sub_unit": "3把/กำมือ",
+      "qty_main_unit": 3,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 120,
+      "wholesale_price_2": null,
+      "last_import_date": null,
+      "category_cn": "快速扳手",
+      "category_code": "KSBS",
+      "material_cn": "铁柄",
+      "material_code": "TB",
+      "spec_number": "1218-01",
+      "row_no": 14,
+      "col_o": null,
+      "col_r": null
+    }
+  ]
+}

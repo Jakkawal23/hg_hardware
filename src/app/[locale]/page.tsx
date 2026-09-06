@@ -3,9 +3,12 @@ import { Truck, ShieldCheck, Factory, Building2, PackageCheck, HeadphonesIcon, S
 import { Link } from '@/i18n/routing';
 import { Button } from '@/components/ui/button';
 import { ProductCard } from '@/components/product/ProductCard';
+import { ArticleCard } from '@/components/article/ArticleCard';
 import { getAllProducts } from '@/lib/products';
+import { getAllArticles } from '@/lib/articles';
 import categoriesData from '@/data/categories.json';
 import warehouseData from '@/data/warehouse.json';
+import articleCategoriesData from '@/data/article-categories.json';
 
 export default async function HomePage({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
@@ -16,6 +19,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
 
   const productsData = getAllProducts();
   const featuredProducts = productsData.flatMap(g => g.products).slice(0, 4);
+  const latestArticles = getAllArticles().slice(0, 3);
 
   return (
     <>
@@ -162,6 +166,43 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
         </div>
       </section>
 
+      {/* Latest Articles */}
+      {latestArticles.length > 0 && (
+        <section className="py-16 px-4 bg-white border-t border-slate-200">
+          <div className="container mx-auto max-w-6xl">
+            <div className="flex justify-between items-end mb-10">
+              <div>
+                <h2 className="text-3xl font-extrabold text-brand-navy">{locale === 'cn' ? '最新文章' : 'บทความล่าสุด'}</h2>
+                <p className="text-slate-500 mt-2">{locale === 'cn' ? '五金知识与产品使用指南' : 'ความรู้เรื่องฮาร์ดแวร์และวิธีใช้งานสินค้า'}</p>
+              </div>
+              <Link href="/articles" className="text-brand-red font-bold hover:text-red-700 hidden sm:block">
+                {locale === 'cn' ? '查看全部文章 &rarr;' : 'ดูบทความทั้งหมด &rarr;'}
+              </Link>
+            </div>
+            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
+              {latestArticles.map((article) => {
+                const category = articleCategoriesData.find(c => c.slug === article.category_slug);
+                const categoryName = category ? (locale === 'cn' ? category.name_cn : category.name_th) : '';
+                return (
+                  <ArticleCard
+                    key={article.slug}
+                    slug={article.slug}
+                    title_th={article.title_th}
+                    title_cn={article.title_cn}
+                    excerpt_th={article.excerpt_th}
+                    excerpt_cn={article.excerpt_cn}
+                    cover_image={article.cover_image}
+                    published_date={article.published_date}
+                    category_name={categoryName}
+                    locale={locale}
+                  />
+                );
+              })}
+            </div>
+          </div>
+        </section>
+      )}
+
       {/* Featured Products Showcase */}
       <section className="py-16 px-4 bg-brand-surface border-t border-slate-200">
         <div className="container mx-auto max-w-6xl">
@@ -182,9 +223,14 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
                 slug={product.slug}
                 name_th={product.name_th}
                 name_cn={product.name_cn}
-                image={product.images ? product.images[0] : product.image}
-                specs={product.specs || {}}
-                price_display={product.pricing_tier?.price_display || product.price?.toString()}
+                images={product.images && product.images.length > 0 ? product.images : undefined}
+                image={product.image}
+                specs={product.specs}
+                sku={product.sku}
+                unit={product.unit}
+                wholesale_price_1={product.wholesale_price_1}
+                price={product.price}
+                price_display={product.pricing_tier?.price_display}
               />
             ))}
           </div>

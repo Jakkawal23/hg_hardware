@@ -1,0 +1,41 @@
+{
+  "id": "18-02-03-xiao-mi-feng-shi-cai-pian",
+  "main_category_slug": "18-qie-ge-hao-cai",
+  "sub_category_slug": "18-02-jin-gang-shi-ju-pian",
+  "name_th": "ใบเลื่อยหิน เสี่ยวมี่เฟิง",
+  "name_cn": "小蜜蜂石材片",
+  "products": [
+    {
+      "id": "18-02-03-001",
+      "slug": "18-02-03-001",
+      "code": "18.02.03.001",
+      "sku": "SCRC-XMF-C114-114-01",
+      "name_th": "ใบตัดหินแห้ง Little Bee รุ่น C114",
+      "name_cn": "小蜜蜂石材干切 C114",
+      "price": null,
+      "image": "/placeholder.svg",
+      "name_th_full": "หินลิตเติ้ลบีสำหรับตัดแห้ง C114",
+      "name_cn_full": "小蜜蜂石材干切 C114",
+      "product_name_raw": "小蜜蜂石材干切 C114 ใบตัด",
+      "model": null,
+      "unit": "片",
+      "storage_location": "B4-3-3",
+      "qty_sub_unit": "5片",
+      "qty_main_unit": 5,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": null,
+      "wholesale_price_2": null,
+      "last_import_date": "2026-05-08",
+      "category_cn": "石材干切",
+      "category_code": "SCRC",
+      "material_cn": "小蜜蜂C114",
+      "material_code": "XMF-C114",
+      "spec_number": "114-01",
+      "row_no": 22,
+      "col_o": null,
+      "col_r": null
+    }
+  ]
+}

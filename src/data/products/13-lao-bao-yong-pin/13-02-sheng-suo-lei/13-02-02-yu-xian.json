@@ -1,0 +1,41 @@
+{
+  "id": "13-02-02-yu-xian",
+  "main_category_slug": "13-lao-bao-yong-pin",
+  "sub_category_slug": "13-02-sheng-suo-lei",
+  "name_th": "เอ็นตกปลา",
+  "name_cn": "鱼线",
+  "products": [
+    {
+      "id": "13-02-02-004",
+      "slug": "13-02-02-004",
+      "code": "13.02.02.004",
+      "sku": "YX-BS-220-01",
+      "name_th": "เอ็นตกปลาสีขาวรุ่นใหม่ (220กรัม/ม้วน) 100ม้วน/ลัง",
+      "name_cn": "新款 鱼线 白色（220克/卷）100卷/件",
+      "price": 21.6,
+      "image": "/placeholder.svg",
+      "name_th_full": "สายเอ็นตกปลาใหม่ สีขาว (220 กรัม/ม้วน) 100 ม้วน/กล่อง",
+      "name_cn_full": "新款 鱼线 白色（220克/卷）100卷/件",
+      "product_name_raw": "新款 鱼线 白色（220克/卷）100卷/件",
+      "model": null,
+      "unit": "卷",
+      "storage_location": null,
+      "qty_sub_unit": "2箱+80卷",
+      "qty_main_unit": 280,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 18,
+      "wholesale_price_2": null,
+      "last_import_date": "2026-06-06",
+      "category_cn": "鱼线",
+      "category_code": "YX",
+      "material_cn": "白色",
+      "material_code": "BS",
+      "spec_number": "220-01",
+      "row_no": 11,
+      "col_o": null,
+      "col_r": null
+    }
+  ]
+}

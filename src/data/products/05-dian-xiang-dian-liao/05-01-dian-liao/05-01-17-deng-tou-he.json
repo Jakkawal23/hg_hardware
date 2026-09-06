@@ -1,0 +1,41 @@
+{
+  "id": "05-01-17-deng-tou-he",
+  "main_category_slug": "05-dian-xiang-dian-liao",
+  "sub_category_slug": "05-01-dian-liao",
+  "name_th": "กล่องขั้วหลอดไฟ",
+  "name_cn": "灯头盒",
+  "products": [
+    {
+      "id": "05-01-17-001",
+      "slug": "05-01-17-001",
+      "code": "05.01.17.001",
+      "sku": "DTH-ZL86-A12-01",
+      "name_th": "กล่องพักสายไฟแปดเหลี่ยมกันไฟ Wanju รุ่น 86 A12",
+      "name_cn": "万巨-阻燃灯头盒/86型八角盒 A12",
+      "price": 4.8,
+      "image": "/placeholder.svg",
+      "name_th_full": "Wanju - กล่องใส่หลอดไฟกันไฟ / กล่องแปดเหลี่ยมแบบ Type 86 A12",
+      "name_cn_full": "万巨-阻燃灯头盒/86型八角盒 A12",
+      "product_name_raw": "万巨-阻燃灯头盒/86型八角盒 A12",
+      "model": null,
+      "unit": "个",
+      "storage_location": null,
+      "qty_sub_unit": "1箱",
+      "qty_main_unit": 200,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 4,
+      "wholesale_price_2": null,
+      "last_import_date": "2025-05-16",
+      "category_cn": "灯头盒",
+      "category_code": "DTH",
+      "material_cn": "阻燃86",
+      "material_code": "ZL86",
+      "spec_number": "A12-01",
+      "row_no": 87,
+      "col_o": null,
+      "col_r": null
+    }
+  ]
+}

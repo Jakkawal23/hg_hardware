@@ -1,0 +1,41 @@
+{
+  "id": "13-01-03-fan-bu-shou-tao",
+  "main_category_slug": "13-lao-bao-yong-pin",
+  "sub_category_slug": "13-01-shou-tao",
+  "name_th": "ถุงมือผ้าใบ",
+  "name_cn": "帆布手套",
+  "products": [
+    {
+      "id": "13-01-03-002",
+      "slug": "13-01-03-002",
+      "code": "13.01.03.002",
+      "sku": "ST-FB-10-01",
+      "name_th": "ถุงมือผ้าใบแบบสั้นขอบแดง (10คู่/แพ็ค)",
+      "name_cn": "帆布手套短款/红边（10双/包）",
+      "price": 19.2,
+      "image": "/placeholder.svg",
+      "name_th_full": "ถุงมือผ้าใบสั้น ขอบสีแดง (10 คู่/แพ็ค)",
+      "name_cn_full": "帆布手套短款/红边（10双/包）",
+      "product_name_raw": "帆布手套短款/红边（10双/包）ถุงมือไหมพรหม ขอบแดง",
+      "model": null,
+      "unit": "双/คู่",
+      "storage_location": null,
+      "qty_sub_unit": "1整件+44包+1双/คู่(1141双/คู่)",
+      "qty_main_unit": 1141,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 16,
+      "wholesale_price_2": null,
+      "last_import_date": "2026-06-16",
+      "category_cn": "手套",
+      "category_code": "ST",
+      "material_cn": "帆布",
+      "material_code": "FB",
+      "spec_number": "10-01",
+      "row_no": 4,
+      "col_o": null,
+      "col_r": null
+    }
+  ]
+}

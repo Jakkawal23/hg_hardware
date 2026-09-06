@@ -1,0 +1,41 @@
+{
+  "id": "12-02-12-ji-lun-ban-shou",
+  "main_category_slug": "12-pin-pai-gong-ju",
+  "sub_category_slug": "12-02-ban-shou-lei",
+  "name_th": "ประแจแรทเชท",
+  "name_cn": "棘轮扳手",
+  "products": [
+    {
+      "id": "12-02-12-021",
+      "slug": "12-02-12-021",
+      "code": "12.02.12.021",
+      "sku": "JLBS-72TSS-26028-01",
+      "name_th": "ประแจแหวนฟรี 72 ฟัน ด้ามยืดหดได้ รุ่น YT-426028",
+      "name_cn": "72齿伸缩柄自动脱落棘轮扳手（32把/件）YT-426028",
+      "price": 480,
+      "image": "/placeholder.svg",
+      "name_th_full": "ประแจวงล้อแบบยืดหดได้ 72 ฟัน พร้อมระบบปลดล็อคอัตโนมัติ (32 ชิ้น/ชุด) YT-426028",
+      "name_cn_full": "72齿伸缩柄自动脱落棘轮扳手（32把/件）YT-426028",
+      "product_name_raw": "72齿伸缩柄自动脱落棘轮扳手（32把/件）YT-426028ระแจวงล้อ",
+      "model": null,
+      "unit": "把/กำมือ",
+      "storage_location": null,
+      "qty_sub_unit": "1把/กำมือ",
+      "qty_main_unit": 1,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 400,
+      "wholesale_price_2": null,
+      "last_import_date": null,
+      "category_cn": "棘轮扳手",
+      "category_code": "JLBS",
+      "material_cn": "72齿伸缩柄",
+      "material_code": "72TSS",
+      "spec_number": "26028-01",
+      "row_no": 13,
+      "col_o": null,
+      "col_r": null
+    }
+  ]
+}

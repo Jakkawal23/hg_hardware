@@ -1,0 +1,41 @@
+{
+  "id": "21-04-03-EVA-qi-beng-guan",
+  "main_category_slug": "21-qi-zhong-qi-pei",
+  "sub_category_slug": "21-04-qi-beng-pei-jian",
+  "name_th": "สายปั๊มลม EVA",
+  "name_cn": "EVA气泵管",
+  "products": [
+    {
+      "id": "21-04-03-001",
+      "slug": "21-04-03-001",
+      "code": "21.04.03.001",
+      "sku": "QBG-DC-ZY-KJ-01",
+      "name_th": "สายลมมืออาชีพ Dongcheng พร้อมข้อต่อสวมเร็ว สีฟ้า",
+      "name_cn": "东成专业气泵管 含快接-蓝色",
+      "price": 126,
+      "image": "/placeholder.svg",
+      "name_th_full": "สายยางปั๊มลมระดับมืออาชีพของ Dongcheng พร้อมหัวต่อแบบเร็ว - สีน้ำเงิน",
+      "name_cn_full": "东成专业气泵管 含快接-蓝色",
+      "product_name_raw": "东成专业气泵管 含快接-蓝色",
+      "model": "8*5*10",
+      "unit": "卷",
+      "storage_location": "B6-3-2-10",
+      "qty_sub_unit": "25卷",
+      "qty_main_unit": 25,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": 105,
+      "wholesale_price_2": null,
+      "last_import_date": "2025-05-16",
+      "category_cn": "气泵管",
+      "category_code": "QBG",
+      "material_cn": "东成专业含快接",
+      "material_code": "DC-ZY-KJ",
+      "spec_number": "01",
+      "row_no": 171,
+      "col_o": null,
+      "col_r": null
+    }
+  ]
+}

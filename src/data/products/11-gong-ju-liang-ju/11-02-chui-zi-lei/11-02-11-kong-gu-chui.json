@@ -1,0 +1,41 @@
+{
+  "id": "11-02-11-kong-gu-chui",
+  "main_category_slug": "11-gong-ju-liang-ju",
+  "sub_category_slug": "11-02-chui-zi-lei",
+  "name_th": "ค้อนเคาะโพรง",
+  "name_cn": "空鼓锤",
+  "products": [
+    {
+      "id": "11-02-11-001",
+      "slug": "11-02-11-001",
+      "code": "11.02.11.001",
+      "sku": "KGC-SY-120-01",
+      "name_th": "ค้อนตรวจบ้านแบบยืดหดได้ 1.2 เมตร",
+      "name_cn": "伸缩验房空鼓锤 1.2米",
+      "price": null,
+      "image": "/placeholder.svg",
+      "name_th_full": "ค้อนเคาะตรวจสอบบ้านแบบยืดหดได้ ส่งเสียงกลวง ความยาว 1.2 เมตร",
+      "name_cn_full": "伸缩验房空鼓锤 1.2米",
+      "product_name_raw": "伸缩验房空鼓锤 1.2米",
+      "model": null,
+      "unit": "个",
+      "storage_location": "A10-2-1-2",
+      "qty_sub_unit": "17个",
+      "qty_main_unit": 17,
+      "weight_per_unit": null,
+      "weight_total": null,
+      "internal_cost": null,
+      "wholesale_price_1": null,
+      "wholesale_price_2": null,
+      "last_import_date": "2026-05-14",
+      "category_cn": "空鼓锤",
+      "category_code": "KGC",
+      "material_cn": "伸缩验房",
+      "material_code": "SY",
+      "spec_number": "120-01",
+      "row_no": 117,
+      "col_o": null,
+      "col_r": null
+    }
+  ]
+}
