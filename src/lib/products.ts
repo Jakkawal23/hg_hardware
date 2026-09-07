@@ -124,6 +124,13 @@ function getAllJsonFiles(dirPath: string, arrayOfFiles: string[] = []) {
 // within a single build/dev-server process, so it's safe to read it once and reuse it.
 let productsCache: ProductGroup[] | null = null;
 
+// Natural sort so zero-padded numeric codes ("01-03-01-002") order correctly, and stays
+// correct even if some future code isn't zero-padded (e.g. "...-9" before "...-10").
+const codeCollator = new Intl.Collator(undefined, { numeric: true, sensitivity: 'base' });
+function byCode(a: string, b: string): number {
+  return codeCollator.compare(a, b);
+}
+
 /**
  * Reads all product JSON files and returns an array of product groups.
  * Each product's `images` array is populated from disk (see getProductImages) —
@@ -143,15 +150,24 @@ export function getAllProducts(): ProductGroup[] {
     try {
       const fileContents = fs.readFileSync(file, 'utf8');
       const group = JSON.parse(fileContents) as ProductGroup;
-      group.products = group.products.map((product) => ({
-        ...product,
-        images: getProductImages(product.slug),
-      }));
+      group.products = group.products
+        .map((product) => ({
+          ...product,
+          images: getProductImages(product.slug),
+        }))
+        // Sort by permanent code (falls back to slug/id) so products always display in
+        // catalog-code order, e.g. "01-03-01-001" before "01-03-01-002", regardless of
+        // the order they happen to appear in the source JSON.
+        .sort((a, b) => byCode(a.code || a.slug || a.id, b.code || b.slug || b.id));
       groups.push(group);
     } catch (error) {
       console.error(`Error reading product file ${file}:`, error);
     }
   }
+
+  // Sort groups themselves by id too, so sub-category sections and their product groups
+  // appear in the same code order on the page.
+  groups.sort((a, b) => byCode(a.id, b.id));
 
   productsCache = groups;
   return groups;
