@@ -56,45 +56,68 @@ export interface ProductGroup {
 const productsDirectory = path.join(process.cwd(), 'src/data/products');
 
 // --- Product image auto-detection -------------------------------------------------
-// Convention: public/products/<product-slug>/cover.{jpg|jpeg|png|webp}  (1 cover image)
-//             public/products/<product-slug>/1.{ext} .. 8.{ext}         (up to 8 gallery images)
-// A product's slug is its permanent numeric code (e.g. "01-01-01-002"), so images survive
-// any future SKU/name changes. Drop files in following this naming and they appear automatically
-// — no code or data changes needed. See docs/product-images.md for details.
+// Convention: public/products/<main_category_slug>/<sub_category_slug>/<group_id>/<product-slug>/
+//               cover.{jpg|jpeg|png|webp}   (1 cover image)
+//               1.{ext} .. 8.{ext}          (up to 8 gallery images)
+// This mirrors the src/data/products/<main>/<sub>/<group>.json folder layout one level
+// deeper, down to a folder per product. The full skeleton (every product's folder, empty
+// except for a .gitkeep) is pre-created by scripts/generate-product-image-folders.js, so
+// no folders need to be made by hand — just drop matching files into the right leaf folder
+// and they appear automatically, no code or JSON changes needed. See docs/product-images.md.
 //
-// With ~5,000 products, checking every extension on disk per product (fs.existsSync in a loop)
-// is far too slow for a full static export (thousands of pages x dozens of stat calls each).
-// Instead we read the (usually near-empty) image directory ONCE, into an in-memory index, and
-// look products up in that — O(uploaded image folders) instead of O(products x extensions).
-const productImagesDirectory = path.join(process.cwd(), 'public/products');
+// A product's slug is its permanent numeric code (e.g. "01-01-01-002"), so images survive
+// any future SKU/name changes.
+//
+// With ~5,000 product folders (nested ~4 levels deep), checking every extension on disk per
+// product (fs.existsSync in a loop) is far too slow for a full static export. Instead we walk
+// the image tree ONCE into an in-memory index — keyed by leaf folder name (= product slug),
+// regardless of nesting depth — and look products up in that.
+const productImagesRoot = path.join(process.cwd(), 'public/products');
 const IMAGE_EXTENSIONS = ['jpg', 'jpeg', 'png', 'webp'];
 
-let imageIndexCache: Map<string, Set<string>> | null = null;
+interface ImageFolderEntry {
+  webPath: string; // e.g. "/products/01-jin-gu-jian/01-01-quan-ya-si-gan/01-01-01-quan-ya-si-gan/01-01-01-002"
+  files: Set<string>;
+}
 
-function getImageIndex(): Map<string, Set<string>> {
-  if (imageIndexCache) return imageIndexCache;
-  const index = new Map<string, Set<string>>();
-  if (fs.existsSync(productImagesDirectory)) {
-    for (const entry of fs.readdirSync(productImagesDirectory, { withFileTypes: true })) {
-      if (!entry.isDirectory()) continue;
-      const files = fs.readdirSync(path.join(productImagesDirectory, entry.name));
-      index.set(entry.name, new Set(files));
+let imageIndexCache: Map<string, ImageFolderEntry> | null = null;
+
+// Recursively indexes every directory under `dir` that directly contains files (a "leaf"
+// product folder — possibly containing only a .gitkeep placeholder), keyed by that
+// directory's own name (the product slug), regardless of how deeply it's nested.
+function walkAndIndexImages(dir: string, dirWebPath: string, index: Map<string, ImageFolderEntry>) {
+  const entries = fs.readdirSync(dir, { withFileTypes: true });
+  const files = entries.filter((e) => e.isFile()).map((e) => e.name);
+  if (files.length > 0) {
+    index.set(path.basename(dir), { webPath: dirWebPath, files: new Set(files) });
+  }
+  for (const entry of entries) {
+    if (entry.isDirectory()) {
+      walkAndIndexImages(path.join(dir, entry.name), `${dirWebPath}/${entry.name}`, index);
     }
+  }
+}
+
+function getImageIndex(): Map<string, ImageFolderEntry> {
+  if (imageIndexCache) return imageIndexCache;
+  const index = new Map<string, ImageFolderEntry>();
+  if (fs.existsSync(productImagesRoot)) {
+    walkAndIndexImages(productImagesRoot, '/products', index);
   }
   imageIndexCache = index;
   return index;
 }
 
 export function getProductImages(productSlug: string): string[] {
-  const files = getImageIndex().get(productSlug);
-  if (!files) return [];
+  const entry = getImageIndex().get(productSlug);
+  if (!entry) return [];
 
   const images: string[] = [];
-  const coverFile = IMAGE_EXTENSIONS.map((ext) => `cover.${ext}`).find((f) => files.has(f));
-  if (coverFile) images.push(`/products/${productSlug}/${coverFile}`);
+  const coverFile = IMAGE_EXTENSIONS.map((ext) => `cover.${ext}`).find((f) => entry.files.has(f));
+  if (coverFile) images.push(`${entry.webPath}/${coverFile}`);
   for (let i = 1; i <= 8; i++) {
-    const galleryFile = IMAGE_EXTENSIONS.map((ext) => `${i}.${ext}`).find((f) => files.has(f));
-    if (galleryFile) images.push(`/products/${productSlug}/${galleryFile}`);
+    const galleryFile = IMAGE_EXTENSIONS.map((ext) => `${i}.${ext}`).find((f) => entry.files.has(f));
+    if (galleryFile) images.push(`${entry.webPath}/${galleryFile}`);
   }
   return images;
 }
