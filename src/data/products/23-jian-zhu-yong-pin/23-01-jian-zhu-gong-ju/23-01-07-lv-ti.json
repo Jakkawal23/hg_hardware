@@ -11,6 +11,7 @@
       "code": "23.01.07.013",
       "sku": "TZ-HH-JH-KB-3M",
       "name_th": "บันไดอลูมิเนียมทรงเอขอบกว้าง หนาพิเศษ 3 เมตร",
+      "name_th_short": "บันไดอลูมิเนียมทรงเอ 3 เมตร",
       "name_cn": "豪华加厚宽边人字梯/梯子 3米 3",
       "price": 2880,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "豪华加厚宽边",
       "material_code": "HH-JH-KB",
       "spec_number": "3M",
-      "row_no": 14,
-      "col_o": null,
-      "col_r": null
+      "row_no": 14
     },
     {
       "id": "23-01-07-016",
@@ -43,6 +42,7 @@
       "code": "23.01.07.016",
       "sku": "TZ-TJ-JH-LJG-3M",
       "name_th": "บันไดอลูมิเนียมอัลลอย เกรดพิเศษหนา 3 เมตร",
+      "name_th_short": "บันไดอลูมิเนียม 3 เมตร",
       "name_cn": "特级加厚铝合金梯子 3米 3",
       "price": 4200,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "特级加厚铝合金",
       "material_code": "TJ-JH-LJG",
       "spec_number": "3M",
-      "row_no": 15,
-      "col_o": null,
-      "col_r": null
+      "row_no": 15
     },
     {
       "id": "23-01-07-017",
@@ -75,6 +73,7 @@
       "code": "23.01.07.017",
       "sku": "TZ-TH-LJG-2.5M",
       "name_th": "บันไดอลูมิเนียมทรงเอ รุ่นหนาพิเศษ 2.5 เมตร",
+      "name_th_short": "บันไดอลูมิเนียมทรงเอ 2.5 เมตร",
       "name_cn": "特厚铝合金梯子/人字梯 2.5米 2.5",
       "price": 1920,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "特厚铝合金",
       "material_code": "TH-LJG",
       "spec_number": "2.5M",
-      "row_no": 16,
-      "col_o": null,
-      "col_r": null
+      "row_no": 16
     }
   ]
 }

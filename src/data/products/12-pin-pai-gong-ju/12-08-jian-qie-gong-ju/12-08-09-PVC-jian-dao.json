@@ -9,8 +9,9 @@
       "id": "12-08-09-013",
       "slug": "12-08-09-013",
       "code": "12.08.09.013",
-      "sku": "GZGD-SLBX-33-01",
+      "sku": "GZGD-SLBX-33",
       "name_th": "คัตเตอร์ตัดท่อ PVC แบบพกพา ขนาด 33 มม.",
+      "name_th_short": "คัตเตอร์ตัดท่อ PVC พกพา",
       "name_cn": "省力便携式PVC管子割刀33mm（12把/盒）YT-234014 / PVC 33mm",
       "price": 102,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "GZGD",
       "material_cn": "省力便携",
       "material_code": "SLBX",
-      "spec_number": "33-01",
-      "row_no": 103,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "33",
+      "row_no": 103
     },
     {
       "id": "12-08-09-014",
       "slug": "12-08-09-014",
       "code": "12.08.09.014",
-      "sku": "GZGD-SLK-33-01",
+      "sku": "GZGD-SLK-33",
       "name_th": "คัตเตอร์ตัดท่อ PVC แบบพกพา (ด้ามพลาสติก) ขนาด 33 มม.",
+      "name_th_short": "คัตเตอร์ตัดท่อ PVC พกพา",
       "name_cn": "便携式PVC管子割刀塑料款33mm（12把/盒）YT-234013 / PVC 33mm",
       "price": 72,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "GZGD",
       "material_cn": "塑料款",
       "material_code": "SLK",
-      "spec_number": "33-01",
-      "row_no": 104,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "33",
+      "row_no": 104
     },
     {
       "id": "12-08-09-015",
       "slug": "12-08-09-015",
       "code": "12.08.09.015",
-      "sku": "GZGD-DH-42-01",
+      "sku": "GZGD-DH-42",
       "name_th": "คัตเตอร์ตัดท่อ PVC/PPR ขนาดใหญ่ 42 มม.",
+      "name_th_short": "คัตเตอร์ตัดท่อ PVC ขนาดใหญ่",
       "name_cn": "大号PVC铝塑管割刀42mm（6把/盒）YT-234002 / PVC 42mm",
       "price": 180,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "GZGD",
       "material_cn": "大号",
       "material_code": "DH",
-      "spec_number": "42-01",
-      "row_no": 105,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "42",
+      "row_no": 105
     },
     {
       "id": "12-08-09-016",
       "slug": "12-08-09-016",
       "code": "12.08.09.016",
-      "sku": "GZGD-PTBZD-35-01",
+      "sku": "GZGD-PTBZD-35",
       "name_th": "คัตเตอร์ตัดท่อ PVC กึ่งอัตโนมัติ ขนาด 35 มม.",
+      "name_th_short": "คัตเตอร์ตัดท่อ PVC กึ่งอัตโนมัติ",
       "name_cn": "普通半自动PVC管子割刀35mm（12把/盒）YT-234006 / 35",
       "price": 126,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "GZGD",
       "material_cn": "普通半自动",
       "material_code": "PTBZD",
-      "spec_number": "35-01",
-      "row_no": 106,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "35",
+      "row_no": 106
     },
     {
       "id": "12-08-09-017",
       "slug": "12-08-09-017",
       "code": "12.08.09.017",
-      "sku": "GZGD-DH-75-01",
+      "sku": "GZGD-DH-75",
       "name_th": "คัตเตอร์ตัดท่อ PVC ขนาดใหญ่ 75 มม.",
+      "name_th_short": "คัตเตอร์ตัดท่อ PVC ขนาดใหญ่",
       "name_cn": "75mm大号PVC铝塑管割刀（20把/件）YT-234012 / PVC 75",
       "price": 828,
       "image": "/placeholder.svg",
@@ -160,17 +157,16 @@
       "category_code": "GZGD",
       "material_cn": "大号",
       "material_code": "DH",
-      "spec_number": "75-01",
-      "row_no": 107,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "75",
+      "row_no": 107
     },
     {
       "id": "12-08-09-018",
       "slug": "12-08-09-018",
       "code": "12.08.09.018",
-      "sku": "GZGD-KSDD-330-01",
+      "sku": "GZGD-KSDD-330",
       "name_th": "คัตเตอร์ตัดท่อแบบเร็ว (ชุบโครเมียม) ขนาด 3-30 มม.",
+      "name_th_short": "คัตเตอร์ตัดท่อแบบเร็ว",
       "name_cn": "快速管子割刀（电镀）3-30mm(10把/盒)YT-10255 / () 3-30mm",
       "price": 192,
       "image": "/placeholder.svg",
@@ -192,17 +188,16 @@
       "category_code": "GZGD",
       "material_cn": "快速电镀",
       "material_code": "KSDD",
-      "spec_number": "330-01",
-      "row_no": 108,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "330",
+      "row_no": 108
     },
     {
       "id": "12-08-09-019",
       "slug": "12-08-09-019",
       "code": "12.08.09.019",
-      "sku": "GJ-QLX-35-01",
+      "sku": "GJ-QLX-35",
       "name_th": "กรรไกรตัดท่อ PVC (รุ่นงานหนัก) ขนาด 35 มม.",
+      "name_th_short": "กรรไกรตัดท่อ PVC งานหนัก",
       "name_cn": "强力型精品PVC管剪35mm（12把/盒）YT-234008 / PVC 35",
       "price": 150,
       "image": "/placeholder.svg",
@@ -224,17 +219,16 @@
       "category_code": "GJ",
       "material_cn": "强力型",
       "material_code": "QLX",
-      "spec_number": "35-01",
-      "row_no": 109,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "35",
+      "row_no": 109
     },
     {
       "id": "12-08-09-020",
       "slug": "12-08-09-020",
       "code": "12.08.09.020",
-      "sku": "GJ-DHQT-42-01",
+      "sku": "GJ-DHQT-42",
       "name_th": "กรรไกรตัดท่อ PVC (โครงเหล็กทั้งหมด) ขนาด 42 มม.",
+      "name_th_short": "กรรไกรตัดท่อ PVC โครงเหล็ก",
       "name_cn": "大号全铁PVC管剪42mm（6把/盒）YT-234010 / PVC 42",
       "price": 192,
       "image": "/placeholder.svg",
@@ -256,10 +250,8 @@
       "category_code": "GJ",
       "material_cn": "大号全铁",
       "material_code": "DHQT",
-      "spec_number": "42-01",
-      "row_no": 110,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "42",
+      "row_no": 110
     }
   ]
 }

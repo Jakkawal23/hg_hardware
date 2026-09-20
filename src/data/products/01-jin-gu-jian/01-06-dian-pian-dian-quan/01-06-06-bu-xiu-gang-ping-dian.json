@@ -9,8 +9,9 @@
       "id": "01-06-06-001",
       "slug": "01-06-06-001",
       "code": "01.06.06.001",
-      "sku": "DP-304BXGPD-6-06",
+      "sku": "DP-304BXGPD-6",
       "name_th": "แหวนอีแปะ สแตนเลส 6",
+      "name_th_short": "แหวนอีแปะสแตนเลส",
       "name_cn": "不锈钢平垫M6",
       "price": 0.18,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "DP",
       "material_cn": "304不锈钢平垫",
       "material_code": "304BXGPD",
-      "spec_number": "6-06",
-      "row_no": 515,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "6",
+      "row_no": 515
     },
     {
       "id": "01-06-06-002",
       "slug": "01-06-06-002",
       "code": "01.06.06.002",
-      "sku": "DP-304BXGPD-8-16",
+      "sku": "DP-304BXGPD-8",
       "name_th": "แหวนอีแปะ สแตนเลส 8",
+      "name_th_short": "แหวนอีแปะสแตนเลส",
       "name_cn": "不锈钢平垫M8",
       "price": 0.25,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "DP",
       "material_cn": "304不锈钢平垫",
       "material_code": "304BXGPD",
-      "spec_number": "8-16",
-      "row_no": 516,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "8",
+      "row_no": 516
     },
     {
       "id": "01-06-06-003",
       "slug": "01-06-06-003",
       "code": "01.06.06.003",
-      "sku": "DP-304BXGPD-10-18",
+      "sku": "DP-304BXGPD-10",
       "name_th": "แหวนอีแปะ สแตนเลส 10",
+      "name_th_short": "แหวนอีแปะสแตนเลส",
       "name_cn": "不锈钢平垫M10",
       "price": 0.6,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "DP",
       "material_cn": "304不锈钢平垫",
       "material_code": "304BXGPD",
-      "spec_number": "10-18",
-      "row_no": 517,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10",
+      "row_no": 517
     },
     {
       "id": "01-06-06-004",
       "slug": "01-06-06-004",
       "code": "01.06.06.004",
-      "sku": "DP-304BXG-1-02",
+      "sku": "DP-304BXG-1",
       "name_th": "แหวนรองสแตนเลส",
+      "name_th_short": "แหวนรองสแตนเลส",
       "name_cn": "不锈钢华司垫片",
       "price": 9,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "DP",
       "material_cn": "304不锈钢",
       "material_code": "304BXG",
-      "spec_number": "1-02",
-      "row_no": 518,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1",
+      "row_no": 518
     },
     {
       "id": "01-06-06-031",
       "slug": "01-06-06-031",
       "code": "01.06.06.031",
-      "sku": "DP-304BXGPD-12-17",
+      "sku": "DP-304BXGPD-12",
       "name_th": "แหวนอีแปะสแตนเลส 304 M12",
+      "name_th_short": "แหวนอีแปะสแตนเลส 304",
       "name_cn": "304不锈钢平垫M12",
       "price": 0.72,
       "image": "/placeholder.svg",
@@ -160,10 +157,8 @@
       "category_code": "DP",
       "material_cn": "304不锈钢平垫",
       "material_code": "304BXGPD",
-      "spec_number": "12-17",
-      "row_no": 519,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "12",
+      "row_no": 519
     }
   ]
 }

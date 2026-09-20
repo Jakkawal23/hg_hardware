@@ -9,8 +9,9 @@
       "id": "17-01-07-001",
       "slug": "17-01-07-001",
       "code": "17.01.07.001",
-      "sku": "ZT-SJZ-6-01",
+      "sku": "ZT-SJZ-6",
       "name_th": "ดอกสว่านสามเหลี่ยมสีทอง 6",
+      "name_th_short": "ดอกสว่านสามเหลี่ยมสีทอง 6",
       "name_cn": "福星/沪帆香槟金三角钻 6",
       "price": 16.8,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "ZT",
       "material_cn": "三角钻",
       "material_code": "SJZ",
-      "spec_number": "6-01",
-      "row_no": 169,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "6",
+      "row_no": 169
     },
     {
       "id": "17-01-07-002",
       "slug": "17-01-07-002",
       "code": "17.01.07.002",
-      "sku": "ZT-SJZ-8-01",
+      "sku": "ZT-SJZ-8",
       "name_th": "ดอกสว่านสามเหลี่ยมสีทอง 8",
+      "name_th_short": "ดอกสว่านสามเหลี่ยมสีทอง 8",
       "name_cn": "福星/沪帆香槟金三角钻 8",
       "price": 24,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "ZT",
       "material_cn": "三角钻",
       "material_code": "SJZ",
-      "spec_number": "8-01",
-      "row_no": 170,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "8",
+      "row_no": 170
     },
     {
       "id": "17-01-07-003",
       "slug": "17-01-07-003",
       "code": "17.01.07.003",
-      "sku": "ZT-SJZ-12-01",
+      "sku": "ZT-SJZ-12",
       "name_th": "ดอกสว่านสามเหลี่ยมสีทอง 12",
+      "name_th_short": "ดอกสว่านสามเหลี่ยมสีทอง 12",
       "name_cn": "福星/沪帆香槟金三角钻 12",
       "price": 34.8,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "ZT",
       "material_cn": "三角钻",
       "material_code": "SJZ",
-      "spec_number": "12-01",
-      "row_no": 171,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "12",
+      "row_no": 171
     },
     {
       "id": "17-01-07-004",
       "slug": "17-01-07-004",
       "code": "17.01.07.004",
-      "sku": "ZT-SJZ-10-01",
+      "sku": "ZT-SJZ-10",
       "name_th": "ดอกสว่านสามเหลี่ยมสีทอง 10",
+      "name_th_short": "ดอกสว่านสามเหลี่ยมสีทอง 10",
       "name_cn": "福星/沪帆香槟金三角钻 10",
       "price": 34.8,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "ZT",
       "material_cn": "三角钻",
       "material_code": "SJZ",
-      "spec_number": "10-01",
-      "row_no": 172,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10",
+      "row_no": 172
     },
     {
       "id": "17-01-07-005",
       "slug": "17-01-07-005",
       "code": "17.01.07.005",
-      "sku": "ZT-BWZ-6-01",
+      "sku": "ZT-BWZ-6",
       "name_th": "ดอกสว่านสามเหลี่ยมสีแดง 6",
+      "name_th_short": "ดอกสว่านสามเหลี่ยมสีแดง 6",
       "name_cn": "福星/沪帆三角钻/霸王钻/红色精品 6",
       "price": 16.8,
       "image": "/placeholder.svg",
@@ -160,17 +157,16 @@
       "category_code": "ZT",
       "material_cn": "霸王钻",
       "material_code": "BWZ",
-      "spec_number": "6-01",
-      "row_no": 173,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "6",
+      "row_no": 173
     },
     {
       "id": "17-01-07-006",
       "slug": "17-01-07-006",
       "code": "17.01.07.006",
-      "sku": "ZT-BWZ-8-01",
+      "sku": "ZT-BWZ-8",
       "name_th": "ดอกสว่านสามเหลี่ยมสีแดง 8",
+      "name_th_short": "ดอกสว่านสามเหลี่ยมสีแดง 8",
       "name_cn": "福星/沪帆三角钻/霸王钻/红色精品 8",
       "price": 24,
       "image": "/placeholder.svg",
@@ -192,17 +188,16 @@
       "category_code": "ZT",
       "material_cn": "霸王钻",
       "material_code": "BWZ",
-      "spec_number": "8-01",
-      "row_no": 174,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "8",
+      "row_no": 174
     },
     {
       "id": "17-01-07-007",
       "slug": "17-01-07-007",
       "code": "17.01.07.007",
-      "sku": "ZT-BWZ-12-01",
+      "sku": "ZT-BWZ-12",
       "name_th": "ดอกสว่านสามเหลี่ยมสีแดง 12",
+      "name_th_short": "ดอกสว่านสามเหลี่ยมสีแดง 12",
       "name_cn": "福星/沪帆三角钻/霸王钻/红色精品 12",
       "price": 34.8,
       "image": "/placeholder.svg",
@@ -224,17 +219,16 @@
       "category_code": "ZT",
       "material_cn": "霸王钻",
       "material_code": "BWZ",
-      "spec_number": "12-01",
-      "row_no": 175,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "12",
+      "row_no": 175
     },
     {
       "id": "17-01-07-008",
       "slug": "17-01-07-008",
       "code": "17.01.07.008",
-      "sku": "ZT-BWZ-10-01",
+      "sku": "ZT-BWZ-10",
       "name_th": "ดอกสว่านสามเหลี่ยมสีแดง 10",
+      "name_th_short": "ดอกสว่านสามเหลี่ยมสีแดง 10",
       "name_cn": "福星/沪帆三角钻/霸王钻/红色精品 10",
       "price": 34.8,
       "image": "/placeholder.svg",
@@ -256,10 +250,8 @@
       "category_code": "ZT",
       "material_cn": "霸王钻",
       "material_code": "BWZ",
-      "spec_number": "10-01",
-      "row_no": 176,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10",
+      "row_no": 176
     }
   ]
 }

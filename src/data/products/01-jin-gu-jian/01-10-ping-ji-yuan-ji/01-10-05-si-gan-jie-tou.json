@@ -9,8 +9,9 @@
       "id": "01-10-05-001",
       "slug": "01-10-05-001",
       "code": "01.10.05.001",
-      "sku": "JT-GG-0840-01",
+      "sku": "JT-GG-8-40",
       "name_th": "ข้อต่อสตัด 8*40",
+      "name_th_short": "ข้อต่อสตัด",
       "name_cn": "接头8*40（ 8*40）",
       "price": 1.44,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "JT",
       "material_cn": "规格",
       "material_code": "GG",
-      "spec_number": "0840-01",
-      "row_no": 687,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "8-40",
+      "row_no": 687
     },
     {
       "id": "01-10-05-002",
       "slug": "01-10-05-002",
       "code": "01.10.05.002",
-      "sku": "JT-GG-1050-01",
+      "sku": "JT-GG-10-50",
       "name_th": "ข้อต่อสตัด 10*50",
+      "name_th_short": "ข้อต่อสตัด",
       "name_cn": "接头10*50 ( 10*50 )",
       "price": 2.16,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "JT",
       "material_cn": "规格",
       "material_code": "GG",
-      "spec_number": "1050-01",
-      "row_no": 688,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10-50",
+      "row_no": 688
     },
     {
       "id": "01-10-05-003",
       "slug": "01-10-05-003",
       "code": "01.10.05.003",
-      "sku": "JT-GG-1250-01",
+      "sku": "JT-GG-12-50",
       "name_th": "ข้อต่อสตัด 12*50",
+      "name_th_short": "ข้อต่อสตัด",
       "name_cn": "接头12*50 ( 12 * 50)",
       "price": 3,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "JT",
       "material_cn": "规格",
       "material_code": "GG",
-      "spec_number": "1250-01",
-      "row_no": 689,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "12-50",
+      "row_no": 689
     },
     {
       "id": "01-10-05-004",
       "slug": "01-10-05-004",
       "code": "01.10.05.004",
-      "sku": "JT-GG-1450-01",
+      "sku": "JT-GG-14-50",
       "name_th": "ข้อต่อสตัด 14*50",
+      "name_th_short": "ข้อต่อสตัด",
       "name_cn": "接头14*50（ 14 * 50）",
       "price": 7.2,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "JT",
       "material_cn": "规格",
       "material_code": "GG",
-      "spec_number": "1450-01",
-      "row_no": 690,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "14-50",
+      "row_no": 690
     },
     {
       "id": "01-10-05-005",
       "slug": "01-10-05-005",
       "code": "01.10.05.005",
-      "sku": "SJT-BXX-M8-01",
-      "name_th": "ข้อต่อสตัด M8",
+      "sku": "SJT-BXX-M8",
+      "name_th": "ข้อต่อสตัด สแตนเลส M8",
+      "name_th_short": "ข้อต่อสตัดสแตนเลส",
       "name_cn": "不锈钢丝杆接头M8",
       "price": 12,
       "image": "/placeholder.svg",
@@ -160,17 +157,16 @@
       "category_code": "SJT",
       "material_cn": "不锈钢",
       "material_code": "BXX",
-      "spec_number": "M8-01",
-      "row_no": 691,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "M8",
+      "row_no": 691
     },
     {
       "id": "01-10-05-006",
       "slug": "01-10-05-006",
       "code": "01.10.05.006",
-      "sku": "SJT-BXX-M10-01",
-      "name_th": "ข้อต่อสตัด M10",
+      "sku": "SJT-BXX-M10",
+      "name_th": "ข้อต่อสตัด สแตนเลส M10",
+      "name_th_short": "ข้อต่อสตัดสแตนเลส",
       "name_cn": "不锈钢丝杆接头M10",
       "price": 16.8,
       "image": "/placeholder.svg",
@@ -192,17 +188,16 @@
       "category_code": "SJT",
       "material_cn": "不锈钢",
       "material_code": "BXX",
-      "spec_number": "M10-01",
-      "row_no": 692,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "M10",
+      "row_no": 692
     },
     {
       "id": "01-10-05-007",
       "slug": "01-10-05-007",
       "code": "01.10.05.007",
-      "sku": "SJT-304BXG-M12-01",
-      "name_th": "ข้อต่อสตัด M12",
+      "sku": "SJT-304BXG-M12",
+      "name_th": "ข้อต่อสตัดสแตนเลส 304 M12",
+      "name_th_short": "ข้อต่อสตัดสแตนเลส 304",
       "name_cn": "304不锈钢丝杆接头M12",
       "price": 30,
       "image": "/placeholder.svg",
@@ -224,10 +219,8 @@
       "category_code": "SJT",
       "material_cn": "304不锈钢",
       "material_code": "304BXG",
-      "spec_number": "M12-01",
-      "row_no": 693,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "M12",
+      "row_no": 693
     }
   ]
 }

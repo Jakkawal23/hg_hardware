@@ -9,8 +9,9 @@
       "id": "11-13-08-0016",
       "slug": "11-13-08-0016",
       "code": "11.13.08.0016",
-      "sku": "JC-JSJX-05019-01",
+      "sku": "JC-JSJX-05019",
       "name_th": "ตลับเมตร ยี่ห้อJinshi ซีรีส์กระเป๋าเล็ก ขนาด 5 เมตร x 19 มม.",
+      "name_th_short": "ตลับเมตร 5 เมตร",
       "name_cn": "金狮极小皮套系列卷尺5m*19mm",
       "price": 36,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "JC",
       "material_cn": "金狮极小",
       "material_code": "JSJX",
-      "spec_number": "05019-01",
-      "row_no": 762,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "05019",
+      "row_no": 762
     },
     {
       "id": "11-13-08-0017",
       "slug": "11-13-08-0017",
       "code": "11.13.08.0017",
-      "sku": "JC-JSXT-07525-01",
+      "sku": "JC-JSXT-07525",
       "name_th": "ตลับเมตร ยี่ห้อJinshi ซีรีส์กระเป๋าเล็ก ขนาด 7.5 เมตร x 25 มม.",
+      "name_th_short": "ตลับเมตร 7.5 เมตร",
       "name_cn": "金狮小皮套系列卷尺-7.5m*25mm",
       "price": 62.4,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "JC",
       "material_cn": "金狮小皮套",
       "material_code": "JSXT",
-      "spec_number": "07525-01",
-      "row_no": 763,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "07525",
+      "row_no": 763
     },
     {
       "id": "11-13-08-0018",
       "slug": "11-13-08-0018",
       "code": "11.13.08.0018",
-      "sku": "JC-JSXT-05025-01",
+      "sku": "JC-JSXT-05025",
       "name_th": "ตลับเมตร ยี่ห้อJinshi ซีรีส์กระเป๋าเล็ก ขนาด 5 เมตร x 25 มม.",
+      "name_th_short": "ตลับเมตร 5 เมตร",
       "name_cn": "金狮小皮套系列卷尺-5m*25mm",
       "price": 36,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "JC",
       "material_cn": "金狮小皮套",
       "material_code": "JSXT",
-      "spec_number": "05025-01",
-      "row_no": 764,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "05025",
+      "row_no": 764
     },
     {
       "id": "11-13-08-0020",
       "slug": "11-13-08-0020",
       "code": "11.13.08.0020",
-      "sku": "JC-JSHK-10025-01",
+      "sku": "JC-JSHK-10025",
       "name_th": "ตลับเมตร ยี่ห้อJinshi ซีรีส์บัตรเหลือง ขนาด 10 เมตร x 25 มม.",
+      "name_th_short": "ตลับเมตร 10 เมตร",
       "name_cn": "金狮黄卡系列卷尺10m*25mm",
       "price": 78,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "JC",
       "material_cn": "金狮黄卡",
       "material_code": "JSHK",
-      "spec_number": "10025-01",
-      "row_no": 765,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10025",
+      "row_no": 765
     },
     {
       "id": "11-13-08-0021",
       "slug": "11-13-08-0021",
       "code": "11.13.08.0021",
-      "sku": "JC-JSHK-07525-01",
+      "sku": "JC-JSHK-07525",
       "name_th": "ตลับเมตร ยี่ห้อJinshi ซีรีส์บัตรเหลือง ขนาด 7.5 เมตร x 25 มม.",
+      "name_th_short": "ตลับเมตร 7.5 เมตร",
       "name_cn": "金狮黄卡系列卷尺7.5m*25mm",
       "price": 54,
       "image": "/placeholder.svg",
@@ -160,17 +157,16 @@
       "category_code": "JC",
       "material_cn": "金狮黄卡",
       "material_code": "JSHK",
-      "spec_number": "07525-01",
-      "row_no": 766,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "07525",
+      "row_no": 766
     },
     {
       "id": "11-13-08-0022",
       "slug": "11-13-08-0022",
       "code": "11.13.08.0022",
-      "sku": "JC-JSHK-05025-01",
+      "sku": "JC-JSHK-05025",
       "name_th": "ตลับเมตร ยี่ห้อJinshi ซีรีส์บัตรเหลือง ขนาด 5 เมตร x 25 มม.",
+      "name_th_short": "ตลับเมตร 5 เมตร",
       "name_cn": "金狮黄卡系列卷尺5m*25mm",
       "price": 30,
       "image": "/placeholder.svg",
@@ -192,17 +188,16 @@
       "category_code": "JC",
       "material_cn": "金狮黄卡",
       "material_code": "JSHK",
-      "spec_number": "05025-01",
-      "row_no": 767,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "05025",
+      "row_no": 767
     },
     {
       "id": "11-13-08-0023",
       "slug": "11-13-08-0023",
       "code": "11.13.08.0023",
-      "sku": "JC-JSHK-03019-01",
+      "sku": "JC-JSHK-03019",
       "name_th": "ตลับเมตร ยี่ห้อJinshi ซีรีส์บัตรเหลือง ขนาด 3 เมตร x 19 มม.",
+      "name_th_short": "ตลับเมตร 3 เมตร",
       "name_cn": "金狮黄卡系列卷尺3M*19mm",
       "price": 26.4,
       "image": "/placeholder.svg",
@@ -224,10 +219,8 @@
       "category_code": "JC",
       "material_cn": "金狮黄卡",
       "material_code": "JSHK",
-      "spec_number": "03019-01",
-      "row_no": 768,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "03019",
+      "row_no": 768
     }
   ]
 }

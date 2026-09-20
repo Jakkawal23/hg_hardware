@@ -9,8 +9,9 @@
       "id": "12-05-10-003",
       "slug": "12-05-10-003",
       "code": "12.05.10.003",
-      "sku": "PT-65J-01-01",
+      "sku": "PT-65J-01",
       "name_th": "ชุดดอกไขควง 65 ชิ้น รุ่น YT-715065",
+      "name_th_short": "ชุดดอกไขควง 65 ชิ้น",
       "name_cn": "65件电讯批 批头（6把/盒）YT-715065",
       "price": 414,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "PT",
       "material_cn": "65件电讯",
       "material_code": "65J",
-      "spec_number": "01-01",
-      "row_no": 78,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "01",
+      "row_no": 78
     },
     {
       "id": "12-05-10-004",
       "slug": "12-05-10-004",
       "code": "12.05.10.004",
-      "sku": "PT-31J-01-01",
+      "sku": "PT-31J-01",
       "name_th": "ชุดดอกไขควง 31 ชิ้น รุ่น YT-700031",
+      "name_th_short": "ชุดดอกไขควง 31 ชิ้น",
       "name_cn": "31件电讯批 批头（30套/盒）YT-700031",
       "price": 60,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "PT",
       "material_cn": "31件电讯",
       "material_code": "31J",
-      "spec_number": "01-01",
-      "row_no": 79,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "01",
+      "row_no": 79
     }
   ]
 }

@@ -9,8 +9,9 @@
       "id": "16-01-03-001",
       "slug": "16-01-03-001",
       "code": "16.01.03.001",
-      "sku": "SMJ-YKHM-20-20-01",
+      "sku": "SMJ-YKHM-20-20",
       "name_th": "เทปโฟมสองหน้า Yongkuan เบอร์ 20 ตัวหนังสือแดงกล่องขาว (72ม้วน/ลัง)",
+      "name_th_short": "เทปโฟมสองหน้า",
       "name_cn": "永冠海绵双面胶 20（72卷/箱）红字白箱",
       "price": 4.8,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "SMJ",
       "material_cn": "永冠海绵",
       "material_code": "YKHM-20",
-      "spec_number": "20-01",
-      "row_no": 9,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "20",
+      "row_no": 9
     },
     {
       "id": "16-01-03-003",
       "slug": "16-01-03-003",
       "code": "16.01.03.003",
-      "sku": "SMJ-HM-50-50-01",
+      "sku": "SMJ-HM-50-50",
       "name_th": "เทปโฟมสองหน้า เบอร์ 50 (24ม้วน/ลัง)",
+      "name_th_short": "เทปโฟมสองหน้า",
       "name_cn": "海绵双面胶 50（24卷/箱)",
       "price": 12.6,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "SMJ",
       "material_cn": "海绵",
       "material_code": "HM-50",
-      "spec_number": "50-01",
-      "row_no": 10,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "50",
+      "row_no": 10
     },
     {
       "id": "16-01-03-004",
       "slug": "16-01-03-004",
       "code": "16.01.03.004",
-      "sku": "SMJ-YKPM-28-28-01",
+      "sku": "SMJ-YKPM-28-28",
       "name_th": "เทปโฟมสองหน้า Yongkuan เบอร์ 28 (48ม้วน/ลัง)",
+      "name_th_short": "เทปโฟมสองหน้า",
       "name_cn": "永冠双面泡棉胶带/海绵双面胶 28（48卷/箱）",
       "price": 6.72,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "SMJ",
       "material_cn": "永冠泡棉",
       "material_code": "YKPM-28",
-      "spec_number": "28-01",
-      "row_no": 11,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "28",
+      "row_no": 11
     },
     {
       "id": "16-01-03-009",
       "slug": "16-01-03-009",
       "code": "16.01.03.009",
-      "sku": "SMJ-GNB-18-10",
+      "sku": "SMJ-GNB-18",
       "name_th": "เทปโฟมสองหน้าม้วนใหญ่ติดแน่นสูง รุ่น B 18มม. 10เมตร (88ม้วน/ลัง)",
+      "name_th_short": "เทปโฟมสองหน้า",
       "name_cn": "高粘泡棉胶/大卷海绵双面胶 φ18-10米（88卷/箱）B款",
       "price": 12.24,
       "image": "/placeholder.svg",
@@ -128,10 +126,8 @@
       "category_code": "SMJ",
       "material_cn": "高粘B款",
       "material_code": "GNB",
-      "spec_number": "18-10",
-      "row_no": 12,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "18",
+      "row_no": 12
     }
   ]
 }

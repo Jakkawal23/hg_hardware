@@ -9,8 +9,9 @@
       "id": "11-03-10-005",
       "slug": "11-03-10-005",
       "code": "11.03.10.005",
-      "sku": "WYB-GJ-28-01",
-      "name_th": "ประแจขันเหล็กเส้นอเนกประสงค์ 28 นิ้ว (10 ตัว/หีบ) YT-161028",
+      "sku": "WYB-GJ-28",
+      "name_th": "ประแจขันเหล็กเส้นอเนกประสงค์ 28 นิ้ว (700 มม.) (10 ตัว/หีบ) YT-161028",
+      "name_th_short": "ประแจขันเหล็กเส้น 28 นิ้ว",
       "name_cn": "28寸钢筋万用扳手700（10把/件）YT-161028",
       "price": 432,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "WYB",
       "material_cn": "钢筋",
       "material_code": "GJ",
-      "spec_number": "28-01",
-      "row_no": 297,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "28",
+      "row_no": 297
     },
     {
       "id": "11-03-10-006",
       "slug": "11-03-10-006",
       "code": "11.03.10.006",
-      "sku": "WYB-GJ-24-01",
-      "name_th": "ประแจขันเหล็กเส้นอเนกประสงค์ 24 นิ้ว (10 ตัว/หีบ) YT-161024",
+      "sku": "WYB-GJ-24",
+      "name_th": "ประแจขันเหล็กเส้นอเนกประสงค์ 24 นิ้ว (600 มม.) (10 ตัว/หีบ) YT-161024",
+      "name_th_short": "ประแจขันเหล็กเส้น 24 นิ้ว",
       "name_cn": "24寸钢筋万用扳手600（10把/件）YT-161024",
       "price": 372,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "WYB",
       "material_cn": "钢筋",
       "material_code": "GJ",
-      "spec_number": "24-01",
-      "row_no": 298,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "24",
+      "row_no": 298
     },
     {
       "id": "11-03-10-007",
       "slug": "11-03-10-007",
       "code": "11.03.10.007",
-      "sku": "WYB-GJ-18-01",
-      "name_th": "ประแจขันเหล็กเส้นอเนกประสงค์ 18 นิ้ว (20 ตัว/กล่อง) YT-161024",
+      "sku": "WYB-GJ-18",
+      "name_th": "ประแจขันเหล็กเส้นอเนกประสงค์ 18 นิ้ว (450 มม.) (20 ตัว/กล่อง) YT-161024",
+      "name_th_short": "ประแจขันเหล็กเส้น 18 นิ้ว",
       "name_cn": "18寸钢筋万用扳手450（20把/盒）YT-161024",
       "price": 264,
       "image": "/placeholder.svg",
@@ -96,10 +95,8 @@
       "category_code": "WYB",
       "material_cn": "钢筋",
       "material_code": "GJ",
-      "spec_number": "18-01",
-      "row_no": 299,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "18",
+      "row_no": 299
     }
   ]
 }

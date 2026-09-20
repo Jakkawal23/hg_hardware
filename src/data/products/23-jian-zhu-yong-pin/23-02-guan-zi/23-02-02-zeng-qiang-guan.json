@@ -11,6 +11,7 @@
       "code": "23.02.02.002",
       "sku": "ZQG-BA-WW-20-50M",
       "name_th": "ท่อลม/ท่อใยถักสีขาวไร้กลิ่น ขนาด 20 มม. (50 เมตร) หนัก 8 กก.",
+      "name_th_short": "ท่อลมสีขาว 20 มม.",
       "name_cn": "白色无味管/增强管 20（50米）8KG",
       "price": 822,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "白色无味",
       "material_code": "BA-WW",
       "spec_number": "20-50M",
-      "row_no": 26,
-      "col_o": null,
-      "col_r": null
+      "row_no": 26
     },
     {
       "id": "23-02-02-003",
@@ -43,6 +42,7 @@
       "code": "23.02.02.003",
       "sku": "ZQG-BA-WW-25-40M",
       "name_th": "ท่อลม/ท่อใยถักสีขาวไร้กลิ่น ขนาด 25 มม. (40 เมตร) หนัก 8 กก.",
+      "name_th_short": "ท่อลมสีขาว 25 มม.",
       "name_cn": "白色无味管/增强管 25（40米）8KG",
       "price": 822,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "白色无味",
       "material_code": "BA-WW",
       "spec_number": "25-40M",
-      "row_no": 27,
-      "col_o": null,
-      "col_r": null
+      "row_no": 27
     },
     {
       "id": "23-02-02-005",
@@ -75,6 +73,7 @@
       "code": "23.02.02.005",
       "sku": "ZQG-HF-BA-WW-16-50M",
       "name_th": "ท่อลม/ท่อใยถักสีขาวไร้กลิ่น แบรนด์ Hufan ขนาด 16 มม. (50 เมตร)",
+      "name_th_short": "ท่อลมสีขาว 16 มม.",
       "name_cn": "沪帆白色无味管/增强管 16（50米）",
       "price": 696,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "沪帆白色无味",
       "material_code": "HF-BA-WW",
       "spec_number": "16-50M",
-      "row_no": 28,
-      "col_o": null,
-      "col_r": null
+      "row_no": 28
     },
     {
       "id": "23-02-02-008",
@@ -107,6 +104,7 @@
       "code": "23.02.02.008",
       "sku": "ZQG-BA-WW-32-35M",
       "name_th": "ท่อลม/ท่อใยถักสีขาวไร้กลิ่น ขนาด 32 มม. (35 เมตร)",
+      "name_th_short": "ท่อลมสีขาว 32 มม.",
       "name_cn": "白色无味管/增强管 32（35米）",
       "price": 30,
       "image": "/placeholder.svg",
@@ -129,9 +127,7 @@
       "material_cn": "白色无味",
       "material_code": "BA-WW",
       "spec_number": "32-35M",
-      "row_no": 29,
-      "col_o": null,
-      "col_r": null
+      "row_no": 29
     }
   ]
 }

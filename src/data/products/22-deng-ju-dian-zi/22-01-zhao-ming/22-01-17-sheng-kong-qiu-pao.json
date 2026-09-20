@@ -11,6 +11,7 @@
       "code": "22.01.17.001",
       "sku": "ZNGYD-SGK-GY-5W",
       "name_th": "หลอด LED อัจฉริยะควบคุมด้วยเสียงและแสง Hongri 5W",
+      "name_th_short": "หลอดไฟเซนเซอร์เสียง-แสง",
       "name_cn": "红日LED智能感应球泡-声光控 5W",
       "price": 54,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "声光控感应",
       "material_code": "SGK-GY",
       "spec_number": "5W",
-      "row_no": 56,
-      "col_o": null,
-      "col_r": null
+      "row_no": 56
     }
   ]
 }

@@ -11,6 +11,7 @@
       "code": "22.03.06.002",
       "sku": "QNQ-TS-A1-700W",
       "name_th": "เครื่องทำความร้อนแบบตั้งโต๊ะ รุ่น 300 Type A1 700W",
+      "name_th_short": "เครื่องทำความร้อนตั้งโต๊ะ",
       "name_cn": "取暖器300台式A1型 700W",
       "price": 396,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "台式A1型",
       "material_code": "TS-A1",
       "spec_number": "700W",
-      "row_no": 86,
-      "col_o": null,
-      "col_r": null
+      "row_no": 86
     },
     {
       "id": "22-03-06-003",
@@ -43,6 +42,7 @@
       "code": "22.03.06.003",
       "sku": "QNQ-DHL-H3B-1000W",
       "name_th": "เครื่องทำความร้อนทรงกระเช้าใหญ่ รุ่น 405 H3B 1000W",
+      "name_th_short": "เครื่องทำความร้อนทรงกระเช้า",
       "name_cn": "取暖器405大花篮H3B 1000W",
       "price": 540,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "大花篮H3B",
       "material_code": "DHL-H3B",
       "spec_number": "1000W",
-      "row_no": 87,
-      "col_o": null,
-      "col_r": null
+      "row_no": 87
     }
   ]
 }

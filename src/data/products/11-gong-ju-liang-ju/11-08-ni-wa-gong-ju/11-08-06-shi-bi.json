@@ -10,7 +10,8 @@
       "slug": "11-08-06-005",
       "code": "11.08.06.005",
       "sku": "SB-GXJG-1101242-01",
-      "name_th": "ดินสอหิน ยี่ห้อ Guangxi Jingui ขนาด 110x12x4.2 มม. (หยุดจำหน่าย)",
+      "name_th": "ดินสอหิน ยี่ห้อ Guangxi Jingui รุ่นพรีเมียม ขนาด 110x12x4.2 มม. (หยุดจำหน่าย)",
+      "name_th_short": "ดินสอหิน",
       "name_cn": "暂停使用 广西金桂精品石笔 规格：110mm*12mm*4.2mm",
       "price": 330,
       "image": "/placeholder.svg",
@@ -33,16 +34,15 @@
       "material_cn": "广西金桂",
       "material_code": "GXJG",
       "spec_number": "1101242-01",
-      "row_no": 574,
-      "col_o": null,
-      "col_r": null
+      "row_no": 574
     },
     {
       "id": "11-08-06-006",
       "slug": "11-08-06-006",
       "code": "11.08.06.006",
       "sku": "SB-GXJG-1101242-02",
-      "name_th": "ดินสอหิน ยี่ห้อ Guangxi Jingui ขนาด 110x12x4.2 มม.",
+      "name_th": "ดินสอหิน ยี่ห้อ Guangxi Jingui รุ่นพรีเมียม ขนาด 110x12x4.2 มม.",
+      "name_th_short": "ดินสอหิน",
       "name_cn": "广西金桂精品石笔 规格：110mm*12mm*4.2mm",
       "price": 36,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "广西金桂",
       "material_code": "GXJG",
       "spec_number": "1101242-02",
-      "row_no": 575,
-      "col_o": null,
-      "col_r": null
+      "row_no": 575
     }
   ]
 }

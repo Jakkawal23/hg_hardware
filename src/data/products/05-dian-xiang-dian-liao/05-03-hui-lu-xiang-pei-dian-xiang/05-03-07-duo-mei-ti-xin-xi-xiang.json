@@ -9,8 +9,9 @@
       "id": "05-03-07-001",
       "slug": "05-03-07-001",
       "code": "05.03.07.001",
-      "sku": "HLX-DDW-1018-01",
+      "sku": "HLX-DDW-1018",
       "name_th": "ตู้ควบคุมศักย์ไฟฟ้า KMDTT-1018/B",
+      "name_th_short": "ตู้ควบคุมศักย์ไฟฟ้า",
       "name_cn": "等电位箱/回路箱/小等电位联结箱 KMDTT-1018/B（不退换）",
       "price": 81.6,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "HLX",
       "material_cn": "等电位",
       "material_code": "DDW",
-      "spec_number": "1018-01",
-      "row_no": 145,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1018",
+      "row_no": 145
     },
     {
       "id": "05-03-07-007",
       "slug": "05-03-07-007",
       "code": "05.03.07.007",
-      "sku": "HLX-DDW-28-01",
+      "sku": "HLX-DDW-28",
       "name_th": "ตู้ควบคุมศักย์ไฟฟ้า TD28 (เหล็ก)",
+      "name_th_short": "ตู้ควบคุมศักย์ไฟฟ้า",
       "name_cn": "等电位箱/回路箱/小等电位联结箱 TD28铁（不退换）",
       "price": 26.4,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "HLX",
       "material_cn": "等电位",
       "material_code": "DDW",
-      "spec_number": "28-01",
-      "row_no": 146,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "28",
+      "row_no": 146
     }
   ]
 }

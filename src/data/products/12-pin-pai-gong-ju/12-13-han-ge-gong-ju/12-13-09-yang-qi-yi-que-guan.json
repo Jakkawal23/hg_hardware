@@ -9,8 +9,9 @@
       "id": "12-13-09-0001",
       "slug": "12-13-09-0001",
       "code": "12.13.09.0001",
-      "sku": "SSC-SS-50-01",
+      "sku": "SSC-SS-50",
       "name_th": "สายเชื่อมคู่ ขนาด 50 เมตร",
+      "name_th_short": "สายเชื่อมคู่",
       "name_cn": "50m双色管 YT-602050",
       "price": 2808,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "SSC",
       "material_cn": "双色",
       "material_code": "SS",
-      "spec_number": "50-01",
-      "row_no": 150,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "50",
+      "row_no": 150
     },
     {
       "id": "12-13-09-0002",
       "slug": "12-13-09-0002",
       "code": "12.13.09.0002",
-      "sku": "SSC-SS-30-01",
+      "sku": "SSC-SS-30",
       "name_th": "สายเชื่อมคู่ ขนาด 30 เมตร",
+      "name_th_short": "สายเชื่อมคู่",
       "name_cn": "30m双色管 YT-602025",
       "price": 1698,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "SSC",
       "material_cn": "双色",
       "material_code": "SS",
-      "spec_number": "30-01",
-      "row_no": 151,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "30",
+      "row_no": 151
     },
     {
       "id": "12-13-09-0003",
       "slug": "12-13-09-0003",
       "code": "12.13.09.0003",
-      "sku": "SSC-SS-25-01",
+      "sku": "SSC-SS-25",
       "name_th": "สายเชื่อมคู่ ขนาด 25 เมตร",
+      "name_th_short": "สายเชื่อมคู่",
       "name_cn": "25m双色管 YT-602025",
       "price": 1416,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "SSC",
       "material_cn": "双色",
       "material_code": "SS",
-      "spec_number": "25-01",
-      "row_no": 152,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "25",
+      "row_no": 152
     },
     {
       "id": "12-13-09-0004",
       "slug": "12-13-09-0004",
       "code": "12.13.09.0004",
-      "sku": "SSC-SS-20-01",
+      "sku": "SSC-SS-20",
       "name_th": "สายเชื่อมคู่ ขนาด 20 เมตร",
+      "name_th_short": "สายเชื่อมคู่",
       "name_cn": "20m双色管 YT-602020",
       "price": 1128,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "SSC",
       "material_cn": "双色",
       "material_code": "SS",
-      "spec_number": "20-01",
-      "row_no": 153,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "20",
+      "row_no": 153
     },
     {
       "id": "12-13-09-0005",
       "slug": "12-13-09-0005",
       "code": "12.13.09.0005",
-      "sku": "SSC-SS-15-01",
+      "sku": "SSC-SS-15",
       "name_th": "สายเชื่อมคู่ ขนาด 15 เมตร",
+      "name_th_short": "สายเชื่อมคู่",
       "name_cn": "15m双色管 YT-602015",
       "price": 852,
       "image": "/placeholder.svg",
@@ -160,17 +157,16 @@
       "category_code": "SSC",
       "material_cn": "双色",
       "material_code": "SS",
-      "spec_number": "15-01",
-      "row_no": 154,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "15",
+      "row_no": 154
     },
     {
       "id": "12-13-09-0006",
       "slug": "12-13-09-0006",
       "code": "12.13.09.0006",
-      "sku": "SSC-SS-10-01",
+      "sku": "SSC-SS-10",
       "name_th": "สายเชื่อมคู่ ขนาด 10 เมตร",
+      "name_th_short": "สายเชื่อมคู่",
       "name_cn": "10m双色管 YT-602010",
       "price": 564,
       "image": "/placeholder.svg",
@@ -192,10 +188,8 @@
       "category_code": "SSC",
       "material_cn": "双色",
       "material_code": "SS",
-      "spec_number": "10-01",
-      "row_no": 155,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10",
+      "row_no": 155
     }
   ]
 }

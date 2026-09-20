@@ -11,6 +11,7 @@
       "code": "23.03.05.008",
       "sku": "YT-SB-TI-30L",
       "name_th": "ถังใส่น้ำมันเหล็กชนิด 3 หูหิ้ว ขนาด 30 ลิตร",
+      "name_th_short": "ถังน้ำมัน 30 ลิตร",
       "name_cn": "三柄油桶 30升",
       "price": 444,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "三柄铁质",
       "material_code": "SB-TI",
       "spec_number": "30L",
-      "row_no": 41,
-      "col_o": null,
-      "col_r": null
+      "row_no": 41
     }
   ]
 }

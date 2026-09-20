@@ -9,8 +9,9 @@
       "id": "11-06-03-001",
       "slug": "11-06-03-001",
       "code": "11.06.03.001",
-      "sku": "LDQ-HS-10100-01",
+      "sku": "LDQ-HS-10100",
       "name_th": "ปืนยิงรีเวท Hufan/Shengnuo รุ่นด้ามจับคู่ รหัส 101",
+      "name_th_short": "ปืนยิงรีเวท",
       "name_cn": "沪帆/胜诺铆钉枪 双把（101）",
       "price": 180,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "LDQ",
       "material_cn": "沪帆/胜诺",
       "material_code": "HS",
-      "spec_number": "10100-01",
-      "row_no": 470,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10100",
+      "row_no": 470
     },
     {
       "id": "11-06-03-004",
       "slug": "11-06-03-004",
       "code": "11.06.03.004",
-      "sku": "LDQ-HY-10200-01",
+      "sku": "LDQ-HY-10200",
       "name_th": "ปืนยิงรีเวท Hufan/Yabang รุ่นพรีเมียม รหัส 102",
+      "name_th_short": "ปืนยิงรีเวท",
       "name_cn": "沪帆/亚邦铆钉枪 精品（102）",
       "price": 288,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "LDQ",
       "material_cn": "沪帆/亚邦",
       "material_code": "HY",
-      "spec_number": "10200-01",
-      "row_no": 471,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10200",
+      "row_no": 471
     },
     {
       "id": "11-06-03-005",
       "slug": "11-06-03-005",
       "code": "11.06.03.005",
-      "sku": "LDQ-504-10250-01",
+      "sku": "LDQ-504-10250",
       "name_th": "ปืนยิงรีเวท รหัส 504 ขนาด 10 นิ้ว (250 มม.) บรรจุ 5 ชิ้น/กล่อง",
+      "name_th_short": "ปืนยิงรีเวท",
       "name_cn": "504铆钉枪10/250（5把/盒）YT-504",
       "price": 216,
       "image": "/placeholder.svg",
@@ -94,19 +93,18 @@
       "last_import_date": null,
       "category_cn": "铆钉枪",
       "category_code": "LDQ",
-      "material_cn": "504.0",
-      "material_code": "504.0",
-      "spec_number": "10250-01",
-      "row_no": 472,
-      "col_o": null,
-      "col_r": null
+      "material_cn": 504,
+      "material_code": "504",
+      "spec_number": "10250",
+      "row_no": 472
     },
     {
       "id": "11-06-03-007",
       "slug": "11-06-03-007",
       "code": "11.06.03.007",
-      "sku": "LDQ-DB-10250-01",
+      "sku": "LDQ-DB-10250",
       "name_th": "ปืนยิงรีเวท รุ่นด้ามจับเดี่ยว ขนาด 10 นิ้ว (250 มม.) บรรจุ 10 ชิ้น/กล่อง",
+      "name_th_short": "ปืนยิงรีเวท",
       "name_cn": "单把铆钉枪10/250（10把/盒）YT-502",
       "price": 120,
       "image": "/placeholder.svg",
@@ -128,10 +126,8 @@
       "category_code": "LDQ",
       "material_cn": "单把",
       "material_code": "DB",
-      "spec_number": "10250-01",
-      "row_no": 473,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10250",
+      "row_no": 473
     }
   ]
 }

@@ -9,8 +9,9 @@
       "id": "12-05-04-002",
       "slug": "12-05-04-002",
       "code": "12.05.04.002",
-      "sku": "LSCQ-6J-01-01",
+      "sku": "LSCQ-6J-01",
       "name_th": "ชุดถอนสกรู Shike 6 ชิ้น",
+      "name_th_short": "ชุดถอนสกรู Shike",
       "name_cn": "世克 螺丝取出器 6件套（12套/盒）",
       "price": 84,
       "image": "/placeholder.svg",
@@ -32,10 +33,8 @@
       "category_code": "LSCQ",
       "material_cn": "6件套",
       "material_code": "6J",
-      "spec_number": "01-01",
-      "row_no": 76,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "01",
+      "row_no": 76
     }
   ]
 }

@@ -9,8 +9,9 @@
       "id": "12-01-05-001",
       "slug": "12-01-05-001",
       "code": "12.01.05.001",
-      "sku": "MGDJ-AHY-303-01",
+      "sku": "MGDJ-AHY-303",
       "name_th": "มีดคัตเตอร์ทาจิม่าแท้ โครง A สีเหลือง รุ่น LC-303",
+      "name_th_short": "มีดคัตเตอร์ทาจิม่า",
       "name_cn": "正品田岛美工刀架A型-黄色 LC-303(不退换）",
       "price": 108,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "MGDJ",
       "material_cn": "A型黄色",
       "material_code": "AHY",
-      "spec_number": "303-01",
-      "row_no": 4,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "303",
+      "row_no": 4
     },
     {
       "id": "12-01-05-002",
       "slug": "12-01-05-002",
       "code": "12.01.05.002",
-      "sku": "MGDJ-HY-550-01",
+      "sku": "MGDJ-HY-550",
       "name_th": "มีดคัตเตอร์ทาจิม่าแท้ โครงสีเหลือง รุ่น LC-550",
+      "name_th_short": "มีดคัตเตอร์ทาจิม่า",
       "name_cn": "正品田岛美工刀架-黄色 LC-550(不退换）",
       "price": 132,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "MGDJ",
       "material_cn": "黄色",
       "material_code": "HY",
-      "spec_number": "550-01",
-      "row_no": 5,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "550",
+      "row_no": 5
     },
     {
       "id": "12-01-05-003",
       "slug": "12-01-05-003",
       "code": "12.01.05.003",
-      "sku": "MDJ-BZX-30-01",
+      "sku": "MDJ-BZX-30",
       "name_th": "ใบมีดคัตเตอร์ทาจิม่าแท้ แบบมาตรฐาน รุ่น LB30H",
+      "name_th_short": "ใบมีดคัตเตอร์ทาจิม่า",
       "name_cn": "正品田岛美工刀片/标准型替刃 LB30H（不退换）",
       "price": 84,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "MDJ",
       "material_cn": "标准型替刃",
       "material_code": "BZX",
-      "spec_number": "30-01",
-      "row_no": 6,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "30",
+      "row_no": 6
     },
     {
       "id": "12-01-05-004",
       "slug": "12-01-05-004",
       "code": "12.01.05.004",
-      "sku": "MDJ-BZX-50-01",
+      "sku": "MDJ-BZX-50",
       "name_th": "ใบมีดคัตเตอร์ทาจิม่าแท้ แบบมาตรฐาน รุ่น LB50H",
+      "name_th_short": "ใบมีดคัตเตอร์ทาจิม่า",
       "name_cn": "正品田岛美工刀片/标准型替刃 LB50H（不退换）",
       "price": 120,
       "image": "/placeholder.svg",
@@ -128,10 +126,8 @@
       "category_code": "MDJ",
       "material_cn": "标准型替刃",
       "material_code": "BZX",
-      "spec_number": "50-01",
-      "row_no": 7,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "50",
+      "row_no": 7
     }
   ]
 }

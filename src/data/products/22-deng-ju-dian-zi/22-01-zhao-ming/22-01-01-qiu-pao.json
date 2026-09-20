@@ -11,6 +11,7 @@
       "code": "22.01.01.002",
       "sku": "QPD-HR-9W",
       "name_th": "หลอดไฟ LED ทรงกลม Hongri 9W",
+      "name_th_short": "หลอดไฟ LED กลม",
       "name_cn": "红日球泡 9W",
       "price": 42,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "红日系列",
       "material_code": "HR",
       "spec_number": "9W",
-      "row_no": 1,
-      "col_o": null,
-      "col_r": null
+      "row_no": 1
     },
     {
       "id": "22-01-01-005",
@@ -43,6 +42,7 @@
       "code": "22.01.01.005",
       "sku": "QPD-HR-28W",
       "name_th": "หลอดไฟ LED ทรงกลม Hongri 28W",
+      "name_th_short": "หลอดไฟ LED กลม",
       "name_cn": "红日球泡 28W",
       "price": 84,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "红日系列",
       "material_code": "HR",
       "spec_number": "28W",
-      "row_no": 2,
-      "col_o": null,
-      "col_r": null
+      "row_no": 2
     },
     {
       "id": "22-01-01-006",
@@ -75,6 +73,7 @@
       "code": "22.01.01.006",
       "sku": "QPD-HR-38W",
       "name_th": "หลอดไฟ LED ทรงกลม Hongri 38W",
+      "name_th_short": "หลอดไฟ LED กลม",
       "name_cn": "红日球泡 38W",
       "price": 134.4,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "红日系列",
       "material_code": "HR",
       "spec_number": "38W",
-      "row_no": 3,
-      "col_o": null,
-      "col_r": null
+      "row_no": 3
     },
     {
       "id": "22-01-01-007",
@@ -107,6 +104,7 @@
       "code": "22.01.01.007",
       "sku": "QPD-HR-48W",
       "name_th": "หลอดไฟ LED ทรงกลม Hongri 48W",
+      "name_th_short": "หลอดไฟ LED กลม",
       "name_cn": "红日球泡 48W",
       "price": 156,
       "image": "/placeholder.svg",
@@ -129,9 +127,7 @@
       "material_cn": "红日系列",
       "material_code": "HR",
       "spec_number": "48W",
-      "row_no": 4,
-      "col_o": null,
-      "col_r": null
+      "row_no": 4
     },
     {
       "id": "22-01-01-008",
@@ -139,6 +135,7 @@
       "code": "22.01.01.008",
       "sku": "QPD-HR-58W",
       "name_th": "หลอดไฟ LED ทรงกลม Hongri 58W",
+      "name_th_short": "หลอดไฟ LED กลม",
       "name_cn": "红日球泡 58W",
       "price": 180,
       "image": "/placeholder.svg",
@@ -161,9 +158,7 @@
       "material_cn": "红日系列",
       "material_code": "HR",
       "spec_number": "58W",
-      "row_no": 5,
-      "col_o": null,
-      "col_r": null
+      "row_no": 5
     },
     {
       "id": "22-01-01-013",
@@ -171,6 +166,7 @@
       "code": "22.01.01.013",
       "sku": "QPD-HR-GGL-100W",
       "name_th": "หลอดไฟ LED ทรงกลมกำลังสูง Hongri 100W",
+      "name_th_short": "หลอดไฟ LED กลม กำลังสูง",
       "name_cn": "红日LED大功率球泡 100W",
       "price": 540,
       "image": "/placeholder.svg",
@@ -193,9 +189,7 @@
       "material_cn": "红日大功率",
       "material_code": "HR-GGL",
       "spec_number": "100W",
-      "row_no": 6,
-      "col_o": null,
-      "col_r": null
+      "row_no": 6
     },
     {
       "id": "22-01-01-015",
@@ -203,6 +197,7 @@
       "code": "22.01.01.015",
       "sku": "QPD-YM-HJY-5W",
       "name_th": "หลอดไฟ LED ทรงใบโพธิ์ทอง Yaming 5W",
+      "name_th_short": "หลอดไฟ LED ทรงใบโพธิ์",
       "name_cn": "亚明LED黄金叶球泡 5w",
       "price": 24,
       "image": "/placeholder.svg",
@@ -225,9 +220,7 @@
       "material_cn": "亚明黄金叶",
       "material_code": "YM-HJY",
       "spec_number": "5W",
-      "row_no": 7,
-      "col_o": null,
-      "col_r": null
+      "row_no": 7
     },
     {
       "id": "22-01-01-016",
@@ -235,6 +228,7 @@
       "code": "22.01.01.016",
       "sku": "QPD-YM-HJY-10W",
       "name_th": "หลอดไฟ LED ทรงใบโพธิ์ทอง Yaming 10W",
+      "name_th_short": "หลอดไฟ LED ทรงใบโพธิ์",
       "name_cn": "亚明LED黄金叶球泡 10w",
       "price": 36,
       "image": "/placeholder.svg",
@@ -257,9 +251,7 @@
       "material_cn": "亚明黄金叶",
       "material_code": "YM-HJY",
       "spec_number": "10W",
-      "row_no": 8,
-      "col_o": null,
-      "col_r": null
+      "row_no": 8
     },
     {
       "id": "22-01-01-017",
@@ -267,6 +259,7 @@
       "code": "22.01.01.017",
       "sku": "QPD-YM-HJY-15W",
       "name_th": "หลอดไฟ LED ทรงใบโพธิ์ทอง Yaming 15W",
+      "name_th_short": "หลอดไฟ LED ทรงใบโพธิ์",
       "name_cn": "亚明LED黄金叶球泡 15w",
       "price": 48,
       "image": "/placeholder.svg",
@@ -289,9 +282,7 @@
       "material_cn": "亚明黄金叶",
       "material_code": "YM-HJY",
       "spec_number": "15W",
-      "row_no": 9,
-      "col_o": null,
-      "col_r": null
+      "row_no": 9
     },
     {
       "id": "22-01-01-018",
@@ -299,6 +290,7 @@
       "code": "22.01.01.018",
       "sku": "QPD-YM-HJY-20W",
       "name_th": "หลอดไฟ LED ทรงใบโพธิ์ทอง Yaming 20W",
+      "name_th_short": "หลอดไฟ LED ทรงใบโพธิ์",
       "name_cn": "亚明LED黄金叶球泡 20w",
       "price": 54,
       "image": "/placeholder.svg",
@@ -321,9 +313,7 @@
       "material_cn": "亚明黄金叶",
       "material_code": "YM-HJY",
       "spec_number": "20W",
-      "row_no": 10,
-      "col_o": null,
-      "col_r": null
+      "row_no": 10
     },
     {
       "id": "22-01-01-019",
@@ -331,6 +321,7 @@
       "code": "22.01.01.019",
       "sku": "QPD-YM-HJY-30W",
       "name_th": "หลอดไฟ LED ทรงใบโพธิ์ทอง Yaming 30W",
+      "name_th_short": "หลอดไฟ LED ทรงใบโพธิ์",
       "name_cn": "亚明LED黄金叶球泡 30w",
       "price": 78,
       "image": "/placeholder.svg",
@@ -353,9 +344,7 @@
       "material_cn": "亚明黄金叶",
       "material_code": "YM-HJY",
       "spec_number": "30W",
-      "row_no": 11,
-      "col_o": null,
-      "col_r": null
+      "row_no": 11
     },
     {
       "id": "22-01-01-020",
@@ -363,6 +352,7 @@
       "code": "22.01.01.020",
       "sku": "QPD-YM-HJY-40W",
       "name_th": "หลอดไฟ LED ทรงใบโพธิ์ทอง Yaming 40W",
+      "name_th_short": "หลอดไฟ LED ทรงใบโพธิ์",
       "name_cn": "亚明LED黄金叶球泡 40w",
       "price": 120,
       "image": "/placeholder.svg",
@@ -385,9 +375,7 @@
       "material_cn": "亚明黄金叶",
       "material_code": "YM-HJY",
       "spec_number": "40W",
-      "row_no": 12,
-      "col_o": null,
-      "col_r": null
+      "row_no": 12
     },
     {
       "id": "22-01-01-022",
@@ -395,6 +383,7 @@
       "code": "22.01.01.022",
       "sku": "QPD-YM-HJY-60W",
       "name_th": "หลอดไฟ LED ทรงใบโพธิ์ทอง Yaming 60W",
+      "name_th_short": "หลอดไฟ LED ทรงใบโพธิ์",
       "name_cn": "亚明LED黄金叶球泡 60w",
       "price": 168,
       "image": "/placeholder.svg",
@@ -417,9 +406,7 @@
       "material_cn": "亚明黄金叶",
       "material_code": "YM-HJY",
       "spec_number": "60W",
-      "row_no": 13,
-      "col_o": null,
-      "col_r": null
+      "row_no": 13
     },
     {
       "id": "22-01-01-027",
@@ -427,6 +414,7 @@
       "code": "22.01.01.027",
       "sku": "QPD-YM-QP-150W",
       "name_th": "หลอดไฟ LED ทรงครีบระบายความร้อน Yaming 150W",
+      "name_th_short": "หลอดไฟ LED ทรงครีบ",
       "name_cn": "亚明LED鳍片球泡灯 150W LED",
       "price": 408,
       "image": "/placeholder.svg",
@@ -449,9 +437,7 @@
       "material_cn": "亚明鳍片型",
       "material_code": "YM-QP",
       "spec_number": "150W",
-      "row_no": 14,
-      "col_o": null,
-      "col_r": null
+      "row_no": 14
     },
     {
       "id": "22-01-01-028",
@@ -459,6 +445,7 @@
       "code": "22.01.01.028",
       "sku": "QPD-YM-QP-100W",
       "name_th": "หลอดไฟ LED ทรงครีบระบายความร้อน Yaming 100W",
+      "name_th_short": "หลอดไฟ LED ทรงครีบ",
       "name_cn": "亚明LED鳍片球泡灯 100W LED",
       "price": 336,
       "image": "/placeholder.svg",
@@ -481,9 +468,7 @@
       "material_cn": "亚明鳍片型",
       "material_code": "YM-QP",
       "spec_number": "100W",
-      "row_no": 15,
-      "col_o": null,
-      "col_r": null
+      "row_no": 15
     },
     {
       "id": "22-01-01-029",
@@ -491,6 +476,7 @@
       "code": "22.01.01.029",
       "sku": "QPD-YM-QP-80W",
       "name_th": "หลอดไฟ LED ทรงครีบระบายความร้อน Yaming 80W",
+      "name_th_short": "หลอดไฟ LED ทรงครีบ",
       "name_cn": "亚明LED鳍片球泡灯 80W LED",
       "price": 282,
       "image": "/placeholder.svg",
@@ -513,9 +499,7 @@
       "material_cn": "亚明鳍片型",
       "material_code": "YM-QP",
       "spec_number": "80W",
-      "row_no": 16,
-      "col_o": null,
-      "col_r": null
+      "row_no": 16
     },
     {
       "id": "22-01-01-030",
@@ -523,6 +507,7 @@
       "code": "22.01.01.030",
       "sku": "QPD-YM-QP-50W",
       "name_th": "หลอดไฟ LED ทรงครีบระบายความร้อน Yaming 50W",
+      "name_th_short": "หลอดไฟ LED ทรงครีบ",
       "name_cn": "亚明LED鳍片球泡灯 50W LED",
       "price": 146.4,
       "image": "/placeholder.svg",
@@ -545,9 +530,7 @@
       "material_cn": "亚明鳍片型",
       "material_code": "YM-QP",
       "spec_number": "50W",
-      "row_no": 17,
-      "col_o": null,
-      "col_r": null
+      "row_no": 17
     },
     {
       "id": "22-01-01-031",
@@ -555,6 +538,7 @@
       "code": "22.01.01.031",
       "sku": "QPD-YM-HJY-50W",
       "name_th": "หลอดไฟ LED ทรงใบโพธิ์ทอง Yaming 50W",
+      "name_th_short": "หลอดไฟ LED ทรงใบโพธิ์",
       "name_cn": "亚明LED黄金叶球泡 50w",
       "price": 144,
       "image": "/placeholder.svg",
@@ -577,9 +561,7 @@
       "material_cn": "亚明黄金叶",
       "material_code": "YM-HJY",
       "spec_number": "50W",
-      "row_no": 18,
-      "col_o": null,
-      "col_r": null
+      "row_no": 18
     },
     {
       "id": "22-01-01-035",
@@ -587,6 +569,7 @@
       "code": "22.01.01.035",
       "sku": "DWD-YM-100W",
       "name_th": "หลอดไอโอดีน-ทังสเตน Yaming 100W",
+      "name_th_short": "หลอดไอโอดีนทังสเตน",
       "name_cn": "亚明 碘钨灯 100W",
       "price": 72,
       "image": "/placeholder.svg",
@@ -609,9 +592,7 @@
       "material_cn": "亚明系列",
       "material_code": "YM",
       "spec_number": "100W",
-      "row_no": 19,
-      "col_o": null,
-      "col_r": null
+      "row_no": 19
     }
   ]
 }

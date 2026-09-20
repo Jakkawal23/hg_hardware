@@ -9,8 +9,9 @@
       "id": "11-01-13-001",
       "slug": "11-01-13-001",
       "code": "11.01.13.001",
-      "sku": "WLQ-SY-00-01",
+      "sku": "WLQ-SY-00",
       "name_th": "คีมย้ำหัวแลน 3-in-1 เกรดกลาง",
+      "name_th_short": "คีมย้ำหัวแลน",
       "name_cn": "三用网络钳中档",
       "price": 108,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "WLQ",
       "material_cn": "三用",
       "material_code": "SY",
-      "spec_number": "00-01",
-      "row_no": 59,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00",
+      "row_no": 59
     },
     {
       "id": "11-01-13-002",
       "slug": "11-01-13-002",
       "code": "11.01.13.002",
-      "sku": "YXQ-YM-00-01",
+      "sku": "YXQ-YM-00",
       "name_th": "คีมย้ำหัวสาย (ย้ำหัวหมวก)",
+      "name_th_short": "คีมย้ำหัวสาย",
       "name_cn": "压线钳（压线帽）",
       "price": 210,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "YXQ",
       "material_cn": "压线帽",
       "material_code": "YM",
-      "spec_number": "00-01",
-      "row_no": 60,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00",
+      "row_no": 60
     },
     {
       "id": "11-01-13-003",
       "slug": "11-01-13-003",
       "code": "11.01.13.003",
-      "sku": "WLQ-SX-00-01",
+      "sku": "WLQ-SX-00",
       "name_th": "คีมย้ำหัวแลน 3 แกน",
+      "name_th_short": "คีมย้ำหัวแลน",
       "name_cn": "三芯网络钳",
       "price": 126,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "WLQ",
       "material_cn": "三芯",
       "material_code": "SX",
-      "spec_number": "00-01",
-      "row_no": 61,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00",
+      "row_no": 61
     },
     {
       "id": "11-01-13-004",
       "slug": "11-01-13-004",
       "code": "11.01.13.004",
-      "sku": "YXQ-SQ-10-01",
+      "sku": "YXQ-SQ-10",
       "name_th": "คีมย้ำหัวสาย 10 ตร.มม. (8 ตัว/กล่อง) YT-10086",
+      "name_th_short": "คีมย้ำหัวสาย 10 ตร.มม.",
       "name_cn": "10平方压线钳（8把/盒）YT-10086",
       "price": 126,
       "image": "/placeholder.svg",
@@ -128,10 +126,8 @@
       "category_code": "YXQ",
       "material_cn": "10平方",
       "material_code": "SQ",
-      "spec_number": "10-01",
-      "row_no": 62,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10",
+      "row_no": 62
     }
   ]
 }

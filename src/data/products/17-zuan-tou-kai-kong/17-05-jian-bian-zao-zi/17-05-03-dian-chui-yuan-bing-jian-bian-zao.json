@@ -11,6 +11,7 @@
       "code": "17.05.03.001",
       "sku": "DGZ-LJZ-17-400",
       "name_th": "ดอกสกัดแหลมก้านหกเหลี่ยม Hufan 17x400",
+      "name_th_short": "ดอกสกัดแหลมก้านหกเหลี่ยม 17",
       "name_cn": "《沪帆》精品电镐加长 17*400 六角尖凿",
       "price": 90,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "六角尖凿",
       "material_code": "LJZ",
       "spec_number": "17-400",
-      "row_no": 302,
-      "col_o": null,
-      "col_r": null
+      "row_no": 302
     },
     {
       "id": "17-05-03-002",
@@ -43,6 +42,7 @@
       "code": "17.05.03.002",
       "sku": "DGZ-LBZ-17-400",
       "name_th": "ดอกสกัดแบนก้านหกเหลี่ยม Hufan 17x400",
+      "name_th_short": "ดอกสกัดแบนก้านหกเหลี่ยม 17",
       "name_cn": "《沪帆》精品电镐加长 17*400 六角扁凿",
       "price": 90,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "六角扁凿",
       "material_code": "LBZ",
       "spec_number": "17-400",
-      "row_no": 303,
-      "col_o": null,
-      "col_r": null
+      "row_no": 303
     },
     {
       "id": "17-05-03-003",
@@ -75,6 +73,7 @@
       "code": "17.05.03.003",
       "sku": "DGZ-LJZ-17-280",
       "name_th": "ดอกสกัดแหลมก้านหกเหลี่ยม Hufan 17x280",
+      "name_th_short": "ดอกสกัดแหลมก้านหกเหลี่ยม 17",
       "name_cn": "《沪帆》电镐凿子/17*280/六角尖凿",
       "price": 69.6,
       "image": "/placeholder.svg",
@@ -97,16 +96,15 @@
       "material_cn": "六角尖凿",
       "material_code": "LJZ",
       "spec_number": "17-280",
-      "row_no": 304,
-      "col_o": null,
-      "col_r": null
+      "row_no": 304
     },
     {
       "id": "17-05-03-006",
       "slug": "17-05-03-006",
       "code": "17.05.03.006",
-      "sku": "DGZ-JZ-17-280",
+      "sku": "DGZ-JZ-17-280-01",
       "name_th": "ดอกสกัดแหลมพรีเมียม 17x280 สีทอง",
+      "name_th_short": "ดอกสกัดแหลมพรีเมียม สีทอง 17",
       "name_cn": "精品电镐17*280黄色 尖凿/土豪金",
       "price": 104.4,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "DGZ",
       "material_cn": "尖凿",
       "material_code": "JZ",
-      "spec_number": "17-280",
-      "row_no": 305,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "17-280-01",
+      "row_no": 305
     },
     {
       "id": "17-05-03-007",
       "slug": "17-05-03-007",
       "code": "17.05.03.007",
-      "sku": "DGZ-BZ-17-280",
+      "sku": "DGZ-BZ-17-280-01",
       "name_th": "ดอกสกัดแบนพรีเมียม 17x280 สีทอง",
+      "name_th_short": "ดอกสกัดแบนพรีเมียม สีทอง 17",
       "name_cn": "精品电镐17*280黄色 扁凿/土豪金",
       "price": 104.4,
       "image": "/placeholder.svg",
@@ -160,10 +157,8 @@
       "category_code": "DGZ",
       "material_cn": "扁凿",
       "material_code": "BZ",
-      "spec_number": "17-280",
-      "row_no": 306,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "17-280-01",
+      "row_no": 306
     },
     {
       "id": "17-05-03-008",
@@ -171,6 +166,7 @@
       "code": "17.05.03.008",
       "sku": "DGZ-JZ-17-400",
       "name_th": "ดอกสกัดแหลมพรีเมียม 17x400",
+      "name_th_short": "ดอกสกัดแหลมพรีเมียม 17",
       "name_cn": "精品电镐加长尖凿17*400",
       "price": 162,
       "image": "/placeholder.svg",
@@ -193,9 +189,7 @@
       "material_cn": "尖凿",
       "material_code": "JZ",
       "spec_number": "17-400",
-      "row_no": 307,
-      "col_o": null,
-      "col_r": null
+      "row_no": 307
     }
   ]
 }

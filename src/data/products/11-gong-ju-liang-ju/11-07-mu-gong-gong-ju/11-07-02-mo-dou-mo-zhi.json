@@ -9,8 +9,9 @@
       "id": "11-07-02-001",
       "slug": "11-07-02-001",
       "code": "11.07.02.001",
-      "sku": "MD-SL-08000-01",
+      "sku": "MD-SL-08000",
       "name_th": "ตลับสายวัดหมึก พลาสติก ขนาด 8 เมตร",
+      "name_th_short": "ตลับดีดเส้นหมึก",
       "name_cn": "墨斗 塑料 8米",
       "price": 13.2,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "MD",
       "material_cn": "塑料",
       "material_code": "SL",
-      "spec_number": "08000-01",
-      "row_no": 527,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "08000",
+      "row_no": 527
     },
     {
       "id": "11-07-02-002",
       "slug": "11-07-02-002",
       "code": "11.07.02.002",
-      "sku": "MD-SD-30000-01",
+      "sku": "MD-SD-30000",
       "name_th": "ตลับสายวัดหมึก แบบมือหมุน ขนาด 30 เมตร บรรจุ 10 ชิ้น/กล่อง",
+      "name_th_short": "ตลับดีดเส้นหมึก",
       "name_cn": "墨斗 手动 30米（10个/盒）",
       "price": 31.2,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "MD",
       "material_cn": "手动",
       "material_code": "SD",
-      "spec_number": "30000-01",
-      "row_no": 528,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "30000",
+      "row_no": 528
     },
     {
       "id": "11-07-02-004",
       "slug": "11-07-02-004",
       "code": "11.07.02.004",
-      "sku": "MD-Z-30000-01",
+      "sku": "MD-Z-30000",
       "name_th": "ตลับสายวัดหมึก วัสดุไม้ไผ่ ขนาด 30 เมตร บรรจุ 100 ชิ้น/กล่อง",
+      "name_th_short": "ตลับดีดเส้นหมึก",
       "name_cn": "墨斗 竹 30米（100个/盒）",
       "price": 31.2,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "MD",
       "material_cn": "竹",
       "material_code": "Z",
-      "spec_number": "30000-01",
-      "row_no": 529,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "30000",
+      "row_no": 529
     },
     {
       "id": "11-07-02-008",
       "slug": "11-07-02-008",
       "code": "11.07.02.008",
-      "sku": "MDMS-ZHM-00000-01",
+      "sku": "MDMS-ZHM-00000",
       "name_th": "หมึกจีน (Zhonghua Zhenmo) สำหรับตลับหมึก บรรจุ 30 ขวด/ลัง",
+      "name_th_short": "น้ำหมึกเดินเส้น",
       "name_cn": "中华珍墨/墨汁/墨水 （好）（30瓶/箱）",
       "price": 18,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "MDMS",
       "material_cn": "中华珍墨",
       "material_code": "ZHM",
-      "spec_number": "00000-01",
-      "row_no": 530,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000",
+      "row_no": 530
     },
     {
       "id": "11-07-02-009",
       "slug": "11-07-02-009",
       "code": "11.07.02.009",
-      "sku": "MD-ZD-08000-01",
+      "sku": "MD-ZD-08000",
       "name_th": "ตลับสายวัดหมึก แบบอัตโนมัติ ขนาด 8 เมตร บรรจุ 10 ชิ้น/กล่อง",
+      "name_th_short": "ตลับดีดเส้นหมึก",
       "name_cn": "墨斗 自动 8米（10个/盒）",
       "price": 38.4,
       "image": "/placeholder.svg",
@@ -160,17 +157,16 @@
       "category_code": "MD",
       "material_cn": "自动",
       "material_code": "ZD",
-      "spec_number": "08000-01",
-      "row_no": 531,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "08000",
+      "row_no": 531
     },
     {
       "id": "11-07-02-011",
       "slug": "11-07-02-011",
       "code": "11.07.02.011",
-      "sku": "MD-DJK-30000-01",
+      "sku": "MD-DJK-30000",
       "name_th": "ตลับสายวัดหมึก แบบมือหมุน รุ่น Tajima ขนาด 30 เมตร",
+      "name_th_short": "ตลับดีดเส้นหมึก",
       "name_cn": "墨斗 田岛款手卷式 30米（10个/盒）/ 30",
       "price": 33.6,
       "image": "/placeholder.svg",
@@ -192,17 +188,16 @@
       "category_code": "MD",
       "material_cn": "田岛款",
       "material_code": "DJK",
-      "spec_number": "30000-01",
-      "row_no": 532,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "30000",
+      "row_no": 532
     },
     {
       "id": "11-07-02-012",
       "slug": "11-07-02-012",
       "code": "11.07.02.012",
-      "sku": "MD-DZJX-00000-01",
+      "sku": "MD-DZJX-00000",
       "name_th": "ตลับสายวัดหมึก แบบม้วนสายอัตโนมัติ บรรจุ 6 ชิ้น/กล่อง",
+      "name_th_short": "ตลับดีดเส้นหมึก",
       "name_cn": "自动卷线墨斗（6把/盒）/",
       "price": 132,
       "image": "/placeholder.svg",
@@ -224,10 +219,8 @@
       "category_code": "MD",
       "material_cn": "自动卷线",
       "material_code": "DZJX",
-      "spec_number": "00000-01",
-      "row_no": 533,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000",
+      "row_no": 533
     }
   ]
 }

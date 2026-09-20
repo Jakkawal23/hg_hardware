@@ -9,8 +9,9 @@
       "id": "15-06-07-021",
       "slug": "15-06-07-021",
       "code": "15.06.07.021",
-      "sku": "ZJJ-HW-GQ-18-01",
+      "sku": "ZJJ-HW-GQ-18",
       "name_th": "น้ำยาเสียบเหล็กแรงยึดสูง Huanwei 18 กก. (แถมน้ำยาเร่งฝาน้ำเงิน 5 หลอด)",
+      "name_th_short": "น้ำยาเสียบเหล็กแรงยึดสูง",
       "name_cn": "欢维高强建筑植筋胶/送5支蓝色盖固化剂 18KG",
       "price": 1272,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "ZJJ",
       "material_cn": "欢维高强",
       "material_code": "HW-GQ",
-      "spec_number": "18-01",
-      "row_no": 42,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "18",
+      "row_no": 42
     },
     {
       "id": "15-06-07-022",
       "slug": "15-06-07-022",
       "code": "15.06.07.022",
-      "sku": "ZJJ-HDL-ZS-30-01",
+      "sku": "ZJJ-HDL-ZS-30",
       "name_th": "น้ำยาเสียบเหล็กแบบฉีด Handley (ชุด 30 หลอด)",
+      "name_th_short": "น้ำยาเสียบเหล็กแบบฉีด",
       "name_cn": "汉得力注射式植筋胶-30支装",
       "price": 78,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "ZJJ",
       "material_cn": "汉得力注射式",
       "material_code": "HDL-ZS",
-      "spec_number": "30-01",
-      "row_no": 43,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "30",
+      "row_no": 43
     },
     {
       "id": "15-06-07-023",
       "slug": "15-06-07-023",
       "code": "15.06.07.023",
-      "sku": "GHJ-HW-LG-100-01",
+      "sku": "GHJ-HW-LG-100",
       "name_th": "น้ำยาเร่งแข็งสำหรับกาวเสียบเหล็ก Huanwei ฝาน้ำเงิน 100 กรัม",
+      "name_th_short": "น้ำยาเร่งแข็งกาวเสียบเหล็ก",
       "name_cn": "欢维植筋胶-固化剂 蓝色盖子 100克",
       "price": 42,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "GHJ",
       "material_cn": "欢维蓝盖",
       "material_code": "HW-LG",
-      "spec_number": "100-01",
-      "row_no": 44,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "100",
+      "row_no": 44
     },
     {
       "id": "15-06-07-024",
       "slug": "15-06-07-024",
       "code": "15.06.07.024",
-      "sku": "ZJJ-PT-16-01",
+      "sku": "ZJJ-PT-16",
       "name_th": "น้ำยาเสียบเหล็ก 16 กก.",
+      "name_th_short": "น้ำยาเสียบเหล็ก",
       "name_cn": "植筋胶16kg",
       "price": 1440,
       "image": "/placeholder.svg",
@@ -128,10 +126,8 @@
       "category_code": "ZJJ",
       "material_cn": "普通",
       "material_code": "PT",
-      "spec_number": "16-01",
-      "row_no": 45,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "16",
+      "row_no": 45
     }
   ]
 }

@@ -9,8 +9,9 @@
       "id": "11-03-09-001",
       "slug": "11-03-09-001",
       "code": "11.03.09.001",
-      "sku": "WYB-DP-06-01",
-      "name_th": "ประแจสำหรับงานสุขภัณฑ์ ด้ามสั้น 6 นิ้ว (6 ตัว/กล่อง)",
+      "sku": "WYB-DP-06",
+      "name_th": "ประแจสำหรับงานสุขภัณฑ์ ด้ามสั้น 6 นิ้ว (150 มม.) (6 ตัว/กล่อง)",
+      "name_th_short": "ประแจสุขภัณฑ์ 6 นิ้ว",
       "name_cn": "卫浴扳手 短柄 6寸/150mm（6把/盒）",
       "price": 120,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "WYB",
       "material_cn": "短柄",
       "material_code": "DP",
-      "spec_number": "06-01",
-      "row_no": 294,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "06",
+      "row_no": 294
     },
     {
       "id": "11-03-09-002",
       "slug": "11-03-09-002",
       "code": "11.03.09.002",
-      "sku": "WYB-DP-08-01",
-      "name_th": "ประแจสำหรับงานสุขภัณฑ์ ด้ามสั้น 8 นิ้ว (6 ตัว/กล่อง)",
+      "sku": "WYB-DP-08",
+      "name_th": "ประแจสำหรับงานสุขภัณฑ์ ด้ามสั้น 8 นิ้ว (200 มม.) (6 ตัว/กล่อง)",
+      "name_th_short": "ประแจสุขภัณฑ์ 8 นิ้ว",
       "name_cn": "卫浴扳手 短柄 8寸/200mm（6把/盒）",
       "price": 168,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "WYB",
       "material_cn": "短柄",
       "material_code": "DP",
-      "spec_number": "08-01",
-      "row_no": 295,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "08",
+      "row_no": 295
     },
     {
       "id": "11-03-09-003",
       "slug": "11-03-09-003",
       "code": "11.03.09.003",
-      "sku": "WYB-DF-08-02",
-      "name_th": "ประแจสุขภัณฑ์อเนกประสงค์ 8 นิ้ว (10 ตัว/กล่อง) YT-400119",
+      "sku": "WYB-DF-08",
+      "name_th": "ประแจสุขภัณฑ์อเนกประสงค์ 8 นิ้ว (200 มม.) (10 ตัว/กล่อง) YT-400119",
+      "name_th_short": "ประแจสุขภัณฑ์ 8 นิ้ว",
       "name_cn": "多功能双用卫浴扳手8”/200（10把/盒）YT-400119",
       "price": 134.4,
       "image": "/placeholder.svg",
@@ -96,10 +95,8 @@
       "category_code": "WYB",
       "material_cn": "多功能",
       "material_code": "DF",
-      "spec_number": "08-02",
-      "row_no": 296,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "08",
+      "row_no": 296
     }
   ]
 }

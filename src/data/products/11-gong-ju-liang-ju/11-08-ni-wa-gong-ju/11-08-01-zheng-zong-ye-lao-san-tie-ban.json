@@ -9,8 +9,9 @@
       "id": "11-08-01-001",
       "slug": "11-08-01-001",
       "code": "11.08.01.001",
-      "sku": "TB-YLS-100250-01",
+      "sku": "TB-YLS-100250",
       "name_th": "เกรียงเหล็ก ยี่ห้อ Yelaosan ด้ามพลาสติกสีเขียว (1)",
+      "name_th_short": "เกรียงเหล็ก",
       "name_cn": "正宗叶老三铁板（绿塑柄）",
       "price": 42,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "TB",
       "material_cn": "叶老三",
       "material_code": "YLS",
-      "spec_number": "100250-01",
-      "row_no": 553,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "100250",
+      "row_no": 553
     },
     {
       "id": "11-08-01-002",
       "slug": "11-08-01-002",
       "code": "11.08.01.002",
-      "sku": "TB-YLS-110260-01",
+      "sku": "TB-YLS-110260",
       "name_th": "เกรียงเหล็ก ยี่ห้อ Yelaosan ด้ามพลาสติกสีเขียว (2)",
+      "name_th_short": "เกรียงเหล็ก",
       "name_cn": "正宗叶老三铁板（绿塑柄）",
       "price": 48,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "TB",
       "material_cn": "叶老三",
       "material_code": "YLS",
-      "spec_number": "110260-01",
-      "row_no": 554,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "110260",
+      "row_no": 554
     },
     {
       "id": "11-08-01-003",
       "slug": "11-08-01-003",
       "code": "11.08.01.003",
-      "sku": "TB-JCZJ-00000-01",
+      "sku": "TB-JCZJ-00000",
       "name_th": "เกรียงเหล็ก ยี่ห้อ Yelaosan แบบฟันเลื่อย ซ้าย-แหลม ด้ามพลาสติกสีเขียว",
+      "name_th_short": "เกรียงเหล็ก",
       "name_cn": "正宗叶老三锯齿铁板 左尖齿（绿塑柄）",
       "price": 72,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "TB",
       "material_cn": "锯齿左尖",
       "material_code": "JCZJ",
-      "spec_number": "00000-01",
-      "row_no": 555,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000",
+      "row_no": 555
     },
     {
       "id": "11-08-01-007",
       "slug": "11-08-01-007",
       "code": "11.08.01.007",
-      "sku": "TB-YLS-3-01",
+      "sku": "TB-YLS-3",
       "name_th": "เกรียงเหล็ก ยี่ห้อ Yelaosan ด้ามพลาสติกสีเขียว ขนาดเล็ก 3 นิ้ว",
+      "name_th_short": "เกรียงเหล็ก",
       "name_cn": "正宗叶老三（绿塑柄）",
       "price": 24,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "TB",
       "material_cn": "叶老三",
       "material_code": "YLS",
-      "spec_number": "3-01",
-      "row_no": 556,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "3",
+      "row_no": 556
     },
     {
       "id": "11-08-01-008",
       "slug": "11-08-01-008",
       "code": "11.08.01.008",
-      "sku": "TB-YLS-4-01",
+      "sku": "TB-YLS-4",
       "name_th": "เกรียงเหล็ก ยี่ห้อ Yelaosan ด้ามพลาสติกสีเขียว ขนาดกลาง 4 นิ้ว",
+      "name_th_short": "เกรียงเหล็ก",
       "name_cn": "正宗叶老三（绿塑柄）",
       "price": 26.4,
       "image": "/placeholder.svg",
@@ -160,17 +157,16 @@
       "category_code": "TB",
       "material_cn": "叶老三",
       "material_code": "YLS",
-      "spec_number": "4-01",
-      "row_no": 557,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "4",
+      "row_no": 557
     },
     {
       "id": "11-08-01-009",
       "slug": "11-08-01-009",
       "code": "11.08.01.009",
-      "sku": "TB-YLS-5-01",
+      "sku": "TB-YLS-5",
       "name_th": "เกรียงเหล็ก ยี่ห้อ Yelaosan ด้ามพลาสติกสีเขียว ขนาดใหญ่ 5 นิ้ว",
+      "name_th_short": "เกรียงเหล็ก",
       "name_cn": "正宗叶老三（绿塑柄）",
       "price": 30,
       "image": "/placeholder.svg",
@@ -192,17 +188,16 @@
       "category_code": "TB",
       "material_cn": "叶老三",
       "material_code": "YLS",
-      "spec_number": "5-01",
-      "row_no": 558,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "5",
+      "row_no": 558
     },
     {
       "id": "11-08-01-011",
       "slug": "11-08-01-011",
       "code": "11.08.01.011",
-      "sku": "TB-YLS-80300-01",
+      "sku": "TB-YLS-80300",
       "name_th": "เกรียงเหล็ก ยี่ห้อ Yelaosan ด้ามพลาสติก รหัส 803",
+      "name_th_short": "เกรียงเหล็ก",
       "name_cn": "正宗叶老三（塑柄)803",
       "price": 84,
       "image": "/placeholder.svg",
@@ -224,17 +219,16 @@
       "category_code": "TB",
       "material_cn": "叶老三",
       "material_code": "YLS",
-      "spec_number": "80300-01",
-      "row_no": 559,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "80300",
+      "row_no": 559
     },
     {
       "id": "11-08-01-012",
       "slug": "11-08-01-012",
       "code": "11.08.01.012",
-      "sku": "TB-YLS-80200-01",
+      "sku": "TB-YLS-80200",
       "name_th": "เกรียงเหล็ก ยี่ห้อ Yelaosan ด้ามพลาสติก รหัส 802",
+      "name_th_short": "เกรียงเหล็ก",
       "name_cn": "正宗叶老三（塑柄)802",
       "price": 108,
       "image": "/placeholder.svg",
@@ -256,10 +250,8 @@
       "category_code": "TB",
       "material_cn": "叶老三",
       "material_code": "YLS",
-      "spec_number": "80200-01",
-      "row_no": 560,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "80200",
+      "row_no": 560
     }
   ]
 }

@@ -9,8 +9,9 @@
       "id": "01-05-12-001",
       "slug": "01-05-12-001",
       "code": "01.05.12.001",
-      "sku": "PJS-CSC-08100-04",
-      "name_th": "พุกสแตนเลสสำหรับพื้นกลวง 8*100",
+      "sku": "PJS-CSC-8-100",
+      "name_th": "พุกสำหรับพื้นกลวง 8*100",
+      "name_th_short": "พุกพื้นกลวง",
       "name_cn": "穿山刺空心楼板膨胀(外胀)8*100",
       "price": 4.8,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "PJS",
       "material_cn": "穿山刺",
       "material_code": "CSC",
-      "spec_number": "08100-04",
-      "row_no": 413,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "8-100",
+      "row_no": 413
     },
     {
       "id": "01-05-12-002",
       "slug": "01-05-12-002",
       "code": "01.05.12.002",
-      "sku": "PJS-CSC-08120-03",
-      "name_th": "พุกสแตนเลสสำหรับพื้นกลวง 8*120",
+      "sku": "PJS-CSC-8-120",
+      "name_th": "พุกสำหรับพื้นกลวง 8*120",
+      "name_th_short": "พุกพื้นกลวง",
       "name_cn": "穿山刺空心楼板膨胀(外胀)8*120",
       "price": 6,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "PJS",
       "material_cn": "穿山刺",
       "material_code": "CSC",
-      "spec_number": "08120-03",
-      "row_no": 414,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "8-120",
+      "row_no": 414
     },
     {
       "id": "01-05-12-003",
       "slug": "01-05-12-003",
       "code": "01.05.12.003",
-      "sku": "PJS-CSC-10100-04",
-      "name_th": "พุกสแตนเลสสำหรับพื้นกลวง 10*100",
+      "sku": "PJS-CSC-10-100-01",
+      "name_th": "พุกสำหรับพื้นกลวง 10*100",
+      "name_th_short": "พุกพื้นกลวง",
       "name_cn": "穿山刺空心楼板膨胀(外胀)10*100",
       "price": 6.6,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "PJS",
       "material_cn": "穿山刺",
       "material_code": "CSC",
-      "spec_number": "10100-04",
-      "row_no": 415,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10-100-01",
+      "row_no": 415
     },
     {
       "id": "01-05-12-004",
       "slug": "01-05-12-004",
       "code": "01.05.12.004",
-      "sku": "PJS-CSC-10120-03",
-      "name_th": "พุกสแตนเลสสำหรับพื้นกลวง 10*120",
+      "sku": "PJS-CSC-10-120",
+      "name_th": "พุกสำหรับพื้นกลวง 10*120",
+      "name_th_short": "พุกพื้นกลวง",
       "name_cn": "穿山刺空心楼板膨胀(外胀)10*120",
       "price": 7.92,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "PJS",
       "material_cn": "穿山刺",
       "material_code": "CSC",
-      "spec_number": "10120-03",
-      "row_no": 416,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10-120",
+      "row_no": 416
     },
     {
       "id": "01-05-12-005",
       "slug": "01-05-12-005",
       "code": "01.05.12.005",
-      "sku": "PJS-CSC-10100-05",
+      "sku": "PJS-CSC-10-100-02",
       "name_th": "พุกตะขอสำหรับพื้นกลวง 10*100",
+      "name_th_short": "พุกตะขอพื้นกลวง",
       "name_cn": "穿山刺-膨胀钩10*100",
       "price": 10.32,
       "image": "/placeholder.svg",
@@ -160,10 +157,8 @@
       "category_code": "PJS",
       "material_cn": "穿山刺",
       "material_code": "CSC",
-      "spec_number": "10100-05",
-      "row_no": 417,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10-100-02",
+      "row_no": 417
     }
   ]
 }

@@ -9,8 +9,9 @@
       "id": "12-11-17-007",
       "slug": "12-11-17-007",
       "code": "12.11.17.007",
-      "sku": "RQR-DZSX-2063-01",
+      "sku": "RQR-DZSX-2063",
       "name_th": "เครื่องเชื่อมท่อ PPR ระบบดิจิตอล ขนาด 20-63 มม.",
+      "name_th_short": "เครื่องเชื่อมท่อ PPR",
       "name_cn": "电子数显热熔器【20-63mm】YT-528004",
       "price": 1425.6,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "RQR",
       "material_cn": "电子数显",
       "material_code": "DZSX",
-      "spec_number": "2063-01",
-      "row_no": 139,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "2063",
+      "row_no": 139
     },
     {
       "id": "12-11-17-008",
       "slug": "12-11-17-008",
       "code": "12.11.17.008",
-      "sku": "RQR-DZSX-2032-01",
+      "sku": "RQR-DZSX-2032",
       "name_th": "เครื่องเชื่อมท่อ PPR ระบบดิจิตอล ขนาด 20-32 มม.",
+      "name_th_short": "เครื่องเชื่อมท่อ PPR",
       "name_cn": "电子数显热熔器【20-32mm】YT-528002",
       "price": 1152,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "RQR",
       "material_cn": "电子数显",
       "material_code": "DZSX",
-      "spec_number": "2032-01",
-      "row_no": 140,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "2032",
+      "row_no": 140
     },
     {
       "id": "12-11-17-009",
       "slug": "12-11-17-009",
       "code": "12.11.17.009",
-      "sku": "RQR-XK-2063-01",
+      "sku": "RQR-XK-2063",
       "name_th": "เครื่องเชื่อมท่อ PPR (รุ่นใหม่) ขนาด 20-63 มม.",
+      "name_th_short": "เครื่องเชื่อมท่อ PPR รุ่นใหม่",
       "name_cn": "20-63mm热熔器【新款】 (8台/件)YT-528003",
       "price": 792,
       "image": "/placeholder.svg",
@@ -96,10 +95,8 @@
       "category_code": "RQR",
       "material_cn": "新款",
       "material_code": "XK",
-      "spec_number": "2063-01",
-      "row_no": 141,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "2063",
+      "row_no": 141
     }
   ]
 }

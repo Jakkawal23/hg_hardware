@@ -11,6 +11,7 @@
       "code": "23.03.03.001",
       "sku": "JSJ-PJ-JT-01",
       "name_th": "ข้อต่อ/ปลอกสวมเชื่อมต่อนั่งร้าน",
+      "name_th_short": "ข้อต่อนั่งร้าน",
       "name_cn": "脚手架配件-接头",
       "price": 33.6,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "接头",
       "material_code": "JT",
       "spec_number": "01",
-      "row_no": 35,
-      "col_o": null,
-      "col_r": null
+      "row_no": 35
     },
     {
       "id": "23-03-03-010",
@@ -43,6 +42,7 @@
       "code": "23.03.03.010",
       "sku": "JSJ-PJ-BZ-01",
       "name_th": "แผ่นทางเดินนั่งร้าน/แผ่นตะแกรงนั่งร้าน",
+      "name_th_short": "แผ่นทางเดินนั่งร้าน",
       "name_cn": "脚手架板子",
       "price": 504,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "板子",
       "material_code": "BZ",
       "spec_number": "01",
-      "row_no": 36,
-      "col_o": null,
-      "col_r": null
+      "row_no": 36
     },
     {
       "id": "23-03-03-011",
@@ -75,6 +73,7 @@
       "code": "23.03.03.011",
       "sku": "JSJ-PJ-LZ-01",
       "name_th": "อะไหล่ล้อลากสำหรับติดตั้งขานั่งร้าน",
+      "name_th_short": "ล้อนั่งร้าน",
       "name_cn": "脚手架轮子",
       "price": 276,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "轮子",
       "material_code": "LZ",
       "spec_number": "01",
-      "row_no": 37,
-      "col_o": null,
-      "col_r": null
+      "row_no": 37
     },
     {
       "id": "23-03-03-012",
@@ -107,6 +104,7 @@
       "code": "23.03.03.012",
       "sku": "JSJ-BZ-J-1.0-95-1.8",
       "name_th": "นั่งร้านเหล็กครบเซ็ต สูง 1.0 ม. x กว้าง 0.95 ม. x ยาว 1.8 ม.",
+      "name_th_short": "นั่งร้านเหล็กครบเซ็ต",
       "name_cn": "脚手架高度1米--宽度95--长度1.8米",
       "price": 1320,
       "image": "/placeholder.svg",
@@ -129,9 +127,7 @@
       "material_cn": "标准型架",
       "material_code": "BZ-J",
       "spec_number": "1.0-95-1.8",
-      "row_no": 38,
-      "col_o": null,
-      "col_r": null
+      "row_no": 38
     },
     {
       "id": "23-03-03-013",
@@ -139,6 +135,7 @@
       "code": "23.03.03.013",
       "sku": "JSJ-BZ-J-1.7-95-1.8",
       "name_th": "นั่งร้านเหล็กครบเซ็ต สูง 1.7 ม. x กว้าง 0.95 ม. x ยาว 1.8 ม.",
+      "name_th_short": "นั่งร้านเหล็กครบเซ็ต",
       "name_cn": "脚手架高度1.7米--宽度95--长度1.8米",
       "price": 1440,
       "image": "/placeholder.svg",
@@ -161,9 +158,7 @@
       "material_cn": "标准型架",
       "material_code": "BZ-J",
       "spec_number": "1.7-95-1.8",
-      "row_no": 39,
-      "col_o": null,
-      "col_r": null
+      "row_no": 39
     },
     {
       "id": "23-03-03-015",
@@ -171,6 +166,7 @@
       "code": "23.03.03.015",
       "sku": "JSJ-PJ-DJ-CCG-01",
       "name_th": "ค้ำยันทแยงนั่งร้านแบบยาว (สำหรับนั่งร้านทรงเตี้ย)",
+      "name_th_short": "ค้ำยันนั่งร้าน",
       "name_cn": "脚手架低架配件 撑杆 长",
       "price": 144,
       "image": "/placeholder.svg",
@@ -193,9 +189,7 @@
       "material_cn": "低架长撑杆",
       "material_code": "DJ-CCG",
       "spec_number": "01",
-      "row_no": 40,
-      "col_o": null,
-      "col_r": null
+      "row_no": 40
     }
   ]
 }

@@ -9,8 +9,9 @@
       "id": "12-16-18-004",
       "slug": "12-16-18-004",
       "code": "12.16.18.004",
-      "sku": "TYB-ZZ-01-01",
+      "sku": "TYB-ZZ-01",
       "name_th": "เกจวัดลมยาง (แบบเข็ม)",
+      "name_th_short": "เกจวัดลมยางแบบเข็ม",
       "name_cn": "指针胎压表 YT-623044",
       "price": 228,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "TYB",
       "material_cn": "指针",
       "material_code": "ZZ",
-      "spec_number": "01-01",
-      "row_no": 170,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "01",
+      "row_no": 170
     },
     {
       "id": "12-16-18-005",
       "slug": "12-16-18-005",
       "code": "12.16.18.005",
-      "sku": "TYB-DZSX-01-01",
+      "sku": "TYB-DZSX-01",
       "name_th": "เกจวัดลมยาง (แบบดิจิตอล)",
+      "name_th_short": "เกจวัดลมยางดิจิตอล",
       "name_cn": "电子数显胎压表 YT-623045",
       "price": 768,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "TYB",
       "material_cn": "电子数显",
       "material_code": "DZSX",
-      "spec_number": "01-01",
-      "row_no": 171,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "01",
+      "row_no": 171
     }
   ]
 }

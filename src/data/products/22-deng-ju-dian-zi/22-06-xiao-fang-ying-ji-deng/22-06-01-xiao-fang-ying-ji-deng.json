@@ -11,6 +11,7 @@
       "code": "22.06.01.001",
       "sku": "XFYJD-AQCK-YT-ZX",
       "name_th": "ป้ายไฟทางออกหนีไฟแบบรวมเครื่อง-ชี้ตรง มาตรฐานดับเพลิง (ไม่รับคืน)",
+      "name_th_short": "ป้ายไฟทางออกฉุกเฉิน",
       "name_cn": "消防应急灯/安全出口一体式灯-正向 不退换",
       "price": 187.2,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "安全出口一体",
       "material_code": "AQCK-YT",
       "spec_number": "ZX",
-      "row_no": 143,
-      "col_o": null,
-      "col_r": null
+      "row_no": 143
     },
     {
       "id": "22-06-01-002",
@@ -43,6 +42,7 @@
       "code": "22.06.01.002",
       "sku": "XFYJD-AQCK-YT-ZUX",
       "name_th": "ป้ายไฟทางออกหนีไฟแบบรวมเครื่อง-ชี้ซ้าย มาตรฐานดับเพลิง (ไม่รับคืน)",
+      "name_th_short": "ป้ายไฟทางออกฉุกเฉิน",
       "name_cn": "消防应急灯/安全出口一体式灯-左向 不退换",
       "price": 187.2,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "安全出口一体",
       "material_code": "AQCK-YT",
       "spec_number": "ZUX",
-      "row_no": 144,
-      "col_o": null,
-      "col_r": null
+      "row_no": 144
     },
     {
       "id": "22-06-01-004",
@@ -75,6 +73,7 @@
       "code": "22.06.01.004",
       "sku": "XFYJD-AQCK-YT-SX",
       "name_th": "ป้ายไฟทางออกหนีไฟแบบรวมเครื่อง-สองทาง มาตรฐานดับเพลิง (ไม่รับคืน)",
+      "name_th_short": "ป้ายไฟทางออกฉุกเฉิน",
       "name_cn": "消防应急灯/安全出口一体式灯-双向 不退换",
       "price": 187.2,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "安全出口一体",
       "material_code": "AQCK-YT",
       "spec_number": "SX",
-      "row_no": 145,
-      "col_o": null,
-      "col_r": null
+      "row_no": 145
     },
     {
       "id": "22-06-01-005",
@@ -107,6 +104,7 @@
       "code": "22.06.01.005",
       "sku": "XFYJD-XF-ST-01",
       "name_th": "โคมไฟฉุกเฉินดับเพลิงหัวคู่ (ไม่รับคืน)",
+      "name_th_short": "โคมไฟฉุกเฉินหัวคู่",
       "name_cn": "消防双头应急灯 不退换",
       "price": 174,
       "image": "/placeholder.svg",
@@ -129,9 +127,7 @@
       "material_cn": "消防双头",
       "material_code": "XF-ST",
       "spec_number": "01",
-      "row_no": 146,
-      "col_o": null,
-      "col_r": null
+      "row_no": 146
     }
   ]
 }

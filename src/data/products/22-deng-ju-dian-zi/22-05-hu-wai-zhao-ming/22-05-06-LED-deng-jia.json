@@ -11,6 +11,7 @@
       "code": "22.05.06.006",
       "sku": "GZD-YT-LED-10W-915010",
       "name_th": "ไฟสปอตไลท์ส่องงาน LED 10W รุ่น YT-915010 (30 เครื่อง/ลัง)",
+      "name_th_short": "ไฟสปอตไลท์ส่องงาน",
       "name_cn": "LED工作灯10W(30台/件)YT-915010 LED",
       "price": 403.2,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "YT系列LED",
       "material_code": "YT-LED",
       "spec_number": "10W-915010",
-      "row_no": 141,
-      "col_o": null,
-      "col_r": null
+      "row_no": 141
     },
     {
       "id": "22-05-06-007",
@@ -43,6 +42,7 @@
       "code": "22.05.06.007",
       "sku": "GZD-YT-LED-6W-915006",
       "name_th": "ไฟสปอตไลท์ส่องงาน LED 6W รุ่น YT-915006 (30 เครื่อง/ลัง)",
+      "name_th_short": "ไฟสปอตไลท์ส่องงาน",
       "name_cn": "LED工作灯6W(30台/件)YT-915006 LED",
       "price": 336,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "YT系列LED",
       "material_code": "YT-LED",
       "spec_number": "6W-915006",
-      "row_no": 142,
-      "col_o": null,
-      "col_r": null
+      "row_no": 142
     }
   ]
 }

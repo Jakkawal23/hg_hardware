@@ -9,8 +9,9 @@
       "id": "01-11-07-001",
       "slug": "01-11-07-001",
       "code": "01.11.07.001",
-      "sku": "XFD-MN-27-01",
+      "sku": "XFD-MN-27",
       "name_th": "ตะปูดับเพลิง (มินิ) 27",
+      "name_th_short": "ตะปูดับเพลิงมินิ",
       "name_cn": "迷你消防钉27",
       "price": 176.4,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "XFD",
       "material_cn": "迷你",
       "material_code": "MN",
-      "spec_number": "27-01",
-      "row_no": 769,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "27",
+      "row_no": 769
     },
     {
       "id": "01-11-07-002",
       "slug": "01-11-07-002",
       "code": "01.11.07.002",
-      "sku": "XFD-HY-M32-01",
+      "sku": "XFD-HY-M32",
       "name_th": "ตะปูดับเพลิง (วงกลมแดง) M32",
+      "name_th_short": "ตะปูดับเพลิงหัวแดง",
       "name_cn": "消防钉（红圆）M32 ()",
       "price": 1.68,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "XFD",
       "material_cn": "红圆",
       "material_code": "HY",
-      "spec_number": "M32-01",
-      "row_no": 770,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "M32",
+      "row_no": 770
     },
     {
       "id": "01-11-07-009",
       "slug": "01-11-07-009",
       "code": "01.11.07.009",
-      "sku": "XFD-HY-M42-01",
+      "sku": "XFD-HY-M42",
       "name_th": "ตะปูดับเพลิง (วงกลมแดง) M42",
+      "name_th_short": "ตะปูดับเพลิงหัวแดง",
       "name_cn": "消防钉（红圆）M42",
       "price": 1.8,
       "image": "/placeholder.svg",
@@ -96,10 +95,8 @@
       "category_code": "XFD",
       "material_cn": "红圆",
       "material_code": "HY",
-      "spec_number": "M42-01",
-      "row_no": 771,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "M42",
+      "row_no": 771
     }
   ]
 }

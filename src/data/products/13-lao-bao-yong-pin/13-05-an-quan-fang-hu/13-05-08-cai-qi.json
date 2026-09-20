@@ -11,6 +11,7 @@
       "code": "13.05.08.004",
       "sku": "CQ-SSK-20-200",
       "name_th": "ธงราวหลากสี 20 เมตร แบบร้อยเชือก (200เมตร/มัด)",
+      "name_th_short": "ธงราวหลากสี",
       "name_cn": "彩旗20米/绳索款（200米/捆）",
       "price": 225.6,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "绳索款",
       "material_code": "SSK",
       "spec_number": "20-200",
-      "row_no": 109,
-      "col_o": null,
-      "col_r": null
+      "row_no": 109
     }
   ]
 }

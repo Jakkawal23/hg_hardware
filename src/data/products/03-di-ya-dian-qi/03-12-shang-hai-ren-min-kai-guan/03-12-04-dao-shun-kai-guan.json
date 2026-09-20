@@ -9,8 +9,9 @@
       "id": "03-12-04-001",
       "slug": "03-12-04-001",
       "code": "03.12.04.001",
-      "sku": "DSKG-HY2K03-15A-01",
+      "sku": "DSKG-HY2K03-15A",
       "name_th": "สวิตช์เดินหน้า-ถอยหลัง HY2(K03)-15A",
+      "name_th_short": "สวิตช์เดินหน้า-ถอยหลัง",
       "name_cn": "倒顺开关 HY2(K03)-15A",
       "price": 102,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "DSKG",
       "material_cn": "HY2K03",
       "material_code": "HY2K03",
-      "spec_number": "15A-01",
-      "row_no": 16,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "15A",
+      "row_no": 16
     },
     {
       "id": "03-12-04-003",
       "slug": "03-12-04-003",
       "code": "03.12.04.003",
-      "sku": "DSKG-HY2K03-60A-01",
+      "sku": "DSKG-HY2K03-60A",
       "name_th": "สวิตช์เดินหน้า-ถอยหลัง HY2(K03)-60A",
+      "name_th_short": "สวิตช์เดินหน้า-ถอยหลัง",
       "name_cn": "倒顺开关 HY2(K03)-60A",
       "price": 141.6,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "DSKG",
       "material_cn": "HY2K03",
       "material_code": "HY2K03",
-      "spec_number": "60A-01",
-      "row_no": 17,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "60A",
+      "row_no": 17
     }
   ]
 }

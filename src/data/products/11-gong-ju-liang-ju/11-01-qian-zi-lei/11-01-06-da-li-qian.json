@@ -9,8 +9,9 @@
       "id": "11-01-06-001",
       "slug": "11-01-06-001",
       "code": "11.01.06.001",
-      "sku": "DLQ-JB-00-01",
+      "sku": "DLQ-JB-00",
       "name_th": "คีมล็อคด้ามยาง Hufan/Xinlide",
+      "name_th_short": "คีมล็อค",
       "name_cn": "沪帆/鑫利德-胶柄大力钳",
       "price": 108,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "DLQ",
       "material_cn": "胶柄",
       "material_code": "JB",
-      "spec_number": "00-01",
-      "row_no": 32,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00",
+      "row_no": 32
     },
     {
       "id": "11-01-06-002",
       "slug": "11-01-06-002",
       "code": "11.01.06.002",
-      "sku": "DLQ-HG-00-01",
+      "sku": "DLQ-HG-00",
       "name_th": "คีมล็อคด้ามเหล็ก Hufan",
+      "name_th_short": "คีมล็อค",
       "name_cn": "沪帆光柄大力钳",
       "price": 96,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "DLQ",
       "material_cn": "沪帆光柄",
       "material_code": "HG",
-      "spec_number": "00-01",
-      "row_no": 33,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00",
+      "row_no": 33
     },
     {
       "id": "11-01-06-004",
       "slug": "11-01-06-004",
       "code": "11.01.06.004",
-      "sku": "DLQ-JT-10-01",
+      "sku": "DLQ-JT-10",
       "name_th": "คีมล็อคด้ามหุ้มยาง 10 นิ้ว (6 ตัว/กล่อง) YT-104410",
+      "name_th_short": "คีมล็อค 10 นิ้ว",
       "name_cn": "10寸胶套大力钳(6把/盒)YT-104410",
       "price": 132,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "DLQ",
       "material_cn": "胶套",
       "material_code": "JT",
-      "spec_number": "10-01",
-      "row_no": 34,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10",
+      "row_no": 34
     },
     {
       "id": "11-01-06-006",
       "slug": "11-01-06-006",
       "code": "11.01.06.006",
-      "sku": "DLQ-YK-10-02",
+      "sku": "DLQ-YK-10",
       "name_th": "คีมล็อคปากกลม 10 นิ้ว (6 ตัว/กล่อง)",
+      "name_th_short": "คีมล็อค 10 นิ้ว",
       "name_cn": "10寸圆口大力钳（6把/盒）",
       "price": 120,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "DLQ",
       "material_cn": "圆口",
       "material_code": "YK",
-      "spec_number": "10-02",
-      "row_no": 35,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10",
+      "row_no": 35
     },
     {
       "id": "11-01-06-007",
       "slug": "11-01-06-007",
       "code": "11.01.06.007",
-      "sku": "DLQ-WY-10-03",
+      "sku": "DLQ-WY-10",
       "name_th": "คีมล็อคปากกลม Weilishi 10 นิ้ว WR10",
+      "name_th_short": "คีมล็อค 10 นิ้ว",
       "name_cn": "（威力狮WR10）大力钳 圆咀 10寸 WR10",
       "price": 132,
       "image": "/placeholder.svg",
@@ -160,10 +157,8 @@
       "category_code": "DLQ",
       "material_cn": "威力狮圆咀",
       "material_code": "WY",
-      "spec_number": "10-03",
-      "row_no": 36,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10",
+      "row_no": 36
     }
   ]
 }

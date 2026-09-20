@@ -9,8 +9,9 @@
       "id": "01-08-05-001",
       "slug": "01-08-05-001",
       "code": "01.08.05.001",
-      "sku": "GBD-XZ-35025-01",
+      "sku": "GBD-XZ-3.5-25",
       "name_th": "สกรูไดร์วอลล์ บรรจุกล่อง ลาฟาร์จ 3.5*25",
+      "name_th_short": "สกรูไดร์วอลล์",
       "name_cn": "拉法基干壁钉箱装3.5*25",
       "price": 48,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "GBD",
       "material_cn": "箱装",
       "material_code": "XZ",
-      "spec_number": "35025-01",
-      "row_no": 603,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "3.5-25",
+      "row_no": 603
     },
     {
       "id": "01-08-05-007",
       "slug": "01-08-05-007",
       "code": "01.08.05.007",
-      "sku": "GBD-DZ-35025-01",
+      "sku": "GBD-DZ-3.5-25",
       "name_th": "สกรูไดร์วอลล์ ลาฟาร์จ 3.5*25 (บรรจุถุง)",
+      "name_th_short": "สกรูไดร์วอลล์",
       "name_cn": "拉法基干壁钉3.5*25（袋装）",
       "price": 72,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "GBD",
       "material_cn": "袋装",
       "material_code": "DZ",
-      "spec_number": "35025-01",
-      "row_no": 604,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "3.5-25",
+      "row_no": 604
     },
     {
       "id": "01-08-05-008",
       "slug": "01-08-05-008",
       "code": "01.08.05.008",
-      "sku": "GBD-DZ-35035-01",
+      "sku": "GBD-DZ-3.5-35",
       "name_th": "สกรูไดร์วอลล์ ลาฟาร์จ 3.5*35 (บรรจุถุง)",
+      "name_th_short": "สกรูไดร์วอลล์",
       "name_cn": "拉法基干壁钉3.5*35（袋装）",
       "price": 72,
       "image": "/placeholder.svg",
@@ -96,10 +95,8 @@
       "category_code": "GBD",
       "material_cn": "袋装",
       "material_code": "DZ",
-      "spec_number": "35035-01",
-      "row_no": 605,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "3.5-35",
+      "row_no": 605
     }
   ]
 }

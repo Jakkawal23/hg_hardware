@@ -11,6 +11,7 @@
       "code": "22.01.13.001",
       "sku": "GKD-YM-FYFD-100W",
       "name_th": "โคมไฟโรงงานทรงไฮเบย์/จานบินกันน้ำ Yaming 100W",
+      "name_th_short": "โคมไฟโรงงานจานบิน",
       "name_cn": "亚明防雨水飞碟工矿灯 100w",
       "price": 372,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "亚明防雨飞碟",
       "material_code": "YM-FYFD",
       "spec_number": "100W",
-      "row_no": 51,
-      "col_o": null,
-      "col_r": null
+      "row_no": 51
     }
   ]
 }

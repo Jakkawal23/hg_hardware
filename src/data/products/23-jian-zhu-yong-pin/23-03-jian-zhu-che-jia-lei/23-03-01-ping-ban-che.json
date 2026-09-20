@@ -9,8 +9,9 @@
       "id": "23-03-01-006",
       "slug": "23-03-01-006",
       "code": "23.03.01.006",
-      "sku": "PBC-HF-SJ-JY-6090-YS",
+      "sku": "PBC-HF-SJ-JY-60-90-YS",
       "name_th": "รถเข็นแบนพับได้รุ่นอัปเกรดท่อเหลี่ยม-เงียบพิเศษ Hufan 60x90 ซม. สีเหลือง",
+      "name_th_short": "รถเข็นแบนพับได้",
       "name_cn": "《沪帆》升级款-超静音方管平板车/推车 60*90 黄色",
       "price": 1200,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "PBC",
       "material_cn": "沪帆升级超静音",
       "material_code": "HF-SJ-JY",
-      "spec_number": "6090-YS",
-      "row_no": 31,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "60-90-YS",
+      "row_no": 31
     },
     {
       "id": "23-03-01-007",
       "slug": "23-03-01-007",
       "code": "23.03.01.007",
-      "sku": "PBC-TI-BNL-6090-5",
+      "sku": "PBC-TI-BNL-60-90-5",
       "name_th": "รถเข็นแบนเหล็ก/รถเข็นสี่ล้อ พร้อมลวดไนลอนขาว 5 นิ้ว ขนาด 60x90 ซม.",
+      "name_th_short": "รถเข็นแบนสี่ล้อ",
       "name_cn": "铁平板车/手推车-配5寸白尼龙轮子 60*90",
       "price": 1440,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "PBC",
       "material_cn": "铁质配白尼龙轮",
       "material_code": "TI-BNL",
-      "spec_number": "6090-5",
-      "row_no": 32,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "60-90-5",
+      "row_no": 32
     },
     {
       "id": "23-03-01-013",
@@ -75,6 +73,7 @@
       "code": "23.03.01.013",
       "sku": "CL-PJ-PBC-L-01",
       "name_th": "อะไหล่ล้อรถเข็นแบน/ล้อรถเข็นสี่ล้อ",
+      "name_th_short": "ล้อรถเข็นแบน",
       "name_cn": "平板车轮子",
       "price": 120,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "平板车轮子",
       "material_code": "PBC-L",
       "spec_number": "01",
-      "row_no": 33,
-      "col_o": null,
-      "col_r": null
+      "row_no": 33
     }
   ]
 }

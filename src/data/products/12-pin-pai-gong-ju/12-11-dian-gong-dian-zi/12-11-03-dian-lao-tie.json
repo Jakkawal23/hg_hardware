@@ -11,6 +11,7 @@
       "code": "12.11.03.014",
       "sku": "DL-30-01",
       "name_th": "หัวแร้งบัดกรี ขนาด 30W",
+      "name_th_short": "หัวแร้งบัดกรี 30W",
       "name_cn": "电烙铁30W(50支/盒)YT-513030",
       "price": 72,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "30W",
       "material_code": "30",
       "spec_number": "01",
-      "row_no": 126,
-      "col_o": null,
-      "col_r": null
+      "row_no": 126
     },
     {
       "id": "12-11-03-015",
@@ -43,6 +42,7 @@
       "code": "12.11.03.015",
       "sku": "DL-40-01",
       "name_th": "หัวแร้งบัดกรี ขนาด 40W",
+      "name_th_short": "หัวแร้งบัดกรี 40W",
       "name_cn": "电烙铁40W(50支/盒)YT-513040",
       "price": 78,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "40W",
       "material_code": "40",
       "spec_number": "01",
-      "row_no": 127,
-      "col_o": null,
-      "col_r": null
+      "row_no": 127
     },
     {
       "id": "12-11-03-016",
@@ -75,6 +73,7 @@
       "code": "12.11.03.016",
       "sku": "DL-50-01",
       "name_th": "หัวแร้งบัดกรี ขนาด 50W",
+      "name_th_short": "หัวแร้งบัดกรี 50W",
       "name_cn": "电烙铁50W(50支/盒)YT-513050",
       "price": 84,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "50W",
       "material_code": "50",
       "spec_number": "01",
-      "row_no": 128,
-      "col_o": null,
-      "col_r": null
+      "row_no": 128
     },
     {
       "id": "12-11-03-017",
@@ -107,6 +104,7 @@
       "code": "12.11.03.017",
       "sku": "DL-60-01",
       "name_th": "หัวแร้งบัดกรี ขนาด 60W",
+      "name_th_short": "หัวแร้งบัดกรี 60W",
       "name_cn": "电烙铁60W(50支/盒)",
       "price": 86.4,
       "image": "/placeholder.svg",
@@ -129,9 +127,7 @@
       "material_cn": "60W",
       "material_code": "60",
       "spec_number": "01",
-      "row_no": 129,
-      "col_o": null,
-      "col_r": null
+      "row_no": 129
     },
     {
       "id": "12-11-03-018",
@@ -139,6 +135,7 @@
       "code": "12.11.03.018",
       "sku": "DL-80-01",
       "name_th": "หัวแร้งบัดกรี ขนาด 80W",
+      "name_th_short": "หัวแร้งบัดกรี 80W",
       "name_cn": "电烙铁80W(50支/盒)YT-513150",
       "price": 126,
       "image": "/placeholder.svg",
@@ -161,9 +158,7 @@
       "material_cn": "80W",
       "material_code": "80",
       "spec_number": "01",
-      "row_no": 130,
-      "col_o": null,
-      "col_r": null
+      "row_no": 130
     },
     {
       "id": "12-11-03-019",
@@ -171,6 +166,7 @@
       "code": "12.11.03.019",
       "sku": "DL-100-01",
       "name_th": "หัวแร้งบัดกรี ขนาด 100W",
+      "name_th_short": "หัวแร้งบัดกรี 100W",
       "name_cn": "电烙铁100W(50支/件)YT-513100",
       "price": 180,
       "image": "/placeholder.svg",
@@ -193,9 +189,7 @@
       "material_cn": "100W",
       "material_code": "100",
       "spec_number": "01",
-      "row_no": 131,
-      "col_o": null,
-      "col_r": null
+      "row_no": 131
     },
     {
       "id": "12-11-03-020",
@@ -203,6 +197,7 @@
       "code": "12.11.03.020",
       "sku": "DL-150-01",
       "name_th": "หัวแร้งบัดกรี ขนาด 150W",
+      "name_th_short": "หัวแร้งบัดกรี 150W",
       "name_cn": "电烙铁150W（50支/件）YT-513150",
       "price": 216,
       "image": "/placeholder.svg",
@@ -225,16 +220,15 @@
       "material_cn": "150W",
       "material_code": "150",
       "spec_number": "01",
-      "row_no": 132,
-      "col_o": null,
-      "col_r": null
+      "row_no": 132
     },
     {
       "id": "12-11-03-021",
       "slug": "12-11-03-021",
       "code": "12.11.03.021",
-      "sku": "DL-WRKW-60-01",
+      "sku": "DL-WRKW-60",
       "name_th": "หัวแร้งบัดกรีแบบปรับอุณหภูมิ ขนาด 60W",
+      "name_th_short": "หัวแร้งบัดกรีปรับอุณหภูมิ",
       "name_cn": "60W外热控温电烙铁（36个/盒）YT-513300",
       "price": 270,
       "image": "/placeholder.svg",
@@ -256,17 +250,16 @@
       "category_code": "DL",
       "material_cn": "外热控温",
       "material_code": "WRKW",
-      "spec_number": "60-01",
-      "row_no": 133,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "60",
+      "row_no": 133
     },
     {
       "id": "12-11-03-022",
       "slug": "12-11-03-022",
       "code": "12.11.03.022",
-      "sku": "DL-WR-30-01",
+      "sku": "DL-WR-30",
       "name_th": "หัวแร้งบัดกรี Shike ขนาด 30W",
+      "name_th_short": "หัวแร้งบัดกรี Shike",
       "name_cn": "世克外热式电烙铁 30W（12个/盒）",
       "price": 79.2,
       "image": "/placeholder.svg",
@@ -288,17 +281,16 @@
       "category_code": "DL",
       "material_cn": "外热式",
       "material_code": "WR",
-      "spec_number": "30-01",
-      "row_no": 134,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "30",
+      "row_no": 134
     },
     {
       "id": "12-11-03-023",
       "slug": "12-11-03-023",
       "code": "12.11.03.023",
-      "sku": "DL-WR-40-01",
+      "sku": "DL-WR-40",
       "name_th": "หัวแร้งบัดกรี Shike ขนาด 40W",
+      "name_th_short": "หัวแร้งบัดกรี Shike",
       "name_cn": "世克外热式电烙铁 40W（12个/盒）",
       "price": 86.4,
       "image": "/placeholder.svg",
@@ -320,17 +312,16 @@
       "category_code": "DL",
       "material_cn": "外热式",
       "material_code": "WR",
-      "spec_number": "40-01",
-      "row_no": 135,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "40",
+      "row_no": 135
     },
     {
       "id": "12-11-03-024",
       "slug": "12-11-03-024",
       "code": "12.11.03.024",
-      "sku": "DL-WR-60-01",
+      "sku": "DL-WR-60",
       "name_th": "หัวแร้งบัดกรี Shike ขนาด 60W",
+      "name_th_short": "หัวแร้งบัดกรี Shike",
       "name_cn": "世克外热式电烙铁 60W（12个/盒）",
       "price": 96,
       "image": "/placeholder.svg",
@@ -352,17 +343,16 @@
       "category_code": "DL",
       "material_cn": "外热式",
       "material_code": "WR",
-      "spec_number": "60-01",
-      "row_no": 136,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "60",
+      "row_no": 136
     },
     {
       "id": "12-11-03-025",
       "slug": "12-11-03-025",
       "code": "12.11.03.025",
-      "sku": "DL-WR-150-01",
+      "sku": "DL-WR-150",
       "name_th": "หัวแร้งบัดกรี Shike ขนาด 150W",
+      "name_th_short": "หัวแร้งบัดกรี Shike",
       "name_cn": "世克外热式电烙铁 150W（6个/盒）",
       "price": 276,
       "image": "/placeholder.svg",
@@ -384,10 +374,8 @@
       "category_code": "DL",
       "material_cn": "外热式",
       "material_code": "WR",
-      "spec_number": "150-01",
-      "row_no": 137,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "150",
+      "row_no": 137
     }
   ]
 }

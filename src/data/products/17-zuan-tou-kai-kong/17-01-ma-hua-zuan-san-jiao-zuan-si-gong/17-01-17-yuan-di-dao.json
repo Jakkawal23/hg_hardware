@@ -10,7 +10,8 @@
       "slug": "17-01-17-001",
       "code": "17.01.17.001",
       "sku": null,
-      "name_th": "ใบเลื่อยวงเดือน Inspur ระดับมืออาชีพ ปลายกลม ขนาด 1/4x5/16 นิ้ว (2 ชิ้น/แผ่น)",
+      "name_th": "มีดกัดท้องมน 1/4x5/16",
+      "name_th_short": "มีดกัดท้องมน 1/4",
       "name_cn": "浪潮专业级圆底刀 1/4x5/16(2支/板）",
       "price": 72,
       "image": "/placeholder.svg",
@@ -33,16 +34,15 @@
       "material_cn": null,
       "material_code": null,
       "spec_number": null,
-      "row_no": 209,
-      "col_o": null,
-      "col_r": null
+      "row_no": 209
     },
     {
       "id": "17-01-17-002",
       "slug": "17-01-17-002",
       "code": "17.01.17.002",
       "sku": null,
-      "name_th": "ใบเลื่อยวงเดือน Inspur ระดับมืออาชีพ ปลายกลม ขนาด 1/4x3/8 นิ้ว (2 ชิ้น/แผ่น)",
+      "name_th": "มีดกัดท้องมน 1/4x3/8",
+      "name_th_short": "มีดกัดท้องมน 1/4",
       "name_cn": "浪潮专业级圆底刀 1/4x3/8(2支/板）",
       "price": 72,
       "image": "/placeholder.svg",
@@ -65,16 +65,15 @@
       "material_cn": null,
       "material_code": null,
       "spec_number": null,
-      "row_no": 210,
-      "col_o": null,
-      "col_r": null
+      "row_no": 210
     },
     {
       "id": "17-01-17-003",
       "slug": "17-01-17-003",
       "code": "17.01.17.003",
-      "sku": "XD-YDD-12-01",
+      "sku": "XD-YDD-12",
       "name_th": "มีดกัดท้องมน 12",
+      "name_th_short": "มีดกัดท้องมน 12",
       "name_cn": "12元底刀（30支/盒）YT-506012",
       "price": 48,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "XD",
       "material_cn": "圆底刀",
       "material_code": "YDD",
-      "spec_number": "12-01",
-      "row_no": 211,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "12",
+      "row_no": 211
     },
     {
       "id": "17-01-17-004",
       "slug": "17-01-17-004",
       "code": "17.01.17.004",
-      "sku": "XD-YDD-10-01",
+      "sku": "XD-YDD-10",
       "name_th": "มีดกัดท้องมน 10",
+      "name_th_short": "มีดกัดท้องมน 10",
       "name_cn": "10元底刀（30支/盒）YT-506010",
       "price": 48,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "XD",
       "material_cn": "圆底刀",
       "material_code": "YDD",
-      "spec_number": "10-01",
-      "row_no": 212,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10",
+      "row_no": 212
     },
     {
       "id": "17-01-17-005",
       "slug": "17-01-17-005",
       "code": "17.01.17.005",
-      "sku": "XD-YDD-8-01",
+      "sku": "XD-YDD-8",
       "name_th": "มีดกัดท้องมน 8",
+      "name_th_short": "มีดกัดท้องมน 8",
       "name_cn": "8元底刀（30支/盒）YT-506008",
       "price": 48,
       "image": "/placeholder.svg",
@@ -160,10 +157,8 @@
       "category_code": "XD",
       "material_cn": "圆底刀",
       "material_code": "YDD",
-      "spec_number": "8-01",
-      "row_no": 213,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "8",
+      "row_no": 213
     }
   ]
 }

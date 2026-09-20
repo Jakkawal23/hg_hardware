@@ -9,8 +9,9 @@
       "id": "11-09-08-001",
       "slug": "11-09-08-001",
       "code": "11.09.08.001",
-      "sku": "HJJ-ZK-00000-01",
+      "sku": "HJJ-ZK-00000",
       "name_th": "กรรไกรตัดแผ่นโลหะ รุ่นพรีเมียม แบบตรง",
+      "name_th_short": "กรรไกรตัดแผ่นโลหะ",
       "name_cn": "精品航空剪直",
       "price": 98.4,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "HJJ",
       "material_cn": "直口",
       "material_code": "ZK",
-      "spec_number": "00000-01",
-      "row_no": 623,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000",
+      "row_no": 623
     },
     {
       "id": "11-09-08-003",
       "slug": "11-09-08-003",
       "code": "11.09.08.003",
-      "sku": "HJJ-YK-00000-01",
+      "sku": "HJJ-YK-00000",
       "name_th": "กรรไกรตัดแผ่นโลหะ รุ่นพรีเมียม แบบโค้งขวา",
+      "name_th_short": "กรรไกรตัดแผ่นโลหะ",
       "name_cn": "精品航空剪右",
       "price": 98.4,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "HJJ",
       "material_cn": "右口",
       "material_code": "YK",
-      "spec_number": "00000-01",
-      "row_no": 624,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000",
+      "row_no": 624
     }
   ]
 }

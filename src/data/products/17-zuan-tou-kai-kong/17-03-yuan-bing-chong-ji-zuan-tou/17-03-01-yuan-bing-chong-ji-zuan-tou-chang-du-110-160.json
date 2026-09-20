@@ -11,6 +11,7 @@
       "code": "17.03.01.001",
       "sku": "DZC-YB-6-110",
       "name_th": "ดอกโรตารี่ก้านกลม 6x110",
+      "name_th_short": "ดอกโรตารี่ก้านกลม 6",
       "name_cn": "电锤钻头-圆柄6*110 /",
       "price": 31.2,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "圆柄",
       "material_code": "YB",
       "spec_number": "6-110",
-      "row_no": 234,
-      "col_o": null,
-      "col_r": null
+      "row_no": 234
     },
     {
       "id": "17-03-01-002",
@@ -43,6 +42,7 @@
       "code": "17.03.01.002",
       "sku": "DZC-YB-6-150",
       "name_th": "ดอกโรตารี่ก้านกลม 6x150",
+      "name_th_short": "ดอกโรตารี่ก้านกลม 6",
       "name_cn": "电锤钻头-圆柄6*150/",
       "price": 31.2,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "圆柄",
       "material_code": "YB",
       "spec_number": "6-150",
-      "row_no": 235,
-      "col_o": null,
-      "col_r": null
+      "row_no": 235
     },
     {
       "id": "17-03-01-003",
@@ -75,6 +73,7 @@
       "code": "17.03.01.003",
       "sku": "DZC-YB-8-150",
       "name_th": "ดอกโรตารี่ก้านกลม 8x150",
+      "name_th_short": "ดอกโรตารี่ก้านกลม 8",
       "name_cn": "电锤钻头-圆柄8*150 /",
       "price": 36,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "圆柄",
       "material_code": "YB",
       "spec_number": "8-150",
-      "row_no": 236,
-      "col_o": null,
-      "col_r": null
+      "row_no": 236
     },
     {
       "id": "17-03-01-004",
@@ -107,6 +104,7 @@
       "code": "17.03.01.004",
       "sku": "DZC-YB-10-150",
       "name_th": "ดอกโรตารี่ก้านกลม 10x150",
+      "name_th_short": "ดอกโรตารี่ก้านกลม 10",
       "name_cn": "电锤钻头-圆柄10*150/",
       "price": 42,
       "image": "/placeholder.svg",
@@ -129,9 +127,7 @@
       "material_cn": "圆柄",
       "material_code": "YB",
       "spec_number": "10-150",
-      "row_no": 237,
-      "col_o": null,
-      "col_r": null
+      "row_no": 237
     },
     {
       "id": "17-03-01-005",
@@ -139,6 +135,7 @@
       "code": "17.03.01.005",
       "sku": "DZC-YB-12-150",
       "name_th": "ดอกโรตารี่ก้านกลม 12x150",
+      "name_th_short": "ดอกโรตารี่ก้านกลม 12",
       "name_cn": "电锤钻头-圆柄12*150 /",
       "price": 54,
       "image": "/placeholder.svg",
@@ -161,9 +158,7 @@
       "material_cn": "圆柄",
       "material_code": "YB",
       "spec_number": "12-150",
-      "row_no": 238,
-      "col_o": null,
-      "col_r": null
+      "row_no": 238
     },
     {
       "id": "17-03-01-006",
@@ -171,6 +166,7 @@
       "code": "17.03.01.006",
       "sku": "DZC-YB-14-150",
       "name_th": "ดอกโรตารี่ก้านกลม 14x150",
+      "name_th_short": "ดอกโรตารี่ก้านกลม 14",
       "name_cn": "电锤钻头-圆柄14*150 /",
       "price": 96,
       "image": "/placeholder.svg",
@@ -193,9 +189,7 @@
       "material_cn": "圆柄",
       "material_code": "YB",
       "spec_number": "14-150",
-      "row_no": 239,
-      "col_o": null,
-      "col_r": null
+      "row_no": 239
     },
     {
       "id": "17-03-01-007",
@@ -203,6 +197,7 @@
       "code": "17.03.01.007",
       "sku": "DZC-YB-16-150",
       "name_th": "ดอกโรตารี่ก้านกลม 16x150",
+      "name_th_short": "ดอกโรตารี่ก้านกลม 16",
       "name_cn": "电锤钻头-圆柄16*150 /",
       "price": 108,
       "image": "/placeholder.svg",
@@ -225,9 +220,7 @@
       "material_cn": "圆柄",
       "material_code": "YB",
       "spec_number": "16-150",
-      "row_no": 240,
-      "col_o": null,
-      "col_r": null
+      "row_no": 240
     }
   ]
 }

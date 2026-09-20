@@ -9,8 +9,9 @@
       "id": "13-05-18-0002",
       "slug": "13-05-18-0002",
       "code": "13.05.18.0002",
-      "sku": "TDH-SG-2-01",
+      "sku": "TDH-SG-2",
       "name_th": "กล่องใส่ตะปู/สายพยุงหลัง แบบ 2 ช่อง",
+      "name_th_short": "กล่องใส่ตะปู",
       "name_cn": "背背佳/铁钉盒 双格",
       "price": 42,
       "image": "/placeholder.svg",
@@ -32,10 +33,8 @@
       "category_code": "TDH",
       "material_cn": "双格",
       "material_code": "SG",
-      "spec_number": "2-01",
-      "row_no": 120,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "2",
+      "row_no": 120
     }
   ]
 }

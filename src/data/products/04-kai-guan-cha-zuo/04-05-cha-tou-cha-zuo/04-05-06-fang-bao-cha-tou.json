@@ -9,8 +9,9 @@
       "id": "04-05-06-001",
       "slug": "04-05-06-001",
       "code": "04.05.06.001",
-      "sku": "FBCT-316-0316-01",
+      "sku": "FBCT-PT-3-16",
       "name_th": "ปลั๊กตัวผู้กันระเบิด 3*16 (บรรจุ 10 ตัว/กล่อง)",
+      "name_th_short": "ปลั๊กตัวผู้กันระเบิด",
       "name_cn": "防爆插头3*16（10只/盒）",
       "price": 24,
       "image": "/placeholder.svg",
@@ -31,18 +32,17 @@
       "category_cn": "防爆插头",
       "category_code": "FBCT",
       "material_cn": "3*16",
-      "material_code": "316.0",
-      "spec_number": "0316-01",
-      "row_no": 41,
-      "col_o": null,
-      "col_r": null
+      "material_code": "PT",
+      "spec_number": "3-16",
+      "row_no": 41
     },
     {
       "id": "04-05-06-002",
       "slug": "04-05-06-002",
       "code": "04.05.06.002",
-      "sku": "FBCT-432-0432-01",
+      "sku": "FBCT-PT-4-32",
       "name_th": "ปลั๊กตัวผู้กันระเบิด 4*32 (บรรจุ 10 ตัว/กล่อง)",
+      "name_th_short": "ปลั๊กตัวผู้กันระเบิด",
       "name_cn": "防爆插头4*32（10只/盒）",
       "price": 48,
       "image": "/placeholder.svg",
@@ -63,18 +63,17 @@
       "category_cn": "防爆插头",
       "category_code": "FBCT",
       "material_cn": "4*32",
-      "material_code": "432.0",
-      "spec_number": "0432-01",
-      "row_no": 42,
-      "col_o": null,
-      "col_r": null
+      "material_code": "PT",
+      "spec_number": "4-32",
+      "row_no": 42
     },
     {
       "id": "04-05-06-003",
       "slug": "04-05-06-003",
       "code": "04.05.06.003",
-      "sku": "FBCT-532-0532-01",
+      "sku": "FBCT-PT-5-32",
       "name_th": "ปลั๊กตัวผู้กันระเบิด 5*32 (บรรจุ 10 ตัว/กล่อง)",
+      "name_th_short": "ปลั๊กตัวผู้กันระเบิด",
       "name_cn": "防爆插头5*32（10只/盒）",
       "price": 54,
       "image": "/placeholder.svg",
@@ -95,18 +94,17 @@
       "category_cn": "防爆插头",
       "category_code": "FBCT",
       "material_cn": "5*32",
-      "material_code": "532.0",
-      "spec_number": "0532-01",
-      "row_no": 43,
-      "col_o": null,
-      "col_r": null
+      "material_code": "PT",
+      "spec_number": "5-32",
+      "row_no": 43
     },
     {
       "id": "04-05-06-005",
       "slug": "04-05-06-005",
       "code": "04.05.06.005",
-      "sku": "FBCT-332-0332-01",
+      "sku": "FBCT-PT-3-32",
       "name_th": "ปลั๊กตัวผู้กันระเบิด 3*32 (บรรจุ 10 ตัว/กล่อง)",
+      "name_th_short": "ปลั๊กตัวผู้กันระเบิด",
       "name_cn": "防爆插头3*32（10只/盒）",
       "price": 42,
       "image": "/placeholder.svg",
@@ -127,11 +125,9 @@
       "category_cn": "防爆插头",
       "category_code": "FBCT",
       "material_cn": "3*32",
-      "material_code": "332.0",
-      "spec_number": "0332-01",
-      "row_no": 44,
-      "col_o": null,
-      "col_r": null
+      "material_code": "PT",
+      "spec_number": "3-32",
+      "row_no": 44
     }
   ]
 }

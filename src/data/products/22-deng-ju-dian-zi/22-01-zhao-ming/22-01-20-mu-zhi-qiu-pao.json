@@ -11,6 +11,7 @@
       "code": "22.01.20.002",
       "sku": "QPD-HR-MZ-E27-9W",
       "name_th": "หลอดไฟ LED ทรงนิ้วมือ ขั้ว E27 Hongri 9W",
+      "name_th_short": "หลอดไฟทรงนิ้ว",
       "name_cn": "红日LED拇指球泡E27 9W",
       "price": 36,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "红日拇指型",
       "material_code": "HR-MZ",
       "spec_number": "E27-9W",
-      "row_no": 60,
-      "col_o": null,
-      "col_r": null
+      "row_no": 60
     }
   ]
 }

@@ -9,8 +9,9 @@
       "id": "01-09-01-003",
       "slug": "01-09-01-003",
       "code": "01.09.01.003",
-      "sku": "HXAS-JZ-12160-01",
+      "sku": "HXAS-JZ-12-160",
       "name_th": "สตัดพุกเคมี 12*160",
+      "name_th_short": "สตัดพุกเคมี",
       "name_cn": "建筑化学锚栓M12*160",
       "price": 5.4,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "HXAS",
       "material_cn": "建筑",
       "material_code": "JZ",
-      "spec_number": "12160-01",
-      "row_no": 606,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "12-160",
+      "row_no": 606
     },
     {
       "id": "01-09-01-006",
       "slug": "01-09-01-006",
       "code": "01.09.01.006",
-      "sku": "HXAS-JZ-16190-01",
+      "sku": "HXAS-JZ-16-190",
       "name_th": "สตัดพุกเคมี 16*190",
+      "name_th_short": "สตัดพุกเคมี",
       "name_cn": "建筑化学锚栓M16*190",
       "price": 10.8,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "HXAS",
       "material_cn": "建筑",
       "material_code": "JZ",
-      "spec_number": "16190-01",
-      "row_no": 607,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "16-190",
+      "row_no": 607
     },
     {
       "id": "01-09-01-008",
       "slug": "01-09-01-008",
       "code": "01.09.01.008",
-      "sku": "HXAS-JZ-20260-01",
+      "sku": "HXAS-JZ-20-260",
       "name_th": "สตัดพุกเคมี 20*260",
+      "name_th_short": "สตัดพุกเคมี",
       "name_cn": "建筑化学锚栓M20*260",
       "price": 22.8,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "HXAS",
       "material_cn": "建筑",
       "material_code": "JZ",
-      "spec_number": "20260-01",
-      "row_no": 608,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "20-260",
+      "row_no": 608
     },
     {
       "id": "01-09-01-009",
       "slug": "01-09-01-009",
       "code": "01.09.01.009",
-      "sku": "HXAS-JZ-24300-01",
+      "sku": "HXAS-JZ-24-300",
       "name_th": "สตัดพุกเคมี 24*300",
+      "name_th_short": "สตัดพุกเคมี",
       "name_cn": "建筑化学锚栓M24*300",
       "price": 42,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "HXAS",
       "material_cn": "建筑",
       "material_code": "JZ",
-      "spec_number": "24300-01",
-      "row_no": 609,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "24-300",
+      "row_no": 609
     },
     {
       "id": "01-09-01-014",
       "slug": "01-09-01-014",
       "code": "01.09.01.014",
-      "sku": "HXAS-JZ-30380-01",
+      "sku": "HXAS-JZ-30-380",
       "name_th": "สตัดพุกเคมี 30*380",
+      "name_th_short": "สตัดพุกเคมี",
       "name_cn": "建筑化学锚栓M30*380",
       "price": 84,
       "image": "/placeholder.svg",
@@ -160,10 +157,8 @@
       "category_code": "HXAS",
       "material_cn": "建筑",
       "material_code": "JZ",
-      "spec_number": "30380-01",
-      "row_no": 610,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "30-380",
+      "row_no": 610
     }
   ]
 }

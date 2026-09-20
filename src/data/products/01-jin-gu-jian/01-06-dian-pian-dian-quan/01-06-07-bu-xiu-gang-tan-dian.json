@@ -9,8 +9,9 @@
       "id": "01-06-07-001",
       "slug": "01-06-07-001",
       "code": "01.06.07.001",
-      "sku": "DP-304BXGDD-6-07",
+      "sku": "DP-304BXGDD-6",
       "name_th": "แหวนสปริง สแตนเลส 6",
+      "name_th_short": "แหวนสปริงสแตนเลส",
       "name_cn": "不锈钢弹垫M6",
       "price": 0.18,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "DP",
       "material_cn": "304不锈钢弹垫",
       "material_code": "304BXGDD",
-      "spec_number": "6-07",
-      "row_no": 520,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "6",
+      "row_no": 520
     },
     {
       "id": "01-06-07-002",
       "slug": "01-06-07-002",
       "code": "01.06.07.002",
-      "sku": "DP-304BXGDD-8-17",
+      "sku": "DP-304BXGDD-8",
       "name_th": "แหวนสปริง สแตนเลส 8",
+      "name_th_short": "แหวนสปริงสแตนเลส",
       "name_cn": "不锈钢弹垫M8",
       "price": 0.24,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "DP",
       "material_cn": "304不锈钢弹垫",
       "material_code": "304BXGDD",
-      "spec_number": "8-17",
-      "row_no": 521,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "8",
+      "row_no": 521
     },
     {
       "id": "01-06-07-003",
       "slug": "01-06-07-003",
       "code": "01.06.07.003",
-      "sku": "DP-304BXGDD-10-19",
+      "sku": "DP-304BXGDD-10",
       "name_th": "แหวนสปริง สแตนเลส 10",
+      "name_th_short": "แหวนสปริงสแตนเลส",
       "name_cn": "不锈钢弹垫M10",
       "price": 0.6,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "DP",
       "material_cn": "304不锈钢弹垫",
       "material_code": "304BXGDD",
-      "spec_number": "10-19",
-      "row_no": 522,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10",
+      "row_no": 522
     },
     {
       "id": "01-06-07-004",
       "slug": "01-06-07-004",
       "code": "01.06.07.004",
-      "sku": "DP-304BXGDD-12-18",
-      "name_th": "แหวนสปริง สแตนเลส 304",
+      "sku": "DP-304BXGDD-12",
+      "name_th": "แหวนสปริง สแตนเลส 304 M12",
+      "name_th_short": "แหวนสปริงสแตนเลส 304",
       "name_cn": "304不锈钢弹垫M12",
       "price": 0.72,
       "image": "/placeholder.svg",
@@ -128,10 +126,8 @@
       "category_code": "DP",
       "material_cn": "304不锈钢弹垫",
       "material_code": "304BXGDD",
-      "spec_number": "12-18",
-      "row_no": 523,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "12",
+      "row_no": 523
     }
   ]
 }

@@ -9,8 +9,9 @@
       "id": "12-02-25-003",
       "slug": "12-02-25-003",
       "code": "12.02.25.003",
-      "sku": "LTBS-12C-01-01",
+      "sku": "LTBS-12C-01",
       "name_th": "ประแจโซ่ ขนาด 12 นิ้ว รุ่น YT-104312",
+      "name_th_short": "ประแจโซ่",
       "name_cn": "12”链条扳手（6把/盒）YT-104312",
       "price": 306,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "LTBS",
       "material_cn": "12寸",
       "material_code": "12C",
-      "spec_number": "01-01",
-      "row_no": 37,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "01",
+      "row_no": 37
     },
     {
       "id": "12-02-25-004",
       "slug": "12-02-25-004",
       "code": "12.02.25.004",
-      "sku": "LTBS-9C-01-01",
+      "sku": "LTBS-9C-01",
       "name_th": "ประแจโซ่ ขนาด 9 นิ้ว รุ่น YT-104309",
+      "name_th_short": "ประแจโซ่",
       "name_cn": "9”链条扳手（6把/盒）YT-104309",
       "price": 216,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "LTBS",
       "material_cn": "9寸",
       "material_code": "9C",
-      "spec_number": "01-01",
-      "row_no": 38,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "01",
+      "row_no": 38
     }
   ]
 }

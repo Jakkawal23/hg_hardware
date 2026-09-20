@@ -9,8 +9,9 @@
       "id": "17-05-05-006",
       "slug": "17-05-05-006",
       "code": "17.05.05.006",
-      "sku": "DGZ-BC-0-01",
+      "sku": "DGZ-BC-0",
       "name_th": "ดอกสกัดแบน",
+      "name_th_short": "ดอกสกัดแบน",
       "name_cn": "电镐凿子/扁铲",
       "price": 78,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "DGZ",
       "material_cn": "扁铲",
       "material_code": "BC",
-      "spec_number": "0-01",
-      "row_no": 309,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "0",
+      "row_no": 309
     },
     {
       "id": "17-05-05-007",
       "slug": "17-05-05-007",
       "code": "17.05.05.007",
-      "sku": "DGZ-BCTK-0-01",
+      "sku": "DGZ-BCTK-0",
       "name_th": "ดอกสกัดแบนหน้ากว้าง",
+      "name_th_short": "ดอกสกัดแบนหน้ากว้าง",
       "name_cn": "电镐凿子/扁铲/特宽",
       "price": 132,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "DGZ",
       "material_cn": "扁铲特宽",
       "material_code": "BCTK",
-      "spec_number": "0-01",
-      "row_no": 310,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "0",
+      "row_no": 310
     }
   ]
 }

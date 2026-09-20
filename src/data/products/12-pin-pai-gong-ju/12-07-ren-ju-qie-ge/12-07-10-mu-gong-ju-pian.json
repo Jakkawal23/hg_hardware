@@ -9,8 +9,9 @@
       "id": "12-07-10-007",
       "slug": "12-07-10-007",
       "code": "12.07.10.007",
-      "sku": "QP-1006-01",
+      "sku": "QP-PT-100-6",
       "name_th": "ใบตัด 100*6 มม.",
+      "name_th_short": "ใบตัดเจียร",
       "name_cn": "100*6切片（25片/盒）YT-910060",
       "price": 10.8,
       "image": "/placeholder.svg",
@@ -31,18 +32,17 @@
       "category_cn": "切片",
       "category_code": "QP",
       "material_cn": "100*6",
-      "material_code": "1006",
-      "spec_number": "01",
-      "row_no": 95,
-      "col_o": null,
-      "col_r": null
+      "material_code": "PT",
+      "spec_number": "100-6",
+      "row_no": 95
     },
     {
       "id": "12-07-10-008",
       "slug": "12-07-10-008",
       "code": "12.07.10.008",
-      "sku": "QP-10025-01",
+      "sku": "QP-PT-100-2.5",
       "name_th": "ใบตัด 100*2.5 มม.",
+      "name_th_short": "ใบตัดเจียร",
       "name_cn": "100*2.5切片（36片/盒）YT-910025",
       "price": 8.4,
       "image": "/placeholder.svg",
@@ -63,11 +63,9 @@
       "category_cn": "切片",
       "category_code": "QP",
       "material_cn": "100*2.5",
-      "material_code": "10025",
-      "spec_number": "01",
-      "row_no": 96,
-      "col_o": null,
-      "col_r": null
+      "material_code": "PT",
+      "spec_number": "100-2.5",
+      "row_no": 96
     }
   ]
 }

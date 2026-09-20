@@ -9,8 +9,9 @@
       "id": "08-02-03-001",
       "slug": "08-02-03-001",
       "code": "08.02.03.001",
-      "sku": "HY-DH-01-01",
+      "sku": "HY-DH-01",
       "name_th": "บานพับสำหรับเชื่อมเหล็ก ขนาดเล็ก",
+      "name_th_short": "บานพับเชื่อมเหล็ก",
       "name_cn": "电焊合页 小号",
       "price": 24,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "HY",
       "material_cn": "电焊",
       "material_code": "DH",
-      "spec_number": "01-01",
-      "row_no": 67,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "01",
+      "row_no": 67
     },
     {
       "id": "08-02-03-002",
       "slug": "08-02-03-002",
       "code": "08.02.03.002",
-      "sku": "HY-DH-02-01",
+      "sku": "HY-DH-02",
       "name_th": "บานพับสำหรับเชื่อมเหล็ก ขนาดกลาง",
+      "name_th_short": "บานพับเชื่อมเหล็ก",
       "name_cn": "电焊合页 中号",
       "price": 36,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "HY",
       "material_cn": "电焊",
       "material_code": "DH",
-      "spec_number": "02-01",
-      "row_no": 68,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "02",
+      "row_no": 68
     },
     {
       "id": "08-02-03-004",
       "slug": "08-02-03-004",
       "code": "08.02.03.004",
-      "sku": "HY-DH-03-01",
+      "sku": "HY-DH-03",
       "name_th": "บานพับสำหรับเชื่อมเหล็ก ขนาดใหญ่",
+      "name_th_short": "บานพับเชื่อมเหล็ก",
       "name_cn": "电焊合页 大号",
       "price": 60,
       "image": "/placeholder.svg",
@@ -96,10 +95,8 @@
       "category_code": "HY",
       "material_cn": "电焊",
       "material_code": "DH",
-      "spec_number": "03-01",
-      "row_no": 69,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "03",
+      "row_no": 69
     }
   ]
 }

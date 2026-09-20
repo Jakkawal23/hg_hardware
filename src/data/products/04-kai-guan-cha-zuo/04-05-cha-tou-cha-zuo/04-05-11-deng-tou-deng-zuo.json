@@ -11,6 +11,7 @@
       "code": "04.05.11.001",
       "sku": "DT-LK-01-01",
       "name_th": "ขั้วหลอดไฟ/ขั้วเกลียว Jiheng (20 ตัว/กล่อง)",
+      "name_th_short": "ขั้วหลอดไฟเกลียว",
       "name_cn": "吉恒灯头/螺口灯头（20个/盒）",
       "price": 12,
       "image": "/placeholder.svg",
@@ -33,16 +34,15 @@
       "material_cn": "螺口",
       "material_code": "LK",
       "spec_number": "01-01",
-      "row_no": 78,
-      "col_o": null,
-      "col_r": null
+      "row_no": 78
     },
     {
       "id": "04-05-11-002",
       "slug": "04-05-11-002",
       "code": "04.05.11.002",
-      "sku": "DT-PK-01-01",
+      "sku": "DT-PK-01",
       "name_th": "ขั้วหลอดไฟ/ขั้วเรียบ Jiheng (20 ตัว/กล่อง)",
+      "name_th_short": "ขั้วหลอดไฟปากเรียบ",
       "name_cn": "吉恒灯头/平口灯头（20个/盒）",
       "price": 16.2,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "DT",
       "material_cn": "平口",
       "material_code": "PK",
-      "spec_number": "01-01",
-      "row_no": 79,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "01",
+      "row_no": 79
     },
     {
       "id": "04-05-11-003",
       "slug": "04-05-11-003",
       "code": "04.05.11.003",
-      "sku": "DT-KGLK-ZL251-01",
+      "sku": "DT-KGLK-ZL251",
       "name_th": "ขั้วเกลียวแบบมีสวิตช์และปลั๊ก Zhenlong รุ่น ZL-251 (10 ตัว/กล่อง)",
+      "name_th_short": "ขั้วหลอดไฟมีสวิตช์",
       "name_cn": "圳龙LED开关插座式螺口灯头 ZL-251(10个/盒）",
       "price": null,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "DT",
       "material_cn": "开关螺口",
       "material_code": "KGLK",
-      "spec_number": "ZL251-01",
-      "row_no": 80,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "ZL251",
+      "row_no": 80
     },
     {
       "id": "04-05-11-005",
       "slug": "04-05-11-005",
       "code": "04.05.11.005",
-      "sku": "DT-FTL-A56-01",
+      "sku": "DT-FTL-A56",
       "name_th": "ขั้วหลอดไฟเกลียวแบบเรียบกันหลุด Udala A56",
+      "name_th_short": "ขั้วหลอดไฟเกลียวกันหลุด",
       "name_cn": "宇达旗-防脱落平装式螺口灯头/灯座 A56",
       "price": 12,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "DT",
       "material_cn": "防脱落",
       "material_code": "FTL",
-      "spec_number": "A56-01",
-      "row_no": 81,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "A56",
+      "row_no": 81
     },
     {
       "id": "04-05-11-008",
       "slug": "04-05-11-008",
       "code": "04.05.11.008",
-      "sku": "DT-XK-A58-01",
+      "sku": "DT-XK-A58",
       "name_th": "ขั้วหลอดไฟเกลียวปากเฉียง Youyue A58 (20 ตัว/กล่อง)",
+      "name_th_short": "ขั้วหลอดไฟปากเฉียง",
       "name_cn": "优越斜口螺口平灯座/斜口灯头 A58（20个/盒）",
       "price": 14.4,
       "image": "/placeholder.svg",
@@ -160,17 +157,16 @@
       "category_code": "DT",
       "material_cn": "斜口螺口",
       "material_code": "XK",
-      "spec_number": "A58-01",
-      "row_no": 82,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "A58",
+      "row_no": 82
     },
     {
       "id": "04-05-11-009",
       "slug": "04-05-11-009",
       "code": "04.05.11.009",
-      "sku": "DT-DK-46A-01",
+      "sku": "DT-DK-46A",
       "name_th": "ขั้วไฟผนังปรับมุมได้มีสวิตช์ 4-6A/250V",
+      "name_th_short": "ขั้วไฟผนังปรับมุมได้",
       "name_cn": "带开关可倾式壁灯座 4-6A/250V",
       "price": 14.4,
       "image": "/placeholder.svg",
@@ -192,10 +188,8 @@
       "category_code": "DT",
       "material_cn": "带开关",
       "material_code": "DK",
-      "spec_number": "46A-01",
-      "row_no": 83,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "46A",
+      "row_no": 83
     },
     {
       "id": "04-05-11-010",
@@ -203,13 +197,14 @@
       "code": "04.05.11.010",
       "sku": "DT-LK-01-02",
       "name_th": "ขั้วหลอดไฟเกลียว Udala (20 ตัว/กล่อง)",
+      "name_th_short": "ขั้วหลอดไฟเกลียว",
       "name_cn": "宇达旗螺口灯头（20只/盒）",
       "price": 14.4,
       "image": "/placeholder.svg",
       "name_th_full": "ขั้วหลอดไฟแบบเกลียว Yudaqi (20 ชิ้น/กล่อง)",
       "name_cn_full": "宇达旗螺口灯头（20只/盒）",
       "product_name_raw": "宇达旗螺口灯头（20只/盒）",
-      "model": "330.0",
+      "model": 330,
       "unit": "个",
       "storage_location": null,
       "qty_sub_unit": "35盒",
@@ -225,9 +220,7 @@
       "material_cn": "螺口",
       "material_code": "LK",
       "spec_number": "01-02",
-      "row_no": 84,
-      "col_o": null,
-      "col_r": null
+      "row_no": 84
     }
   ]
 }

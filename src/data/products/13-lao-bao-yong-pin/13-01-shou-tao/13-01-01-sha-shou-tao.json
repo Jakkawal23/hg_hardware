@@ -9,8 +9,9 @@
       "id": "13-01-01-006",
       "slug": "13-01-01-006",
       "code": "13.01.01.006",
-      "sku": "ST-683-100-01",
+      "sku": "ST-683-100",
       "name_th": "ถุงมือด้ายขอบน้ำเงิน 683 (100คู่/มัด)",
+      "name_th_short": "ถุงมือด้ายขอบน้ำเงิน",
       "name_cn": "蓝边纱手套 683(100双/捆)",
       "price": 4.8,
       "image": "/placeholder.svg",
@@ -30,19 +31,18 @@
       "last_import_date": "2026-06-16",
       "category_cn": "手套",
       "category_code": "ST",
-      "material_cn": "683.0",
-      "material_code": "683.0",
-      "spec_number": "100-01",
-      "row_no": 1,
-      "col_o": null,
-      "col_r": null
+      "material_cn": 683,
+      "material_code": "683",
+      "spec_number": "100",
+      "row_no": 1
     },
     {
       "id": "13-01-01-007",
       "slug": "13-01-01-007",
       "code": "13.01.01.007",
-      "sku": "ST-BO-1-01",
+      "sku": "ST-BO-1",
       "name_th": "ถุงมือด้ายแบบบาง",
+      "name_th_short": "ถุงมือด้ายบาง",
       "name_cn": "纱手套 薄()",
       "price": 4.32,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "ST",
       "material_cn": "薄",
       "material_code": "BO",
-      "spec_number": "1-01",
-      "row_no": 2,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1",
+      "row_no": 2
     }
   ]
 }

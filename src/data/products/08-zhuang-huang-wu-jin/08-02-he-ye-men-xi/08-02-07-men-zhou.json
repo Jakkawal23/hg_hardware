@@ -9,8 +9,9 @@
       "id": "08-02-07-001",
       "slug": "08-02-07-001",
       "code": "08.02.07.001",
-      "sku": "MX-MX-2090-01",
+      "sku": "MX-MX-20-90",
       "name_th": "แกนบานพับประตู ขนาด 20*90",
+      "name_th_short": "แกนบานพับประตู",
       "name_cn": "门轴 20*90",
       "price": null,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "MX",
       "material_cn": "门轴",
       "material_code": "MX",
-      "spec_number": "2090-01",
-      "row_no": 72,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "20-90",
+      "row_no": 72
     },
     {
       "id": "08-02-07-004",
       "slug": "08-02-07-004",
       "code": "08.02.07.004",
-      "sku": "MX-MX-30120-01",
+      "sku": "MX-MX-30-120",
       "name_th": "แกนบานพับประตู ขนาด 30*120",
+      "name_th_short": "แกนบานพับประตู",
       "name_cn": "门轴30*120",
       "price": 30,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "MX",
       "material_cn": "门轴",
       "material_code": "MX",
-      "spec_number": "30120-01",
-      "row_no": 73,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "30-120",
+      "row_no": 73
     },
     {
       "id": "08-02-07-007",
       "slug": "08-02-07-007",
       "code": "08.02.07.007",
-      "sku": "MX-MX-45140-01",
+      "sku": "MX-MX-45-140",
       "name_th": "แกนบานพับประตู ขนาด 45*140",
+      "name_th_short": "แกนบานพับประตู",
       "name_cn": "门轴 45*140",
       "price": 90,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "MX",
       "material_cn": "门轴",
       "material_code": "MX",
-      "spec_number": "45140-01",
-      "row_no": 74,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "45-140",
+      "row_no": 74
     },
     {
       "id": "08-02-07-008",
       "slug": "08-02-07-008",
       "code": "08.02.07.008",
-      "sku": "MX-MX-50140-01",
+      "sku": "MX-MX-50-140",
       "name_th": "แกนบานพับประตู ขนาด 50*140",
+      "name_th_short": "แกนบานพับประตู",
       "name_cn": "门轴 50*140",
       "price": 120,
       "image": "/placeholder.svg",
@@ -128,10 +126,8 @@
       "category_code": "MX",
       "material_cn": "门轴",
       "material_code": "MX",
-      "spec_number": "50140-01",
-      "row_no": 75,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "50-140",
+      "row_no": 75
     }
   ]
 }

@@ -9,8 +9,9 @@
       "id": "11-01-02-006",
       "slug": "11-01-02-006",
       "code": "11.01.02.006",
-      "sku": "JZQ-MS-08-01",
+      "sku": "JZQ-MS-08",
       "name_th": "คีมปากแหลมอเมริกัน 8 นิ้ว ด้ามสองสี (6 ตัว/กล่อง) YT-101508",
+      "name_th_short": "คีมปากแหลม 8 นิ้ว",
       "name_cn": "8寸”美式尖嘴钳 双色柄（6把/盒）YT-101508 / 8",
       "price": 102,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "JZQ",
       "material_cn": "美式双色柄",
       "material_code": "MS",
-      "spec_number": "08-01",
-      "row_no": 10,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "08",
+      "row_no": 10
     },
     {
       "id": "11-01-02-007",
       "slug": "11-01-02-007",
       "code": "11.01.02.007",
-      "sku": "JZQ-MS-06-01",
+      "sku": "JZQ-MS-06",
       "name_th": "คีมปากแหลมอเมริกัน 6 นิ้ว ด้ามสองสี (6 ตัว/กล่อง) YT-101506",
+      "name_th_short": "คีมปากแหลม 6 นิ้ว",
       "name_cn": "6寸”美式尖嘴钳 双色柄（6把/盒）YT-101506 / 6",
       "price": 84,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "JZQ",
       "material_cn": "美式双色柄",
       "material_code": "MS",
-      "spec_number": "06-01",
-      "row_no": 11,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "06",
+      "row_no": 11
     },
     {
       "id": "11-01-02-008",
       "slug": "11-01-02-008",
       "code": "11.01.02.008",
-      "sku": "JZQ-DF-08-02",
+      "sku": "JZQ-DF-08",
       "name_th": "คีมปากแหลมอเนกประสงค์ 8 นิ้ว ด้ามสายรัด (6 ตัว/กล่อง) YT-101808",
+      "name_th_short": "คีมปากแหลม 8 นิ้ว",
       "name_cn": "8寸”多功能尖嘴钳 飘带柄（6把/盒）YT-101808 / 8",
       "price": 108,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "JZQ",
       "material_cn": "多功能飘带柄",
       "material_code": "DF",
-      "spec_number": "08-02",
-      "row_no": 12,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "08",
+      "row_no": 12
     },
     {
       "id": "11-01-02-009",
       "slug": "11-01-02-009",
       "code": "11.01.02.009",
-      "sku": "JZQ-DF-06-02",
+      "sku": "JZQ-DF-06",
       "name_th": "คีมปากแหลมอเนกประสงค์ 6 นิ้ว ด้ามสายรัด (6 ตัว/กล่อง) YT-101806",
+      "name_th_short": "คีมปากแหลม 6 นิ้ว",
       "name_cn": "6寸”多功能尖嘴钳 飘带柄（6把/盒）YT-101806 / 6",
       "price": 90,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "JZQ",
       "material_cn": "多功能飘带柄",
       "material_code": "DF",
-      "spec_number": "06-02",
-      "row_no": 13,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "06",
+      "row_no": 13
     },
     {
       "id": "11-01-02-010",
       "slug": "11-01-02-010",
       "code": "11.01.02.010",
-      "sku": "JZQ-JY-05-01",
+      "sku": "JZQ-JY-05",
       "name_th": "คีมปากแหลมไม่มีฟัน 5 นิ้ว ด้ามสองสี (12 ตัว/กล่อง)",
+      "name_th_short": "คีมปากแหลมไม่มีฟัน 5 นิ้ว",
       "name_cn": "5寸”精品无牙尖嘴钳 双色柄（12把/盒 / 5",
       "price": 54,
       "image": "/placeholder.svg",
@@ -160,17 +157,16 @@
       "category_code": "JZQ",
       "material_cn": "精品无牙",
       "material_code": "JY",
-      "spec_number": "05-01",
-      "row_no": 14,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "05",
+      "row_no": 14
     },
     {
       "id": "11-01-02-011",
       "slug": "11-01-02-011",
       "code": "11.01.02.011",
-      "sku": "JZQ-GY-09-01",
+      "sku": "JZQ-GY-09",
       "name_th": "คีมปากแหลมปอกสายไฟอเนกประสงค์อุตสาหกรรม 9 นิ้ว (6 ตัว/กล่อง) YT-107509",
+      "name_th_short": "คีมปากแหลมปอกสายไฟ 9 นิ้ว",
       "name_cn": "9”工业级多功能剥线尖嘴钳（6把/盒）YT-107509 / 9",
       "price": 372,
       "image": "/placeholder.svg",
@@ -192,10 +188,8 @@
       "category_code": "JZQ",
       "material_cn": "工业级剥线",
       "material_code": "GY",
-      "spec_number": "09-01",
-      "row_no": 15,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "09",
+      "row_no": 15
     }
   ]
 }

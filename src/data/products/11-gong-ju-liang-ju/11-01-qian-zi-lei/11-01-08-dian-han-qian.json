@@ -11,6 +11,7 @@
       "code": "11.01.08.001",
       "sku": "DHQ-HF-800-01",
       "name_th": "คีมจับลวดเชื่อม Hufan (2018) 800A",
+      "name_th_short": "คีมจับลวดเชื่อม 800A",
       "name_cn": "沪帆电焊钳（2018）800A",
       "price": 156,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "沪帆",
       "material_code": "HF",
       "spec_number": "800-01",
-      "row_no": 50,
-      "col_o": null,
-      "col_r": null
+      "row_no": 50
     },
     {
       "id": "11-01-08-002",
@@ -43,6 +42,7 @@
       "code": "11.01.08.002",
       "sku": "DHQ-HF-800-02",
       "name_th": "คีมจับลวดเชื่อม Hufan (2028) 800A",
+      "name_th_short": "คีมจับลวดเชื่อม 800A",
       "name_cn": "沪帆电焊钳（2028）800A",
       "price": 168,
       "image": "/placeholder.svg",
@@ -65,16 +65,15 @@
       "material_cn": "沪帆",
       "material_code": "HF",
       "spec_number": "800-02",
-      "row_no": 51,
-      "col_o": null,
-      "col_r": null
+      "row_no": 51
     },
     {
       "id": "11-01-08-004",
       "slug": "11-01-08-004",
       "code": "11.01.08.004",
-      "sku": "DHQ-HH-1000-01",
+      "sku": "DHQ-HH-1000",
       "name_th": "คีมจับลวดเชื่อมแบบฮอลแลนด์ Hanyoubang 1000A",
+      "name_th_short": "คีมจับลวดเชื่อม 1000A",
       "name_cn": "焊友邦-荷兰电焊钳 1000A",
       "price": 192,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "DHQ",
       "material_cn": "焊友邦荷兰",
       "material_code": "HH",
-      "spec_number": "1000-01",
-      "row_no": 52,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1000",
+      "row_no": 52
     },
     {
       "id": "11-01-08-006",
       "slug": "11-01-08-006",
       "code": "11.01.08.006",
-      "sku": "DHQ-XH-800-01",
+      "sku": "DHQ-XH-800",
       "name_th": "คีมจับลวดเชื่อมแบบนิวฮอลแลนด์คิง Hanyoubang 800A",
+      "name_th_short": "คีมจับลวดเชื่อม 800A",
       "name_cn": "焊友邦-新荷兰王者电焊钳 800A",
       "price": 150,
       "image": "/placeholder.svg",
@@ -128,10 +126,8 @@
       "category_code": "DHQ",
       "material_cn": "焊友邦新荷兰",
       "material_code": "XH",
-      "spec_number": "800-01",
-      "row_no": 53,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "800",
+      "row_no": 53
     }
   ]
 }

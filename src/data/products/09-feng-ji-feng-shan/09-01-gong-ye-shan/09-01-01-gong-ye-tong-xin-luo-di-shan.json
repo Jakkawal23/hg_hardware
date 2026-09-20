@@ -9,8 +9,9 @@
       "id": "09-01-01-002",
       "slug": "09-01-01-002",
       "code": "09.01.01.002",
-      "sku": "GYS-TXLD-650-01",
-      "name_th": "พัดลมอุตสาหกรรม ยี่ห้ออูฐ ไส้ทองเหลือง แบบตั้งพื้น ขนาด 650 มม.",
+      "sku": "GYS-TXLD-650",
+      "name_th": "พัดลมอุตสาหกรรม ยี่ห้ออูฐ ไส้ทองแดง แบบตั้งพื้น ขนาด 650 มม.",
+      "name_th_short": "พัดลมอุตสาหกรรมตั้งพื้น 650",
       "name_cn": "骆驼牌《铜芯》工业扇 落地扇650",
       "price": 840,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "GYS",
       "material_cn": "铜芯落地",
       "material_code": "TXLD",
-      "spec_number": "650-01",
-      "row_no": 1,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "650",
+      "row_no": 1
     },
     {
       "id": "09-01-01-003",
       "slug": "09-01-01-003",
       "code": "09.01.01.003",
-      "sku": "GYS-TXLD-750-01",
-      "name_th": "พัดลมอุตสาหกรรม ยี่ห้ออูฐ ไส้ทองเหลือง แบบตั้งพื้น ขนาด 750 มม.",
+      "sku": "GYS-TXLD-750",
+      "name_th": "พัดลมอุตสาหกรรม ยี่ห้ออูฐ ไส้ทองแดง แบบตั้งพื้น ขนาด 750 มม.",
+      "name_th_short": "พัดลมอุตสาหกรรมตั้งพื้น 750",
       "name_cn": "骆驼牌《铜芯》工业扇 落地扇750",
       "price": 936,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "GYS",
       "material_cn": "铜芯落地",
       "material_code": "TXLD",
-      "spec_number": "750-01",
-      "row_no": 2,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "750",
+      "row_no": 2
     },
     {
       "id": "09-01-01-004",
       "slug": "09-01-01-004",
       "code": "09.01.01.004",
-      "sku": "GYS-TXLD-550-01",
-      "name_th": "พัดลมอุตสาหกรรม ยี่ห้ออูฐ ไส้ทองเหลือง แบบตั้งพื้น ขนาด 550 มม.",
+      "sku": "GYS-TXLD-550",
+      "name_th": "พัดลมอุตสาหกรรม ยี่ห้ออูฐ ไส้ทองแดง แบบตั้งพื้น ขนาด 550 มม.",
+      "name_th_short": "พัดลมอุตสาหกรรมตั้งพื้น 550",
       "name_cn": "骆驼牌《铜芯》工业扇 落地扇550",
       "price": 756,
       "image": "/placeholder.svg",
@@ -96,10 +95,8 @@
       "category_code": "GYS",
       "material_cn": "铜芯落地",
       "material_code": "TXLD",
-      "spec_number": "550-01",
-      "row_no": 3,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "550",
+      "row_no": 3
     }
   ]
 }

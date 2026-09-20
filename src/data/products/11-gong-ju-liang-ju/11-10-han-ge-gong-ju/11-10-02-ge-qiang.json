@@ -9,8 +9,9 @@
       "id": "11-10-02-001",
       "slug": "11-10-02-001",
       "code": "11.10.02.001",
-      "sku": "GJ-GZQT-30000-01",
+      "sku": "GJ-GZQT-30000",
       "name_th": "หัวตัดแก๊ส วัสดุทองเหลืองแท้ ตามมาตรฐาน รุ่น 30",
+      "name_th_short": "หัวตัดแก๊ส",
       "name_cn": "国标全铜割枪/割炬 30型",
       "price": 486,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "GJ",
       "material_cn": "国标全铜",
       "material_code": "GZQT",
-      "spec_number": "30000-01",
-      "row_no": 664,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "30000",
+      "row_no": 664
     },
     {
       "id": "11-10-02-003",
       "slug": "11-10-02-003",
       "code": "11.10.02.003",
-      "sku": "GJ-BXG-30000-01",
+      "sku": "GJ-BXG-30000",
       "name_th": "หัวตัดแก๊ส สเตนเลส รุ่นพรีเมียม รุ่น 30",
+      "name_th_short": "หัวตัดแก๊ส",
       "name_cn": "精品不锈钢割枪/割炬 30型",
       "price": 516,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "GJ",
       "material_cn": "不锈钢",
       "material_code": "BXG",
-      "spec_number": "30000-01",
-      "row_no": 665,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "30000",
+      "row_no": 665
     },
     {
       "id": "11-10-02-004",
       "slug": "11-10-02-004",
       "code": "11.10.02.004",
-      "sku": "GJ-BXG-10000-01",
+      "sku": "GJ-BXG-10000",
       "name_th": "หัวตัดแก๊ส สเตนเลส รุ่นพรีเมียม รุ่น 100",
+      "name_th_short": "หัวตัดแก๊ส",
       "name_cn": "精品不锈钢割枪/割炬 100型",
       "price": 648,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "GJ",
       "material_cn": "不锈钢",
       "material_code": "BXG",
-      "spec_number": "10000-01",
-      "row_no": 666,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10000",
+      "row_no": 666
     },
     {
       "id": "11-10-02-005",
       "slug": "11-10-02-005",
       "code": "11.10.02.005",
-      "sku": "DZLJQ-JHP80-10000-01",
+      "sku": "DZLJQ-JHP80-10000",
       "name_th": "หัวตัดพลาสม่า ยี่ห้อJiahang รุ่น P80 ความยาว 10 เมตร เกรด B",
+      "name_th_short": "หัวตัดพลาสม่า",
       "name_cn": "佳航等离子割枪 P80 10米 B级",
       "price": 2400,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "DZLJQ",
       "material_cn": "佳航P80",
       "material_code": "JHP80",
-      "spec_number": "10000-01",
-      "row_no": 667,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10000",
+      "row_no": 667
     },
     {
       "id": "11-10-02-006",
       "slug": "11-10-02-006",
       "code": "11.10.02.006",
-      "sku": "DZLJQ-JHP80-08000-01",
+      "sku": "DZLJQ-JHP80-08000",
       "name_th": "หัวตัดพลาสม่า ยี่ห้อJiahang รุ่น P80 ความยาว 8 เมตร เกรด B",
+      "name_th_short": "หัวตัดพลาสม่า",
       "name_cn": "佳航等离子割枪 P80 8米 B级",
       "price": 2136,
       "image": "/placeholder.svg",
@@ -160,17 +157,16 @@
       "category_code": "DZLJQ",
       "material_cn": "佳航P80",
       "material_code": "JHP80",
-      "spec_number": "08000-01",
-      "row_no": 668,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "08000",
+      "row_no": 668
     },
     {
       "id": "11-10-02-010",
       "slug": "11-10-02-010",
       "code": "11.10.02.010",
-      "sku": "GJ-WLS-10000-01",
-      "name_th": "หัวตัดแก๊ส Weilishi รุ่น 100 (ป้องกันไฟย้อน)",
+      "sku": "GJ-WLS-10000",
+      "name_th": "หัวตัดแก๊ส Weilishi รุ่น 100 W0218C (ป้องกันไฟย้อน)",
+      "name_th_short": "หัวตัดแก๊ส",
       "name_cn": "（威力狮W0218C）割炬 100型（防回火） W0218C",
       "price": 900,
       "image": "/placeholder.svg",
@@ -192,10 +188,8 @@
       "category_code": "GJ",
       "material_cn": "威力狮",
       "material_code": "WLS",
-      "spec_number": "10000-01",
-      "row_no": 669,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10000",
+      "row_no": 669
     }
   ]
 }

@@ -9,8 +9,9 @@
       "id": "05-01-12-002",
       "slug": "05-01-12-002",
       "code": "05.01.12.002",
-      "sku": "BWG-PE-AD185-01",
+      "sku": "BWG-PE-AD185",
       "name_th": "ท่อลูกฟูกพลาสติก PE - AD18.5 (ID 14.3) 50 เมตร",
+      "name_th_short": "ท่อลูกฟูกพลาสติก",
       "name_cn": "塑料波纹管 PE材质-AD18.5(内径14.3）50米",
       "price": 108,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "BWG",
       "material_cn": "PE材质",
       "material_code": "PE",
-      "spec_number": "AD185-01",
-      "row_no": 76,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "AD185",
+      "row_no": 76
     },
     {
       "id": "05-01-12-003",
       "slug": "05-01-12-003",
       "code": "05.01.12.003",
-      "sku": "BWG-PE-AD212-01",
+      "sku": "BWG-PE-AD212",
       "name_th": "ท่อลูกฟูกพลาสติก PE - AD21.2 (ID 17.0) 50 เมตร",
+      "name_th_short": "ท่อลูกฟูกพลาสติก",
       "name_cn": "塑料波纹管 PE材质-AD21.2(内径17.0）50米",
       "price": 132,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "BWG",
       "material_cn": "PE材质",
       "material_code": "PE",
-      "spec_number": "AD212-01",
-      "row_no": 77,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "AD212",
+      "row_no": 77
     },
     {
       "id": "05-01-12-005",
       "slug": "05-01-12-005",
       "code": "05.01.12.005",
-      "sku": "BWG-PE-AD250-01",
+      "sku": "BWG-PE-AD250",
       "name_th": "ท่อลูกฟูกพลาสติก PE - AD25.0 (ID 20.0) 50 เมตร",
+      "name_th_short": "ท่อลูกฟูกพลาสติก",
       "name_cn": "塑料波纹管 PE材质-AD25.0(内径20.0）50米",
       "price": 180,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "BWG",
       "material_cn": "PE材质",
       "material_code": "PE",
-      "spec_number": "AD250-01",
-      "row_no": 78,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "AD250",
+      "row_no": 78
     },
     {
       "id": "05-01-12-007",
       "slug": "05-01-12-007",
       "code": "05.01.12.007",
-      "sku": "BWG-PE-AD158-01",
+      "sku": "BWG-PE-AD158",
       "name_th": "ท่อลูกฟูกพลาสติก PE - AD15.8 (ID 12.0) 50 เมตร",
+      "name_th_short": "ท่อลูกฟูกพลาสติก",
       "name_cn": "塑料波纹管 PE材质-AD15.8(内径12.0）50米",
       "price": 108,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "BWG",
       "material_cn": "PE材质",
       "material_code": "PE",
-      "spec_number": "AD158-01",
-      "row_no": 79,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "AD158",
+      "row_no": 79
     },
     {
       "id": "05-01-12-008",
       "slug": "05-01-12-008",
       "code": "05.01.12.008",
-      "sku": "BWG-PE-AD345-01",
+      "sku": "BWG-PE-AD345",
       "name_th": "ท่อลูกฟูกพลาสติก PE - AD34.5 (ID 29.0) 50 เมตร",
+      "name_th_short": "ท่อลูกฟูกพลาสติก",
       "name_cn": "塑料波纹管 PE材质-AD34.5(内径29.0）50米",
       "price": 276,
       "image": "/placeholder.svg",
@@ -160,10 +157,8 @@
       "category_code": "BWG",
       "material_cn": "PE材质",
       "material_code": "PE",
-      "spec_number": "AD345-01",
-      "row_no": 80,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "AD345",
+      "row_no": 80
     }
   ]
 }

@@ -11,6 +11,7 @@
       "code": "21.04.03.001",
       "sku": "QBG-DC-ZY-KJ-01",
       "name_th": "สายลมมืออาชีพ Dongcheng พร้อมข้อต่อสวมเร็ว สีฟ้า",
+      "name_th_short": "สายลมพร้อมข้อต่อเร็ว",
       "name_cn": "东成专业气泵管 含快接-蓝色",
       "price": 126,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "东成专业含快接",
       "material_code": "DC-ZY-KJ",
       "spec_number": "01",
-      "row_no": 171,
-      "col_o": null,
-      "col_r": null
+      "row_no": 171
     }
   ]
 }

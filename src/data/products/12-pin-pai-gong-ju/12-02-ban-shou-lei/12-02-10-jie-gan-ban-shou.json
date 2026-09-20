@@ -9,8 +9,9 @@
       "id": "12-02-10-014",
       "slug": "12-02-10-014",
       "code": "12.02.10.014",
-      "sku": "WG-YT-10250-01",
+      "sku": "WG-YT-10250",
       "name_th": "ด้ามต่ออแดปเตอร์ Eagle Head รุ่น YT-415004 ขนาด 10 นิ้ว (250 มม.)",
+      "name_th_short": "ด้ามต่ออแดปเตอร์ Eagle Head",
       "name_cn": "鹰头弯杆10/250（12把）YT-415004",
       "price": 68.4,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "WG",
       "material_cn": "鹰头",
       "material_code": "YT",
-      "spec_number": "10250-01",
-      "row_no": 8,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10250",
+      "row_no": 8
     },
     {
       "id": "12-02-10-016",
       "slug": "12-02-10-016",
       "code": "12.02.10.016",
-      "sku": "WG-YTZY-18450-01",
+      "sku": "WG-YTZY-18450",
       "name_th": "ด้ามต่ออแดปเตอร์งานหนัก Eagle Head รุ่น YT-415010 ขนาด 18 นิ้ว (450 มม.)",
+      "name_th_short": "ด้ามต่ออแดปเตอร์งานหนัก",
       "name_cn": "鹰头重型弯杆18/450（6把）YT-415010",
       "price": 216,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "WG",
       "material_cn": "鹰头重型",
       "material_code": "YTZY",
-      "spec_number": "18450-01",
-      "row_no": 9,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "18450",
+      "row_no": 9
     },
     {
       "id": "12-02-10-017",
       "slug": "12-02-10-017",
       "code": "12.02.10.017",
-      "sku": "WG-LVGD-5125-01",
+      "sku": "WG-LVGD-5125",
       "name_th": "ด้ามต่ออแดปเตอร์เหล็ก CR-V สั้น Eagle Head รุ่น YT-415002 ขนาด 5 นิ้ว (125 มม.)",
+      "name_th_short": "ด้ามต่ออแดปเตอร์เหล็ก CR-V สั้น",
       "name_cn": "鹰头络钒钢短弯杆5/125mm(12把)YT-415002",
       "price": 61.2,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "WG",
       "material_cn": "络钒钢短",
       "material_code": "LVGD",
-      "spec_number": "5125-01",
-      "row_no": 10,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "5125",
+      "row_no": 10
     },
     {
       "id": "12-02-10-018",
       "slug": "12-02-10-018",
       "code": "12.02.10.018",
-      "sku": "WG-LVG-10250-01",
+      "sku": "WG-LVG-10250",
       "name_th": "ด้ามต่ออแดปเตอร์เหล็ก CR-V Eagle Head รุ่น YT-415005 ขนาด 10 นิ้ว (250 มม.)",
+      "name_th_short": "ด้ามต่ออแดปเตอร์เหล็ก CR-V",
       "name_cn": "鹰头络钒钢弯杆10/250mm(12/盒)YT-415005",
       "price": 99.6,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "WG",
       "material_cn": "络钒钢",
       "material_code": "LVG",
-      "spec_number": "10250-01",
-      "row_no": 11,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10250",
+      "row_no": 11
     },
     {
       "id": "12-02-10-019",
       "slug": "12-02-10-019",
       "code": "12.02.10.019",
-      "sku": "JG-LVGC-10250-01",
+      "sku": "JG-LVGC-10250",
       "name_th": "ด้ามต่อยาวเหล็ก CR-V Eagle Head รุ่น YT-415003 ขนาด 10 นิ้ว (250 มม.)",
+      "name_th_short": "ด้ามต่อยาวเหล็ก CR-V",
       "name_cn": "鹰头络钒钢长接杆10/250mm(12盒/把)YT-415003",
       "price": 99.6,
       "image": "/placeholder.svg",
@@ -160,10 +157,8 @@
       "category_code": "JG",
       "material_cn": "络钒钢长",
       "material_code": "LVGC",
-      "spec_number": "10250-01",
-      "row_no": 12,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10250",
+      "row_no": 12
     }
   ]
 }

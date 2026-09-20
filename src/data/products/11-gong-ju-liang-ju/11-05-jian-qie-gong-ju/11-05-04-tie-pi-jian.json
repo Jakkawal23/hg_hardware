@@ -9,8 +9,9 @@
       "id": "11-05-04-005",
       "slug": "11-05-04-005",
       "code": "11.05.04.005",
-      "sku": "TPJ-JH-200-01",
-      "name_th": "กรรไกรตัดเหล็กแผ่น เยอรมัน ขนาด 200 มม. (8 นิ้ว) บรรจุ 6 ชิ้น/กล่อง",
+      "sku": "TPJ-JH-200",
+      "name_th": "กรรไกรตัดเหล็กแผ่น (Jinhu) เยอรมัน ขนาด 200 มม. (8 นิ้ว) บรรจุ 6 ชิ้น/กล่อง",
+      "name_th_short": "กรรไกรตัดสังกะสี",
       "name_cn": "金虎德式铁皮剪200 8寸（6把/盒）/ Golden Tiger 2008",
       "price": 132,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "TPJ",
       "material_cn": "金虎",
       "material_code": "JH",
-      "spec_number": "200-01",
-      "row_no": 454,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "200",
+      "row_no": 454
     },
     {
       "id": "11-05-04-006",
       "slug": "11-05-04-006",
       "code": "11.05.04.006",
-      "sku": "TPJ-JH-250-01",
-      "name_th": "กรรไกรตัดเหล็กแผ่น เยอรมัน ขนาด 250 มม. (10 นิ้ว) บรรจุ 6 ชิ้น/กล่อง",
+      "sku": "TPJ-JH-250",
+      "name_th": "กรรไกรตัดเหล็กแผ่น (Jinhu) เยอรมัน ขนาด 250 มม. (10 นิ้ว) บรรจุ 6 ชิ้น/กล่อง",
+      "name_th_short": "กรรไกรตัดสังกะสี",
       "name_cn": "金虎德式铁皮剪250 10寸（6把/盒）/ Golden Tiger 25010",
       "price": 168,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "TPJ",
       "material_cn": "金虎",
       "material_code": "JH",
-      "spec_number": "250-01",
-      "row_no": 455,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "250",
+      "row_no": 455
     },
     {
       "id": "11-05-04-007",
       "slug": "11-05-04-007",
       "code": "11.05.04.007",
-      "sku": "TPJ-JH-350-01",
-      "name_th": "กรรไกรตัดเหล็กแผ่น เยอรมัน ขนาด 350 มม. (14 นิ้ว) บรรจุ 6 ชิ้น/กล่อง",
+      "sku": "TPJ-JH-350",
+      "name_th": "กรรไกรตัดเหล็กแผ่น (Jinhu) เยอรมัน ขนาด 350 มม. (14 นิ้ว) บรรจุ 6 ชิ้น/กล่อง",
+      "name_th_short": "กรรไกรตัดสังกะสี",
       "name_cn": "金虎德式铁皮剪350 14寸（6把/盒 / Golden Tiger 35014",
       "price": 252,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "TPJ",
       "material_cn": "金虎",
       "material_code": "JH",
-      "spec_number": "350-01",
-      "row_no": 456,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "350",
+      "row_no": 456
     },
     {
       "id": "11-05-04-008",
       "slug": "11-05-04-008",
       "code": "11.05.04.008",
-      "sku": "TPJ-JH-300-01",
-      "name_th": "กรรไกรตัดเหล็กแผ่น เยอรมัน ขนาด 300 มม. (12 นิ้ว) บรรจุ 6 ชิ้น/กล่อง",
+      "sku": "TPJ-JH-300",
+      "name_th": "กรรไกรตัดเหล็กแผ่น (Jinhu) เยอรมัน ขนาด 300 มม. (12 นิ้ว) บรรจุ 6 ชิ้น/กล่อง",
+      "name_th_short": "กรรไกรตัดสังกะสี",
       "name_cn": "金虎德式铁皮剪300 12寸（6把/盒）/ Golden Tiger 30012",
       "price": 210,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "TPJ",
       "material_cn": "金虎",
       "material_code": "JH",
-      "spec_number": "300-01",
-      "row_no": 457,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "300",
+      "row_no": 457
     },
     {
       "id": "11-05-04-009",
       "slug": "11-05-04-009",
       "code": "11.05.04.009",
-      "sku": "TPJ-BS-12000-01",
+      "sku": "TPJ-BS-12000",
       "name_th": "กรรไกรตัดเหล็กแผ่น เยอรมัน สีขาว ขนาด 12 นิ้ว บรรจุ 6 ชิ้น/กล่อง",
+      "name_th_short": "กรรไกรตัดสังกะสี",
       "name_cn": "12寸”德式铁皮剪白色（6把/盒）/ 2",
       "price": 174,
       "image": "/placeholder.svg",
@@ -160,10 +157,8 @@
       "category_code": "TPJ",
       "material_cn": "白色",
       "material_code": "BS",
-      "spec_number": "12000-01",
-      "row_no": 458,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "12000",
+      "row_no": 458
     }
   ]
 }

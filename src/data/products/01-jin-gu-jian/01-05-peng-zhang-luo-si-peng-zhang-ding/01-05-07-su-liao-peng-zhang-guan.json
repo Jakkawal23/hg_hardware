@@ -9,8 +9,9 @@
       "id": "01-05-07-001",
       "slug": "01-05-07-001",
       "code": "01.05.07.001",
-      "sku": "SLPJ-DG-0630-02",
+      "sku": "SLPJ-DG-6-30",
       "name_th": "พุกพลาสติกสีเหลือง (พุกตัวหนอน) 6*30",
+      "name_th_short": "พุกตัวหนอน",
       "name_cn": "小黄鱼单管6*30",
       "price": 30,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "SLPJ",
       "material_cn": "单管",
       "material_code": "DG",
-      "spec_number": "0630-02",
-      "row_no": 374,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "6-30",
+      "row_no": 374
     },
     {
       "id": "01-05-07-003",
       "slug": "01-05-07-003",
       "code": "01.05.07.003",
-      "sku": "SLPJ-DG-0840-03",
+      "sku": "SLPJ-DG-8-40",
       "name_th": "พุกพลาสติกสีเหลือง (พุกตัวหนอน) 8*40",
+      "name_th_short": "พุกตัวหนอน",
       "name_cn": "小黄鱼8*40（200装）单管",
       "price": 30,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "SLPJ",
       "material_cn": "单管",
       "material_code": "DG",
-      "spec_number": "0840-03",
-      "row_no": 375,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "8-40",
+      "row_no": 375
     }
   ]
 }

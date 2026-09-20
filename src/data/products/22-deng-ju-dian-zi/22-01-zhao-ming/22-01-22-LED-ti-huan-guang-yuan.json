@@ -11,6 +11,7 @@
       "code": "22.01.22.001",
       "sku": "THGY-HR-E27-13W-BG",
       "name_th": "อะไหล่แผงไฟ LED ขั้ว E27 Hongri 13W (แสงขาว)",
+      "name_th_short": "หลอดไฟ LED กลม",
       "name_cn": "红日LED球泡E27替换光源 13W/白光",
       "price": 36,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "红日球泡E27",
       "material_code": "HR-E27",
       "spec_number": "13W-BG",
-      "row_no": 63,
-      "col_o": null,
-      "col_r": null
+      "row_no": 63
     },
     {
       "id": "22-01-22-003",
@@ -43,6 +42,7 @@
       "code": "22.01.22.003",
       "sku": "THGY-HR-E27-13W-NG",
       "name_th": "อะไหล่แผงไฟ LED ขั้ว E27 Hongri 13W (แสงวอร์ม)",
+      "name_th_short": "หลอดไฟ LED กลม",
       "name_cn": "红日LED球泡E27替换光源 13W/暖光",
       "price": 36,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "红日球泡E27",
       "material_code": "HR-E27",
       "spec_number": "13W-NG",
-      "row_no": 64,
-      "col_o": null,
-      "col_r": null
+      "row_no": 64
     },
     {
       "id": "22-01-22-005",
@@ -75,6 +73,7 @@
       "code": "22.01.22.005",
       "sku": "THGY-HR-E14-13W-SS",
       "name_th": "อะไหล่แผงไฟ LED ขั้ว E14 Hongri 13W (สองสี)",
+      "name_th_short": "หลอดไฟ LED กลม",
       "name_cn": "红日LED球泡E14替换光源 13W/双色",
       "price": 42,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "红日球泡E14",
       "material_code": "HR-E14",
       "spec_number": "13W-SS",
-      "row_no": 65,
-      "col_o": null,
-      "col_r": null
+      "row_no": 65
     },
     {
       "id": "22-01-22-006",
@@ -107,6 +104,7 @@
       "code": "22.01.22.006",
       "sku": "THGY-HR-E14-13W-NG",
       "name_th": "อะไหล่แผงไฟ LED ขั้ว E14 Hongri 13W (แสงวอร์ม)",
+      "name_th_short": "หลอดไฟ LED กลม",
       "name_cn": "红日LED球泡E14替换光源 13W/暖光",
       "price": 36,
       "image": "/placeholder.svg",
@@ -129,9 +127,7 @@
       "material_cn": "红日球泡E14",
       "material_code": "HR-E14",
       "spec_number": "13W-NG",
-      "row_no": 66,
-      "col_o": null,
-      "col_r": null
+      "row_no": 66
     },
     {
       "id": "22-01-22-007",
@@ -139,6 +135,7 @@
       "code": "22.01.22.007",
       "sku": "THGY-HR-E27-18W-BG",
       "name_th": "อะไหล่แผงไฟ LED ขั้ว E27 Hongri 18W (แสงขาว)",
+      "name_th_short": "หลอดไฟ LED กลม",
       "name_cn": "红日LED球泡E27替换光源 18W/白光",
       "price": 48,
       "image": "/placeholder.svg",
@@ -161,9 +158,7 @@
       "material_cn": "红日球泡E27",
       "material_code": "HR-E27",
       "spec_number": "18W-BG",
-      "row_no": 67,
-      "col_o": null,
-      "col_r": null
+      "row_no": 67
     },
     {
       "id": "22-01-22-008",
@@ -171,6 +166,7 @@
       "code": "22.01.22.008",
       "sku": "THGY-HR-E27-18W-SS",
       "name_th": "อะไหล่แผงไฟ LED ขั้ว E27 Hongri 18W (สองสี)",
+      "name_th_short": "หลอดไฟ LED กลม",
       "name_cn": "红日LED球泡E27替换光源 18W/双色",
       "price": 54,
       "image": "/placeholder.svg",
@@ -193,9 +189,7 @@
       "material_cn": "红日球泡E27",
       "material_code": "HR-E27",
       "spec_number": "18W-SS",
-      "row_no": 68,
-      "col_o": null,
-      "col_r": null
+      "row_no": 68
     },
     {
       "id": "22-01-22-013",
@@ -203,6 +197,7 @@
       "code": "22.01.22.013",
       "sku": "THGY-YM-GTQ-E27-13W",
       "name_th": "อะไหล่แผงไฟ LED รุ่นกังฟู/กล้วยไม้ Yaming E27 13W (แสงขาว)",
+      "name_th_short": "แผงไฟ LED อะไหล่",
       "name_cn": "亚明光头强LED替换光源E27 13W白光",
       "price": 30,
       "image": "/placeholder.svg",
@@ -225,9 +220,7 @@
       "material_cn": "亚明光头强",
       "material_code": "YM-GTQ",
       "spec_number": "E27-13W",
-      "row_no": 69,
-      "col_o": null,
-      "col_r": null
+      "row_no": 69
     },
     {
       "id": "22-01-22-014",
@@ -235,6 +228,7 @@
       "code": "22.01.22.014",
       "sku": "THGY-YM-GTQ-E27-16W",
       "name_th": "อะไหล่แผงไฟ LED รุ่นกังฟู/กล้วยไม้ Yaming E27 16W (แสงขาว)",
+      "name_th_short": "แผงไฟ LED อะไหล่",
       "name_cn": "亚明光头强LED替换光源E27 16W白光",
       "price": 48,
       "image": "/placeholder.svg",
@@ -257,9 +251,7 @@
       "material_cn": "亚明光头强",
       "material_code": "YM-GTQ",
       "spec_number": "E27-16W",
-      "row_no": 70,
-      "col_o": null,
-      "col_r": null
+      "row_no": 70
     }
   ]
 }

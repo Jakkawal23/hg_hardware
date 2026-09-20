@@ -11,6 +11,7 @@
       "code": "22.07.01.001",
       "sku": "JSD-TYN-XSB-03",
       "name_th": "ไฟสัญญาณเตือนโซล่าเซลล์สีแดง-แบบเสียบด้ามจับเล็ก รุ่น 03",
+      "name_th_short": "ไฟเตือนโซล่าเซลล์",
       "name_cn": "太阳能红色信号灯/警示灯-小手柄插入式 03",
       "price": 84,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "太阳能小手柄",
       "material_code": "TYN-XSB",
       "spec_number": "03",
-      "row_no": 151,
-      "col_o": null,
-      "col_r": null
+      "row_no": 151
     },
     {
       "id": "22-07-01-004",
@@ -43,6 +42,7 @@
       "code": "22.07.01.004",
       "sku": "JSD-TYN-CTHL-01",
       "name_th": "ไฟไซเรน/ไฟเตือนแถวยาวโซล่าเซลล์ แดง-น้ำเงิน แบบแฟลชกระพริบ",
+      "name_th_short": "ไฟไซเรนโซล่าเซลล์",
       "name_cn": "太阳能长条红蓝一体警示灯/爆闪灯",
       "price": 876,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "太阳能长条红蓝",
       "material_code": "TYN-CTHL",
       "spec_number": "01",
-      "row_no": 152,
-      "col_o": null,
-      "col_r": null
+      "row_no": 152
     }
   ]
 }

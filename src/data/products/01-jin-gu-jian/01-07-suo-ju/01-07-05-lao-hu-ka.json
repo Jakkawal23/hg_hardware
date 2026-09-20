@@ -9,8 +9,9 @@
       "id": "01-07-05-001",
       "slug": "01-07-05-001",
       "code": "01.07.05.001",
-      "sku": "LHC-ZT-25-01",
+      "sku": "LHC-ZT-25",
       "name_th": "แคลมป์ยึดคาน เหล็กหล่อ ไซส์เล็ก ช่องเปิด 25",
+      "name_th_short": "แคลมป์ยึดคานเหล็กหล่อไซส์เล็ก",
       "name_cn": "铸铁老虎卡（小号开口25） ( 25)",
       "price": 9,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "LHC",
       "material_cn": "铸铁",
       "material_code": "ZT",
-      "spec_number": "25-01",
-      "row_no": 577,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "25",
+      "row_no": 577
     },
     {
       "id": "01-07-05-002",
       "slug": "01-07-05-002",
       "code": "01.07.05.002",
-      "sku": "LHC-ZT-35-01",
+      "sku": "LHC-ZT-35",
       "name_th": "แคลมป์ยึดคาน เหล็กหล่อ ไซส์ใหญ่ ช่องเปิด 35",
+      "name_th_short": "แคลมป์ยึดคานเหล็กหล่อไซส์ใหญ่",
       "name_cn": "铸铁老虎卡（大号开口35） ( 35)",
       "price": 16.8,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "LHC",
       "material_cn": "铸铁",
       "material_code": "ZT",
-      "spec_number": "35-01",
-      "row_no": 578,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "35",
+      "row_no": 578
     },
     {
       "id": "01-07-05-003",
       "slug": "01-07-05-003",
       "code": "01.07.05.003",
-      "sku": "LHC-TP-25-02",
+      "sku": "LHC-TP-25",
       "name_th": "แคลมป์ยึดคาน แผ่นเหล็ก ไซส์ใหญ่ ช่องเปิด 25",
+      "name_th_short": "แคลมป์ยึดคานแผ่นเหล็กไซส์ใหญ่",
       "name_cn": "铁皮老虎卡 大号（开口25） (25)",
       "price": 6,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "LHC",
       "material_cn": "铁皮",
       "material_code": "TP",
-      "spec_number": "25-02",
-      "row_no": 579,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "25",
+      "row_no": 579
     },
     {
       "id": "01-07-05-004",
       "slug": "01-07-05-004",
       "code": "01.07.05.004",
-      "sku": "LHC-TP-20-02",
+      "sku": "LHC-TP-20",
       "name_th": "แคลมป์ยึดคาน แผ่นเหล็ก ไซส์เล็ก ช่องเปิด 20",
+      "name_th_short": "แคลมป์ยึดคานแผ่นเหล็กไซส์เล็ก",
       "name_cn": "铁皮老虎卡 小号（开口20） (20)",
       "price": 4.8,
       "image": "/placeholder.svg",
@@ -128,10 +126,8 @@
       "category_code": "LHC",
       "material_cn": "铁皮",
       "material_code": "TP",
-      "spec_number": "20-02",
-      "row_no": 580,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "20",
+      "row_no": 580
     }
   ]
 }

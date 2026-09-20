@@ -9,8 +9,9 @@
       "id": "13-02-02-004",
       "slug": "13-02-02-004",
       "code": "13.02.02.004",
-      "sku": "YX-BS-220-01",
+      "sku": "YX-BS-220",
       "name_th": "เอ็นตกปลาสีขาวรุ่นใหม่ (220กรัม/ม้วน) 100ม้วน/ลัง",
+      "name_th_short": "เอ็นตกปลา",
       "name_cn": "新款 鱼线 白色（220克/卷）100卷/件",
       "price": 21.6,
       "image": "/placeholder.svg",
@@ -32,10 +33,8 @@
       "category_code": "YX",
       "material_cn": "白色",
       "material_code": "BS",
-      "spec_number": "220-01",
-      "row_no": 11,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "220",
+      "row_no": 11
     }
   ]
 }

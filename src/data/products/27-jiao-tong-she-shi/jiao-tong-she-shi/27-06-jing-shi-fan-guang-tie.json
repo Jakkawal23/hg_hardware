@@ -11,6 +11,7 @@
       "code": "27.06.0002",
       "sku": "FGT-CS-FGT-J-5-30M",
       "name_th": "สติกเกอร์สะท้อนแสงติดตัวถังรถยนต์ ชนิดม้วน (5ซม. * 30ม.)",
+      "name_th_short": "สติกเกอร์สะท้อนแสงติดรถ ม้วน",
       "name_cn": "车身反光贴 宽5cm*长30米",
       "price": 96,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "车身反光贴卷",
       "material_code": "CS-FGT-J",
       "spec_number": "5-30M",
-      "row_no": 8,
-      "col_o": null,
-      "col_r": null
+      "row_no": 8
     },
     {
       "id": "27-06-0003",
@@ -43,6 +42,7 @@
       "code": "27.06.0003",
       "sku": "FGT-HZ-QP-5-283",
       "name_th": "สติกเกอร์สะท้อนแสงติดตัวถังรถยนต์ ชนิดชิ้นบรรจุกล่อง (5x28.3ซม.)",
+      "name_th_short": "สติกเกอร์สะท้อนแสงติดรถ กล่อง",
       "name_cn": "盒装车身反光贴 5cm*28.3cm",
       "price": 108,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "盒装切片",
       "material_code": "HZ-QP",
       "spec_number": "5-283",
-      "row_no": 9,
-      "col_o": null,
-      "col_r": null
+      "row_no": 9
     }
   ]
 }

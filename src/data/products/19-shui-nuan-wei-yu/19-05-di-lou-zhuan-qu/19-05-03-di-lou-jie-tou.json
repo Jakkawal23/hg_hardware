@@ -11,6 +11,7 @@
       "code": "19.05.03.002",
       "sku": "DLJT-DD-ST-123323",
       "name_th": "ข้อต่อสามทางชุบโครเมียมสำหรับต่อท่อน้ำทิ้งพื้น Jinliwang",
+      "name_th_short": "ข้อต่อสามทางท่อน้ำทิ้ง",
       "name_cn": "金力王地漏转接电镀三通-JLW.123323",
       "price": 48,
       "image": "/placeholder.svg",
@@ -32,10 +33,8 @@
       "category_code": "DLJT",
       "material_cn": "电镀三通",
       "material_code": "DD-ST",
-      "spec_number": "123323.0",
-      "row_no": 15,
-      "col_o": null,
-      "col_r": null
+      "spec_number": 123323,
+      "row_no": 15
     },
     {
       "id": "19-05-03-004",
@@ -43,6 +42,7 @@
       "code": "19.05.03.004",
       "sku": "DLJT-DD-WX-123325",
       "name_th": "ข้อต่อองศาอเนกประสงค์/ข้อต่อหมุนชุบโครเมียมดักกลิ่น Jinliwang",
+      "name_th_short": "ข้อต่ออเนกประสงค์ท่อน้ำทิ้ง",
       "name_cn": "金力王地漏转接电镀万向接头-JLW.123325",
       "price": 48,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "DLJT",
       "material_cn": "电镀万向接头",
       "material_code": "DD-WX",
-      "spec_number": "123325.0",
-      "row_no": 16,
-      "col_o": null,
-      "col_r": null
+      "spec_number": 123325,
+      "row_no": 16
     }
   ]
 }

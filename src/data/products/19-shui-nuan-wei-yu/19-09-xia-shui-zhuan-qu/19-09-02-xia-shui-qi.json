@@ -11,6 +11,7 @@
       "code": "19.09.02.014",
       "sku": "XSQ-FG-TDD-1611",
       "name_th": "สะดืออ่างล้างหน้าแบบฝาพลิก ทองเหลืองชุบโครเมียม Hufan",
+      "name_th_short": "สะดืออ่างล้างหน้า",
       "name_cn": "沪帆/HF1611/翻盖下水器/铜电镀",
       "price": 276,
       "image": "/placeholder.svg",
@@ -32,10 +33,8 @@
       "category_code": "XSQ",
       "material_cn": "翻盖铜电镀",
       "material_code": "FG-TDD",
-      "spec_number": "1611.0",
-      "row_no": 59,
-      "col_o": null,
-      "col_r": null
+      "spec_number": 1611,
+      "row_no": 59
     }
   ]
 }

@@ -9,8 +9,9 @@
       "id": "11-01-07-001",
       "slug": "11-01-07-001",
       "code": "11.01.07.001",
-      "sku": "BXQ-HD-08-01",
+      "sku": "BXQ-HD-08",
       "name_th": "คีมปอกสายไฟ Hufan 8 นิ้ว",
+      "name_th_short": "คีมปอกสายไฟ 8 นิ้ว",
       "name_cn": "沪帆电缆剥线钳 8寸",
       "price": 72,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "BXQ",
       "material_cn": "沪帆电缆",
       "material_code": "HD",
-      "spec_number": "08-01",
-      "row_no": 37,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "08",
+      "row_no": 37
     },
     {
       "id": "11-01-07-002",
       "slug": "11-01-07-002",
       "code": "11.01.07.002",
-      "sku": "BXQ-HQ-07-01",
+      "sku": "BXQ-HQ-07",
       "name_th": "คีมปอกสายไฟ 7-in-1 Hufan 7 นิ้ว",
+      "name_th_short": "คีมปอกสายไฟ 7-in-1 7 นิ้ว",
       "name_cn": "沪帆七合一剥线钳 7寸",
       "price": 60,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "BXQ",
       "material_cn": "沪帆七合一",
       "material_code": "HQ",
-      "spec_number": "07-01",
-      "row_no": 38,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "07",
+      "row_no": 38
     },
     {
       "id": "11-01-07-004",
@@ -75,6 +73,7 @@
       "code": "11.01.07.004",
       "sku": "BXQ-GD-00-01",
       "name_th": "คีมปอกสายไฟและกรรไกรตัดสายไฟอเนกประสงค์อุตสาหกรรม YT-260016",
+      "name_th_short": "คีมปอกสายไฟ",
       "name_cn": "工业级多功能电工剪剥线钳 YT-260016 /",
       "price": 162,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "工业级多功能",
       "material_code": "GD",
       "spec_number": "00-01",
-      "row_no": 39,
-      "col_o": null,
-      "col_r": null
+      "row_no": 39
     },
     {
       "id": "11-01-07-005",
@@ -107,6 +104,7 @@
       "code": "11.01.07.005",
       "sku": "BXQ-GD-00-02",
       "name_th": "คีมปอกสายไฟและย้ำหัวอเนกประสงค์อุตสาหกรรม (10 ตัว/กล่อง) YT-260014",
+      "name_th_short": "คีมปอกสายไฟ",
       "name_cn": "工业级多功能压接剥线钳（10把/盒）YT-260014 /",
       "price": 126,
       "image": "/placeholder.svg",
@@ -129,9 +127,7 @@
       "material_cn": "工业级多功能",
       "material_code": "GD",
       "spec_number": "00-02",
-      "row_no": 40,
-      "col_o": null,
-      "col_r": null
+      "row_no": 40
     },
     {
       "id": "11-01-07-006",
@@ -139,6 +135,7 @@
       "code": "11.01.07.006",
       "sku": "BXQ-GD-00-03",
       "name_th": "คีมปอกสายไฟและตัดสายไฟอเนกประสงค์อุตสาหกรรม (10 ตัว/กล่อง) YT-260015",
+      "name_th_short": "คีมปอกสายไฟ",
       "name_cn": "工业级多功能剪线剥线钳（10把/盒）YT-260015 /",
       "price": 168,
       "image": "/placeholder.svg",
@@ -161,9 +158,7 @@
       "material_cn": "工业级多功能",
       "material_code": "GD",
       "spec_number": "00-03",
-      "row_no": 41,
-      "col_o": null,
-      "col_r": null
+      "row_no": 41
     },
     {
       "id": "11-01-07-007",
@@ -171,6 +166,7 @@
       "code": "11.01.07.007",
       "sku": "BXQ-XA-00-01",
       "name_th": "คีมปอกสายไฟอัตโนมัติซิงค์อัลลอย รุ่น C (6 ตัว/กล่อง) YT-10067",
+      "name_th_short": "คีมปอกสายไฟ",
       "name_cn": "锌合金自动剥线钳C（6把/盒）YT-10067 / C",
       "price": 192,
       "image": "/placeholder.svg",
@@ -193,16 +189,15 @@
       "material_cn": "锌合金自动",
       "material_code": "XA",
       "spec_number": "00-01",
-      "row_no": 42,
-      "col_o": null,
-      "col_r": null
+      "row_no": 42
     },
     {
       "id": "11-01-07-008",
       "slug": "11-01-07-008",
       "code": "11.01.07.008",
-      "sku": "BXQ-BA-00-01",
+      "sku": "BXQ-BA-00",
       "name_th": "คีมปอกสายไฟอัตโนมัติ รุ่น B (6 ตัว/กล่อง) YT-10066",
+      "name_th_short": "คีมปอกสายไฟ",
       "name_cn": "B型自动剥线钳（6把/盒）YT-10066 / Type B",
       "price": 192,
       "image": "/placeholder.svg",
@@ -224,10 +219,8 @@
       "category_code": "BXQ",
       "material_cn": "B型自动",
       "material_code": "BA",
-      "spec_number": "00-01",
-      "row_no": 43,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00",
+      "row_no": 43
     },
     {
       "id": "11-01-07-009",
@@ -235,6 +228,7 @@
       "code": "11.01.07.009",
       "sku": "BXQ-XA-00-02",
       "name_th": "คีมปอกสายไฟอัตโนมัติซิงค์อัลลอย รุ่น A (6 ตัว/กล่อง) YT-10065",
+      "name_th_short": "คีมปอกสายไฟ",
       "name_cn": "锌合金自动剥线钳A（6把/盒）YT-10065 / A",
       "price": 192,
       "image": "/placeholder.svg",
@@ -257,16 +251,15 @@
       "material_cn": "锌合金自动",
       "material_code": "XA",
       "spec_number": "00-02",
-      "row_no": 44,
-      "col_o": null,
-      "col_r": null
+      "row_no": 44
     },
     {
       "id": "11-01-07-010",
       "slug": "11-01-07-010",
       "code": "11.01.07.010",
-      "sku": "BXQ-DQ-08-01",
+      "sku": "BXQ-DQ-08",
       "name_th": "คีมปอกสายไฟ 7-in-1 อเนกประสงค์ 8 นิ้ว 200mm (12 ตัว/กล่อง) YT-260013",
+      "name_th_short": "คีมปอกสายไฟ 7-in-1 8 นิ้ว",
       "name_cn": "多功能七合一剥线钳8寸”200mm（12把/盒）YT-260013 / 7 in 1 8",
       "price": 96,
       "image": "/placeholder.svg",
@@ -288,17 +281,16 @@
       "category_code": "BXQ",
       "material_cn": "多功能七合一",
       "material_code": "DQ",
-      "spec_number": "08-01",
-      "row_no": 45,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "08",
+      "row_no": 45
     },
     {
       "id": "11-01-07-011",
       "slug": "11-01-07-011",
       "code": "11.01.07.011",
-      "sku": "BXQ-JC-07-01",
+      "sku": "BXQ-JC-07",
       "name_th": "คีมปอกสายไฟและตัดสายไฟเกรดพรีเมียม 7 นิ้ว 175mm (12 ตัว/กล่อง) YT-203007",
+      "name_th_short": "คีมปอกสายไฟ 7 นิ้ว",
       "name_cn": "精品电缆剪剥线钳7寸”175mm（12把/盒）YT-203007 / 7 ” 175 .",
       "price": 84,
       "image": "/placeholder.svg",
@@ -320,17 +312,16 @@
       "category_code": "BXQ",
       "material_cn": "精品电缆剪",
       "material_code": "JC",
-      "spec_number": "07-01",
-      "row_no": 46,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "07",
+      "row_no": 46
     },
     {
       "id": "11-01-07-012",
       "slug": "11-01-07-012",
       "code": "11.01.07.012",
-      "sku": "BXQ-JS-08-01",
+      "sku": "BXQ-JS-08",
       "name_th": "คีมปอกสายไฟ 7-in-1 ด้ามสองสีเกรดพรีเมียม 8 นิ้ว 200mm (12 ตัว/กล่อง) YT-103518",
+      "name_th_short": "คีมปอกสายไฟ 7-in-1 8 นิ้ว",
       "name_cn": "精品七合一双色柄剥线钳 8寸”200mm（12把/盒）YT-103518 / 7-in-1 2 8 ” 200mm",
       "price": 66,
       "image": "/placeholder.svg",
@@ -352,17 +343,16 @@
       "category_code": "BXQ",
       "material_cn": "精品七合一双色",
       "material_code": "JS",
-      "spec_number": "08-01",
-      "row_no": 47,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "08",
+      "row_no": 47
     },
     {
       "id": "11-01-07-013",
       "slug": "11-01-07-013",
       "code": "11.01.07.013",
-      "sku": "BXQ-QY-07-01",
+      "sku": "BXQ-QY-07",
       "name_th": "คีมปอกสายไฟ 7-in-1 7 นิ้ว 175mm (8 ตัว/กล่อง) YT-103508",
+      "name_th_short": "คีมปอกสายไฟ 7 นิ้ว",
       "name_cn": "7合一剥线钳 7寸”175mm（8把/盒）YT-103508 / 7-in-1 7 175.",
       "price": 60,
       "image": "/placeholder.svg",
@@ -384,17 +374,16 @@
       "category_code": "BXQ",
       "material_cn": "七合一",
       "material_code": "QY",
-      "spec_number": "07-01",
-      "row_no": 48,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "07",
+      "row_no": 48
     },
     {
       "id": "11-01-07-014",
       "slug": "11-01-07-014",
       "code": "11.01.07.014",
-      "sku": "BXQ-YZ-08-01",
+      "sku": "BXQ-YZ-08",
       "name_th": "คีมปอกสายไฟปากเป็ด 8 นิ้ว (6 ตัว/กล่อง) YT-10064",
+      "name_th_short": "คีมปอกสายไฟ 8 นิ้ว",
       "name_cn": "鸭嘴剥线钳 8寸（6把/盒）YT-10064 / Duckbill 8",
       "price": 126,
       "image": "/placeholder.svg",
@@ -416,10 +405,8 @@
       "category_code": "BXQ",
       "material_cn": "鸭嘴",
       "material_code": "YZ",
-      "spec_number": "08-01",
-      "row_no": 49,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "08",
+      "row_no": 49
     }
   ]
 }

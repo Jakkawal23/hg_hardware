@@ -11,6 +11,7 @@
       "code": "22.05.01.002",
       "sku": "HD-LED-DX-32Z-10M",
       "name_th": "ไฟราว/ไฟสัญญาณเดินเรือ LED 32 ดวง ยาว 10 เมตร พร้อมสาย",
+      "name_th_short": "ไฟราวเรือ LED",
       "name_cn": "LED 32珠10米带线航灯",
       "price": 192,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "LED带线",
       "material_code": "LED-DX",
       "spec_number": "32Z-10M",
-      "row_no": 118,
-      "col_o": null,
-      "col_r": null
+      "row_no": 118
     }
   ]
 }

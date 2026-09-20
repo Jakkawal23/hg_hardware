@@ -11,6 +11,7 @@
       "code": "18.01.01.001",
       "sku": "QGP-HQ107-107-1000",
       "name_th": "ใบตัดเหล็ก Haoqie รุ่น 107 (1,000 แผ่น/ลัง)",
+      "name_th_short": "ใบตัดเหล็ก",
       "name_cn": "好切切割片107 （1000片/件）",
       "price": 5.4,
       "image": "/placeholder.svg",
@@ -33,16 +34,15 @@
       "material_cn": "好切107",
       "material_code": "HQ107",
       "spec_number": "107-1000",
-      "row_no": 1,
-      "col_o": null,
-      "col_r": null
+      "row_no": 1
     },
     {
       "id": "18-01-01-005",
       "slug": "18-01-01-005",
       "code": "18.01.01.005",
-      "sku": "QGP-HQ400-400-25",
+      "sku": "QGP-HQ400-400",
       "name_th": "ใบตัดเหล็ก Haoqie รุ่น 400 (25 แผ่น/ลัง)",
+      "name_th_short": "ใบตัดเหล็ก",
       "name_cn": "好切牌切割片400 （1件25片）",
       "price": 84,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "QGP",
       "material_cn": "好切400",
       "material_code": "HQ400",
-      "spec_number": "400-25",
-      "row_no": 2,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "400",
+      "row_no": 2
     },
     {
       "id": "18-01-01-006",
       "slug": "18-01-01-006",
       "code": "18.01.01.006",
-      "sku": "QGP-HF-350-25",
+      "sku": "QGP-HF-350",
       "name_th": "ใบตัดเหล็ก Hufan 350x2.5x25.4 มม.",
+      "name_th_short": "ใบตัดเหล็ก",
       "name_cn": "沪帆切割片 350*2.5*25.4",
       "price": 1704,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "QGP",
       "material_cn": "沪帆",
       "material_code": "HF",
-      "spec_number": "350-25",
-      "row_no": 3,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "350",
+      "row_no": 3
     },
     {
       "id": "18-01-01-007",
       "slug": "18-01-01-007",
       "code": "18.01.01.007",
-      "sku": "QGP-HQ350-350-25",
+      "sku": "QGP-HQ350-350",
       "name_th": "ใบตัดเหล็ก Haoqie รุ่น 350 (25 แผ่น/ลัง)",
+      "name_th_short": "ใบตัดเหล็ก",
       "name_cn": "好切牌切割片350 （1件25片）",
       "price": 60,
       "image": "/placeholder.svg",
@@ -128,10 +126,8 @@
       "category_code": "QGP",
       "material_cn": "好切350",
       "material_code": "HQ350",
-      "spec_number": "350-25",
-      "row_no": 4,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "350",
+      "row_no": 4
     }
   ]
 }

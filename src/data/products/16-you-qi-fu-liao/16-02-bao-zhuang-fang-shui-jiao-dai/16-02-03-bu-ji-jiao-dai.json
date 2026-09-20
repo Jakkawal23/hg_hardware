@@ -9,8 +9,9 @@
       "id": "16-02-03-001",
       "slug": "16-02-03-001",
       "code": "16.02.03.001",
-      "sku": "BJJD-YK-45-10",
+      "sku": "BJJD-YK-4.5",
       "name_th": "เทปผ้าแลคซีน Yongkuan 4.5 ซม. 10เมตร (48ม้วน/ลัง)",
+      "name_th_short": "เทปผ้าแลคซีน",
       "name_cn": "永冠布基胶带 4.5*10m（48卷/件）",
       "price": 30,
       "image": "/placeholder.svg",
@@ -32,10 +33,8 @@
       "category_code": "BJJD",
       "material_cn": "永冠",
       "material_code": "YK",
-      "spec_number": "45-10",
-      "row_no": 27,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "4.5",
+      "row_no": 27
     }
   ]
 }

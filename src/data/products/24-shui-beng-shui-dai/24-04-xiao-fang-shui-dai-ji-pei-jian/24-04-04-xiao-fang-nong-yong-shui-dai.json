@@ -11,6 +11,7 @@
       "code": "24.04.04.003",
       "sku": "SD-XF-NY-BA-3-18M",
       "name_th": "สายส่งน้ำผ้าใบดับเพลิง/การเกษตร Pangyu 3 นิ้ว ยาว 18ม. (สีขาว)",
+      "name_th_short": "สายส่งน้ำผ้าใบดับเพลิง",
       "name_cn": "螃鱼消防农用水带 3寸/18米 白色",
       "price": 360,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "消防农用白色",
       "material_code": "XF-NY-BA",
       "spec_number": "3-18M",
-      "row_no": 14,
-      "col_o": null,
-      "col_r": null
+      "row_no": 14
     }
   ]
 }

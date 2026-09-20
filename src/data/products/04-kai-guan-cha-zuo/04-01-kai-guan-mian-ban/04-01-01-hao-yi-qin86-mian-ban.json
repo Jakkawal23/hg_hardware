@@ -9,15 +9,16 @@
       "id": "04-01-0001",
       "slug": "04-01-0001",
       "code": "04.01.0001",
-      "sku": "CZ-SWQXQ-86-01",
+      "sku": "CZ-SWQXQ-86",
       "name_th": "ปลั๊ก 7 รู Hanyi ซีรีส์ Qin86 แผ่นใหญ่ สีขาว Frost",
+      "name_th_short": "ปลั๊กไฟ 7 รู",
       "name_cn": "豪意(秦86系列大板开关)霜白色 七孔插座7",
       "price": 62.4,
       "image": "/placeholder.svg",
       "name_th_full": "Haoyi (สวิตช์แผงขนาดใหญ่รุ่น Qin 86) เต้ารับ 7 รู สีขาวฝ้า",
       "name_cn_full": "豪意(秦86系列大板开关)霜白色 七孔插座7",
       "product_name_raw": "豪意(秦86系列大板开关)霜白色 七孔插座แผงซ็อกเก็ตสวิตช์7รู",
-      "model": "123999.0",
+      "model": 123999,
       "unit": "个/ชิ้น",
       "storage_location": null,
       "qty_sub_unit": "50个/ชิ้น",
@@ -32,17 +33,16 @@
       "category_code": "CZ",
       "material_cn": "霜白色七孔",
       "material_code": "SWQXQ",
-      "spec_number": "86-01",
-      "row_no": 1,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "86",
+      "row_no": 1
     },
     {
       "id": "04-01-0002",
       "slug": "04-01-0002",
       "code": "04.01.0002",
-      "sku": "CZ-SWWXQ-86-02",
+      "sku": "CZ-SWWXQ-86",
       "name_th": "ปลั๊ก 5 รู (เฉียง) Hanyi ซีรีส์ Qin86 แผ่นใหญ่ สีขาว Frost",
+      "name_th_short": "ปลั๊กไฟ 5 รู เฉียง",
       "name_cn": "豪意(秦86系列大板开关)霜白色 五孔插座(斜)5",
       "price": 50.4,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "CZ",
       "material_cn": "霜白色五孔",
       "material_code": "SWWXQ",
-      "spec_number": "86-02",
-      "row_no": 2,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "86",
+      "row_no": 2
     },
     {
       "id": "04-01-0003",
       "slug": "04-01-0003",
       "code": "04.01.0003",
-      "sku": "KG-SWER-86-03",
+      "sku": "KG-SWER-86",
       "name_th": "สวิตช์ 2 ทางควบคุมหลายจุด Hanyi ซีรีส์ Qin86 สีขาว Frost",
+      "name_th_short": "สวิตช์ 2 ทาง มัลติเวย์",
       "name_cn": "豪意(秦86系列大板开关)霜白色 二开多控2",
       "price": 108,
       "image": "/placeholder.svg",
@@ -96,10 +95,8 @@
       "category_code": "KG",
       "material_cn": "霜白色二开",
       "material_code": "SWER",
-      "spec_number": "86-03",
-      "row_no": 3,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "86",
+      "row_no": 3
     }
   ]
 }

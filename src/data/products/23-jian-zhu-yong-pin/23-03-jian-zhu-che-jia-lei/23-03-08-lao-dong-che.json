@@ -11,6 +11,7 @@
       "code": "23.03.08.026",
       "sku": "HDC-P-LS-SXL-01",
       "name_th": "รถเข็นปูนล้อเดี่ยวครบชุด (ประกอบล้อตันสีน้ำเงิน)",
+      "name_th_short": "รถเข็นปูนล้อเดี่ยว",
       "name_cn": "灰斗车（配蓝色实心轮）",
       "price": 2280,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "配蓝色实心轮",
       "material_code": "P-LS-SXL",
       "spec_number": "01",
-      "row_no": 49,
-      "col_o": null,
-      "col_r": null
+      "row_no": 49
     },
     {
       "id": "23-03-08-027",
@@ -43,6 +42,7 @@
       "code": "23.03.08.027",
       "sku": "HDC-P-MHQ-01",
       "name_th": "รถเข็นปูนล้อเดี่ยวครบชุด (ประกอบล้อกะทะลายมะเฟือง)",
+      "name_th_short": "รถเข็นปูนล้อเดี่ยว",
       "name_cn": "灰斗车（配梅花圈轮子）",
       "price": 2880,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "配梅花圈轮",
       "material_code": "P-MHQ",
       "spec_number": "01",
-      "row_no": 50,
-      "col_o": null,
-      "col_r": null
+      "row_no": 50
     }
   ]
 }

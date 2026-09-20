@@ -11,6 +11,7 @@
       "code": "19.06.04.002",
       "sku": "ZHF-WSJ-XJ-80120",
       "name_th": "วาล์วกันย้อนลมกลับท่อระบายอากาศยางเล็กห้องน้ำ Jinliwang 80-120 มม.",
+      "name_th_short": "วาล์วกันย้อนลม",
       "name_cn": "金力王卫生间小胶排风止回阀单向80-120-JLW.800120",
       "price": 48,
       "image": "/placeholder.svg",
@@ -32,10 +33,8 @@
       "category_code": "ZHF",
       "material_cn": "卫生间小胶单向",
       "material_code": "WSJ-XJ",
-      "spec_number": "80120.0",
-      "row_no": 19,
-      "col_o": null,
-      "col_r": null
+      "spec_number": 80120,
+      "row_no": 19
     }
   ]
 }

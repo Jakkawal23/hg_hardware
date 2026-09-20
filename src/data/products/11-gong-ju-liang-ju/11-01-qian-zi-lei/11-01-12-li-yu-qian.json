@@ -9,8 +9,9 @@
       "id": "11-01-12-001",
       "slug": "11-01-12-001",
       "code": "11.01.12.001",
-      "sku": "LYQ-PT-08-01",
+      "sku": "LYQ-PT-08",
       "name_th": "คีมปากจระเข้ 8 นิ้ว",
+      "name_th_short": "คีมปากจระเข้ 8 นิ้ว",
       "name_cn": "鲤鱼钳 8寸",
       "price": 90,
       "image": "/placeholder.svg",
@@ -32,10 +33,8 @@
       "category_code": "LYQ",
       "material_cn": "普通",
       "material_code": "PT",
-      "spec_number": "08-01",
-      "row_no": 58,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "08",
+      "row_no": 58
     }
   ]
 }

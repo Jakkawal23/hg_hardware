@@ -9,8 +9,9 @@
       "id": "11-03-08-001",
       "slug": "11-03-08-001",
       "code": "11.03.08.001",
-      "sku": "DJB-KS-1214-01",
+      "sku": "DJB-KS-1214",
       "name_th": "ประแจสำหรับขันสกรูยึดฝ้า Kangge 12-14mm",
+      "name_th_short": "ประแจขันสกรูฝ้า 12-14mm",
       "name_cn": "康歌吊顶丝杆专用扳手/吊顶扳手 12-14",
       "price": 132,
       "image": "/placeholder.svg",
@@ -32,10 +33,8 @@
       "category_code": "DJB",
       "material_cn": "康歌专用",
       "material_code": "KS",
-      "spec_number": "1214-01",
-      "row_no": 293,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1214",
+      "row_no": 293
     }
   ]
 }

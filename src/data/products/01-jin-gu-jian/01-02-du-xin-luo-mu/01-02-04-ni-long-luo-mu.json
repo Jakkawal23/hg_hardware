@@ -9,8 +9,9 @@
       "id": "01-02-04-004",
       "slug": "01-02-04-004",
       "code": "01.02.04.004",
-      "sku": "LM-NL-08-05",
+      "sku": "LM-NL-08",
       "name_th": "น็อตตัวเมีย ไนลอนกันคลาย 8",
+      "name_th_short": "น็อตไนลอนกันคลาย",
       "name_cn": "尼龙螺母M8",
       "price": 0.3,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "LM",
       "material_cn": "尼龙",
       "material_code": "NL",
-      "spec_number": "08-05",
-      "row_no": 100,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "08",
+      "row_no": 100
     },
     {
       "id": "01-02-04-005",
       "slug": "01-02-04-005",
       "code": "01.02.04.005",
-      "sku": "LM-NL-10-08",
+      "sku": "LM-NL-10",
       "name_th": "น็อตตัวเมีย ไนลอนกันคลาย 10",
+      "name_th_short": "น็อตไนลอนกันคลาย",
       "name_cn": "尼龙螺母M10",
       "price": 0.46,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "LM",
       "material_cn": "尼龙",
       "material_code": "NL",
-      "spec_number": "10-08",
-      "row_no": 101,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10",
+      "row_no": 101
     },
     {
       "id": "01-02-04-006",
       "slug": "01-02-04-006",
       "code": "01.02.04.006",
-      "sku": "LM-NL-12-07",
+      "sku": "LM-NL-12",
       "name_th": "น็อตตัวเมีย ไนลอนกันคลาย 12",
+      "name_th_short": "น็อตไนลอนกันคลาย",
       "name_cn": "尼龙螺母M12",
       "price": 0.84,
       "image": "/placeholder.svg",
@@ -96,10 +95,8 @@
       "category_code": "LM",
       "material_cn": "尼龙",
       "material_code": "NL",
-      "spec_number": "12-07",
-      "row_no": 102,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "12",
+      "row_no": 102
     }
   ]
 }

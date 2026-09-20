@@ -9,8 +9,9 @@
       "id": "16-04-20-0002",
       "slug": "16-04-20-0002",
       "code": "16.04.20.0002",
-      "sku": "MFGJ-9JT-9-01",
+      "sku": "MFGJ-9JT-9",
       "name_th": "อุปกรณ์จัดแต่งและขูดร่องยาแนว ชุด 9 ชิ้น",
+      "name_th_short": "ชุดแต่งร่องยาแนว",
       "name_cn": "美缝工具 9件套",
       "price": 79.2,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "MFGJ",
       "material_cn": "9件套",
       "material_code": "9JT",
-      "spec_number": "9-01",
-      "row_no": 86,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "9",
+      "row_no": 86
     },
     {
       "id": "16-04-20-0003",
       "slug": "16-04-20-0003",
       "code": "16.04.20.0003",
-      "sku": "MFGJ-5JT-5-01",
+      "sku": "MFGJ-5JT-5",
       "name_th": "อุปกรณ์จัดแต่งและขูดร่องยาแนว ชุด 5 ชิ้น",
+      "name_th_short": "ชุดแต่งร่องยาแนว",
       "name_cn": "美缝工具 5件套",
       "price": 30,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "MFGJ",
       "material_cn": "5件套",
       "material_code": "5JT",
-      "spec_number": "5-01",
-      "row_no": 87,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "5",
+      "row_no": 87
     }
   ]
 }

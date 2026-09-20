@@ -11,6 +11,7 @@
       "code": "11.07.07.0001",
       "sku": "JHB-CHS-00000-01",
       "name_th": "ปากกาเคมี (Marker) แบบหัวใหญ่ สีดำ",
+      "name_th_short": "ปากกาเคมี",
       "name_cn": "记号笔《粗》黑色",
       "price": 3,
       "image": "/placeholder.svg",
@@ -33,16 +34,15 @@
       "material_cn": "粗黑色",
       "material_code": "CHS",
       "spec_number": "00000-01",
-      "row_no": 548,
-      "col_o": null,
-      "col_r": null
+      "row_no": 548
     },
     {
       "id": "11-07-07-0002",
       "slug": "11-07-07-0002",
       "code": "11.07.07.0002",
-      "sku": "JHB-C-00000-01",
+      "sku": "JHB-C-00000",
       "name_th": "ปากกาเคมี (Marker) แบบหัวใหญ่ (ยี่ห้อ Lvqinren/Baolike)",
+      "name_th_short": "ปากกาเคมี",
       "name_cn": "记号笔《粗》（绿沁人/宝利克）不退换",
       "price": 8.4,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "JHB",
       "material_cn": "粗",
       "material_code": "C",
-      "spec_number": "00000-01",
-      "row_no": 549,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000",
+      "row_no": 549
     },
     {
       "id": "11-07-07-0003",
       "slug": "11-07-07-0003",
       "code": "11.07.07.0003",
-      "sku": "JHB-WB528-00000-01",
+      "sku": "JHB-WB528-00000",
       "name_th": "ปากกาเคมี/ปากกาไวท์บอร์ด แบบหัวใหญ่ รหัส WB528",
+      "name_th_short": "ปากกาเคมี",
       "name_cn": "记号笔/白板笔（粗）WB528 不退换",
       "price": null,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "JHB",
       "material_cn": "WB528",
       "material_code": "WB528",
-      "spec_number": "00000-01",
-      "row_no": 550,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000",
+      "row_no": 550
     },
     {
       "id": "11-07-07-0004",
       "slug": "11-07-07-0004",
       "code": "11.07.07.0004",
-      "sku": "JHB-XHS-00000-01",
+      "sku": "JHB-XHS-00000",
       "name_th": "ปากกาเคมี (Marker) แบบหัวเล็ก สีดำ",
+      "name_th_short": "ปากกาเคมี",
       "name_cn": "记号笔《细》黑色",
       "price": 3.6,
       "image": "/placeholder.svg",
@@ -128,10 +126,8 @@
       "category_code": "JHB",
       "material_cn": "细黑色",
       "material_code": "XHS",
-      "spec_number": "00000-01",
-      "row_no": 551,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000",
+      "row_no": 551
     },
     {
       "id": "11-07-07-0005",
@@ -139,6 +135,7 @@
       "code": "11.07.07.0005",
       "sku": "JHB-CHS-00000-02",
       "name_th": "ปากกาเคมี (Marker) แบบหัวใหญ่ สีแดง",
+      "name_th_short": "ปากกาเคมี",
       "name_cn": "记号笔《粗》红色",
       "price": 3.6,
       "image": "/placeholder.svg",
@@ -161,9 +158,7 @@
       "material_cn": "粗红色",
       "material_code": "CHS",
       "spec_number": "00000-02",
-      "row_no": 552,
-      "col_o": null,
-      "col_r": null
+      "row_no": 552
     }
   ]
 }

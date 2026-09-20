@@ -9,8 +9,9 @@
       "id": "17-07-03-001",
       "slug": "17-07-03-001",
       "code": "17.07.03.001",
-      "sku": "JBQ-SZ-0-81",
+      "sku": "JBQ-SZ-0",
       "name_th": "ก้านผสมสว่านเจาะคอนกรีต",
+      "name_th_short": "ก้านผสมสว่านเจาะคอนกรีต",
       "name_cn": "水钻搅拌器",
       "price": 78,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "JBQ",
       "material_cn": "水钻",
       "material_code": "SZ",
-      "spec_number": "0-81",
-      "row_no": 535,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "0",
+      "row_no": 535
     },
     {
       "id": "17-07-03-003",
       "slug": "17-07-03-003",
       "code": "17.07.03.003",
-      "sku": "JBQ-LWG-500-12-82",
+      "sku": "JBQ-LWG-500-12",
       "name_th": "ก้านผสมเหล็กข้ออ้อย 500x12มม.",
+      "name_th_short": "ก้านผสมเหล็กข้ออ้อย",
       "name_cn": "螺纹钢水钻搅拌器 双山款 500*12mm",
       "price": 108,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "JBQ",
       "material_cn": "螺纹钢",
       "material_code": "LWG",
-      "spec_number": "500-12-82",
-      "row_no": 536,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "500-12",
+      "row_no": 536
     }
   ]
 }

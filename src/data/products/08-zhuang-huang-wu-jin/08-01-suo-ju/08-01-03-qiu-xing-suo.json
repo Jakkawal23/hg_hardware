@@ -9,8 +9,9 @@
       "id": "08-01-03-001",
       "slug": "08-01-03-001",
       "code": "08.01.03.001",
-      "sku": "QXS-GSF-70-01",
+      "sku": "QXS-GSF-70",
       "name_th": "ลูกบิดประตู-Oumilan รุ่น 5831 เหล็ก Double F ขนาดความยาว 70 มม.",
+      "name_th_short": "ลูกบิดประตูทรงกลม",
       "name_cn": "球形锁-欧迷篮5831钢双F 70长",
       "price": 90,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "QXS",
       "material_cn": "钢双F",
       "material_code": "GSF",
-      "spec_number": "70-01",
-      "row_no": 12,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "70",
+      "row_no": 12
     },
     {
       "id": "08-01-03-002",
       "slug": "08-01-03-002",
       "code": "08.01.03.002",
-      "sku": "QXS-GSF-60-01",
+      "sku": "QXS-GSF-60",
       "name_th": "ลูกบิดประตู-Oumilan รุ่น 5831 เหล็ก Double F ขนาดความยาว 60 มม.",
+      "name_th_short": "ลูกบิดประตูทรงกลม",
       "name_cn": "球形锁-欧迷篮5831钢双F 60长",
       "price": 90,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "QXS",
       "material_cn": "钢双F",
       "material_code": "GSF",
-      "spec_number": "60-01",
-      "row_no": 13,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "60",
+      "row_no": 13
     },
     {
       "id": "08-01-03-004",
@@ -75,6 +73,7 @@
       "code": "08.01.03.004",
       "sku": "SSS-SZXD-607-01",
       "name_th": "ลูกบิดสามจังหวะ/ลูกบิดประตู-Oumilan ไส้สังกะสีซาติน รุ่น 607SS (ระยะ 3-5 ซม.)",
+      "name_th_short": "ลูกบิดประตูทรงกลม",
       "name_cn": "中档三杆锁/球形锁-欧迷篮砂光锌胆 607SS（3-5）",
       "price": 124.8,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "砂光锌胆",
       "material_code": "SZXD",
       "spec_number": "607-01",
-      "row_no": 14,
-      "col_o": null,
-      "col_r": null
+      "row_no": 14
     },
     {
       "id": "08-01-03-005",
@@ -107,6 +104,7 @@
       "code": "08.01.03.005",
       "sku": "SSS-SZXD-607-02",
       "name_th": "ลูกบิดสามจังหวะ/ลูกบิดประตู-Oumilan ไส้สังกะสีซาติน รุ่น 607 (ระยะ 5-7 ซม.)",
+      "name_th_short": "ลูกบิดประตูทรงกลม",
       "name_cn": "中档三杆锁/球形锁-欧迷篮砂光锌胆 607（5-7）",
       "price": 124.8,
       "image": "/placeholder.svg",
@@ -129,9 +127,7 @@
       "material_cn": "砂光锌胆",
       "material_code": "SZXD",
       "spec_number": "607-02",
-      "row_no": 15,
-      "col_o": null,
-      "col_r": null
+      "row_no": 15
     },
     {
       "id": "08-01-03-008",
@@ -139,6 +135,7 @@
       "code": "08.01.03.008",
       "sku": "SSS-LZ-650-01",
       "name_th": "ลูกบิดสามจังหวะ/ลูกบิดก้านโยก-Oumilan อลูมิเนียม รุ่น 650 (ระยะ 30-50 มม.)",
+      "name_th_short": "ลูกบิดก้านโยกประตู",
       "name_cn": "精品三杆锁/执手锁-欧迷篮650铝制(30-50长）",
       "price": 180,
       "image": "/placeholder.svg",
@@ -161,9 +158,7 @@
       "material_cn": "铝制",
       "material_code": "LZ",
       "spec_number": "650-01",
-      "row_no": 16,
-      "col_o": null,
-      "col_r": null
+      "row_no": 16
     },
     {
       "id": "08-01-03-009",
@@ -171,6 +166,7 @@
       "code": "08.01.03.009",
       "sku": "SSS-LZ-650-02",
       "name_th": "ลูกบิดสามจังหวะ/ลูกบิดก้านโยก-Oumilan อลูมิเนียม รุ่น 650 (ระยะ 50-70 มม.)",
+      "name_th_short": "ลูกบิดก้านโยกประตู",
       "name_cn": "精品三杆锁/执手锁-欧迷篮650铝制(50-70长）",
       "price": 180,
       "image": "/placeholder.svg",
@@ -193,9 +189,7 @@
       "material_cn": "铝制",
       "material_code": "LZ",
       "spec_number": "650-02",
-      "row_no": 17,
-      "col_o": null,
-      "col_r": null
+      "row_no": 17
     }
   ]
 }

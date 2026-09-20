@@ -9,8 +9,9 @@
       "id": "12-02-29-008",
       "slug": "12-02-29-008",
       "code": "12.02.29.008",
-      "sku": "NLJ-TX-10-01",
+      "sku": "NLJ-TX-10",
       "name_th": "ประแจหกเหลี่ยมตัว T ขนาด 10 มม. รุ่น YT-420010",
+      "name_th_short": "ประแจหกเหลี่ยมตัว T",
       "name_cn": "10T形内六角(20支/盒)YT-420010",
       "price": 108,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "NLJ",
       "material_cn": "T形",
       "material_code": "TX",
-      "spec_number": "10-01",
-      "row_no": 39,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10",
+      "row_no": 39
     },
     {
       "id": "12-02-29-009",
       "slug": "12-02-29-009",
       "code": "12.02.29.009",
-      "sku": "NLJ-TX-8-01",
+      "sku": "NLJ-TX-8",
       "name_th": "ประแจหกเหลี่ยมตัว T ขนาด 8 มม. รุ่น YT-420008",
+      "name_th_short": "ประแจหกเหลี่ยมตัว T",
       "name_cn": "8T形内六角（20支/盒）YT-420008",
       "price": 84,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "NLJ",
       "material_cn": "T形",
       "material_code": "TX",
-      "spec_number": "8-01",
-      "row_no": 40,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "8",
+      "row_no": 40
     },
     {
       "id": "12-02-29-010",
       "slug": "12-02-29-010",
       "code": "12.02.29.010",
-      "sku": "NLJ-TX-6-01",
+      "sku": "NLJ-TX-6",
       "name_th": "ประแจหกเหลี่ยมตัว T ขนาด 6 มม. รุ่น YT-420006",
+      "name_th_short": "ประแจหกเหลี่ยมตัว T",
       "name_cn": "6T形内六角（50支/盒）YT-420006",
       "price": 48,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "NLJ",
       "material_cn": "T形",
       "material_code": "TX",
-      "spec_number": "6-01",
-      "row_no": 41,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "6",
+      "row_no": 41
     },
     {
       "id": "12-02-29-011",
       "slug": "12-02-29-011",
       "code": "12.02.29.011",
-      "sku": "NLJ-TX-5-01",
+      "sku": "NLJ-TX-5",
       "name_th": "ประแจหกเหลี่ยมตัว T ขนาด 5 มม. รุ่น YT-420005",
+      "name_th_short": "ประแจหกเหลี่ยมตัว T",
       "name_cn": "5T形内六角（50支/盒）YT-420005",
       "price": 39.6,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "NLJ",
       "material_cn": "T形",
       "material_code": "TX",
-      "spec_number": "5-01",
-      "row_no": 42,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "5",
+      "row_no": 42
     },
     {
       "id": "12-02-29-012",
       "slug": "12-02-29-012",
       "code": "12.02.29.012",
-      "sku": "NLJ-TX-4-01",
+      "sku": "NLJ-TX-4",
       "name_th": "ประแจหกเหลี่ยมตัว T ขนาด 4 มม. รุ่น YT-420004",
+      "name_th_short": "ประแจหกเหลี่ยมตัว T",
       "name_cn": "4T形内六角（100支/盒）YT-420004",
       "price": 33.6,
       "image": "/placeholder.svg",
@@ -160,17 +157,16 @@
       "category_code": "NLJ",
       "material_cn": "T形",
       "material_code": "TX",
-      "spec_number": "4-01",
-      "row_no": 43,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "4",
+      "row_no": 43
     },
     {
       "id": "12-02-29-013",
       "slug": "12-02-29-013",
       "code": "12.02.29.013",
-      "sku": "NLJ-TX-3-01",
+      "sku": "NLJ-TX-3",
       "name_th": "ประแจหกเหลี่ยมตัว T ขนาด 3 มม. รุ่น YT-420003",
+      "name_th_short": "ประแจหกเหลี่ยมตัว T",
       "name_cn": "3T形内六角（100支/盒）YT-420003",
       "price": 30,
       "image": "/placeholder.svg",
@@ -192,17 +188,16 @@
       "category_code": "NLJ",
       "material_cn": "T形",
       "material_code": "TX",
-      "spec_number": "3-01",
-      "row_no": 44,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "3",
+      "row_no": 44
     },
     {
       "id": "12-02-29-014",
       "slug": "12-02-29-014",
       "code": "12.02.29.014",
-      "sku": "NLJ-TX-2.5-01",
+      "sku": "NLJ-TX-2.5",
       "name_th": "ประแจหกเหลี่ยมตัว T ขนาด 2.5 มม. รุ่น YT-420002",
+      "name_th_short": "ประแจหกเหลี่ยมตัว T",
       "name_cn": "2.5T形内六角（100支/盒）YT-420002",
       "price": 27.6,
       "image": "/placeholder.svg",
@@ -224,10 +219,8 @@
       "category_code": "NLJ",
       "material_cn": "T形",
       "material_code": "TX",
-      "spec_number": "2.5-01",
-      "row_no": 45,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "2.5",
+      "row_no": 45
     }
   ]
 }

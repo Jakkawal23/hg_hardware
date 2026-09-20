@@ -9,8 +9,9 @@
       "id": "05-01-07-002",
       "slug": "05-01-07-002",
       "code": "05.01.07.002",
-      "sku": "TZJ-GT-16-01",
+      "sku": "TZJ-GT-16",
       "name_th": "ข้อต่อสายไฟทองแดง GT 16 ตร.มม.",
+      "name_th_short": "ข้อต่อสายไฟทองแดง",
       "name_cn": "GT-铜直接",
       "price": 15.6,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "TZJ",
       "material_cn": "GT",
       "material_code": "GT",
-      "spec_number": "16-01",
-      "row_no": 65,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "16",
+      "row_no": 65
     },
     {
       "id": "05-01-07-003",
       "slug": "05-01-07-003",
       "code": "05.01.07.003",
-      "sku": "TZJ-GT-10-01",
+      "sku": "TZJ-GT-10",
       "name_th": "ข้อต่อสายไฟทองแดง GT 10 ตร.มม.",
+      "name_th_short": "ข้อต่อสายไฟทองแดง",
       "name_cn": "GT-铜直接",
       "price": 13.2,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "TZJ",
       "material_cn": "GT",
       "material_code": "GT",
-      "spec_number": "10-01",
-      "row_no": 66,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10",
+      "row_no": 66
     },
     {
       "id": "05-01-07-004",
       "slug": "05-01-07-004",
       "code": "05.01.07.004",
-      "sku": "TZJ-GT-25-01",
+      "sku": "TZJ-GT-25",
       "name_th": "ข้อต่อสายไฟทองแดง GT 25 ตร.มม.",
+      "name_th_short": "ข้อต่อสายไฟทองแดง",
       "name_cn": "GT-铜直接",
       "price": 19.2,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "TZJ",
       "material_cn": "GT",
       "material_code": "GT",
-      "spec_number": "25-01",
-      "row_no": 67,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "25",
+      "row_no": 67
     },
     {
       "id": "05-01-07-006",
       "slug": "05-01-07-006",
       "code": "05.01.07.006",
-      "sku": "TZJ-GT-50-01",
+      "sku": "TZJ-GT-50",
       "name_th": "ข้อต่อสายไฟทองแดง GT 50 ตร.มม.",
+      "name_th_short": "ข้อต่อสายไฟทองแดง",
       "name_cn": "GT-铜直接",
       "price": 36,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "TZJ",
       "material_cn": "GT",
       "material_code": "GT",
-      "spec_number": "50-01",
-      "row_no": 68,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "50",
+      "row_no": 68
     },
     {
       "id": "05-01-07-007",
       "slug": "05-01-07-007",
       "code": "05.01.07.007",
-      "sku": "TZJ-GT-70-01",
+      "sku": "TZJ-GT-70",
       "name_th": "ข้อต่อสายไฟทองแดง GT 70 ตร.มม.",
+      "name_th_short": "ข้อต่อสายไฟทองแดง",
       "name_cn": "GT-铜直接",
       "price": 54,
       "image": "/placeholder.svg",
@@ -160,17 +157,16 @@
       "category_code": "TZJ",
       "material_cn": "GT",
       "material_code": "GT",
-      "spec_number": "70-01",
-      "row_no": 69,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "70",
+      "row_no": 69
     },
     {
       "id": "05-01-07-009",
       "slug": "05-01-07-009",
       "code": "05.01.07.009",
-      "sku": "TZJ-GT-120-01",
+      "sku": "TZJ-GT-120",
       "name_th": "ข้อต่อสายไฟทองแดง GT 120 ตร.มม.",
+      "name_th_short": "ข้อต่อสายไฟทองแดง",
       "name_cn": "GT-铜直接",
       "price": 90,
       "image": "/placeholder.svg",
@@ -192,10 +188,8 @@
       "category_code": "TZJ",
       "material_cn": "GT",
       "material_code": "GT",
-      "spec_number": "120-01",
-      "row_no": 70,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "120",
+      "row_no": 70
     }
   ]
 }

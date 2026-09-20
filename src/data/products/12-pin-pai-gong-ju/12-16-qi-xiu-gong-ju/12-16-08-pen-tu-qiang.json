@@ -11,6 +11,7 @@
       "code": "12.16.08.006",
       "sku": "PQ-K3-01",
       "name_th": "ปืนพ่นสี รุ่น K3",
+      "name_th_short": "ปืนพ่นสี K3",
       "name_cn": "K3喷枪 YT-901007",
       "price": 276,
       "image": "/placeholder.svg",
@@ -33,16 +34,15 @@
       "material_cn": "K3",
       "material_code": "K3",
       "spec_number": "01",
-      "row_no": 159,
-      "col_o": null,
-      "col_r": null
+      "row_no": 159
     },
     {
       "id": "12-16-08-007",
       "slug": "12-16-08-007",
       "code": "12.16.08.007",
-      "sku": "PQ-XH-71-01",
+      "sku": "PQ-XH-71",
       "name_th": "ปืนพ่นสี W-71 (กระป๋องล่าง)",
+      "name_th_short": "ปืนพ่นสี (กระป๋องล่าง)",
       "name_cn": "精品喷枪W-71下壶 YT-901006",
       "price": 456,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "PQ",
       "material_cn": "下壶",
       "material_code": "XH",
-      "spec_number": "71-01",
-      "row_no": 160,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "71",
+      "row_no": 160
     },
     {
       "id": "12-16-08-009",
       "slug": "12-16-08-009",
       "code": "12.16.08.009",
-      "sku": "PQ-SH-77-01",
+      "sku": "PQ-SH-77",
       "name_th": "ปืนพ่นสี W-77 (กระป๋องบน)",
+      "name_th_short": "ปืนพ่นสี (กระป๋องบน)",
       "name_cn": "精品喷枪W-77上壶 YT-901001",
       "price": 564,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "PQ",
       "material_cn": "上壶",
       "material_code": "SH",
-      "spec_number": "77-01",
-      "row_no": 161,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "77",
+      "row_no": 161
     },
     {
       "id": "12-16-08-010",
       "slug": "12-16-08-010",
       "code": "12.16.08.010",
-      "sku": "PQ-XH-75-01",
+      "sku": "PQ-XH-75",
       "name_th": "ปืนพ่นสี F-75 (กระป๋องล่าง)",
+      "name_th_short": "ปืนพ่นสี (กระป๋องล่าง)",
       "name_cn": "精品喷枪F-75下壶 YT-901009",
       "price": 318,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "PQ",
       "material_cn": "下壶",
       "material_code": "XH",
-      "spec_number": "75-01",
-      "row_no": 162,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "75",
+      "row_no": 162
     },
     {
       "id": "12-16-08-011",
       "slug": "12-16-08-011",
       "code": "12.16.08.011",
-      "sku": "PQ-SH-75-01",
+      "sku": "PQ-SH-75",
       "name_th": "ปืนพ่นสี F-75 (กระป๋องบน)",
+      "name_th_short": "ปืนพ่นสี (กระป๋องบน)",
       "name_cn": "精品喷枪F-75上壶 YT-901008",
       "price": 318,
       "image": "/placeholder.svg",
@@ -160,10 +157,8 @@
       "category_code": "PQ",
       "material_cn": "上壶",
       "material_code": "SH",
-      "spec_number": "75-01",
-      "row_no": 163,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "75",
+      "row_no": 163
     },
     {
       "id": "12-16-08-012",
@@ -171,6 +166,7 @@
       "code": "12.16.08.012",
       "sku": "PQ-PQ2-01",
       "name_th": "ปืนพ่นสี รุ่น PQ-2",
+      "name_th_short": "ปืนพ่นสี PQ-2",
       "name_cn": "精品喷枪PQ-2 YT-901004",
       "price": 510,
       "image": "/placeholder.svg",
@@ -193,9 +189,7 @@
       "material_cn": "PQ-2",
       "material_code": "PQ2",
       "spec_number": "01",
-      "row_no": 164,
-      "col_o": null,
-      "col_r": null
+      "row_no": 164
     },
     {
       "id": "12-16-08-013",
@@ -203,6 +197,7 @@
       "code": "12.16.08.013",
       "sku": "PQ-PQ1-01",
       "name_th": "ปืนพ่นสี รุ่น PQ-1",
+      "name_th_short": "ปืนพ่นสี PQ-1",
       "name_cn": "精品喷枪PQ-1(30)YT-901003",
       "price": 144,
       "image": "/placeholder.svg",
@@ -225,9 +220,7 @@
       "material_cn": "PQ-1",
       "material_code": "PQ1",
       "spec_number": "01",
-      "row_no": 165,
-      "col_o": null,
-      "col_r": null
+      "row_no": 165
     },
     {
       "id": "12-16-08-014",
@@ -235,6 +228,7 @@
       "code": "12.16.08.014",
       "sku": "PQ-PQ2-02",
       "name_th": "ปืนพ่นสี Shike รุ่น PQ-2",
+      "name_th_short": "ปืนพ่นสี Shike PQ-2",
       "name_cn": "世克 喷枪 PQ-2",
       "price": 504,
       "image": "/placeholder.svg",
@@ -257,9 +251,7 @@
       "material_cn": "PQ-2",
       "material_code": "PQ2",
       "spec_number": "02",
-      "row_no": 166,
-      "col_o": null,
-      "col_r": null
+      "row_no": 166
     },
     {
       "id": "12-16-08-015",
@@ -267,6 +259,7 @@
       "code": "12.16.08.015",
       "sku": "PQ-F75S-01",
       "name_th": "ปืนพ่นสี Shike F75-S (กระป๋องล่าง)",
+      "name_th_short": "ปืนพ่นสี Shike (กระป๋องล่าง)",
       "name_cn": "世克 喷枪 F75-S(下壶)",
       "price": 384,
       "image": "/placeholder.svg",
@@ -289,9 +282,7 @@
       "material_cn": "F75-S",
       "material_code": "F75S",
       "spec_number": "01",
-      "row_no": 167,
-      "col_o": null,
-      "col_r": null
+      "row_no": 167
     },
     {
       "id": "12-16-08-016",
@@ -299,6 +290,7 @@
       "code": "12.16.08.016",
       "sku": "PQ-W71G-01",
       "name_th": "ปืนพ่นสี Shike W71-G (กระป๋องบน)",
+      "name_th_short": "ปืนพ่นสี Shike (กระป๋องบน)",
       "name_cn": "世克 喷枪 W71-G(上壶)",
       "price": 462,
       "image": "/placeholder.svg",
@@ -321,9 +313,7 @@
       "material_cn": "W71-G",
       "material_code": "W71G",
       "spec_number": "01",
-      "row_no": 168,
-      "col_o": null,
-      "col_r": null
+      "row_no": 168
     },
     {
       "id": "12-16-08-018",
@@ -331,6 +321,7 @@
       "code": "12.16.08.018",
       "sku": "PQ-PQ1-02",
       "name_th": "ปืนพ่นสี Shike รุ่น PQ-1",
+      "name_th_short": "ปืนพ่นสี Shike PQ-1",
       "name_cn": "世克 喷枪 PQ-1",
       "price": 162,
       "image": "/placeholder.svg",
@@ -353,9 +344,7 @@
       "material_cn": "PQ-1",
       "material_code": "PQ1",
       "spec_number": "02",
-      "row_no": 169,
-      "col_o": null,
-      "col_r": null
+      "row_no": 169
     }
   ]
 }

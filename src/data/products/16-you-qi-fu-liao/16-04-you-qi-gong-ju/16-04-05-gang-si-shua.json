@@ -9,8 +9,9 @@
       "id": "16-04-05-001",
       "slug": "16-04-05-001",
       "code": "16.04.05.001",
-      "sku": "GSS-PT-100-01",
+      "sku": "GSS-PT-100",
       "name_th": "แปรงลวดเหล็ก (100ด้าม)",
+      "name_th_short": "แปรงลวดเหล็ก",
       "name_cn": "钢丝刷（100把）",
       "price": 12,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "GSS",
       "material_cn": "普通",
       "material_code": "PT",
-      "spec_number": "100-01",
-      "row_no": 57,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "100",
+      "row_no": 57
     },
     {
       "id": "16-04-05-002",
       "slug": "16-04-05-002",
       "code": "16.04.05.002",
-      "sku": "TSS-PT-12-01",
+      "sku": "TSS-PT-12",
       "name_th": "แปรงลวดทองเหลือง (12ด้าม/กล่อง)",
+      "name_th_short": "แปรงลวดทองเหลือง",
       "name_cn": "铜丝刷（12把/盒）",
       "price": 15.6,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "TSS",
       "material_cn": "普通",
       "material_code": "PT",
-      "spec_number": "12-01",
-      "row_no": 58,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "12",
+      "row_no": 58
     }
   ]
 }

@@ -11,6 +11,7 @@
       "code": "19.06.06.001",
       "sku": "FLQ-MTMF-350-00350",
       "name_th": "ยางรองหม้อส้วม/พาราฟินแว็กซ์ Jinliwang 350g",
+      "name_th_short": "ยางรองหม้อส้วม",
       "name_cn": "金力王马桶密封法兰圈350克-JLW.00350",
       "price": 39.6,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "马桶密封",
       "material_code": "MTMF",
       "spec_number": "350-00350",
-      "row_no": 36,
-      "col_o": null,
-      "col_r": null
+      "row_no": 36
     },
     {
       "id": "19-06-06-002",
@@ -43,6 +42,7 @@
       "code": "19.06.06.002",
       "sku": "FLQ-MTMF-180-00180",
       "name_th": "ยางรองหม้อส้วม/พาราฟินแว็กซ์ Jinliwang 180g",
+      "name_th_short": "ยางรองหม้อส้วม",
       "name_cn": "金力王马桶密封法兰圈180克-JLW.00180",
       "price": 19.2,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "马桶密封",
       "material_code": "MTMF",
       "spec_number": "180-00180",
-      "row_no": 37,
-      "col_o": null,
-      "col_r": null
+      "row_no": 37
     },
     {
       "id": "19-06-06-003",
@@ -75,6 +73,7 @@
       "code": "19.06.06.003",
       "sku": "FLQ-MTMF-240-00240",
       "name_th": "ยางรองหม้อส้วม/พาราฟินแว็กซ์ Jinliwang 240g",
+      "name_th_short": "ยางรองหม้อส้วม",
       "name_cn": "金力王马桶密封法兰圈240克-JLW.00240",
       "price": 30,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "马桶密封",
       "material_code": "MTMF",
       "spec_number": "240-00240",
-      "row_no": 38,
-      "col_o": null,
-      "col_r": null
+      "row_no": 38
     }
   ]
 }

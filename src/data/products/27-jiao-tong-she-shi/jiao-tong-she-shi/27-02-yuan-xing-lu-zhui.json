@@ -11,6 +11,7 @@
       "code": "27.02.0002",
       "sku": "LZ-YX-TH-60CM",
       "name_th": "กรวยจราจรหัวห่วงกลม สูง 60 ซม.",
+      "name_th_short": "กรวยจราจรหัวห่วง",
       "name_cn": "60圆形提环锥/警示锥",
       "price": 72,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "圆形提环",
       "material_code": "YX-TH",
       "spec_number": "60CM",
-      "row_no": 2,
-      "col_o": null,
-      "col_r": null
+      "row_no": 2
     }
   ]
 }

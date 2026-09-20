@@ -11,6 +11,7 @@
       "code": "21.03.04.001",
       "sku": "LSQCQ-5JT-05",
       "name_th": "ชุดถอนเกลียวซ้าย/ชุดเครื่องมือถอดน็อตขาด เซ็ต 5 ชิ้น",
+      "name_th_short": "ชุดถอนเกลียวซ้าย",
       "name_cn": "螺丝取出器/取丝器 5件套",
       "price": 42,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "5件套",
       "material_code": "5JT",
       "spec_number": "05",
-      "row_no": 153,
-      "col_o": null,
-      "col_r": null
+      "row_no": 153
     }
   ]
 }

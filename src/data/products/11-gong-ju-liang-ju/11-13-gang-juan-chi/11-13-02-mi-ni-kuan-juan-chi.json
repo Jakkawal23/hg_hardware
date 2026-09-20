@@ -9,8 +9,9 @@
       "id": "11-13-02-002",
       "slug": "11-13-02-002",
       "code": "11.13.02.002",
-      "sku": "JC-HFMN-05019-01",
+      "sku": "JC-HFMN-05019",
       "name_th": "ตลับเมตร ยี่ห้อHufan รุ่นมินิ (102) ขนาด 5 เมตร x 19 มม.",
+      "name_th_short": "ตลับเมตร 5 เมตร",
       "name_cn": "沪帆卷尺迷你款（102）5米X19",
       "price": 50.4,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "JC",
       "material_cn": "沪帆迷你",
       "material_code": "HFMN",
-      "spec_number": "05019-01",
-      "row_no": 746,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "05019",
+      "row_no": 746
     },
     {
       "id": "11-13-02-003",
       "slug": "11-13-02-003",
       "code": "11.13.02.003",
-      "sku": "JC-HFMN-05025-01",
+      "sku": "JC-HFMN-05025",
       "name_th": "ตลับเมตร ยี่ห้อHufan รุ่นมินิ (102) ขนาด 5 เมตร x 25 มม.",
+      "name_th_short": "ตลับเมตร 5 เมตร",
       "name_cn": "沪帆卷尺迷你款（102）5米X25",
       "price": 60,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "JC",
       "material_cn": "沪帆迷你",
       "material_code": "HFMN",
-      "spec_number": "05025-01",
-      "row_no": 747,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "05025",
+      "row_no": 747
     }
   ]
 }

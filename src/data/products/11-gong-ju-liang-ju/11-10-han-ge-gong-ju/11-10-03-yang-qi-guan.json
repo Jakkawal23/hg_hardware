@@ -9,8 +9,9 @@
       "id": "11-10-03-008",
       "slug": "11-10-03-008",
       "code": "11.10.03.008",
-      "sku": "YQG-HXGP-10028-01",
+      "sku": "YQG-HXGP-10-28",
       "name_th": "สายออกซิเจน ยี่ห้อHongxu แบบผิวเรียบ ขนาด 10 มม. ยาว 28 เมตร",
+      "name_th_short": "สายออกซิเจน",
       "name_cn": "宏旭光皮氧气管 10*28米",
       "price": 756,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "YQG",
       "material_cn": "宏旭光皮",
       "material_code": "HXGP",
-      "spec_number": "10028-01",
-      "row_no": 670,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10-28",
+      "row_no": 670
     },
     {
       "id": "11-10-03-010",
       "slug": "11-10-03-010",
       "code": "11.10.03.010",
-      "sku": "YQG-08-00000-01",
+      "sku": "YQG-08-00000",
       "name_th": "สายอะเซทิลีน ขนาด 8#",
+      "name_th_short": "สายอะเซทิลีน",
       "name_cn": "8#乙炔管 YT-517008",
       "price": 798,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "YQG",
       "material_cn": "8号",
       "material_code": "08",
-      "spec_number": "00000-01",
-      "row_no": 671,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000",
+      "row_no": 671
     },
     {
       "id": "11-10-03-011",
       "slug": "11-10-03-011",
       "code": "11.10.03.011",
-      "sku": "YQG-10-00000-01",
+      "sku": "YQG-10-00000",
       "name_th": "สายอะเซทิลีน ขนาด 10#",
+      "name_th_short": "สายอะเซทิลีน",
       "name_cn": "10#乙炔管YT-517010",
       "price": 984,
       "image": "/placeholder.svg",
@@ -95,18 +94,17 @@
       "category_cn": "乙炔管",
       "category_code": "YQG",
       "material_cn": "10号",
-      "material_code": "10.0",
-      "spec_number": "00000-01",
-      "row_no": 672,
-      "col_o": null,
-      "col_r": null
+      "material_code": "10",
+      "spec_number": "00000",
+      "row_no": 672
     },
     {
       "id": "11-10-03-015",
       "slug": "11-10-03-015",
       "code": "11.10.03.015",
-      "sku": "YQG-QCJS-28000-01",
+      "sku": "YQG-QCJS-28000",
       "name_th": "สายออกซิเจน ยี่ห้อQianchi ขนาด 28 มม. (สีแดง) แรงดัน 2MPa ขนาด 8#",
+      "name_th_short": "สายออกซิเจน",
       "name_cn": "芊驰氧气管28（红）2MPa #8",
       "price": 936,
       "image": "/placeholder.svg",
@@ -128,10 +126,8 @@
       "category_code": "YQG",
       "material_cn": "芊驰红色",
       "material_code": "QCJS",
-      "spec_number": "28000-01",
-      "row_no": 673,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "28000",
+      "row_no": 673
     }
   ]
 }

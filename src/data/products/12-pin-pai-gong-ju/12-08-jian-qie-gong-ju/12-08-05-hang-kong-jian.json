@@ -9,8 +9,9 @@
       "id": "12-08-05-012",
       "slug": "12-08-05-012",
       "code": "12.08.05.012",
-      "sku": "HGJ-YW-10-01",
+      "sku": "HGJ-YW-10",
       "name_th": "กรรไกรตัดเหล็กแผ่น ปากขวา ขนาด 10 นิ้ว",
+      "name_th_short": "กรรไกรตัดเหล็กแผ่นปากขวา",
       "name_cn": "10”右弯航空剪（6把/盒）YT-207004 / 10",
       "price": 151.2,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "HGJ",
       "material_cn": "右弯",
       "material_code": "YW",
-      "spec_number": "10-01",
-      "row_no": 101,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10",
+      "row_no": 101
     },
     {
       "id": "12-08-05-013",
       "slug": "12-08-05-013",
       "code": "12.08.05.013",
-      "sku": "HGJ-ZW-10-01",
+      "sku": "HGJ-ZW-10",
       "name_th": "กรรไกรตัดเหล็กแผ่น ปากซ้าย ขนาด 10 นิ้ว",
+      "name_th_short": "กรรไกรตัดเหล็กแผ่นปากซ้าย",
       "name_cn": "10”左弯航空剪（6把/盒）YT-207003 / 10",
       "price": 151.2,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "HGJ",
       "material_cn": "左弯",
       "material_code": "ZW",
-      "spec_number": "10-01",
-      "row_no": 102,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10",
+      "row_no": 102
     }
   ]
 }

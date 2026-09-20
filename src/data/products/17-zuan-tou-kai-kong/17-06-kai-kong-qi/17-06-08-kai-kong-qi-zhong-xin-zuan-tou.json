@@ -9,15 +9,16 @@
       "id": "17-06-08-001",
       "slug": "17-06-08-001",
       "code": "17.06.08.001",
-      "sku": "ZXZ-HF-0-77",
+      "sku": "ZXZ-HF-0",
       "name_th": "ดอกนำศูนย์ Hufan",
+      "name_th_short": "ดอกนำศูนย์",
       "name_cn": "沪帆中心钻",
       "price": 6,
       "image": "/placeholder.svg",
       "name_th_full": "การเจาะศูนย์เรือใบเซี่ยงไฮ้",
       "name_cn_full": "沪帆中心钻",
       "product_name_raw": "沪帆中心钻",
-      "model": "5.0",
+      "model": 5,
       "unit": "支",
       "storage_location": "A28-1-5",
       "qty_sub_unit": "7000支",
@@ -32,10 +33,8 @@
       "category_code": "ZXZ",
       "material_cn": "沪帆",
       "material_code": "HF",
-      "spec_number": "0-77",
-      "row_no": 531,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "0",
+      "row_no": 531
     }
   ]
 }

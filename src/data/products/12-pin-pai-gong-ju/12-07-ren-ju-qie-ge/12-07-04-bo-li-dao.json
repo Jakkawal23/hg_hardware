@@ -9,8 +9,9 @@
       "id": "12-07-04-008",
       "slug": "12-07-04-008",
       "code": "12.07.04.008",
-      "sku": "BLD-LJH-01-01",
+      "sku": "BLD-LJH-01",
       "name_th": "มีดตัดกระจก ด้ามอลูมิเนียม",
+      "name_th_short": "มีดตัดกระจกด้ามอลูมิเนียม",
       "name_cn": "铝合金柄玻璃刀（6把/盒）YT-512003 /",
       "price": 102,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "BLD",
       "material_cn": "铝合金柄",
       "material_code": "LJH",
-      "spec_number": "01-01",
-      "row_no": 86,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "01",
+      "row_no": 86
     },
     {
       "id": "12-07-04-009",
       "slug": "12-07-04-009",
       "code": "12.07.04.009",
-      "sku": "BLD-TH-01-01",
+      "sku": "BLD-TH-01",
       "name_th": "มีดตัดกระจก ด้ามทองเหลือง",
+      "name_th_short": "มีดตัดกระจกด้ามทองเหลือง",
       "name_cn": "铜柄玻璃刀（6把/盒）YT-512001 /",
       "price": 84,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "BLD",
       "material_cn": "铜柄",
       "material_code": "TH",
-      "spec_number": "01-01",
-      "row_no": 87,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "01",
+      "row_no": 87
     },
     {
       "id": "12-07-04-010",
       "slug": "12-07-04-010",
       "code": "12.07.04.010",
-      "sku": "BLD-SLH-01-01",
+      "sku": "BLD-SLH-01",
       "name_th": "มีดตัดกระจก ด้ามพลาสติก",
+      "name_th_short": "มีดตัดกระจกด้ามพลาสติก",
       "name_cn": "塑料柄玻璃刀（6把/盒）YT-512002 /",
       "price": 48,
       "image": "/placeholder.svg",
@@ -96,10 +95,8 @@
       "category_code": "BLD",
       "material_cn": "塑料柄",
       "material_code": "SLH",
-      "spec_number": "01-01",
-      "row_no": 88,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "01",
+      "row_no": 88
     }
   ]
 }

@@ -11,6 +11,7 @@
       "code": "08.01.12.001",
       "sku": "CS-ZC-16350-01",
       "name_th": "กลอนประตูกระจก ขนาดกลาง 16B ยาว 350 มม.",
+      "name_th_short": "กลอนประตูกระจก",
       "name_cn": "玻璃插锁 中长16B 350M",
       "price": 132,
       "image": "/placeholder.svg",
@@ -33,16 +34,15 @@
       "material_cn": "中长",
       "material_code": "ZC",
       "spec_number": "16350-01",
-      "row_no": 44,
-      "col_o": null,
-      "col_r": null
+      "row_no": 44
     },
     {
       "id": "08-01-12-004",
       "slug": "08-01-12-004",
       "code": "08.01.12.004",
-      "sku": "CS-QTX-833-01",
+      "sku": "CS-QTX-833",
       "name_th": "กลอนประตูกระจก ไส้ทองเหลืองแท้ 833 ยาว 350 มม.",
+      "name_th_short": "กลอนประตูกระจก",
       "name_cn": "玻璃插锁 全铜芯833 350M",
       "price": 186,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "CS",
       "material_cn": "全铜芯",
       "material_code": "QTX",
-      "spec_number": "833-01",
-      "row_no": 45,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "833",
+      "row_no": 45
     },
     {
       "id": "08-01-12-005",
@@ -75,6 +73,7 @@
       "code": "08.01.12.005",
       "sku": "CS-ZC-16350-02",
       "name_th": "กลอนประตูกระจก ขนาดกลาง 16A ยาว 350 มม.",
+      "name_th_short": "กลอนประตูกระจก",
       "name_cn": "玻璃插锁 中长16A 350M",
       "price": 144,
       "image": "/placeholder.svg",
@@ -97,16 +96,15 @@
       "material_cn": "中长",
       "material_code": "ZC",
       "spec_number": "16350-02",
-      "row_no": 46,
-      "col_o": null,
-      "col_r": null
+      "row_no": 46
     },
     {
       "id": "08-01-12-006",
       "slug": "08-01-12-006",
       "code": "08.01.12.006",
-      "sku": "CS-FDMM-420-01",
+      "sku": "CS-FDMM-420",
       "name_th": "กลอนประตูรหัสกันขโมย ยาว 420 มม.",
+      "name_th_short": "กลอนประตูรหัสกันขโมย",
       "name_cn": "防盗密码插锁（420长)",
       "price": 360,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "CS",
       "material_cn": "防盗密码",
       "material_code": "FDMM",
-      "spec_number": "420-01",
-      "row_no": 47,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "420",
+      "row_no": 47
     },
     {
       "id": "08-01-12-007",
       "slug": "08-01-12-007",
       "code": "08.01.12.007",
-      "sku": "CS-FDMM-340-01",
+      "sku": "CS-FDMM-340",
       "name_th": "กลอนประตูรหัสกันขโมย ยาว 340 มม.",
+      "name_th_short": "กลอนประตูรหัสกันขโมย",
       "name_cn": "防盗密码插锁（340长）",
       "price": 312,
       "image": "/placeholder.svg",
@@ -160,10 +157,8 @@
       "category_code": "CS",
       "material_cn": "防盗密码",
       "material_code": "FDMM",
-      "spec_number": "340-01",
-      "row_no": 48,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "340",
+      "row_no": 48
     }
   ]
 }

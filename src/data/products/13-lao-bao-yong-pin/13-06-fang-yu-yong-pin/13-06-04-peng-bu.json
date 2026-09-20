@@ -9,8 +9,9 @@
       "id": "13-06-04-012",
       "slug": "13-06-04-012",
       "code": "13.06.04.012",
-      "sku": "PB-JH-SL-0304-01",
+      "sku": "PB-JH-SL-0304",
       "name_th": "ผ้าใบคลุมรถ/ผ้าใบกันน้ำ สีเขียวคู่แบบหนา (1)",
+      "name_th_short": "ผ้าใบคลุมรถสีเขียว",
       "name_cn": "加厚双绿篷布",
       "price": 396,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "PB",
       "material_cn": "加厚双绿",
       "material_code": "JH-SL",
-      "spec_number": "0304-01",
-      "row_no": 161,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "0304",
+      "row_no": 161
     },
     {
       "id": "13-06-04-013",
       "slug": "13-06-04-013",
       "code": "13.06.04.013",
-      "sku": "PB-JH-SL-0406-01",
+      "sku": "PB-JH-SL-0406",
       "name_th": "ผ้าใบคลุมรถ/ผ้าใบกันน้ำ สีเขียวคู่แบบหนา (2)",
+      "name_th_short": "ผ้าใบคลุมรถสีเขียว",
       "name_cn": "加厚双绿篷布",
       "price": 456,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "PB",
       "material_cn": "加厚双绿",
       "material_code": "JH-SL",
-      "spec_number": "0406-01",
-      "row_no": 162,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "0406",
+      "row_no": 162
     },
     {
       "id": "13-06-04-014",
       "slug": "13-06-04-014",
       "code": "13.06.04.014",
-      "sku": "PB-JH-SL-0608-01",
+      "sku": "PB-JH-SL-0608",
       "name_th": "ผ้าใบคลุมรถ/ผ้าใบกันน้ำ สีเขียวคู่แบบหนา (3)",
+      "name_th_short": "ผ้าใบคลุมรถสีเขียว",
       "name_cn": "加厚双绿篷布",
       "price": 744,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "PB",
       "material_cn": "加厚双绿",
       "material_code": "JH-SL",
-      "spec_number": "0608-01",
-      "row_no": 163,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "0608",
+      "row_no": 163
     },
     {
       "id": "13-06-04-015",
       "slug": "13-06-04-015",
       "code": "13.06.04.015",
-      "sku": "PB-JH-SL-0810-01",
+      "sku": "PB-JH-SL-0810",
       "name_th": "ผ้าใบคลุมรถ/ผ้าใบกันน้ำ สีเขียวคู่แบบหนา (4)",
+      "name_th_short": "ผ้าใบคลุมรถสีเขียว",
       "name_cn": "加厚双绿篷布",
       "price": 1056,
       "image": "/placeholder.svg",
@@ -128,10 +126,8 @@
       "category_code": "PB",
       "material_cn": "加厚双绿",
       "material_code": "JH-SL",
-      "spec_number": "0810-01",
-      "row_no": 164,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "0810",
+      "row_no": 164
     }
   ]
 }

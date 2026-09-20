@@ -11,6 +11,7 @@
       "code": "22.05.04.020",
       "sku": "TD-KJB-003-250W",
       "name_th": "ไฟฉายคาดหัว Airborne รุ่น 003 250W",
+      "name_th_short": "ไฟฉายคาดหัว",
       "name_cn": "空降兵 头灯003 250W",
       "price": 384,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "空降兵系列",
       "material_code": "KJB",
       "spec_number": "003-250W",
-      "row_no": 135,
-      "col_o": null,
-      "col_r": null
+      "row_no": 135
     },
     {
       "id": "22-05-04-021",
@@ -43,6 +42,7 @@
       "code": "22.05.04.021",
       "sku": "TD-KJB-004-300W",
       "name_th": "ไฟฉายคาดหัว Airborne รุ่น 004 300W",
+      "name_th_short": "ไฟฉายคาดหัว",
       "name_cn": "空降兵 头灯004 300W",
       "price": 396,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "空降兵系列",
       "material_code": "KJB",
       "spec_number": "004-300W",
-      "row_no": 136,
-      "col_o": null,
-      "col_r": null
+      "row_no": 136
     },
     {
       "id": "22-05-04-024",
@@ -75,6 +73,7 @@
       "code": "22.05.04.024",
       "sku": "TD-BK-020-80W",
       "name_th": "ไฟฉายคาดหัวรุ่นยอดนิยม รุ่น 020 80W",
+      "name_th_short": "ไฟฉายคาดหัว",
       "name_cn": "爆款头灯 020 80W",
       "price": 84,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "爆款系列",
       "material_code": "BK",
       "spec_number": "020-80W",
-      "row_no": 137,
-      "col_o": null,
-      "col_r": null
+      "row_no": 137
     },
     {
       "id": "22-05-04-025",
@@ -107,6 +104,7 @@
       "code": "22.05.04.025",
       "sku": "TD-SET-QG-5215-200W",
       "name_th": "ไฟฉายคาดหัวแรงสูง 200W Shiertu รุ่น 5215",
+      "name_th_short": "ไฟฉายคาดหัว",
       "name_cn": "头灯（视尔途200W强光）5215",
       "price": 288,
       "image": "/placeholder.svg",
@@ -129,9 +127,7 @@
       "material_cn": "视尔途强光",
       "material_code": "SET-QG",
       "spec_number": "5215-200W",
-      "row_no": 138,
-      "col_o": null,
-      "col_r": null
+      "row_no": 138
     },
     {
       "id": "22-05-04-029",
@@ -139,6 +135,7 @@
       "code": "22.05.04.029",
       "sku": "TD-RF-BFS-6802-300W",
       "name_th": "ไฟฉายคาดหัวกันน้ำระดับหนึ่ง แบตคู่ Ranfeng รุ่น 6802 300W",
+      "name_th_short": "ไฟฉายคาดหัวกันน้ำ",
       "name_cn": "冉峰 LED半防水双锂电头灯6802 300W",
       "price": 162,
       "image": "/placeholder.svg",
@@ -161,9 +158,7 @@
       "material_cn": "冉峰半防水",
       "material_code": "RF-BFS",
       "spec_number": "6802-300W",
-      "row_no": 139,
-      "col_o": null,
-      "col_r": null
+      "row_no": 139
     },
     {
       "id": "22-05-04-031",
@@ -171,6 +166,7 @@
       "code": "22.05.04.031",
       "sku": "TD-USB-CD-01",
       "name_th": "ไฟฉายคาดหัวระบบชาร์จไฟ USB",
+      "name_th_short": "ไฟฉายคาดหัวชาร์จ USB",
       "name_cn": "头灯USB充电头灯",
       "price": 138,
       "image": "/placeholder.svg",
@@ -193,9 +189,7 @@
       "material_cn": "USB充电型",
       "material_code": "USB-CD",
       "spec_number": "01",
-      "row_no": 140,
-      "col_o": null,
-      "col_r": null
+      "row_no": 140
     }
   ]
 }

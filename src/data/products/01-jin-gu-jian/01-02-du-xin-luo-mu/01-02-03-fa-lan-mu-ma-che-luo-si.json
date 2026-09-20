@@ -9,8 +9,9 @@
       "id": "01-02-03-003",
       "slug": "01-02-03-003",
       "code": "01.02.03.003",
-      "sku": "LS-MC-0816-01",
+      "sku": "LS-MC-8-16-01",
       "name_th": "ชุดน็อตหัวกลมคอเหลี่ยม 8*16",
+      "name_th_short": "น็อตหัวกลมคอเหลี่ยม",
       "name_cn": "马车螺丝组合8*16",
       "price": 0.46,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "LS",
       "material_cn": "马车",
       "material_code": "MC",
-      "spec_number": "0816-01",
-      "row_no": 92,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "8-16-01",
+      "row_no": 92
     },
     {
       "id": "01-02-03-006",
       "slug": "01-02-03-006",
       "code": "01.02.03.006",
-      "sku": "LM-FL-06-03",
+      "sku": "LM-FL-06",
       "name_th": "น็อตหน้าจาน 6",
+      "name_th_short": "น็อตหน้าจาน",
       "name_cn": "法兰母M6",
       "price": 0.22,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "LM",
       "material_cn": "法兰",
       "material_code": "FL",
-      "spec_number": "06-03",
-      "row_no": 93,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "06",
+      "row_no": 93
     },
     {
       "id": "01-02-03-007",
       "slug": "01-02-03-007",
       "code": "01.02.03.007",
-      "sku": "LM-FL-08-04",
+      "sku": "LM-FL-08",
       "name_th": "น็อตหน้าจาน 8",
+      "name_th_short": "น็อตหน้าจาน",
       "name_cn": "法兰母M8",
       "price": 0.32,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "LM",
       "material_cn": "法兰",
       "material_code": "FL",
-      "spec_number": "08-04",
-      "row_no": 94,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "08",
+      "row_no": 94
     },
     {
       "id": "01-02-03-009",
       "slug": "01-02-03-009",
       "code": "01.02.03.009",
-      "sku": "LM-FL-10-07",
+      "sku": "LM-FL-10",
       "name_th": "น็อตหน้าจาน 10",
+      "name_th_short": "น็อตหน้าจาน",
       "name_cn": "法兰母M10",
       "price": 0.43,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "LM",
       "material_cn": "法兰",
       "material_code": "FL",
-      "spec_number": "10-07",
-      "row_no": 95,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10",
+      "row_no": 95
     },
     {
       "id": "01-02-03-011",
       "slug": "01-02-03-011",
       "code": "01.02.03.011",
-      "sku": "LM-FL-12-06",
+      "sku": "LM-FL-12",
       "name_th": "น็อตหน้าจาน 12",
+      "name_th_short": "น็อตหน้าจาน",
       "name_cn": "法兰母M12",
       "price": 0.84,
       "image": "/placeholder.svg",
@@ -160,17 +157,16 @@
       "category_code": "LM",
       "material_cn": "法兰",
       "material_code": "FL",
-      "spec_number": "12-06",
-      "row_no": 96,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "12",
+      "row_no": 96
     },
     {
       "id": "01-02-03-015",
       "slug": "01-02-03-015",
       "code": "01.02.03.015",
-      "sku": "LS-MC-0612-01",
+      "sku": "LS-MC-6-12",
       "name_th": "ชุดน็อตหัวกลมคอเหลี่ยม 6*12",
+      "name_th_short": "น็อตหัวกลมคอเหลี่ยม",
       "name_cn": "马车螺丝组合6*12",
       "price": 0.36,
       "image": "/placeholder.svg",
@@ -192,17 +188,16 @@
       "category_code": "LS",
       "material_cn": "马车",
       "material_code": "MC",
-      "spec_number": "0612-01",
-      "row_no": 97,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "6-12",
+      "row_no": 97
     },
     {
       "id": "01-02-03-018",
       "slug": "01-02-03-018",
       "code": "01.02.03.018",
-      "sku": "LS-MC-0812-01",
+      "sku": "LS-MC-8-12",
       "name_th": "ชุดน็อตหัวกลมคอเหลี่ยม 8*12",
+      "name_th_short": "น็อตหัวกลมคอเหลี่ยม",
       "name_cn": "马车螺丝组合8*12",
       "price": 0.42,
       "image": "/placeholder.svg",
@@ -224,17 +219,16 @@
       "category_code": "LS",
       "material_cn": "马车",
       "material_code": "MC",
-      "spec_number": "0812-01",
-      "row_no": 98,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "8-12",
+      "row_no": 98
     },
     {
       "id": "01-02-03-019",
       "slug": "01-02-03-019",
       "code": "01.02.03.019",
-      "sku": "LS-MC-0816-02",
-      "name_th": "น็อตหัวกลมคอเหลี่ยม",
+      "sku": "LS-MC-8-16-02",
+      "name_th": "น็อตหัวกลมคอเหลี่ยม 8*16",
+      "name_th_short": "น็อตหัวกลมคอเหลี่ยม",
       "name_cn": "马车螺丝8*16",
       "price": 0.3,
       "image": "/placeholder.svg",
@@ -256,10 +250,8 @@
       "category_code": "LS",
       "material_cn": "马车",
       "material_code": "MC",
-      "spec_number": "0816-02",
-      "row_no": 99,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "8-16-02",
+      "row_no": 99
     }
   ]
 }

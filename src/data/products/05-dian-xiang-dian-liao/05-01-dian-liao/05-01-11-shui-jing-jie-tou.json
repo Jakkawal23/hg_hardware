@@ -9,8 +9,9 @@
       "id": "05-01-11-001",
       "slug": "05-01-11-001",
       "code": "05.01.11.001",
-      "sku": "SJT-C5-100-01",
+      "sku": "SJT-C5-100",
       "name_th": "หัวแลน RJ45 Cat5e ไม่หุ้มฉนวน/ทองแดงแท้ (100 ตัว/กล่อง)",
+      "name_th_short": "หัวแลน RJ45 Cat5e",
       "name_cn": "超五类非屏蔽水晶头/纯铜（100个/小盒）",
       "price": 69.6,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "SJT",
       "material_cn": "超五类",
       "material_code": "C5",
-      "spec_number": "100-01",
-      "row_no": 74,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "100",
+      "row_no": 74
     },
     {
       "id": "05-01-11-002",
       "slug": "05-01-11-002",
       "code": "05.01.11.002",
-      "sku": "SJT-C6-100-01",
+      "sku": "SJT-C6-100",
       "name_th": "หัวแลน RJ45 Cat6 ไม่หุ้มฉนวน/ทองแดงแท้ (100 ตัว/กล่อง)",
+      "name_th_short": "หัวแลน RJ45 Cat6",
       "name_cn": "六类非屏蔽水晶头/纯铜（100个/小盒）",
       "price": 76.8,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "SJT",
       "material_cn": "六类",
       "material_code": "C6",
-      "spec_number": "100-01",
-      "row_no": 75,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "100",
+      "row_no": 75
     }
   ]
 }

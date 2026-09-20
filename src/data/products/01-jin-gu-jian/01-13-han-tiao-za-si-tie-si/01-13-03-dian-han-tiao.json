@@ -11,6 +11,7 @@
       "code": "01.13.03.005",
       "sku": "DTT-422-4001",
       "name_th": "ลวดเชื่อม เบอร์422 ขนาด 4.0 มม.",
+      "name_th_short": "ลวดเชื่อม",
       "name_cn": "422电焊条4.0 ( 4.0)",
       "price": 720,
       "image": "/placeholder.svg",
@@ -30,12 +31,10 @@
       "last_import_date": "2026-06-16",
       "category_cn": "电焊条",
       "category_code": "DTT",
-      "material_cn": "422.0",
-      "material_code": "422.0",
+      "material_cn": 422,
+      "material_code": 422,
       "spec_number": "4001",
-      "row_no": 919,
-      "col_o": null,
-      "col_r": null
+      "row_no": 919
     },
     {
       "id": "01-13-03-006",
@@ -43,6 +42,7 @@
       "code": "01.13.03.006",
       "sku": "DTT-422-2501",
       "name_th": "ลวดเชื่อม เบอร์422 ขนาด 2.5 มม.",
+      "name_th_short": "ลวดเชื่อม",
       "name_cn": "422电焊条2.5 ( 2.5)",
       "price": 840,
       "image": "/placeholder.svg",
@@ -62,12 +62,10 @@
       "last_import_date": "2026-06-06",
       "category_cn": "电焊条",
       "category_code": "DTT",
-      "material_cn": "422.0",
-      "material_code": "422.0",
+      "material_cn": 422,
+      "material_code": 422,
       "spec_number": "2501",
-      "row_no": 920,
-      "col_o": null,
-      "col_r": null
+      "row_no": 920
     },
     {
       "id": "01-13-03-007",
@@ -75,6 +73,7 @@
       "code": "01.13.03.007",
       "sku": "DTT-422-3201",
       "name_th": "ลวดเชื่อม เบอร์422 ขนาด 3.2 มม.",
+      "name_th_short": "ลวดเชื่อม",
       "name_cn": "422电焊条3.2 ( 3.2)",
       "price": 720,
       "image": "/placeholder.svg",
@@ -94,12 +93,10 @@
       "last_import_date": "2026-06-16",
       "category_cn": "电焊条",
       "category_code": "DTT",
-      "material_cn": "422.0",
-      "material_code": "422.0",
+      "material_cn": 422,
+      "material_code": 422,
       "spec_number": "3201",
-      "row_no": 921,
-      "col_o": null,
-      "col_r": null
+      "row_no": 921
     },
     {
       "id": "01-13-03-008",
@@ -107,6 +104,7 @@
       "code": "01.13.03.008",
       "sku": "HS-304-16501",
       "name_th": "ลวดเชื่อม TIG 304*1.6 5KG",
+      "name_th_short": "ลวดเชื่อม TIG",
       "name_cn": "金桥304*1.6不锈钢氩弧焊丝(304材质)1条=5公斤",
       "price": 1296,
       "image": "/placeholder.svg",
@@ -126,12 +124,10 @@
       "last_import_date": "2026-06-16",
       "category_cn": "焊丝",
       "category_code": "HS",
-      "material_cn": "304.0",
-      "material_code": "304.0",
+      "material_cn": 304,
+      "material_code": 304,
       "spec_number": "16501",
-      "row_no": 922,
-      "col_o": null,
-      "col_r": null
+      "row_no": 922
     },
     {
       "id": "01-13-03-009",
@@ -139,6 +135,7 @@
       "code": "01.13.03.009",
       "sku": "HS-304-1001",
       "name_th": "ลวดเชื่อม MIG 1.0 (304)",
+      "name_th_short": "ลวดเชื่อม MIG",
       "name_cn": "金桥1.0不锈钢实心气保焊丝（304材质）",
       "price": 3456,
       "image": "/placeholder.svg",
@@ -158,12 +155,10 @@
       "last_import_date": "2026-04-09",
       "category_cn": "焊丝",
       "category_code": "HS",
-      "material_cn": "304.0",
-      "material_code": "304.0",
+      "material_cn": 304,
+      "material_code": 304,
       "spec_number": "1001",
-      "row_no": 923,
-      "col_o": null,
-      "col_r": null
+      "row_no": 923
     },
     {
       "id": "01-13-03-010",
@@ -171,6 +166,7 @@
       "code": "01.13.03.010",
       "sku": "HS-706-1001",
       "name_th": "ลวดเชื่อม 70s-6 1.0",
+      "name_th_short": "ลวดเชื่อม",
       "name_cn": "金桥焊丝(70s-6 1.0黑轴) 普通1.0",
       "price": 900,
       "image": "/placeholder.svg",
@@ -191,11 +187,9 @@
       "category_cn": "焊丝",
       "category_code": "HS",
       "material_cn": "70s-6",
-      "material_code": "706.0",
+      "material_code": 706,
       "spec_number": "1001",
-      "row_no": 924,
-      "col_o": null,
-      "col_r": null
+      "row_no": 924
     },
     {
       "id": "01-13-03-011",
@@ -203,6 +197,7 @@
       "code": "01.13.03.011",
       "sku": "HS-711-1201",
       "name_th": "ลวดเชื่อมฟลักซ์คอร์ 71T-1 1.2",
+      "name_th_short": "ลวดเชื่อมฟลักซ์คอร์",
       "name_cn": "金桥药芯焊丝黑轴71T-1 1.2",
       "price": 900,
       "image": "/placeholder.svg",
@@ -223,11 +218,9 @@
       "category_cn": "焊丝",
       "category_code": "HS",
       "material_cn": "71T-1",
-      "material_code": "711.0",
+      "material_code": 711,
       "spec_number": "1201",
-      "row_no": 925,
-      "col_o": null,
-      "col_r": null
+      "row_no": 925
     },
     {
       "id": "01-13-03-012",
@@ -235,6 +228,7 @@
       "code": "01.13.03.012",
       "sku": "HS-12-001",
       "name_th": "ลวดเชื่อม 1.2",
+      "name_th_short": "ลวดเชื่อม",
       "name_cn": "金桥焊丝(1.2黑轴) 普通1.2",
       "price": 900,
       "image": "/placeholder.svg",
@@ -254,12 +248,10 @@
       "last_import_date": "2026-06-19",
       "category_cn": "焊丝",
       "category_code": "HS",
-      "material_cn": "1.2",
-      "material_code": "12.0",
+      "material_cn": 1.2,
+      "material_code": 12,
       "spec_number": "001",
-      "row_no": 926,
-      "col_o": null,
-      "col_r": null
+      "row_no": 926
     },
     {
       "id": "01-13-03-015",
@@ -267,6 +259,7 @@
       "code": "01.13.03.015",
       "sku": "DTT-102-3201",
       "name_th": "ลวดเชื่อมสแตนเลส 102*3.2",
+      "name_th_short": "ลวดเชื่อมสแตนเลส",
       "name_cn": "金桥不锈钢焊条102*3.2",
       "price": 4200,
       "image": "/placeholder.svg",
@@ -286,12 +279,10 @@
       "last_import_date": "2026-04-09",
       "category_cn": "电焊条",
       "category_code": "DTT",
-      "material_cn": "102.0",
-      "material_code": "102.0",
+      "material_cn": 102,
+      "material_code": 102,
       "spec_number": "3201",
-      "row_no": 927,
-      "col_o": null,
-      "col_r": null
+      "row_no": 927
     },
     {
       "id": "01-13-03-016",
@@ -299,6 +290,7 @@
       "code": "01.13.03.016",
       "sku": "DTT-302-3201",
       "name_th": "ลวดเชื่อมสแตนเลส 302*3.2",
+      "name_th_short": "ลวดเชื่อมสแตนเลส",
       "name_cn": "金桥不锈钢焊条302*3.2",
       "price": 6672,
       "image": "/placeholder.svg",
@@ -318,12 +310,10 @@
       "last_import_date": "2026-04-09",
       "category_cn": "电焊条",
       "category_code": "DTT",
-      "material_cn": "302.0",
-      "material_code": "302.0",
+      "material_cn": 302,
+      "material_code": 302,
       "spec_number": "3201",
-      "row_no": 928,
-      "col_o": null,
-      "col_r": null
+      "row_no": 928
     },
     {
       "id": "01-13-03-017",
@@ -331,6 +321,7 @@
       "code": "01.13.03.017",
       "sku": "DTT-102-2501",
       "name_th": "ลวดเชื่อมสแตนเลส 102*2.5",
+      "name_th_short": "ลวดเชื่อมสแตนเลส",
       "name_cn": "金桥不锈钢焊条102*2.5",
       "price": 4440,
       "image": "/placeholder.svg",
@@ -350,12 +341,10 @@
       "last_import_date": "2026-06-16",
       "category_cn": "电焊条",
       "category_code": "DTT",
-      "material_cn": "102.0",
-      "material_code": "102.0",
+      "material_cn": 102,
+      "material_code": 102,
       "spec_number": "2501",
-      "row_no": 929,
-      "col_o": null,
-      "col_r": null
+      "row_no": 929
     },
     {
       "id": "01-13-03-018",
@@ -363,6 +352,7 @@
       "code": "01.13.03.018",
       "sku": "DTT-427-4001",
       "name_th": "ลวดเชื่อม เบอร์427 ขนาด 4.0 มม.",
+      "name_th_short": "ลวดเชื่อม",
       "name_cn": "427电焊条4.0",
       "price": 984,
       "image": "/placeholder.svg",
@@ -382,12 +372,10 @@
       "last_import_date": "2026-06-29",
       "category_cn": "电焊条",
       "category_code": "DTT",
-      "material_cn": "427.0",
-      "material_code": "427.0",
+      "material_cn": 427,
+      "material_code": 427,
       "spec_number": "4001",
-      "row_no": 930,
-      "col_o": null,
-      "col_r": null
+      "row_no": 930
     },
     {
       "id": "01-13-03-019",
@@ -395,6 +383,7 @@
       "code": "01.13.03.019",
       "sku": "DTT-506-3201",
       "name_th": "ลวดเชื่อม เบอร์506 ขนาด 3.2 มม.",
+      "name_th_short": "ลวดเชื่อม",
       "name_cn": "506电焊条3.2",
       "price": 1020,
       "image": "/placeholder.svg",
@@ -414,12 +403,10 @@
       "last_import_date": "2026-05-17",
       "category_cn": "电焊条",
       "category_code": "DTT",
-      "material_cn": "506.0",
-      "material_code": "506.0",
+      "material_cn": 506,
+      "material_code": 506,
       "spec_number": "3201",
-      "row_no": 931,
-      "col_o": null,
-      "col_r": null
+      "row_no": 931
     },
     {
       "id": "01-13-03-020",
@@ -427,6 +414,7 @@
       "code": "01.13.03.020",
       "sku": "DTT-506-4001",
       "name_th": "ลวดเชื่อม เบอร์506 ขนาด 4.0 มม.",
+      "name_th_short": "ลวดเชื่อม",
       "name_cn": "506电焊条4.0",
       "price": 1020,
       "image": "/placeholder.svg",
@@ -446,12 +434,10 @@
       "last_import_date": "2026-05-17",
       "category_cn": "电焊条",
       "category_code": "DTT",
-      "material_cn": "506.0",
-      "material_code": "506.0",
+      "material_cn": 506,
+      "material_code": 506,
       "spec_number": "4001",
-      "row_no": 932,
-      "col_o": null,
-      "col_r": null
+      "row_no": 932
     },
     {
       "id": "01-13-03-021",
@@ -459,6 +445,7 @@
       "code": "01.13.03.021",
       "sku": "DTT-308-3201",
       "name_th": "ลวดเชื่อมเหล็กหล่อ 308 3.2",
+      "name_th_short": "ลวดเชื่อมเหล็กหล่อ",
       "name_cn": "308铸铁电焊条3.2（1包/1公斤）",
       "price": 1536,
       "image": "/placeholder.svg",
@@ -478,12 +465,10 @@
       "last_import_date": "2026-05-17",
       "category_cn": "电焊条",
       "category_code": "DTT",
-      "material_cn": "308.0",
-      "material_code": "308.0",
+      "material_cn": 308,
+      "material_code": 308,
       "spec_number": "3201",
-      "row_no": 933,
-      "col_o": null,
-      "col_r": null
+      "row_no": 933
     },
     {
       "id": "01-13-03-022",
@@ -491,6 +476,7 @@
       "code": "01.13.03.022",
       "sku": "BWT-HT-001",
       "name_th": "กระบอกเก็บลวดเชื่อม",
+      "name_th_short": "กระบอกเก็บลวดเชื่อม",
       "name_cn": "焊条保温桶",
       "price": 420,
       "image": "/placeholder.svg",
@@ -513,9 +499,7 @@
       "material_cn": "焊条",
       "material_code": "HT",
       "spec_number": "001",
-      "row_no": 934,
-      "col_o": null,
-      "col_r": null
+      "row_no": 934
     },
     {
       "id": "01-13-03-023",
@@ -523,6 +507,7 @@
       "code": "01.13.03.023",
       "sku": "HS-51B-1201",
       "name_th": "ลวดเชื่อมฟลักซ์คอร์ THY-51B 1.2",
+      "name_th_short": "ลวดเชื่อมฟลักซ์คอร์",
       "name_cn": "药芯焊丝THY-51B 1.2(15公斤）",
       "price": 816,
       "image": "/placeholder.svg",
@@ -545,9 +530,7 @@
       "material_cn": "THY-51B",
       "material_code": "51B",
       "spec_number": "1201",
-      "row_no": 935,
-      "col_o": null,
-      "col_r": null
+      "row_no": 935
     },
     {
       "id": "01-13-03-024",
@@ -555,6 +538,7 @@
       "code": "01.13.03.024",
       "sku": "HS-316-20501",
       "name_th": "ลวดเชื่อม TIG 316L*2.0 5KG",
+      "name_th_short": "ลวดเชื่อม TIG",
       "name_cn": "金桥不锈钢氩弧焊丝316L*2.0（1条=5公斤）",
       "price": 2016,
       "image": "/placeholder.svg",
@@ -575,11 +559,9 @@
       "category_cn": "焊丝",
       "category_code": "HS",
       "material_cn": "316L",
-      "material_code": "316.0",
+      "material_code": 316,
       "spec_number": "20501",
-      "row_no": 936,
-      "col_o": null,
-      "col_r": null
+      "row_no": 936
     }
   ]
 }

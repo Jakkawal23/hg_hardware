@@ -9,8 +9,9 @@
       "id": "01-02-05-013",
       "slug": "01-02-05-013",
       "code": "01.02.05.013",
-      "sku": "LM-BS-33-01",
+      "sku": "LM-BS-33",
       "name_th": "น็อตตัวเมีย สีเดิม (ไม่ชุบ) 33",
+      "name_th_short": "น็อตตัวเมีย",
       "name_cn": "本色螺母M33",
       "price": 14.4,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "LM",
       "material_cn": "本色",
       "material_code": "BS",
-      "spec_number": "33-01",
-      "row_no": 103,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "33",
+      "row_no": 103
     },
     {
       "id": "01-02-05-015",
       "slug": "01-02-05-015",
       "code": "01.02.05.015",
-      "sku": "LM-BS-20-04",
+      "sku": "LM-BS-20",
       "name_th": "น็อตตัวเมีย สีเดิม (ไม่ชุบ) 20",
+      "name_th_short": "น็อตตัวเมีย",
       "name_cn": "本色螺母M20",
       "price": 4.2,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "LM",
       "material_cn": "本色",
       "material_code": "BS",
-      "spec_number": "20-04",
-      "row_no": 104,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "20",
+      "row_no": 104
     },
     {
       "id": "01-02-05-016",
       "slug": "01-02-05-016",
       "code": "01.02.05.016",
-      "sku": "LM-BS-24-03",
+      "sku": "LM-BS-24",
       "name_th": "น็อตตัวเมีย สีเดิม (ไม่ชุบ) 24",
+      "name_th_short": "น็อตตัวเมีย",
       "name_cn": "本色螺母M24",
       "price": 5.76,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "LM",
       "material_cn": "本色",
       "material_code": "BS",
-      "spec_number": "24-03",
-      "row_no": 105,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "24",
+      "row_no": 105
     },
     {
       "id": "01-02-05-017",
       "slug": "01-02-05-017",
       "code": "01.02.05.017",
-      "sku": "LM-BS-27-03",
+      "sku": "LM-BS-27",
       "name_th": "น็อตตัวเมีย สีเดิม (ไม่ชุบ) 27",
+      "name_th_short": "น็อตตัวเมีย",
       "name_cn": "本色螺母M27",
       "price": 8.16,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "LM",
       "material_cn": "本色",
       "material_code": "BS",
-      "spec_number": "27-03",
-      "row_no": 106,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "27",
+      "row_no": 106
     },
     {
       "id": "01-02-05-018",
       "slug": "01-02-05-018",
       "code": "01.02.05.018",
-      "sku": "LM-BS-30-03",
+      "sku": "LM-BS-30",
       "name_th": "น็อตตัวเมีย สีเดิม (ไม่ชุบ) 30",
+      "name_th_short": "น็อตตัวเมีย",
       "name_cn": "本色螺母M30",
       "price": 11.04,
       "image": "/placeholder.svg",
@@ -160,17 +157,16 @@
       "category_code": "LM",
       "material_cn": "本色",
       "material_code": "BS",
-      "spec_number": "30-03",
-      "row_no": 107,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "30",
+      "row_no": 107
     },
     {
       "id": "01-02-05-019",
       "slug": "01-02-05-019",
       "code": "01.02.05.019",
-      "sku": "LM-BS-36-03",
+      "sku": "LM-BS-36",
       "name_th": "น็อตตัวเมีย สีเดิม (ไม่ชุบ) 36",
+      "name_th_short": "น็อตตัวเมีย",
       "name_cn": "本色螺母M36",
       "price": 18.6,
       "image": "/placeholder.svg",
@@ -192,17 +188,16 @@
       "category_code": "LM",
       "material_cn": "本色",
       "material_code": "BS",
-      "spec_number": "36-03",
-      "row_no": 108,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "36",
+      "row_no": 108
     },
     {
       "id": "01-02-05-020",
       "slug": "01-02-05-020",
       "code": "01.02.05.020",
-      "sku": "LM-BS-42-01",
+      "sku": "LM-BS-42",
       "name_th": "น็อตตัวเมีย สีเดิม (ไม่ชุบ) 42",
+      "name_th_short": "น็อตตัวเมีย",
       "name_cn": "本色螺母M42",
       "price": 36,
       "image": "/placeholder.svg",
@@ -224,10 +219,8 @@
       "category_code": "LM",
       "material_cn": "本色",
       "material_code": "BS",
-      "spec_number": "42-01",
-      "row_no": 109,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "42",
+      "row_no": 109
     }
   ]
 }

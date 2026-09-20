@@ -11,6 +11,7 @@
       "code": "01.14.02.001",
       "sku": "GM-X-001",
       "name_th": "แคลมป์เล็ก",
+      "name_th_short": "แคลมป์เล็ก",
       "name_cn": "小勾码 ( )",
       "price": 1.08,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "小",
       "material_code": "X",
       "spec_number": "001",
-      "row_no": 949,
-      "col_o": null,
-      "col_r": null
+      "row_no": 949
     },
     {
       "id": "01-14-02-004",
@@ -43,6 +42,7 @@
       "code": "01.14.02.004",
       "sku": "JM-10-001",
       "name_th": "ฉากท่อลม 1.0",
+      "name_th_short": "ฉากท่อลม",
       "name_cn": "风管角码1.0 ( 1.0)",
       "price": 1.44,
       "image": "/placeholder.svg",
@@ -62,12 +62,10 @@
       "last_import_date": "2026-05-17",
       "category_cn": "角码",
       "category_code": "JM",
-      "material_cn": "1.0",
-      "material_code": "10.0",
+      "material_cn": 1,
+      "material_code": 10,
       "spec_number": "001",
-      "row_no": 950,
-      "col_o": null,
-      "col_r": null
+      "row_no": 950
     },
     {
       "id": "01-14-02-006",
@@ -75,6 +73,7 @@
       "code": "01.14.02.006",
       "sku": "KT-10-001",
       "name_th": "แผ่นยึดท่อ 1.0",
+      "name_th_short": "แผ่นยึดท่อ",
       "name_cn": "卡条1.0厚 ( 1.0)",
       "price": 1.8,
       "image": "/placeholder.svg",
@@ -95,11 +94,9 @@
       "category_cn": "卡条",
       "category_code": "KT",
       "material_cn": "1.0厚",
-      "material_code": "10.0",
+      "material_code": 10,
       "spec_number": "001",
-      "row_no": 951,
-      "col_o": null,
-      "col_r": null
+      "row_no": 951
     },
     {
       "id": "01-14-02-007",
@@ -107,6 +104,7 @@
       "code": "01.14.02.007",
       "sku": "KT-12-001",
       "name_th": "แผ่นยึดท่อ 1.2",
+      "name_th_short": "แผ่นยึดท่อ",
       "name_cn": "卡条1.2厚 ( 1.2)",
       "price": 2.4,
       "image": "/placeholder.svg",
@@ -127,11 +125,9 @@
       "category_cn": "卡条",
       "category_code": "KT",
       "material_cn": "1.2厚",
-      "material_code": "12.0",
+      "material_code": 12,
       "spec_number": "001",
-      "row_no": 952,
-      "col_o": null,
-      "col_r": null
+      "row_no": 952
     },
     {
       "id": "01-14-02-008",
@@ -139,6 +135,7 @@
       "code": "01.14.02.008",
       "sku": "DP-JG-001",
       "name_th": "แหวนรองเสริม",
+      "name_th_short": "แหวนรองเสริม",
       "name_cn": "加固垫片()",
       "price": 0.78,
       "image": "/placeholder.svg",
@@ -161,16 +158,15 @@
       "material_cn": "加固",
       "material_code": "JG",
       "spec_number": "001",
-      "row_no": 953,
-      "col_o": null,
-      "col_r": null
+      "row_no": 953
     },
     {
       "id": "01-14-02-009",
       "slug": "01-14-02-009",
       "code": "01.14.02.009",
-      "sku": "DZ-HJ-4141-01",
+      "sku": "DZ-HJ-41-41",
       "name_th": "ฐานเชื่อม 41*41",
+      "name_th_short": "ฐานเชื่อม",
       "name_cn": "暂停使用 焊接底座41*41（ 41*41）",
       "price": 26.4,
       "image": "/placeholder.svg",
@@ -192,17 +188,16 @@
       "category_code": "DZ",
       "material_cn": "焊接",
       "material_code": "HJ",
-      "spec_number": "4141-01",
-      "row_no": 954,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "41-41",
+      "row_no": 954
     },
     {
       "id": "01-14-02-010",
       "slug": "01-14-02-010",
       "code": "01.14.02.010",
-      "sku": "KD-4141-501",
+      "sku": "KD-PT-41",
       "name_th": "แหวนรอง 41*41 (5mm)",
+      "name_th_short": "แหวนรอง",
       "name_cn": "41*41型钢扣垫（5毫米）( 41 * 41 (5 .)",
       "price": 3.84,
       "image": "/placeholder.svg",
@@ -223,18 +218,17 @@
       "category_cn": "扣垫",
       "category_code": "KD",
       "material_cn": "41*41",
-      "material_code": "4141.0",
-      "spec_number": "501",
-      "row_no": 955,
-      "col_o": null,
-      "col_r": null
+      "material_code": "PT",
+      "spec_number": "41",
+      "row_no": 955
     },
     {
       "id": "01-14-02-011",
       "slug": "01-14-02-011",
       "code": "01.14.02.011",
-      "sku": "YB-DC-41100-01",
+      "sku": "YB-DC-41-100-01",
       "name_th": "แผ่นยึดคาน 41*100",
+      "name_th_short": "แผ่นยึดคาน",
       "name_cn": "梁夹压板/带齿压板41*100",
       "price": 15.6,
       "image": "/placeholder.svg",
@@ -256,17 +250,16 @@
       "category_code": "YB",
       "material_cn": "带齿",
       "material_code": "DC",
-      "spec_number": "41100-01",
-      "row_no": 956,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "41-100-01",
+      "row_no": 956
     },
     {
       "id": "01-14-02-012",
       "slug": "01-14-02-012",
       "code": "01.14.02.012",
-      "sku": "YB-DC-41130-01",
+      "sku": "YB-DC-41-130",
       "name_th": "แผ่นยึดคาน 41*130",
+      "name_th_short": "แผ่นยึดคาน",
       "name_cn": "梁夹压板/带齿压板41*130",
       "price": 18,
       "image": "/placeholder.svg",
@@ -288,17 +281,16 @@
       "category_code": "YB",
       "material_cn": "带齿",
       "material_code": "DC",
-      "spec_number": "41130-01",
-      "row_no": 957,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "41-130",
+      "row_no": 957
     },
     {
       "id": "01-14-02-013",
       "slug": "01-14-02-013",
       "code": "01.14.02.013",
-      "sku": "DP-HS-414102-01",
-      "name_th": "แหวนรอง 41412",
+      "sku": "DP-HS-41-41-2",
+      "name_th": "แหวนรอง 41*41*2",
+      "name_th_short": "แหวนรอง",
       "name_cn": "华司垫片41*41*2 ()",
       "price": 2.76,
       "image": "/placeholder.svg",
@@ -320,10 +312,8 @@
       "category_code": "DP",
       "material_cn": "华司",
       "material_code": "HS",
-      "spec_number": "414102-01",
-      "row_no": 958,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "41-41-2",
+      "row_no": 958
     },
     {
       "id": "01-14-02-014",
@@ -331,6 +321,7 @@
       "code": "01.14.02.014",
       "sku": "BS-KT-001",
       "name_th": "ประแจขันแผ่นยึด",
+      "name_th_short": "ประแจขันแผ่นยึด",
       "name_cn": "卡条扳手",
       "price": 24,
       "image": "/placeholder.svg",
@@ -353,9 +344,7 @@
       "material_cn": "卡条",
       "material_code": "KT",
       "spec_number": "001",
-      "row_no": 959,
-      "col_o": null,
-      "col_r": null
+      "row_no": 959
     },
     {
       "id": "01-14-02-015",
@@ -363,6 +352,7 @@
       "code": "01.14.02.015",
       "sku": "JM-2K-001",
       "name_th": "ฉาก 2 รู",
+      "name_th_short": "ฉาก",
       "name_cn": "2孔角码（）",
       "price": 4.2,
       "image": "/placeholder.svg",
@@ -385,16 +375,15 @@
       "material_cn": "2孔",
       "material_code": "2K",
       "spec_number": "001",
-      "row_no": 960,
-      "col_o": null,
-      "col_r": null
+      "row_no": 960
     },
     {
       "id": "01-14-02-016",
       "slug": "01-14-02-016",
       "code": "01.14.02.016",
-      "sku": "LS-T-1025-01",
+      "sku": "LS-T-10-25",
       "name_th": "น็อต T 10*25",
+      "name_th_short": "น็อต T",
       "name_cn": "T型螺丝10*25（ T 10 * 25）",
       "price": 1.68,
       "image": "/placeholder.svg",
@@ -416,10 +405,8 @@
       "category_code": "LS",
       "material_cn": "T型",
       "material_code": "T",
-      "spec_number": "1025-01",
-      "row_no": 961,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10-25",
+      "row_no": 961
     },
     {
       "id": "01-14-02-017",
@@ -427,6 +414,7 @@
       "code": "01.14.02.017",
       "sku": "TJQ-FX-301",
       "name_th": "ตัวปรับระดับ 3mm",
+      "name_th_short": "ตัวปรับระดับ",
       "name_cn": "方型调节器（3个厚） ( 3 )",
       "price": 8.4,
       "image": "/placeholder.svg",
@@ -449,16 +437,15 @@
       "material_cn": "方型",
       "material_code": "FX",
       "spec_number": "301",
-      "row_no": 962,
-      "col_o": null,
-      "col_r": null
+      "row_no": 962
     },
     {
       "id": "01-14-02-018",
       "slug": "01-14-02-018",
       "code": "01.14.02.018",
-      "sku": "DZ-MHJ-4180-01",
+      "sku": "DZ-MHJ-41-80",
       "name_th": "ฐานยึดไม่ต้องเชื่อม 41*80",
+      "name_th_short": "ฐานยึดไม่เชื่อม",
       "name_cn": "免焊接底座41*80（ 41*80）",
       "price": 19.2,
       "image": "/placeholder.svg",
@@ -480,10 +467,8 @@
       "category_code": "DZ",
       "material_cn": "免焊接",
       "material_code": "MHJ",
-      "spec_number": "4180-01",
-      "row_no": 963,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "41-80",
+      "row_no": 963
     },
     {
       "id": "01-14-02-020",
@@ -491,6 +476,7 @@
       "code": "01.14.02.020",
       "sku": "JM-3K-001",
       "name_th": "ฉาก 3 รู",
+      "name_th_short": "ฉาก",
       "name_cn": "3孔角码",
       "price": 6.6,
       "image": "/placeholder.svg",
@@ -513,16 +499,15 @@
       "material_cn": "3孔",
       "material_code": "3K",
       "spec_number": "001",
-      "row_no": 964,
-      "col_o": null,
-      "col_r": null
+      "row_no": 964
     },
     {
       "id": "01-14-02-021",
       "slug": "01-14-02-021",
       "code": "01.14.02.021",
-      "sku": "YB-DC-52110-01",
+      "sku": "YB-DC-52-110",
       "name_th": "แผ่นยึดคาน 52*110",
+      "name_th_short": "แผ่นยึดคาน",
       "name_cn": "梁夹压板/带齿压板52*110",
       "price": 24,
       "image": "/placeholder.svg",
@@ -544,17 +529,16 @@
       "category_code": "YB",
       "material_cn": "带齿",
       "material_code": "DC",
-      "spec_number": "52110-01",
-      "row_no": 965,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "52-110",
+      "row_no": 965
     },
     {
       "id": "01-14-02-022",
       "slug": "01-14-02-022",
       "code": "01.14.02.022",
-      "sku": "FXK-1013-001",
+      "sku": "FXK-PT-10-130",
       "name_th": "ยูโบลท์ 10*130",
+      "name_th_short": "ยูโบลท์",
       "name_cn": "U型丝/方型卡10*130",
       "price": 8.4,
       "image": "/placeholder.svg",
@@ -575,18 +559,17 @@
       "category_cn": "方型卡",
       "category_code": "FXK",
       "material_cn": "10*130",
-      "material_code": "1013.0",
-      "spec_number": "001",
-      "row_no": 966,
-      "col_o": null,
-      "col_r": null
+      "material_code": "PT",
+      "spec_number": "10-130",
+      "row_no": 966
     },
     {
       "id": "01-14-02-023",
       "slug": "01-14-02-023",
       "code": "01.14.02.023",
-      "sku": "DZ-HJ-4180-01",
+      "sku": "DZ-HJ-41-80",
       "name_th": "ฐานเชื่อม 41*80",
+      "name_th_short": "ฐานเชื่อม",
       "name_cn": "焊接底座41*80（ 41*80）",
       "price": 30,
       "image": "/placeholder.svg",
@@ -608,17 +591,16 @@
       "category_code": "DZ",
       "material_cn": "焊接",
       "material_code": "HJ",
-      "spec_number": "4180-01",
-      "row_no": 967,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "41-80",
+      "row_no": 967
     },
     {
       "id": "01-14-02-024",
       "slug": "01-14-02-024",
       "code": "01.14.02.024",
-      "sku": "DZ-HJ-41100-01",
+      "sku": "DZ-HJ-41-100",
       "name_th": "ฐานเชื่อม 41*100",
+      "name_th_short": "ฐานเชื่อม",
       "name_cn": "焊接底座41*100",
       "price": 36,
       "image": "/placeholder.svg",
@@ -640,17 +622,16 @@
       "category_code": "DZ",
       "material_cn": "焊接",
       "material_code": "HJ",
-      "spec_number": "41100-01",
-      "row_no": 968,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "41-100",
+      "row_no": 968
     },
     {
       "id": "01-14-02-025",
       "slug": "01-14-02-025",
       "code": "01.14.02.025",
-      "sku": "YB-DC-41100-02",
+      "sku": "YB-DC-41-100-02",
       "name_th": "แผ่นยึดคาน 41*100 (ไม่รวมยูโบลท์)",
+      "name_th_short": "แผ่นยึดคาน",
       "name_cn": "梁夹压板/带齿压板41*100（不含U型丝及螺母）",
       "price": 13.2,
       "image": "/placeholder.svg",
@@ -672,10 +653,8 @@
       "category_code": "YB",
       "material_cn": "带齿",
       "material_code": "DC",
-      "spec_number": "41100-02",
-      "row_no": 969,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "41-100-02",
+      "row_no": 969
     }
   ]
 }

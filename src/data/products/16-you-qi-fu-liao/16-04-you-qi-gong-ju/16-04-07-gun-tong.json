@@ -9,8 +9,9 @@
       "id": "16-04-07-002",
       "slug": "16-04-07-002",
       "code": "16.04.07.002",
-      "sku": "GT-GD-6-01",
+      "sku": "GT-GD-6",
       "name_th": "ลูกกลิ้งทาสีเกรดพรีเมียม 6 นิ้ว",
+      "name_th_short": "ลูกกลิ้งทาสี",
       "name_cn": "滚筒高档 6寸",
       "price": 18,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "GT",
       "material_cn": "高档",
       "material_code": "GD",
-      "spec_number": "6-01",
-      "row_no": 60,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "6",
+      "row_no": 60
     },
     {
       "id": "16-04-07-004",
       "slug": "16-04-07-004",
       "code": "16.04.07.004",
-      "sku": "GT-GD-4-01",
+      "sku": "GT-GD-4",
       "name_th": "ลูกกลิ้งทาสีเกรดพรีเมียม 4 นิ้ว",
+      "name_th_short": "ลูกกลิ้งทาสี",
       "name_cn": "滚筒高档 4寸",
       "price": 15.6,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "GT",
       "material_cn": "高档",
       "material_code": "GD",
-      "spec_number": "4-01",
-      "row_no": 61,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "4",
+      "row_no": 61
     },
     {
       "id": "16-04-07-005",
       "slug": "16-04-07-005",
       "code": "16.04.07.005",
-      "sku": "GT-CT-9-01",
+      "sku": "GT-CT-9",
       "name_th": "ลูกกลิ้งทาสีลายริ้วสี 9 นิ้ว",
+      "name_th_short": "ลูกกลิ้งทาสี",
       "name_cn": "滚筒9寸 彩条",
       "price": 21.6,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "GT",
       "material_cn": "彩条",
       "material_code": "CT",
-      "spec_number": "9-01",
-      "row_no": 62,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "9",
+      "row_no": 62
     },
     {
       "id": "16-04-07-006",
       "slug": "16-04-07-006",
       "code": "16.04.07.006",
-      "sku": "GT-WSJ-9-01",
+      "sku": "GT-WSJ-9",
       "name_th": "ลูกกลิ้งทาสีไร้ขอบตัดมุม 9 นิ้ว",
+      "name_th_short": "ลูกกลิ้งทาสี",
       "name_cn": "滚筒9寸 无死角",
       "price": 21.6,
       "image": "/placeholder.svg",
@@ -128,10 +126,8 @@
       "category_code": "GT",
       "material_cn": "无死角",
       "material_code": "WSJ",
-      "spec_number": "9-01",
-      "row_no": 63,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "9",
+      "row_no": 63
     }
   ]
 }

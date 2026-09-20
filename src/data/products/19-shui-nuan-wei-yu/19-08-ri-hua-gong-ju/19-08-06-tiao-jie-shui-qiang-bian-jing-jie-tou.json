@@ -11,6 +11,7 @@
       "code": "19.08.06.002",
       "sku": "SQI-PVC-TJ-1-444250",
       "name_th": "หัวฉีดน้ำล้างรถ/ปรับระดับได้ สำหรับท่อ PVC 1 นิ้ว Jinliwang",
+      "name_th_short": "หัวฉีดน้ำอเนกประสงค์",
       "name_cn": "金力王PVC管调节水枪（1寸）JLW.444250",
       "price": 63.6,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "PVC管调节",
       "material_code": "PVC-TJ",
       "spec_number": "1-444250",
-      "row_no": 55,
-      "col_o": null,
-      "col_r": null
+      "row_no": 55
     },
     {
       "id": "19-08-06-003",
@@ -43,6 +42,7 @@
       "code": "19.08.06.003",
       "sku": "KJQ-PVC-TY-1620-331620",
       "name_th": "ข้อต่อสวมเร็วสำหรับสายยาง/ท่อ PVC (ขนาด 16-20 มม. ใช้ร่วมกัน) Jinliwang",
+      "name_th_short": "ข้อต่อสวมเร็ว PVC",
       "name_cn": "金力王PVC管快接器（16-20通用）JLW.331620",
       "price": 26.4,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "PVC管通用",
       "material_code": "PVC-TY",
       "spec_number": "1620-331620",
-      "row_no": 56,
-      "col_o": null,
-      "col_r": null
+      "row_no": 56
     },
     {
       "id": "19-08-06-004",
@@ -75,6 +73,7 @@
       "code": "19.08.06.004",
       "sku": "KJQ-PVC-25-333125",
       "name_th": "ข้อต่อสวมเร็วสำหรับสายยาง/ท่อ PVC ขนาด 25 มม. Jinliwang",
+      "name_th_short": "ข้อต่อสวมเร็ว PVC",
       "name_cn": "金力王PVC管快接器（25）JLW.333125",
       "price": 30,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "PVC管",
       "material_code": "PVC",
       "spec_number": "25-333125",
-      "row_no": 57,
-      "col_o": null,
-      "col_r": null
+      "row_no": 57
     },
     {
       "id": "19-08-06-005",
@@ -107,6 +104,7 @@
       "code": "19.08.06.005",
       "sku": "KJQ-DXT-2520-332520",
       "name_th": "ข้อต่อสวมเร็วลดขนาด/เพิ่มขนาด PVC (25 มม. x 16-20 มม.) Jinliwang",
+      "name_th_short": "ข้อต่อสวมเร็ว PVC",
       "name_cn": "金力王PVC管快接器/大小头（25X16-20）JLW.332520",
       "price": 30,
       "image": "/placeholder.svg",
@@ -129,9 +127,7 @@
       "material_cn": "大小头",
       "material_code": "DXT",
       "spec_number": "2520-332520",
-      "row_no": 58,
-      "col_o": null,
-      "col_r": null
+      "row_no": 58
     }
   ]
 }

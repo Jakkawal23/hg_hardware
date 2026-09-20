@@ -9,8 +9,9 @@
       "id": "11-09-14-002",
       "slug": "11-09-14-002",
       "code": "11.09.14.002",
-      "sku": "WBJ-BP-70000-01",
+      "sku": "WBJ-BP-70000",
       "name_th": "เลื่อยด้ามโค้ง ขนาด 700 มม.",
+      "name_th_short": "เลื่อยด้ามโค้ง",
       "name_cn": "弯把锯 700",
       "price": 84,
       "image": "/placeholder.svg",
@@ -32,10 +33,8 @@
       "category_code": "WBJ",
       "material_cn": "标配",
       "material_code": "BP",
-      "spec_number": "70000-01",
-      "row_no": 644,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "70000",
+      "row_no": 644
     }
   ]
 }

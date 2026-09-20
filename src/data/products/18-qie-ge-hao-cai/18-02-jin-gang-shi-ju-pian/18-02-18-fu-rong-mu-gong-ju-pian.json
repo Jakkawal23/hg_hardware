@@ -9,8 +9,9 @@
       "id": "18-02-18-001",
       "slug": "18-02-18-001",
       "code": "18.02.18.001",
-      "sku": "MLQG-FR-WZ-350-01",
+      "sku": "MLQG-FR-WZ-350",
       "name_th": "ใบตัดถนน/คอนกรีต Furong 350x50x16x3.0 มม.",
+      "name_th_short": "ใบตัดถนน",
       "name_cn": "福荣切割王者/马路切割片 350*50*16*3.0",
       "price": 1200,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "MLQG",
       "material_cn": "福荣王者",
       "material_code": "FR-WZ",
-      "spec_number": "350-01",
-      "row_no": 31,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "350",
+      "row_no": 31
     },
     {
       "id": "18-02-18-003",
       "slug": "18-02-18-003",
       "code": "18.02.18.003",
-      "sku": "MLQG-FR-WZ-410-01",
+      "sku": "MLQG-FR-WZ-410",
       "name_th": "ใบตัดถนน/คอนกรีต Furong 410x20x50 มม.",
+      "name_th_short": "ใบตัดถนน",
       "name_cn": "福荣切割王者/马路切割片 410*20*50mm",
       "price": 1716,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "MLQG",
       "material_cn": "福荣王者",
       "material_code": "FR-WZ",
-      "spec_number": "410-01",
-      "row_no": 32,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "410",
+      "row_no": 32
     },
     {
       "id": "18-02-18-004",
       "slug": "18-02-18-004",
       "code": "18.02.18.004",
-      "sku": "MLQG-FR-WZ-400-01",
+      "sku": "MLQG-FR-WZ-400",
       "name_th": "ใบตัดถนน/คอนกรีต Furong 400x50x16x3.0 มม.",
+      "name_th_short": "ใบตัดถนน",
       "name_cn": "福荣切割王者/马路切割片 400*50*16*3.0",
       "price": 1584,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "MLQG",
       "material_cn": "福荣王者",
       "material_code": "FR-WZ",
-      "spec_number": "400-01",
-      "row_no": 33,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "400",
+      "row_no": 33
     },
     {
       "id": "18-02-18-005",
       "slug": "18-02-18-005",
       "code": "18.02.18.005",
-      "sku": "QGP-XMF-QC-125-01",
+      "sku": "QGP-XMF-QC-125",
       "name_th": "ใบตัดเซาะร่องผนังเกรดอุตสาหกรรม Little Bee รุ่น Changying 125 มม.",
+      "name_th_short": "ใบตัดเซาะร่องผนัง",
       "name_cn": "小蜜蜂长缨切割片 墙槽专用工业级125",
       "price": 138,
       "image": "/placeholder.svg",
@@ -128,10 +126,8 @@
       "category_code": "QGP",
       "material_cn": "小蜜蜂墙槽",
       "material_code": "XMF-QC",
-      "spec_number": "125-01",
-      "row_no": 34,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "125",
+      "row_no": 34
     }
   ]
 }

@@ -11,6 +11,7 @@
       "code": "16.04.22.0003",
       "sku": "SZJ-JL-20-100",
       "name_th": "อุปกรณ์จัดแนวกระเบื้องทรงกากบาท 2.0 มม. (100ชิ้น/แพ็ค)",
+      "name_th_short": "อุปกรณ์จัดระดับกระเบื้อง",
       "name_cn": "瓷砖十字架/贴砖十字卡/胶粒 2.0mm（100粒/小包）",
       "price": 4.08,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "胶粒",
       "material_code": "JL",
       "spec_number": "20-100",
-      "row_no": 89,
-      "col_o": null,
-      "col_r": null
+      "row_no": 89
     }
   ]
 }

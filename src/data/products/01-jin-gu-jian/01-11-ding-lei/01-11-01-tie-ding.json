@@ -9,8 +9,9 @@
       "id": "01-11-01-001",
       "slug": "01-11-01-001",
       "code": "01.11.01.001",
-      "sku": "TD-2C-50165-01",
+      "sku": "TD-2C-50165",
       "name_th": "ตะปูเหล็ก 50 มม. (2 นิ้ว บรรจุถุง 16.5 กก.)",
+      "name_th_short": "ตะปูเหล็ก",
       "name_cn": "铁钉50(2寸袋装16.5kg）",
       "price": 42,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "TD",
       "material_cn": "2寸",
       "material_code": "2C",
-      "spec_number": "50165-01",
-      "row_no": 744,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "50165",
+      "row_no": 744
     },
     {
       "id": "01-11-01-002",
       "slug": "01-11-01-002",
       "code": "01.11.01.002",
-      "sku": "TD-3C-80165-01",
+      "sku": "TD-3C-80165",
       "name_th": "ตะปูเหล็ก 80 มม. (3 นิ้ว บรรจุถุง 16.5 กก.)",
+      "name_th_short": "ตะปูเหล็ก",
       "name_cn": "铁钉80(3寸袋装16.5kg）",
       "price": null,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "TD",
       "material_cn": "3寸",
       "material_code": "3C",
-      "spec_number": "80165-01",
-      "row_no": 745,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "80165",
+      "row_no": 745
     },
     {
       "id": "01-11-01-003",
       "slug": "01-11-01-003",
       "code": "01.11.01.003",
-      "sku": "TD-2C-50112-01",
+      "sku": "TD-2C-50112",
       "name_th": "ตะปูเหล็ก 50 มม. (2 นิ้ว บรรจุถุง 11.2 กก.)",
+      "name_th_short": "ตะปูเหล็ก",
       "name_cn": "铁钉50(2寸袋装11.2kg）",
       "price": 42,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "TD",
       "material_cn": "2寸",
       "material_code": "2C",
-      "spec_number": "50112-01",
-      "row_no": 746,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "50112",
+      "row_no": 746
     },
     {
       "id": "01-11-01-004",
       "slug": "01-11-01-004",
       "code": "01.11.01.004",
-      "sku": "TD-25C-70112-01",
+      "sku": "TD-25C-70112",
       "name_th": "ตะปูเหล็ก 70 มม. (2.5 นิ้ว บรรจุถุง 11.2 กก.)",
+      "name_th_short": "ตะปูเหล็ก",
       "name_cn": "铁钉70(2.5寸袋装11.2kg）",
       "price": 42,
       "image": "/placeholder.svg",
@@ -128,10 +126,8 @@
       "category_code": "TD",
       "material_cn": "2.5寸",
       "material_code": "25C",
-      "spec_number": "70112-01",
-      "row_no": 747,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "70112",
+      "row_no": 747
     }
   ]
 }

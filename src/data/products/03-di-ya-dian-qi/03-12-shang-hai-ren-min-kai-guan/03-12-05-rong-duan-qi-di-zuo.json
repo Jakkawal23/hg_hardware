@@ -9,8 +9,9 @@
       "id": "03-12-05-001",
       "slug": "03-12-05-001",
       "code": "03.12.05.001",
-      "sku": "RDCDZ-RT1832-1P32A-01",
+      "sku": "RDCDZ-RT1832-1P32A",
       "name_th": "ฐานฟิวส์ RT18-32X 1P 32A (บรรจุ 10 ตัว/กล่อง)",
+      "name_th_short": "ฐานฟิวส์ RT18",
       "name_cn": "RT18-32X保险管/熔断器底座 1P 32A（10个/盒）",
       "price": 18,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "RDCDZ",
       "material_cn": "RT18-32",
       "material_code": "RT1832",
-      "spec_number": "1P32A-01",
-      "row_no": 18,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1P32A",
+      "row_no": 18
     },
     {
       "id": "03-12-05-003",
       "slug": "03-12-05-003",
       "code": "03.12.05.003",
-      "sku": "RDCDZ-RT1863-2P63A-01",
+      "sku": "RDCDZ-RT1863-2P63A",
       "name_th": "ฐานฟิวส์ RT18-63 2P 63A (บรรจุ 3 ตัว/กล่อง)",
+      "name_th_short": "ฐานฟิวส์ RT18",
       "name_cn": "RT18-63保险管/熔断器底座 2P 63A（3个/盒）",
       "price": 60,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "RDCDZ",
       "material_cn": "RT18-63",
       "material_code": "RT1863",
-      "spec_number": "2P63A-01",
-      "row_no": 19,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "2P63A",
+      "row_no": 19
     },
     {
       "id": "03-12-05-004",
       "slug": "03-12-05-004",
       "code": "03.12.05.004",
-      "sku": "RDCDZ-RT1863-3P63A-01",
+      "sku": "RDCDZ-RT1863-3P63A",
       "name_th": "ฐานฟิวส์ RT18-63 3P 63A (บรรจุ 2 ตัว/กล่อง)",
+      "name_th_short": "ฐานฟิวส์ RT18",
       "name_cn": "RT18-63保险管/熔断器底座 3P 63A（2个/盒）",
       "price": 96,
       "image": "/placeholder.svg",
@@ -96,10 +95,8 @@
       "category_code": "RDCDZ",
       "material_cn": "RT18-63",
       "material_code": "RT1863",
-      "spec_number": "3P63A-01",
-      "row_no": 20,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "3P63A",
+      "row_no": 20
     }
   ]
 }

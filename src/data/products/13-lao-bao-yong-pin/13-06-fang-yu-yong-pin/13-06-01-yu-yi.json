@@ -9,8 +9,9 @@
       "id": "13-06-01-001",
       "slug": "13-06-01-001",
       "code": "13.06.01.001",
-      "sku": "YI-EVA-JH-1-01",
+      "sku": "YI-EVA-JH-1",
       "name_th": "เสื้อกันฝน EVA แบบหนาใช้แล้วทิ้ง",
+      "name_th_short": "เสื้อกันฝน EVA",
       "name_cn": "雨衣 EVA加厚一次性雨衣",
       "price": 48,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "YI",
       "material_cn": "EVA加厚",
       "material_code": "EVA-JH",
-      "spec_number": "1-01",
-      "row_no": 121,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1",
+      "row_no": 121
     },
     {
       "id": "13-06-01-002",
       "slug": "13-06-01-002",
       "code": "13.06.01.002",
-      "sku": "YI-DC-JH-1-01",
+      "sku": "YI-DC-JH-1",
       "name_th": "เสื้อกันฝน Shunxin ชั้นเดียวแบบหนา (กล่อง)",
+      "name_th_short": "เสื้อกันฝน Shunxin",
       "name_cn": "雨衣 顺鑫单层加厚 盒装",
       "price": 204,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "YI",
       "material_cn": "单层加厚",
       "material_code": "DC-JH",
-      "spec_number": "1-01",
-      "row_no": 122,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1",
+      "row_no": 122
     },
     {
       "id": "13-06-01-006",
       "slug": "13-06-01-006",
       "code": "13.06.01.006",
-      "sku": "YI-DG-1-01",
+      "sku": "YI-DG-1",
       "name_th": "เสื้อกันฝนทรงเสื้อคลุมยาว",
+      "name_th_short": "เสื้อกันฝนทรงยาว",
       "name_cn": "雨衣 大褂 雨衣",
       "price": 102,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "YI",
       "material_cn": "大褂",
       "material_code": "DG",
-      "spec_number": "1-01",
-      "row_no": 123,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1",
+      "row_no": 123
     },
     {
       "id": "13-06-01-021",
       "slug": "13-06-01-021",
       "code": "13.06.01.021",
-      "sku": "YI-NJ-TZ-1-01",
+      "sku": "YI-NJ-TZ-1",
       "name_th": "ชุดเสื้อกันฝนผ้าออกซ์ฟอร์ด (ชุดเซ็ต)",
+      "name_th_short": "ชุดเสื้อกันฝนออกซ์ฟอร์ด",
       "name_cn": "牛津雨衣 套装",
       "price": 216,
       "image": "/placeholder.svg",
@@ -128,10 +126,8 @@
       "category_code": "YI",
       "material_cn": "牛津套装",
       "material_code": "NJ-TZ",
-      "spec_number": "1-01",
-      "row_no": 124,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1",
+      "row_no": 124
     }
   ]
 }

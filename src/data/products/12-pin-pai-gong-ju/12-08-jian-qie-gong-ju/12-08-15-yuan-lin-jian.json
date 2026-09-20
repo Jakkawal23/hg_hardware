@@ -9,8 +9,9 @@
       "id": "12-08-15-003",
       "slug": "12-08-15-003",
       "code": "12.08.15.003",
-      "sku": "YLJ-10C-01-01",
+      "sku": "YLJ-10C-01",
       "name_th": "กรรไกรแต่งกิ่ง ขนาด 10 นิ้ว",
+      "name_th_short": "กรรไกรแต่งกิ่ง",
       "name_cn": "10”园林剪（6把/盒）YT-205010 / 10",
       "price": 144,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "YLJ",
       "material_cn": "10寸",
       "material_code": "10C",
-      "spec_number": "01-01",
-      "row_no": 111,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "01",
+      "row_no": 111
     },
     {
       "id": "12-08-15-004",
       "slug": "12-08-15-004",
       "code": "12.08.15.004",
-      "sku": "YLJ-8C-01-01",
+      "sku": "YLJ-8C-01",
       "name_th": "กรรไกรแต่งกิ่ง ขนาด 8 นิ้ว",
+      "name_th_short": "กรรไกรแต่งกิ่ง",
       "name_cn": "8”园林剪（8把/盒）YT-205008 / 8",
       "price": 102,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "YLJ",
       "material_cn": "8寸",
       "material_code": "8C",
-      "spec_number": "01-01",
-      "row_no": 112,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "01",
+      "row_no": 112
     }
   ]
 }

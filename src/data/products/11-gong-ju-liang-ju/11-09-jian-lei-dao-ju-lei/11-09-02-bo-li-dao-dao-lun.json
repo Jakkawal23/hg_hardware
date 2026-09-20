@@ -9,8 +9,9 @@
       "id": "11-09-02-001",
       "slug": "11-09-02-001",
       "code": "11.09.02.001",
-      "sku": "BLD-HT-00000-01",
+      "sku": "BLD-HT-00000",
       "name_th": "มีดตัดกระจก ด้ามทองเหลือง บรรจุ 10 ชิ้น/กล่อง",
+      "name_th_short": "มีดตัดกระจก",
       "name_cn": "玻璃刀 黄铜 （10支/盒）",
       "price": 27.6,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "BLD",
       "material_cn": "黄铜",
       "material_code": "HT",
-      "spec_number": "00000-01",
-      "row_no": 606,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000",
+      "row_no": 606
     },
     {
       "id": "11-09-02-003",
       "slug": "11-09-02-003",
       "code": "11.09.02.003",
-      "sku": "BLD-ZYS-00000-01",
+      "sku": "BLD-ZYS-00000",
       "name_th": "มีดตัดกระจก แบบเติมน้ำมัน ด้ามทองแดง รุ่นพรีเมียม บรรจุในกล่องไม้",
+      "name_th_short": "มีดตัดกระจก",
       "name_cn": "玻璃刀 注油式木盒 古铜 高档（10支/盒）",
       "price": 115.2,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "BLD",
       "material_cn": "注油式",
       "material_code": "ZYS",
-      "spec_number": "00000-01",
-      "row_no": 607,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000",
+      "row_no": 607
     },
     {
       "id": "11-09-02-004",
       "slug": "11-09-02-004",
       "code": "11.09.02.004",
-      "sku": "BLD-BCJS-00000-01",
+      "sku": "BLD-BCJS-00000",
       "name_th": "มีดตัดกระจก ยี่ห้อ Beice สีทอง บรรจุในกล่องไม้",
+      "name_th_short": "มีดตัดกระจก",
       "name_cn": "玻璃刀 北测木盒 金色（10支/盒）",
       "price": 72,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "BLD",
       "material_cn": "北测金色",
       "material_code": "BCJS",
-      "spec_number": "00000-01",
-      "row_no": 608,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000",
+      "row_no": 608
     },
     {
       "id": "11-09-02-005",
       "slug": "11-09-02-005",
       "code": "11.09.02.005",
-      "sku": "BLD-SK-00000-01",
+      "sku": "BLD-SK-00000",
       "name_th": "มีดตัดกระจก ยี่ห้อShike บรรจุ 6 ชิ้น/กล่อง",
+      "name_th_short": "มีดตัดกระจก",
       "name_cn": "世克 玻璃刀（6个/盒）",
       "price": 90,
       "image": "/placeholder.svg",
@@ -128,10 +126,8 @@
       "category_code": "BLD",
       "material_cn": "世克",
       "material_code": "SK",
-      "spec_number": "00000-01",
-      "row_no": 609,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000",
+      "row_no": 609
     }
   ]
 }

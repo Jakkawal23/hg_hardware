@@ -9,8 +9,9 @@
       "id": "12-06-05-056",
       "slug": "12-06-05-056",
       "code": "12.06.05.056",
-      "sku": "JC-HSM-7525-01",
+      "sku": "JC-HSM-7.5-25",
       "name_th": "ตลับเมตรผิวด้านสีดำ รุ่น 609 ขนาด 7.5 ม. * 25 มม.",
+      "name_th_short": "ตลับเมตรผิวด้านสีดำ 7.5 เมตร",
       "name_cn": "609型7.5*25公分黑色磨砂卷尺（12把/盒）YT-6097525MS",
       "price": 72,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "JC",
       "material_cn": "黑色磨砂",
       "material_code": "HSM",
-      "spec_number": "7525-01",
-      "row_no": 82,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "7.5-25",
+      "row_no": 82
     },
     {
       "id": "12-06-05-057",
       "slug": "12-06-05-057",
       "code": "12.06.05.057",
-      "sku": "JC-HSM-0525-01",
+      "sku": "JC-HSM-5-25",
       "name_th": "ตลับเมตรผิวด้านสีดำ รุ่น 609 ขนาด 5 ม. * 25 มม.",
+      "name_th_short": "ตลับเมตรผิวด้านสีดำ 5 เมตร",
       "name_cn": "609型5*25公分黑色磨砂卷尺（12把/盒）YT-609525MS",
       "price": 54,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "JC",
       "material_cn": "黑色磨砂",
       "material_code": "HSM",
-      "spec_number": "0525-01",
-      "row_no": 83,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "5-25",
+      "row_no": 83
     },
     {
       "id": "12-06-05-058",
       "slug": "12-06-05-058",
       "code": "12.06.05.058",
-      "sku": "JC-HSM-0519-01",
+      "sku": "JC-HSM-5-19",
       "name_th": "ตลับเมตรผิวด้านสีดำ รุ่น 609 ขนาด 5 ม. * 19 มม.",
+      "name_th_short": "ตลับเมตรผิวด้านสีดำ 5 เมตร",
       "name_cn": "609型5*19公分黑色磨砂卷尺（12把/盒）YT-609519MS",
       "price": 48,
       "image": "/placeholder.svg",
@@ -96,10 +95,8 @@
       "category_code": "JC",
       "material_cn": "黑色磨砂",
       "material_code": "HSM",
-      "spec_number": "0519-01",
-      "row_no": 84,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "5-19",
+      "row_no": 84
     }
   ]
 }

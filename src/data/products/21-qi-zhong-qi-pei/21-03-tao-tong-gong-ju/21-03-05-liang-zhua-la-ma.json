@@ -11,6 +11,7 @@
       "code": "21.03.05.007",
       "sku": "YYLM-YT-20T-10992",
       "name_th": "ตัวดูดไฮดรอลิก/ไฮดรอลิกพูลเลอร์ 20 ตัน รุ่น YT-10992 (2 เครื่อง/ลัง)",
+      "name_th_short": "ตัวดูดไฮดรอลิก 20 ตัน",
       "name_cn": "20T液压拉马（2台）YT-10992",
       "price": 5400,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "YT系列",
       "material_code": "YT",
       "spec_number": "20T-10992",
-      "row_no": 154,
-      "col_o": null,
-      "col_r": null
+      "row_no": 154
     },
     {
       "id": "21-03-05-008",
@@ -43,6 +42,7 @@
       "code": "21.03.05.008",
       "sku": "YYLM-YT-10T-10991",
       "name_th": "ตัวดูดไฮดรอลิก/ไฮดรอลิกพูลเลอร์ 10 ตัน รุ่น YT-10991 (2 เครื่อง/ลัง)",
+      "name_th_short": "ตัวดูดไฮดรอลิก 10 ตัน",
       "name_cn": "10T液压拉马（2台）YT-10991",
       "price": 2712,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "YT系列",
       "material_code": "YT",
       "spec_number": "10T-10991",
-      "row_no": 155,
-      "col_o": null,
-      "col_r": null
+      "row_no": 155
     }
   ]
 }

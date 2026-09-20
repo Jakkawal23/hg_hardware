@@ -9,8 +9,9 @@
       "id": "13-05-07-009",
       "slug": "13-05-07-009",
       "code": "13.05.07.009",
-      "sku": "FGBS-LS-25-01",
+      "sku": "FGBS-LS-25",
       "name_th": "เสื้อกั๊กสะท้อนแสงแบบซิปมัลติฟังก์ชั่น สีเขียว (25ตัว/แพ็ค)",
+      "name_th_short": "เสื้อกั๊กสะท้อนแสง",
       "name_cn": "多功能拉链式/反光背心/安全马甲 绿色（25件/包） / / 25/pk",
       "price": 64.8,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "FGBS",
       "material_cn": "绿色",
       "material_code": "LS",
-      "spec_number": "25-01",
-      "row_no": 107,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "25",
+      "row_no": 107
     },
     {
       "id": "13-05-07-010",
       "slug": "13-05-07-010",
       "code": "13.05.07.010",
-      "sku": "FGBS-CH-25-01",
+      "sku": "FGBS-CH-25",
       "name_th": "เสื้อกั๊กสะท้อนแสงแบบซิปมัลติฟังก์ชั่น สีส้มแดง (25ตัว/แพ็ค)",
+      "name_th_short": "เสื้อกั๊กสะท้อนแสง",
       "name_cn": "多功能拉链式/反光背心/安全马甲 橙红（25件/包） / / 25/",
       "price": 64.8,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "FGBS",
       "material_cn": "橙红",
       "material_code": "CH",
-      "spec_number": "25-01",
-      "row_no": 108,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "25",
+      "row_no": 108
     }
   ]
 }

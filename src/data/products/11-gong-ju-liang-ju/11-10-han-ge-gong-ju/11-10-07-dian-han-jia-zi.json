@@ -9,8 +9,9 @@
       "id": "11-10-07-003",
       "slug": "11-10-07-003",
       "code": "11.10.07.003",
-      "sku": "DDJ-500A-00000-01",
+      "sku": "DDJ-500A-00000",
       "name_th": "คีมจับลวดเชื่อม รุ่นพรีเมียม 500A",
+      "name_th_short": "คีมจับลวดเชื่อม",
       "name_cn": "精品电焊夹500A",
       "price": 55.2,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "DDJ",
       "material_cn": "500A",
       "material_code": "500A",
-      "spec_number": "00000-01",
-      "row_no": 699,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000",
+      "row_no": 699
     },
     {
       "id": "11-10-07-004",
       "slug": "11-10-07-004",
       "code": "11.10.07.004",
-      "sku": "DDJ-300A-00000-01",
+      "sku": "DDJ-300A-00000",
       "name_th": "คีมจับลวดเชื่อม รุ่นพรีเมียม 300A",
+      "name_th_short": "คีมจับลวดเชื่อม",
       "name_cn": "精品电焊夹300A",
       "price": 30,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "DDJ",
       "material_cn": "300A",
       "material_code": "300A",
-      "spec_number": "00000-01",
-      "row_no": 700,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000",
+      "row_no": 700
     }
   ]
 }

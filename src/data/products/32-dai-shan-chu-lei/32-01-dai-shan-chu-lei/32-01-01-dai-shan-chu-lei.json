@@ -11,6 +11,7 @@
       "code": "32.0052",
       "sku": "GPDQ-DC-ST-FF02-ST64C",
       "name_th": "ปืนยิงตะปูคอนกรีตไฟฟ้า/ปืนยิงตะปูเหล็ก Dongcheng รุ่น FF02-ST64C",
+      "name_th_short": "ปืนยิงตะปูไฟฟ้า",
       "name_cn": "东成钢排钉枪 FF02-ST64C",
       "price": 1800,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "东成ตระกูลเหล็ก",
       "material_code": "DC-ST",
       "spec_number": "FF02-ST64C",
-      "row_no": 1,
-      "col_o": null,
-      "col_r": null
+      "row_no": 1
     },
     {
       "id": "32-0128",
@@ -43,6 +42,7 @@
       "code": "32.0128",
       "sku": "DYJ-DC-CDWS-20V-140H",
       "name_th": "เลื่อยวงเดือนไร้สายมอเตอร์ไร้แปรงถ่าน DC 20V รุ่น DCMY140H",
+      "name_th_short": "เลื่อยวงเดือนไร้สาย",
       "name_cn": "DC20V充电式无刷电圆锯 DCMY140H",
       "price": 4416,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "DC充电无刷",
       "material_code": "DC-CDWS",
       "spec_number": "20V-140H",
-      "row_no": 2,
-      "col_o": null,
-      "col_r": null
+      "row_no": 2
     },
     {
       "id": "32-0135",
@@ -75,6 +73,7 @@
       "code": "32.0135",
       "sku": "JMJ-DC-LDMG-4IN-100H2",
       "name_th": "เครื่องเจียร/ลูกหมูไร้สายแบตเตอรี่ลิเธียม DC รุ่น DCSM03-100H2",
+      "name_th_short": "เครื่องเจียรไร้สาย",
       "name_cn": "DC角磨机锂电/磨光机 DCSM03-100H2",
       "price": 6480,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "DC锂电磨光",
       "material_code": "DC-LDMG",
       "spec_number": "4IN-100H2",
-      "row_no": 3,
-      "col_o": null,
-      "col_r": null
+      "row_no": 3
     },
     {
       "id": "32-0158",
@@ -107,6 +104,7 @@
       "code": "32.0158",
       "sku": "DCB-DC-LYD-20V",
       "name_th": "แบตเตอรี่ลิเธียมไอออนสำหรับเครื่องมือช่าง พิกัดไฟ 20V ซีรีส์ DC",
+      "name_th_short": "แบตเตอรี่ลิเธียม 20V",
       "name_cn": "DC20V电池",
       "price": 1800,
       "image": "/placeholder.svg",
@@ -129,9 +127,7 @@
       "material_cn": "DC专用锂电",
       "material_code": "DC-LYD",
       "spec_number": "20V",
-      "row_no": 4,
-      "col_o": null,
-      "col_r": null
+      "row_no": 4
     },
     {
       "id": "32-1323",
@@ -139,6 +135,7 @@
       "code": "32.1323",
       "sku": "CZ-GN-SY-4K-10G",
       "name_th": "เต้ารับไฟฟ้า/หน้ากากปลั๊กไฟ 4 ขา แบรนด์ Bull (10ตัว/กล่อง)",
+      "name_th_short": "เต้ารับ Bull 4 ช่อง",
       "name_cn": "插座-公牛四眼插座（10个/盒）",
       "price": 96,
       "image": "/placeholder.svg",
@@ -161,9 +158,7 @@
       "material_cn": "公牛四眼",
       "material_code": "GN-SY",
       "spec_number": "4K-10G",
-      "row_no": 5,
-      "col_o": null,
-      "col_r": null
+      "row_no": 5
     },
     {
       "id": "32-1324",
@@ -171,6 +166,7 @@
       "code": "32.1324",
       "sku": "CZ-GN-SAY-3K-10G",
       "name_th": "เต้ารับไฟฟ้า/หน้ากากปลั๊กไฟ 3 ขา แบรนด์ Bull (10ตัว/กล่อง)",
+      "name_th_short": "เต้ารับ Bull 3 ช่อง",
       "name_cn": "插座-公牛三眼插座（10个/盒）",
       "price": 61.2,
       "image": "/placeholder.svg",
@@ -193,9 +189,7 @@
       "material_cn": "公牛三眼",
       "material_code": "GN-SAY",
       "spec_number": "3K-10G",
-      "row_no": 6,
-      "col_o": null,
-      "col_r": null
+      "row_no": 6
     },
     {
       "id": "32-1338",
@@ -203,6 +197,7 @@
       "code": "32.1338",
       "sku": "JMJ-DC-CDWS-4IN-100E",
       "name_th": "เครื่องเจียร/ลูกหมูไร้สายมอเตอร์ไร้แปรงถ่าน DC รุ่น DCSM03-100E",
+      "name_th_short": "เครื่องเจียรไร้สาย",
       "name_cn": "DC充电式无刷角向磨光机/角磨机DCSM03-100E",
       "price": 4800,
       "image": "/placeholder.svg",
@@ -225,9 +220,7 @@
       "material_cn": "DC充电无刷",
       "material_code": "DC-CDWS",
       "spec_number": "4IN-100E",
-      "row_no": 7,
-      "col_o": null,
-      "col_r": null
+      "row_no": 7
     },
     {
       "id": "32-1339",
@@ -235,6 +228,7 @@
       "code": "32.1339",
       "sku": "DYJ-DC-CDWS-20V-155HM",
       "name_th": "เลื่อยวงเดือนไร้สายมอเตอร์ไร้แปรงถ่าน DC 20V รุ่น DCMY155HM",
+      "name_th_short": "เลื่อยวงเดือนไร้สาย",
       "name_cn": "DC充电式无刷电圆锯DCMY155HM",
       "price": 3840,
       "image": "/placeholder.svg",
@@ -257,9 +251,7 @@
       "material_cn": "DC充电无刷",
       "material_code": "DC-CDWS",
       "spec_number": "20V-155HM",
-      "row_no": 8,
-      "col_o": null,
-      "col_r": null
+      "row_no": 8
     },
     {
       "id": "wsdadr",
@@ -267,6 +259,7 @@
       "code": "wsdadr",
       "sku": "WMCL-CGW-01",
       "name_th": "แผ่นหลังคาเหล็กรีดลอนเคลือบสี / แผ่นหลังคาเมทัลชีท",
+      "name_th_short": "แผ่นหลังคาเมทัลชีท",
       "name_cn": "彩钢瓦",
       "price": 300,
       "image": "/placeholder.svg",
@@ -289,9 +282,7 @@
       "material_cn": "彩钢瓦",
       "material_code": "CGW",
       "spec_number": "01",
-      "row_no": 9,
-      "col_o": null,
-      "col_r": null
+      "row_no": 9
     }
   ]
 }

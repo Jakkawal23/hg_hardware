@@ -9,8 +9,9 @@
       "id": "19-01-11-015",
       "slug": "19-01-11-015",
       "code": "19.01.11.015",
-      "sku": "SLD-HK-B-100-01",
+      "sku": "SLD-HK-B-100",
       "name_th": "เทปพันเกลียว ฝาแดง รุ่น B (100 ม้วน/กล่อง)",
+      "name_th_short": "เทปพันเกลียว",
       "name_cn": "红扣生料带B(100卷/盒)",
       "price": 8.4,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "SLD",
       "material_cn": "红扣B款",
       "material_code": "HK-B",
-      "spec_number": "100-01",
-      "row_no": 1,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "100",
+      "row_no": 1
     },
     {
       "id": "19-01-11-016",
       "slug": "19-01-11-016",
       "code": "19.01.11.016",
-      "sku": "SLD-SQ-1-01",
+      "sku": "SLD-SQ-1",
       "name_th": "เทปพันเกลียว แบรนด์สามห่วง (Three Circles)",
+      "name_th_short": "เทปพันเกลียว",
       "name_cn": "三圈生料带",
       "price": 33.6,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "SLD",
       "material_cn": "三圈",
       "material_code": "SQ",
-      "spec_number": "1-01",
-      "row_no": 2,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1",
+      "row_no": 2
     },
     {
       "id": "19-01-11-017",
       "slug": "19-01-11-017",
       "code": "19.01.11.017",
-      "sku": "YTSLD-HT-155-155-01",
+      "sku": "YTSLD-HT-155-01",
       "name_th": "น้ำยาซีลเกลียว/เทปพันเกลียวชนิดน้ำ Hangtai 155",
+      "name_th_short": "น้ำยาซีลเกลียว",
       "name_cn": "航泰155液体生料带",
       "price": 48,
       "image": "/placeholder.svg",
@@ -96,10 +95,8 @@
       "category_code": "YTSLD",
       "material_cn": "航泰155",
       "material_code": "HT-155",
-      "spec_number": "155-01",
-      "row_no": 3,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "01",
+      "row_no": 3
     }
   ]
 }

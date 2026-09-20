@@ -9,8 +9,9 @@
       "id": "11-09-05-006",
       "slug": "11-09-05-006",
       "code": "11.09.05.006",
-      "sku": "GZGD-HFZD-00000-01",
+      "sku": "GZGD-HFZD-00000",
       "name_th": "กรรไกรตัดท่อ PPR ยี่ห้อHufan รุ่นมาตรฐาน บรรจุ 10 ชิ้น/กล่อง",
+      "name_th_short": "กรรไกรตัดท่อ PPR",
       "name_cn": "沪帆PPR剪刀（管子割刀）中档（10把/盒）",
       "price": 120,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "GZGD",
       "material_cn": "沪帆中档",
       "material_code": "HFZD",
-      "spec_number": "00000-01",
-      "row_no": 613,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000",
+      "row_no": 613
     },
     {
       "id": "11-09-05-007",
       "slug": "11-09-05-007",
       "code": "11.09.05.007",
-      "sku": "GZGD-HS-32000-01",
+      "sku": "GZGD-HS-32000",
       "name_th": "กรรไกรตัดท่อ สีแดง ขนาด 32 มม.",
+      "name_th_short": "กรรไกรตัดท่อ",
       "name_cn": "红色管子割刀 32MM",
       "price": 96,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "GZGD",
       "material_cn": "红色",
       "material_code": "HS",
-      "spec_number": "32000-01",
-      "row_no": 614,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "32000",
+      "row_no": 614
     }
   ]
 }

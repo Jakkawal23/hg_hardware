@@ -9,8 +9,9 @@
       "id": "11-06-01-001",
       "slug": "11-06-01-001",
       "code": "11.06.01.001",
-      "sku": "GJQ-BP-00000-01",
+      "sku": "GJQ-BP-00000",
       "name_th": "ปืนยิงกาวซิลิโคน (แบบมาตรฐาน) บรรจุ 20 ชิ้น/ลัง",
+      "name_th_short": "ปืนยิงกาวซิลิโคน",
       "name_cn": "硅胶枪（20把/箱）",
       "price": 54,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "GJQ",
       "material_cn": "标配",
       "material_code": "BP",
-      "spec_number": "00000-01",
-      "row_no": 461,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000",
+      "row_no": 461
     },
     {
       "id": "11-06-01-002",
       "slug": "11-06-01-002",
       "code": "11.06.01.002",
-      "sku": "GJQ-XZJP-00000-01",
+      "sku": "GJQ-XZJP-00000",
       "name_th": "ปืนยิงกาวซิลิโคน ชนิดหมุนได้ รุ่นพรีเมียม บรรจุ 20 ชิ้น/ลัง",
+      "name_th_short": "ปืนยิงกาวซิลิโคน",
       "name_cn": "硅胶枪旋转精品（20把/箱）",
       "price": 60,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "GJQ",
       "material_cn": "旋转精品",
       "material_code": "XZJP",
-      "spec_number": "00000-01",
-      "row_no": 462,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000",
+      "row_no": 462
     },
     {
       "id": "11-06-01-004",
       "slug": "11-06-01-004",
       "code": "11.06.01.004",
-      "sku": "GJQ-DJK-00000-01",
-      "name_th": "ปืนยิงกาวซิลิโคน ชนิดหมุนได้ รุ่น Tajima สีดำ/เขียว",
+      "sku": "GJQ-DJK-00000",
+      "name_th": "ปืนยิงกาวซิลิโคน รุ่นพรีเมียม ชนิดหมุนได้ รุ่น Tajima สีดำ/เขียว",
+      "name_th_short": "ปืนยิงกาวซิลิโคน",
       "name_cn": "精品田岛款旋转硅胶枪 黑色/绿色",
       "price": 156,
       "image": "/placeholder.svg",
@@ -96,10 +95,8 @@
       "category_code": "GJQ",
       "material_cn": "田岛款",
       "material_code": "DJK",
-      "spec_number": "00000-01",
-      "row_no": 463,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000",
+      "row_no": 463
     }
   ]
 }

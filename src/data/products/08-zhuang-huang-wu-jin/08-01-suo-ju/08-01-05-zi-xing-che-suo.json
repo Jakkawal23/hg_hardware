@@ -9,8 +9,9 @@
       "id": "08-01-05-001",
       "slug": "08-01-05-001",
       "code": "08.01.05.001",
-      "sku": "ZXC-HX-01-01",
+      "sku": "ZXC-HX-01",
       "name_th": "ล็อกจักรยานแบบห่วง ขนาดเล็ก",
+      "name_th_short": "ล็อกจักรยาน",
       "name_cn": "自行车环形锁 小",
       "price": 42,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "ZXC",
       "material_cn": "环形",
       "material_code": "HX",
-      "spec_number": "01-01",
-      "row_no": 27,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "01",
+      "row_no": 27
     },
     {
       "id": "08-01-05-002",
       "slug": "08-01-05-002",
       "code": "08.01.05.002",
-      "sku": "ZXC-HX-02-01",
+      "sku": "ZXC-HX-02",
       "name_th": "ล็อกจักรยานแบบห่วง ขนาดใหญ่",
+      "name_th_short": "ล็อกจักรยาน",
       "name_cn": "自行车环形锁 大",
       "price": 54,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "ZXC",
       "material_cn": "环形",
       "material_code": "HX",
-      "spec_number": "02-01",
-      "row_no": 28,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "02",
+      "row_no": 28
     },
     {
       "id": "08-01-05-004",
       "slug": "08-01-05-004",
       "code": "08.01.05.004",
-      "sku": "ZXC-CQHX-120-01",
+      "sku": "ZXC-CQHX-120",
       "name_th": "ล็อกจักรยานแบบห่วงสี ขนาด 1.2 เมตร (รวมที่ยึดล็อก)",
+      "name_th_short": "ล็อกจักรยาน",
       "name_cn": "自行车彩圈环形锁 1.2米（带车锁架）",
       "price": 72,
       "image": "/placeholder.svg",
@@ -96,10 +95,8 @@
       "category_code": "ZXC",
       "material_cn": "彩圈环形",
       "material_code": "CQHX",
-      "spec_number": "120-01",
-      "row_no": 29,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "120",
+      "row_no": 29
     }
   ]
 }

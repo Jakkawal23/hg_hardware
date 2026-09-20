@@ -9,8 +9,9 @@
       "id": "11-10-01-003",
       "slug": "11-10-01-003",
       "code": "11.10.01.003",
-      "sku": "FZPT-YQB-00000-01",
+      "sku": "FZPT-YQB-00000",
       "name_th": "ปลอกยางกันกระแทก สำหรับเกจ์อะเซทิลีน",
+      "name_th_short": "ปลอกยางกันกระแทกเกจ์",
       "name_cn": "防震皮套 乙炔表",
       "price": 300,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "FZPT",
       "material_cn": "乙炔表",
       "material_code": "YQB",
-      "spec_number": "00000-01",
-      "row_no": 648,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000",
+      "row_no": 648
     },
     {
       "id": "11-10-01-004",
       "slug": "11-10-01-004",
       "code": "11.10.01.004",
-      "sku": "FZPT-EYHTB-00000-01",
+      "sku": "FZPT-EYHTB-00000",
       "name_th": "ปลอกยางกันกระแทก สำหรับเกจ์คาร์บอนไดออกไซด์",
+      "name_th_short": "ปลอกยางกันกระแทกเกจ์",
       "name_cn": "防震皮套 二氧化碳表",
       "price": 480,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "FZPT",
       "material_cn": "二氧化碳表",
       "material_code": "EYHTB",
-      "spec_number": "00000-01",
-      "row_no": 649,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000",
+      "row_no": 649
     },
     {
       "id": "11-10-01-005",
@@ -75,6 +73,7 @@
       "code": "11.10.01.005",
       "sku": "YQB-QT-00000-01",
       "name_th": "เกจ์ออกซิเจน วัสดุทองเหลืองแท้",
+      "name_th_short": "เกจ์ออกซิเจน",
       "name_cn": "全铜 氧气表",
       "price": 446.4,
       "image": "/placeholder.svg",
@@ -97,16 +96,15 @@
       "material_cn": "全铜",
       "material_code": "QT",
       "spec_number": "00000-01",
-      "row_no": 650,
-      "col_o": null,
-      "col_r": null
+      "row_no": 650
     },
     {
       "id": "11-10-01-007",
       "slug": "11-10-01-007",
       "code": "11.10.01.007",
-      "sku": "PB-QT-00000-01",
+      "sku": "PB-QT-00000",
       "name_th": "เกจ์โพรเพน วัสดุทองเหลืองแท้",
+      "name_th_short": "เกจ์โพรเพน",
       "name_cn": "全铜 丙烷表",
       "price": 446.4,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "PB",
       "material_cn": "全铜",
       "material_code": "QT",
-      "spec_number": "00000-01",
-      "row_no": 651,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000",
+      "row_no": 651
     },
     {
       "id": "11-10-01-009",
       "slug": "11-10-01-009",
       "code": "11.10.01.009",
-      "sku": "YQB-QT-00000-03",
+      "sku": "YQB-QT-00000-02",
       "name_th": "เกจ์อะเซทิลีน วัสดุทองเหลืองแท้",
+      "name_th_short": "เกจ์อะเซทิลีน",
       "name_cn": "全铜 乙炔表",
       "price": 446.4,
       "image": "/placeholder.svg",
@@ -160,17 +157,16 @@
       "category_code": "YQB",
       "material_cn": "全铜",
       "material_code": "QT",
-      "spec_number": "00000-03",
-      "row_no": 652,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000-02",
+      "row_no": 652
     },
     {
       "id": "11-10-01-013",
       "slug": "11-10-01-013",
       "code": "11.10.01.013",
-      "sku": "FZPT-PB-00000-01",
+      "sku": "FZPT-PB-00000",
       "name_th": "ปลอกยางกันกระแทก สำหรับเกจ์โพรเพน",
+      "name_th_short": "ปลอกยางกันกระแทกเกจ์",
       "name_cn": "防震皮套 丙烷表",
       "price": 300,
       "image": "/placeholder.svg",
@@ -192,17 +188,16 @@
       "category_code": "FZPT",
       "material_cn": "丙烷表",
       "material_code": "PB",
-      "spec_number": "00000-01",
-      "row_no": 653,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000",
+      "row_no": 653
     },
     {
       "id": "11-10-01-014",
       "slug": "11-10-01-014",
       "code": "11.10.01.014",
-      "sku": "EYHTB-220V-00000-01",
+      "sku": "EYHTB-220V-00000",
       "name_th": "เกจ์คาร์บอนไดออกไซด์ ระบบ 220V",
+      "name_th_short": "เกจ์คาร์บอนไดออกไซด์",
       "name_cn": "220V二氧化碳表 YT-520008",
       "price": 690,
       "image": "/placeholder.svg",
@@ -224,17 +219,16 @@
       "category_code": "EYHTB",
       "material_cn": "220V",
       "material_code": "220V",
-      "spec_number": "00000-01",
-      "row_no": 654,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000",
+      "row_no": 654
     },
     {
       "id": "11-10-01-015",
       "slug": "11-10-01-015",
       "code": "11.10.01.015",
-      "sku": "EYHTB-36V-00000-01",
+      "sku": "EYHTB-36V-00000",
       "name_th": "เกจ์คาร์บอนไดออกไซด์ ระบบ 36V",
+      "name_th_short": "เกจ์คาร์บอนไดออกไซด์",
       "name_cn": "36V二氧化碳表 YT-520007",
       "price": 690,
       "image": "/placeholder.svg",
@@ -256,17 +250,16 @@
       "category_code": "EYHTB",
       "material_cn": "36V",
       "material_code": "36V",
-      "spec_number": "00000-01",
-      "row_no": 655,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000",
+      "row_no": 655
     },
     {
       "id": "11-10-01-016",
       "slug": "11-10-01-016",
       "code": "11.10.01.016",
-      "sku": "YQB-QT-00000-02",
+      "sku": "YQB-QT-00000-03",
       "name_th": "เกจ์อาร์กอน วัสดุทองเหลืองแท้",
+      "name_th_short": "เกจ์อาร์กอน",
       "name_cn": "氩气表（全铜）YT-520004",
       "price": 564,
       "image": "/placeholder.svg",
@@ -288,17 +281,16 @@
       "category_code": "YQB",
       "material_cn": "全铜",
       "material_code": "QT",
-      "spec_number": "00000-02",
-      "row_no": 656,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000-03",
+      "row_no": 656
     },
     {
       "id": "11-10-01-017",
       "slug": "11-10-01-017",
       "code": "11.10.01.017",
-      "sku": "PB-PB-00000-01",
+      "sku": "PB-PB-00000",
       "name_th": "เกจ์โพรเพน รุ่น B บรรจุ 12 ชิ้น/ลัง",
+      "name_th_short": "เกจ์โพรเพน",
       "name_cn": "丙烷表B（12把/件）YT-520009",
       "price": 372,
       "image": "/placeholder.svg",
@@ -320,17 +312,16 @@
       "category_code": "PB",
       "material_cn": "丙烷B",
       "material_code": "PB",
-      "spec_number": "00000-01",
-      "row_no": 657,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000",
+      "row_no": 657
     },
     {
       "id": "11-10-01-018",
       "slug": "11-10-01-018",
       "code": "11.10.01.018",
-      "sku": "PB-CTH-00000-01",
+      "sku": "PB-CTH-00000",
       "name_th": "เกจ์โพรเพน ทองแดงแท้ คุณภาพดี",
+      "name_th_short": "เกจ์โพรเพน",
       "name_cn": "纯铜丙烷表（好）YT-520003",
       "price": 576,
       "image": "/placeholder.svg",
@@ -352,10 +343,8 @@
       "category_code": "PB",
       "material_cn": "纯铜好",
       "material_code": "CTH",
-      "spec_number": "00000-01",
-      "row_no": 658,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000",
+      "row_no": 658
     },
     {
       "id": "11-10-01-019",
@@ -363,6 +352,7 @@
       "code": "11.10.01.019",
       "sku": "YQB-YQB-00000-01",
       "name_th": "เกจ์ออกซิเจน รุ่น B บรรจุ 12 ชิ้น/ลัง",
+      "name_th_short": "เกจ์ออกซิเจน",
       "name_cn": "氧气表B(12把/件)YT-520001 B",
       "price": 354,
       "image": "/placeholder.svg",
@@ -385,9 +375,7 @@
       "material_cn": "氧气B",
       "material_code": "YQB",
       "spec_number": "00000-01",
-      "row_no": 659,
-      "col_o": null,
-      "col_r": null
+      "row_no": 659
     },
     {
       "id": "11-10-01-020",
@@ -395,6 +383,7 @@
       "code": "11.10.01.020",
       "sku": "YQB-CTH-00000-01",
       "name_th": "เกจ์ออกซิเจน ทองแดงแท้ คุณภาพดี",
+      "name_th_short": "เกจ์ออกซิเจน",
       "name_cn": "纯铜氧气表（好）YT-519001",
       "price": 576,
       "image": "/placeholder.svg",
@@ -417,9 +406,7 @@
       "material_cn": "纯铜好",
       "material_code": "CTH",
       "spec_number": "00000-01",
-      "row_no": 660,
-      "col_o": null,
-      "col_r": null
+      "row_no": 660
     },
     {
       "id": "11-10-01-021",
@@ -427,6 +414,7 @@
       "code": "11.10.01.021",
       "sku": "YQB-CTH-00000-02",
       "name_th": "เกจ์อะเซทิลีน ทองแดงแท้ คุณภาพดี",
+      "name_th_short": "เกจ์อะเซทิลีน",
       "name_cn": "纯铜乙炔表（好）YT-519002",
       "price": 576,
       "image": "/placeholder.svg",
@@ -449,9 +437,7 @@
       "material_cn": "纯铜好",
       "material_code": "CTH",
       "spec_number": "00000-02",
-      "row_no": 661,
-      "col_o": null,
-      "col_r": null
+      "row_no": 661
     },
     {
       "id": "11-10-01-022",
@@ -459,6 +445,7 @@
       "code": "11.10.01.022",
       "sku": "YQB-YQB-00000-02",
       "name_th": "เกจ์อะเซทิลีน รุ่น B บรรจุ 12 ชิ้น/ลัง",
+      "name_th_short": "เกจ์อะเซทิลีน",
       "name_cn": "乙炔表B(12把/件)YT-520002",
       "price": 354,
       "image": "/placeholder.svg",
@@ -481,16 +468,15 @@
       "material_cn": "乙炔B",
       "material_code": "YQB",
       "spec_number": "00000-02",
-      "row_no": 662,
-      "col_o": null,
-      "col_r": null
+      "row_no": 662
     },
     {
       "id": "11-10-01-023",
       "slug": "11-10-01-023",
       "code": "11.10.01.023",
-      "sku": "EYHTB-SK-220V0-01",
+      "sku": "EYHTB-SK-220V0",
       "name_th": "เกจ์คาร์บอนไดออกไซด์ ยี่ห้อShike (220V)",
+      "name_th_short": "เกจ์คาร์บอนไดออกไซด์",
       "name_cn": "世克 二氧化碳表(220V)",
       "price": 672,
       "image": "/placeholder.svg",
@@ -512,10 +498,8 @@
       "category_code": "EYHTB",
       "material_cn": "世克",
       "material_code": "SK",
-      "spec_number": "220V0-01",
-      "row_no": 663,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "220V0",
+      "row_no": 663
     }
   ]
 }

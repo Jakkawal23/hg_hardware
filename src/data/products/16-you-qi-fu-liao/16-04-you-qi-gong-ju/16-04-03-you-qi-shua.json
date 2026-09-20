@@ -9,8 +9,9 @@
       "id": "16-04-03-001",
       "slug": "16-04-03-001",
       "code": "16.04.03.001",
-      "sku": "YQS-PT-1-01",
+      "sku": "YQS-PT-1",
       "name_th": "แปรงทาสี 1 นิ้ว",
+      "name_th_short": "แปรงทาสี",
       "name_cn": "油漆刷1寸",
       "price": 3.6,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "YQS",
       "material_cn": "普通",
       "material_code": "PT",
-      "spec_number": "1-01",
-      "row_no": 45,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1",
+      "row_no": 45
     },
     {
       "id": "16-04-03-002",
       "slug": "16-04-03-002",
       "code": "16.04.03.002",
-      "sku": "YQS-PT-15-01",
+      "sku": "YQS-PT-15",
       "name_th": "แปรงทาสี 1.5 นิ้ว",
+      "name_th_short": "แปรงทาสี",
       "name_cn": "油漆刷1.5寸",
       "price": 4.8,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "YQS",
       "material_cn": "普通",
       "material_code": "PT",
-      "spec_number": "15-01",
-      "row_no": 46,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "15",
+      "row_no": 46
     },
     {
       "id": "16-04-03-003",
       "slug": "16-04-03-003",
       "code": "16.04.03.003",
-      "sku": "YQS-PT-2-01",
+      "sku": "YQS-PT-2",
       "name_th": "แปรงทาสี 2 นิ้ว",
+      "name_th_short": "แปรงทาสี",
       "name_cn": "油漆刷2寸",
       "price": 6,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "YQS",
       "material_cn": "普通",
       "material_code": "PT",
-      "spec_number": "2-01",
-      "row_no": 47,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "2",
+      "row_no": 47
     },
     {
       "id": "16-04-03-004",
       "slug": "16-04-03-004",
       "code": "16.04.03.004",
-      "sku": "YQS-PT-25-01",
+      "sku": "YQS-PT-25",
       "name_th": "แปรงทาสี 2.5 นิ้ว",
+      "name_th_short": "แปรงทาสี",
       "name_cn": "油漆刷2.5寸",
       "price": 8.4,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "YQS",
       "material_cn": "普通",
       "material_code": "PT",
-      "spec_number": "25-01",
-      "row_no": 48,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "25",
+      "row_no": 48
     },
     {
       "id": "16-04-03-005",
       "slug": "16-04-03-005",
       "code": "16.04.03.005",
-      "sku": "YQS-PT-3-01",
+      "sku": "YQS-PT-3",
       "name_th": "แปรงทาสี 3 นิ้ว",
+      "name_th_short": "แปรงทาสี",
       "name_cn": "油漆刷3寸",
       "price": 8.4,
       "image": "/placeholder.svg",
@@ -160,17 +157,16 @@
       "category_code": "YQS",
       "material_cn": "普通",
       "material_code": "PT",
-      "spec_number": "3-01",
-      "row_no": 49,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "3",
+      "row_no": 49
     },
     {
       "id": "16-04-03-006",
       "slug": "16-04-03-006",
       "code": "16.04.03.006",
-      "sku": "YQS-PT-4-01",
+      "sku": "YQS-PT-4",
       "name_th": "แปรงทาสี 4 นิ้ว",
+      "name_th_short": "แปรงทาสี",
       "name_cn": "油漆刷4寸",
       "price": 12,
       "image": "/placeholder.svg",
@@ -192,17 +188,16 @@
       "category_code": "YQS",
       "material_cn": "普通",
       "material_code": "PT",
-      "spec_number": "4-01",
-      "row_no": 50,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "4",
+      "row_no": 50
     },
     {
       "id": "16-04-03-007",
       "slug": "16-04-03-007",
       "code": "16.04.03.007",
-      "sku": "YQS-PT-5-01",
+      "sku": "YQS-PT-5",
       "name_th": "แปรงทาสี 5 นิ้ว",
+      "name_th_short": "แปรงทาสี",
       "name_cn": "油漆刷5寸",
       "price": 15.6,
       "image": "/placeholder.svg",
@@ -224,10 +219,8 @@
       "category_code": "YQS",
       "material_cn": "普通",
       "material_code": "PT",
-      "spec_number": "5-01",
-      "row_no": 51,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "5",
+      "row_no": 51
     }
   ]
 }

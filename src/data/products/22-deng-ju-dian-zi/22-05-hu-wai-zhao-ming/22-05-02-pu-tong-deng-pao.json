@@ -11,6 +11,7 @@
       "code": "22.05.02.003",
       "sku": "BLDP-HZ-25W",
       "name_th": "หลอดไส้ดั้งเดิม แบรนด์ Huzi 25W",
+      "name_th_short": "หลอดไส้",
       "name_cn": "沪字灯泡 25W",
       "price": null,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "沪字系列",
       "material_code": "HZ",
       "spec_number": "25W",
-      "row_no": 119,
-      "col_o": null,
-      "col_r": null
+      "row_no": 119
     },
     {
       "id": "22-05-02-004",
@@ -43,6 +42,7 @@
       "code": "22.05.02.004",
       "sku": "BLDP-HZ-40W",
       "name_th": "หลอดไส้ดั้งเดิม แบรนด์ Huzi 40W",
+      "name_th_short": "หลอดไส้",
       "name_cn": "沪字灯泡 40W",
       "price": 10.8,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "沪字系列",
       "material_code": "HZ",
       "spec_number": "40W",
-      "row_no": 120,
-      "col_o": null,
-      "col_r": null
+      "row_no": 120
     },
     {
       "id": "22-05-02-005",
@@ -75,6 +73,7 @@
       "code": "22.05.02.005",
       "sku": "BLDP-HZ-60W",
       "name_th": "หลอดไส้ดั้งเดิม แบรนด์ Huzi 230V 60W",
+      "name_th_short": "หลอดไส้",
       "name_cn": "沪字灯泡 230V 60W",
       "price": 10.8,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "沪字系列",
       "material_code": "HZ",
       "spec_number": "60W",
-      "row_no": 121,
-      "col_o": null,
-      "col_r": null
+      "row_no": 121
     },
     {
       "id": "22-05-02-006",
@@ -107,6 +104,7 @@
       "code": "22.05.02.006",
       "sku": "BLDP-HZ-100W",
       "name_th": "หลอดไส้ดั้งเดิม แบรนด์ Huzi 100W",
+      "name_th_short": "หลอดไส้",
       "name_cn": "沪字灯泡 100W",
       "price": 12,
       "image": "/placeholder.svg",
@@ -129,9 +127,7 @@
       "material_cn": "沪字系列",
       "material_code": "HZ",
       "spec_number": "100W",
-      "row_no": 122,
-      "col_o": null,
-      "col_r": null
+      "row_no": 122
     },
     {
       "id": "22-05-02-007",
@@ -139,6 +135,7 @@
       "code": "22.05.02.007",
       "sku": "BLDP-HZ-200W",
       "name_th": "หลอดไส้ดั้งเดิม แบรนด์ Huzi 200W",
+      "name_th_short": "หลอดไส้",
       "name_cn": "《沪字灯泡》 200W",
       "price": 21.6,
       "image": "/placeholder.svg",
@@ -161,9 +158,7 @@
       "material_cn": "沪字系列",
       "material_code": "HZ",
       "spec_number": "200W",
-      "row_no": 123,
-      "col_o": null,
-      "col_r": null
+      "row_no": 123
     }
   ]
 }

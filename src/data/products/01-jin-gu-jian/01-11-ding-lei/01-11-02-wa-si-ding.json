@@ -9,8 +9,9 @@
       "id": "01-11-02-002",
       "slug": "01-11-02-002",
       "code": "01.11.02.002",
-      "sku": "WSD-LF-3022-01",
+      "sku": "WSD-LF-3-22",
       "name_th": "ตะปูแก๊ส (ตะปูยิง) 3.0*22 (1 ลัง 10 กล่อง)",
+      "name_th_short": "ตะปูแก๊ส",
       "name_cn": "瓦斯钉(连发射钉)3.0*22（1件10盒）",
       "price": 162,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "WSD",
       "material_cn": "连发",
       "material_code": "LF",
-      "spec_number": "3022-01",
-      "row_no": 748,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "3-22",
+      "row_no": 748
     },
     {
       "id": "01-11-02-011",
       "slug": "01-11-02-011",
       "code": "01.11.02.011",
-      "sku": "WSQ-YT-521014-01",
+      "sku": "WSQ-YT-521014",
       "name_th": "ปืนยิงแก๊ส YT-521014 (10 กระบอก/กล่อง)",
+      "name_th_short": "ปืนยิงแก๊ส",
       "name_cn": "瓦斯枪（10把/盒）YT-521014",
       "price": 114,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "WSQ",
       "material_cn": "YT",
       "material_code": "YT",
-      "spec_number": "521014-01",
-      "row_no": 749,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "521014",
+      "row_no": 749
     },
     {
       "id": "01-11-02-012",
       "slug": "01-11-02-012",
       "code": "01.11.02.012",
-      "sku": "WSQT-G-001-01",
+      "sku": "WSQT-G-001",
       "name_th": "แก๊สกระป๋อง (สำหรับปืนยิงแก๊ส)",
+      "name_th_short": "แก๊สกระป๋องสำหรับปืนยิง",
       "name_cn": "瓦斯气体（瓦斯罐）",
       "price": 79.2,
       "image": "/placeholder.svg",
@@ -96,10 +95,8 @@
       "category_code": "WSQT",
       "material_cn": "罐",
       "material_code": "G",
-      "spec_number": "001-01",
-      "row_no": 750,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "001",
+      "row_no": 750
     }
   ]
 }

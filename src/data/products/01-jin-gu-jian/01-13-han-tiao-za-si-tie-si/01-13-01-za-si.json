@@ -11,6 +11,7 @@
       "code": "01.13.01.001",
       "sku": "ZS-22-73001",
       "name_th": "ลวดตัดตรง เบอร์22 7 กก. (ยาว 30 ซม.)",
+      "name_th_short": "ลวดตัดตรง",
       "name_cn": "段丝扎丝22#7KG（30公分）",
       "price": 324,
       "image": "/placeholder.svg",
@@ -31,11 +32,9 @@
       "category_cn": "扎丝",
       "category_code": "ZS",
       "material_cn": "22#",
-      "material_code": "22.0",
+      "material_code": 22,
       "spec_number": "73001",
-      "row_no": 909,
-      "col_o": null,
-      "col_r": null
+      "row_no": 909
     },
     {
       "id": "01-13-01-002",
@@ -43,6 +42,7 @@
       "code": "01.13.01.002",
       "sku": "ZS-22-73501",
       "name_th": "ลวดตัดตรง เบอร์22 7 กก. (ยาว 35 ซม.)",
+      "name_th_short": "ลวดตัดตรง",
       "name_cn": "段丝扎丝22#7公斤（35公分）",
       "price": 324,
       "image": "/placeholder.svg",
@@ -63,11 +63,9 @@
       "category_cn": "扎丝",
       "category_code": "ZS",
       "material_cn": "22#",
-      "material_code": "22.0",
+      "material_code": 22,
       "spec_number": "73501",
-      "row_no": 910,
-      "col_o": null,
-      "col_r": null
+      "row_no": 910
     },
     {
       "id": "01-13-01-003",
@@ -75,6 +73,7 @@
       "code": "01.13.01.003",
       "sku": "ZS-22-74001",
       "name_th": "ลวดตัดตรง เบอร์22 7 กก. (ยาว 40 ซม.)",
+      "name_th_short": "ลวดตัดตรง",
       "name_cn": "段丝扎丝22#7KG（40公分）",
       "price": 324,
       "image": "/placeholder.svg",
@@ -95,11 +94,9 @@
       "category_cn": "扎丝",
       "category_code": "ZS",
       "material_cn": "22#",
-      "material_code": "22.0",
+      "material_code": 22,
       "spec_number": "74001",
-      "row_no": 911,
-      "col_o": null,
-      "col_r": null
+      "row_no": 911
     }
   ]
 }

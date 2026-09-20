@@ -11,6 +11,7 @@
       "code": "17.05.06.002",
       "sku": "HJZ-PZ-10-160",
       "name_th": "ดอกสกัดอัลลอยแบน 10x160",
+      "name_th_short": "ดอกสกัดอัลลอยแบน 10",
       "name_cn": "合金凿子平 10*160",
       "price": 36,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "平凿",
       "material_code": "PZ",
       "spec_number": "10-160",
-      "row_no": 311,
-      "col_o": null,
-      "col_r": null
+      "row_no": 311
     },
     {
       "id": "17-05-06-003",
@@ -43,6 +42,7 @@
       "code": "17.05.06.003",
       "sku": "HJZ-JZ-12-160",
       "name_th": "ดอกสกัดอัลลอยแหลม 12x160",
+      "name_th_short": "ดอกสกัดอัลลอยแหลม 12",
       "name_cn": "合金凿子尖 12*160",
       "price": 43.2,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "尖凿",
       "material_code": "JZ",
       "spec_number": "12-160",
-      "row_no": 312,
-      "col_o": null,
-      "col_r": null
+      "row_no": 312
     },
     {
       "id": "17-05-06-004",
@@ -75,6 +73,7 @@
       "code": "17.05.06.004",
       "sku": "HJZ-PZ-12-160",
       "name_th": "ดอกสกัดอัลลอยแบน 12x160",
+      "name_th_short": "ดอกสกัดอัลลอยแบน 12",
       "name_cn": "合金凿子平 12*160",
       "price": 43.2,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "平凿",
       "material_code": "PZ",
       "spec_number": "12-160",
-      "row_no": 313,
-      "col_o": null,
-      "col_r": null
+      "row_no": 313
     },
     {
       "id": "17-05-06-009",
@@ -107,6 +104,7 @@
       "code": "17.05.06.009",
       "sku": "HJZ-JZ-10-160",
       "name_th": "ดอกสกัดอัลลอยแหลม 10x160",
+      "name_th_short": "ดอกสกัดอัลลอยแหลม 10",
       "name_cn": "合金凿子尖 10*160 / 10*160",
       "price": 36,
       "image": "/placeholder.svg",
@@ -129,9 +127,7 @@
       "material_cn": "尖凿",
       "material_code": "JZ",
       "spec_number": "10-160",
-      "row_no": 314,
-      "col_o": null,
-      "col_r": null
+      "row_no": 314
     }
   ]
 }

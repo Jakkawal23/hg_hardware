@@ -9,8 +9,9 @@
       "id": "12-03-01-028",
       "slug": "12-03-01-028",
       "code": "12.03.01.028",
-      "sku": "TT-SK12LV-12-01",
+      "sku": "TT-SK12LV-12",
       "name_th": "ลูกบล็อก Shike ขนาด 1/2 นิ้ว เบอร์ 12 (เหล็ก CR-V)",
+      "name_th_short": "ลูกบล็อก Shike",
       "name_cn": "世克1/2套筒（铬钒）12(20粒/盒）",
       "price": 19.2,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "TT",
       "material_cn": "世克1/2铬钒",
       "material_code": "SK12LV",
-      "spec_number": "12-01",
-      "row_no": 46,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "12",
+      "row_no": 46
     },
     {
       "id": "12-03-01-044",
       "slug": "12-03-01-044",
       "code": "12.03.01.044",
-      "sku": "TT-SK12LV-28-01",
+      "sku": "TT-SK12LV-28",
       "name_th": "ลูกบล็อก Shike ขนาด 1/2 นิ้ว เบอร์ 28 (เหล็ก CR-V)",
+      "name_th_short": "ลูกบล็อก Shike",
       "name_cn": "世克1/2套筒（铬钒）28(4粒/盒）",
       "price": 72,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "TT",
       "material_cn": "世克1/2铬钒",
       "material_code": "SK12LV",
-      "spec_number": "28-01",
-      "row_no": 47,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "28",
+      "row_no": 47
     },
     {
       "id": "12-03-01-045",
       "slug": "12-03-01-045",
       "code": "12.03.01.045",
-      "sku": "TT-SK12LV-30-01",
+      "sku": "TT-SK12LV-30",
       "name_th": "ลูกบล็อก Shike ขนาด 1/2 นิ้ว เบอร์ 30 (เหล็ก CR-V)",
+      "name_th_short": "ลูกบล็อก Shike",
       "name_cn": "世克1/2套筒（铬钒）30(4粒/盒）",
       "price": 72,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "TT",
       "material_cn": "世克1/2铬钒",
       "material_code": "SK12LV",
-      "spec_number": "30-01",
-      "row_no": 48,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "30",
+      "row_no": 48
     },
     {
       "id": "12-03-01-046",
       "slug": "12-03-01-046",
       "code": "12.03.01.046",
-      "sku": "TT-SK12LV-32-01",
+      "sku": "TT-SK12LV-32",
       "name_th": "ลูกบล็อก Shike ขนาด 1/2 นิ้ว เบอร์ 32 (เหล็ก CR-V)",
+      "name_th_short": "ลูกบล็อก Shike",
       "name_cn": "世克1/2套筒（铬钒）32(3粒/盒）",
       "price": 78,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "TT",
       "material_cn": "世克1/2铬钒",
       "material_code": "SK12LV",
-      "spec_number": "32-01",
-      "row_no": 49,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "32",
+      "row_no": 49
     },
     {
       "id": "12-03-01-047",
       "slug": "12-03-01-047",
       "code": "12.03.01.047",
-      "sku": "NLJ-ZCQ-3-01",
+      "sku": "NLJ-ZCQ-3",
       "name_th": "หกเหลี่ยมหัวบอล Shike ขนาด 3 มม.",
+      "name_th_short": "หกเหลี่ยมหัวบอล Shike",
       "name_cn": "世克内六角 中长球头3Φ（10支/板）",
       "price": 4.2,
       "image": "/placeholder.svg",
@@ -160,17 +157,16 @@
       "category_code": "NLJ",
       "material_cn": "中长球头",
       "material_code": "ZCQ",
-      "spec_number": "3-01",
-      "row_no": 50,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "3",
+      "row_no": 50
     },
     {
       "id": "12-03-01-048",
       "slug": "12-03-01-048",
       "code": "12.03.01.048",
-      "sku": "NLJ-ZCQ-6-01",
+      "sku": "NLJ-ZCQ-6",
       "name_th": "หกเหลี่ยมหัวบอล Shike ขนาด 6 มม.",
+      "name_th_short": "หกเหลี่ยมหัวบอล Shike",
       "name_cn": "世克内六角 中长球头6Φ（10支/板）",
       "price": 10.8,
       "image": "/placeholder.svg",
@@ -192,17 +188,16 @@
       "category_code": "NLJ",
       "material_cn": "中长球头",
       "material_code": "ZCQ",
-      "spec_number": "6-01",
-      "row_no": 51,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "6",
+      "row_no": 51
     },
     {
       "id": "12-03-01-049",
       "slug": "12-03-01-049",
       "code": "12.03.01.049",
-      "sku": "NLJ-ZCQ-8-01",
+      "sku": "NLJ-ZCQ-8",
       "name_th": "หกเหลี่ยมหัวบอล Shike ขนาด 8 มม.",
+      "name_th_short": "หกเหลี่ยมหัวบอล Shike",
       "name_cn": "世克内六角 中长球头8Φ（6支/板）",
       "price": 18,
       "image": "/placeholder.svg",
@@ -224,17 +219,16 @@
       "category_code": "NLJ",
       "material_cn": "中长球头",
       "material_code": "ZCQ",
-      "spec_number": "8-01",
-      "row_no": 52,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "8",
+      "row_no": 52
     },
     {
       "id": "12-03-01-050",
       "slug": "12-03-01-050",
       "code": "12.03.01.050",
-      "sku": "NLJ-ZCQ-10-01",
+      "sku": "NLJ-ZCQ-10",
       "name_th": "หกเหลี่ยมหัวบอล Shike ขนาด 10 มม.",
+      "name_th_short": "หกเหลี่ยมหัวบอล Shike",
       "name_cn": "世克内六角 中长球头10Φ（4支/板）",
       "price": 31.2,
       "image": "/placeholder.svg",
@@ -256,10 +250,8 @@
       "category_code": "NLJ",
       "material_cn": "中长球头",
       "material_code": "ZCQ",
-      "spec_number": "10-01",
-      "row_no": 53,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10",
+      "row_no": 53
     }
   ]
 }

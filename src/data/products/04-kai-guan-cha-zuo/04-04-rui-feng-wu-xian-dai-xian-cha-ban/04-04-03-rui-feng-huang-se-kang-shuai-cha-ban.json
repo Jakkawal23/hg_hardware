@@ -9,8 +9,9 @@
       "id": "04-04-03-001",
       "slug": "04-04-03-001",
       "code": "04.04.03.001",
-      "sku": "CZ-B01-B01-01",
+      "sku": "CZ-B01-B01",
       "name_th": "ปลั๊กไฟ Ruifeng B01",
+      "name_th_short": "ปลั๊กไฟ",
       "name_cn": "瑞风插座 B01",
       "price": 48,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "CZ",
       "material_cn": "B01",
       "material_code": "B01",
-      "spec_number": "B01-01",
-      "row_no": 36,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "B01",
+      "row_no": 36
     },
     {
       "id": "04-04-03-004",
       "slug": "04-04-03-004",
       "code": "04.04.03.004",
-      "sku": "CZ-604-604-5M",
+      "sku": "CZ-PT-604-5M",
       "name_th": "ปลั๊กไฟ Ruifeng 604 ความยาว 5 เมตร",
+      "name_th_short": "ปลั๊กไฟ 5 เมตร",
       "name_cn": "瑞风插座604 5米",
       "price": 91.2,
       "image": "/placeholder.svg",
@@ -62,19 +62,18 @@
       "last_import_date": "2025-05-16",
       "category_cn": "插座",
       "category_code": "CZ",
-      "material_cn": "604.0",
-      "material_code": "604.0",
+      "material_cn": 604,
+      "material_code": "PT",
       "spec_number": "604-5M",
-      "row_no": 37,
-      "col_o": null,
-      "col_r": null
+      "row_no": 37
     },
     {
       "id": "04-04-03-006",
       "slug": "04-04-03-006",
       "code": "04.04.03.006",
-      "sku": "CZ-605-605-5M",
+      "sku": "CZ-PT-605-5M",
       "name_th": "ปลั๊กไฟ Ruifeng 605 ความยาว 5 เมตร",
+      "name_th_short": "ปลั๊กไฟ 5 เมตร",
       "name_cn": "瑞风插座605 5米",
       "price": 96,
       "image": "/placeholder.svg",
@@ -94,19 +93,18 @@
       "last_import_date": "2025-05-16",
       "category_cn": "插座",
       "category_code": "CZ",
-      "material_cn": "605.0",
-      "material_code": "605.0",
+      "material_cn": 605,
+      "material_code": "PT",
       "spec_number": "605-5M",
-      "row_no": 38,
-      "col_o": null,
-      "col_r": null
+      "row_no": 38
     },
     {
       "id": "04-04-03-008",
       "slug": "04-04-03-008",
       "code": "04.04.03.008",
-      "sku": "CZ-HSYC-815-08",
+      "sku": "CZ-HSYC-815",
       "name_th": "ปลั๊กพ่วงสายยาวสีเหลือง 8 เมตร รุ่น 815-8",
+      "name_th_short": "ปลั๊กพ่วงสายยาว 8 เมตร",
       "name_cn": "黄色延长线地拖插座 8米 815-8",
       "price": 126,
       "image": "/placeholder.svg",
@@ -128,10 +126,8 @@
       "category_code": "CZ",
       "material_cn": "黄色延长",
       "material_code": "HSYC",
-      "spec_number": "815-08",
-      "row_no": 39,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "815",
+      "row_no": 39
     }
   ]
 }

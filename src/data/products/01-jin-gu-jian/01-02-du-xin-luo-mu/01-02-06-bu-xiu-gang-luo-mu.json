@@ -9,8 +9,9 @@
       "id": "01-02-06-001",
       "slug": "01-02-06-001",
       "code": "01.02.06.001",
-      "sku": "LM-304BXG-06-04",
+      "sku": "LM-304BXG-06",
       "name_th": "น็อตตัวเมีย สแตนเลส 304 6",
+      "name_th_short": "น็อตตัวเมีย สแตนเลส",
       "name_cn": "304不锈钢螺母M6",
       "price": 0.6,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "LM",
       "material_cn": "304不锈钢",
       "material_code": "304BXG",
-      "spec_number": "06-04",
-      "row_no": 110,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "06",
+      "row_no": 110
     },
     {
       "id": "01-02-06-002",
       "slug": "01-02-06-002",
       "code": "01.02.06.002",
-      "sku": "LM-304BXG-08-06",
+      "sku": "LM-304BXG-08",
       "name_th": "น็อตตัวเมีย สแตนเลส 304 8",
+      "name_th_short": "น็อตตัวเมีย สแตนเลส",
       "name_cn": "304不锈钢螺母M8",
       "price": 0.84,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "LM",
       "material_cn": "304不锈钢",
       "material_code": "304BXG",
-      "spec_number": "08-06",
-      "row_no": 111,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "08",
+      "row_no": 111
     },
     {
       "id": "01-02-06-003",
       "slug": "01-02-06-003",
       "code": "01.02.06.003",
-      "sku": "LM-304BXG-10-09",
+      "sku": "LM-304BXG-10",
       "name_th": "น็อตตัวเมีย สแตนเลส 304 10",
+      "name_th_short": "น็อตตัวเมีย สแตนเลส",
       "name_cn": "304不锈钢螺母M10(304 M10)",
       "price": 1.56,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "LM",
       "material_cn": "304不锈钢",
       "material_code": "304BXG",
-      "spec_number": "10-09",
-      "row_no": 112,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10",
+      "row_no": 112
     },
     {
       "id": "01-02-06-004",
       "slug": "01-02-06-004",
       "code": "01.02.06.004",
-      "sku": "LM-304BXG-12-08",
+      "sku": "LM-304BXG-12",
       "name_th": "น็อตตัวเมีย สแตนเลส 304 12",
+      "name_th_short": "น็อตตัวเมีย สแตนเลส",
       "name_cn": "304不锈钢螺母M12",
       "price": 3,
       "image": "/placeholder.svg",
@@ -128,10 +126,8 @@
       "category_code": "LM",
       "material_cn": "304不锈钢",
       "material_code": "304BXG",
-      "spec_number": "12-08",
-      "row_no": 113,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "12",
+      "row_no": 113
     }
   ]
 }

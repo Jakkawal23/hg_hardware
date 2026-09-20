@@ -11,6 +11,7 @@
       "code": "22.01.15.001",
       "sku": "TD-HR-TP-5W",
       "name_th": "โคมไฟดาวน์ไลท์ขอบเหล็ก Hongri 5W",
+      "name_th_short": "โคมไฟดาวน์ไลท์",
       "name_cn": "红日铁皮筒灯 5W",
       "price": 32.4,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "红日铁皮",
       "material_code": "HR-TP",
       "spec_number": "5W",
-      "row_no": 54,
-      "col_o": null,
-      "col_r": null
+      "row_no": 54
     },
     {
       "id": "22-01-15-003",
@@ -43,6 +42,7 @@
       "code": "22.01.15.003",
       "sku": "TD-HR-TP-12W",
       "name_th": "โคมไฟดาวน์ไลท์ขอบเหล็ก Hongri 12W",
+      "name_th_short": "โคมไฟดาวน์ไลท์",
       "name_cn": "红日铁皮筒灯 12W",
       "price": 84,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "红日铁皮",
       "material_code": "HR-TP",
       "spec_number": "12W",
-      "row_no": 55,
-      "col_o": null,
-      "col_r": null
+      "row_no": 55
     }
   ]
 }

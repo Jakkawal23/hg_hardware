@@ -11,6 +11,7 @@
       "code": "23.03.02.008",
       "sku": "LHC-JH-SXL-01",
       "name_th": "รถเข็นสองล้อทรงสูง/รถเข็นปี๊บรุ่นหนาพิเศษ (ล้อตัน)",
+      "name_th_short": "รถเข็นสองล้อ (รถเข็นปี๊บ)",
       "name_cn": "加厚老虎车/搬运车-实心轮（）",
       "price": 1536,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "加厚实心轮",
       "material_code": "JH-SXL",
       "spec_number": "01",
-      "row_no": 34,
-      "col_o": null,
-      "col_r": null
+      "row_no": 34
     }
   ]
 }

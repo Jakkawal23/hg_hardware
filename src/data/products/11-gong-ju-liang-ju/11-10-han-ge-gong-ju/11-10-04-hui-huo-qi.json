@@ -11,6 +11,7 @@
       "code": "11.10.04.001",
       "sku": "HHQ-QT-00000-01",
       "name_th": "อุปกรณ์ป้องกันไฟย้อน (Flashback Arrestor) สำหรับออกซิเจน วัสดุทองเหลือง",
+      "name_th_short": "อุปกรณ์กันไฟย้อน",
       "name_cn": "全铜回火器 氧气",
       "price": 48,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "全铜",
       "material_code": "QT",
       "spec_number": "00000-01",
-      "row_no": 674,
-      "col_o": null,
-      "col_r": null
+      "row_no": 674
     },
     {
       "id": "11-10-04-002",
@@ -43,6 +42,7 @@
       "code": "11.10.04.002",
       "sku": "HHQ-QT-00000-02",
       "name_th": "อุปกรณ์ป้องกันไฟย้อน (Flashback Arrestor) สำหรับอะเซทิลีน วัสดุทองเหลือง",
+      "name_th_short": "อุปกรณ์กันไฟย้อน",
       "name_cn": "全铜回火器 乙炔",
       "price": 48,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "全铜",
       "material_code": "QT",
       "spec_number": "00000-02",
-      "row_no": 675,
-      "col_o": null,
-      "col_r": null
+      "row_no": 675
     }
   ]
 }

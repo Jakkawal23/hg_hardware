@@ -9,8 +9,9 @@
       "id": "11-08-02-001",
       "slug": "11-08-02-001",
       "code": "11.08.02.001",
-      "sku": "HB-SL-00000-01",
+      "sku": "HB-SL-00000",
       "name_th": "แผ่นปาดปูนพลาสติก",
+      "name_th_short": "กระดานรองปูน",
       "name_cn": "塑料灰板",
       "price": 21.6,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "HB",
       "material_cn": "塑料",
       "material_code": "SL",
-      "spec_number": "00000-01",
-      "row_no": 561,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000",
+      "row_no": 561
     },
     {
       "id": "11-08-02-003",
       "slug": "11-08-02-003",
       "code": "11.08.02.003",
-      "sku": "MH-DHJH-00000-01",
+      "sku": "MH-DHJH-00000",
       "name_th": "ไม้ปาดปูนพลาสติก ขนาดใหญ่ สีส้มแดง",
+      "name_th_short": "ไม้ปาดปูน",
       "name_cn": "塑料木哈 加大桔红色",
       "price": 42,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "MH",
       "material_cn": "大号桔红",
       "material_code": "DHJH",
-      "spec_number": "00000-01",
-      "row_no": 562,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000",
+      "row_no": 562
     },
     {
       "id": "11-08-02-010",
       "slug": "11-08-02-010",
       "code": "11.08.02.010",
-      "sku": "MH-YTDH-00000-01",
+      "sku": "MH-YTDH-00000",
       "name_th": "ไม้ปาดปูนพลาสติก ขนาดใหญ่ ซีรีส์ Yingte",
+      "name_th_short": "ไม้ปาดปูน",
       "name_cn": "塑料加大款木哈 英特系列",
       "price": 66,
       "image": "/placeholder.svg",
@@ -96,10 +95,8 @@
       "category_code": "MH",
       "material_cn": "英特加大",
       "material_code": "YTDH",
-      "spec_number": "00000-01",
-      "row_no": 563,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000",
+      "row_no": 563
     }
   ]
 }

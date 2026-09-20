@@ -9,8 +9,9 @@
       "id": "08-03-03-001",
       "slug": "08-03-03-001",
       "code": "08.03.03.001",
-      "sku": "MS-BXGJH-4-01",
+      "sku": "MS-BXGJH-4",
       "name_th": "กลอนประตูสแตนเลสหนาพิเศษ ขนาด 4 นิ้ว (บรรจุ 60 ชิ้น/ลัง)",
+      "name_th_short": "กลอนประตูสแตนเลสหนาพิเศษ",
       "name_cn": "不锈钢门栓加厚 4寸（60个/箱）",
       "price": 21.6,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "MS",
       "material_cn": "不锈钢加厚",
       "material_code": "BXGJH",
-      "spec_number": "4-01",
-      "row_no": 88,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "4",
+      "row_no": 88
     },
     {
       "id": "08-03-03-002",
       "slug": "08-03-03-002",
       "code": "08.03.03.002",
-      "sku": "MS-BXGJH-6-01",
+      "sku": "MS-BXGJH-6",
       "name_th": "กลอนประตูสแตนเลสหนาพิเศษ ขนาด 6 นิ้ว (บรรจุ 60 ชิ้น/ลัง)",
+      "name_th_short": "กลอนประตูสแตนเลสหนาพิเศษ",
       "name_cn": "不锈钢门栓加厚 6寸（60个/箱）",
       "price": 24,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "MS",
       "material_cn": "不锈钢加厚",
       "material_code": "BXGJH",
-      "spec_number": "6-01",
-      "row_no": 89,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "6",
+      "row_no": 89
     },
     {
       "id": "08-03-03-003",
       "slug": "08-03-03-003",
       "code": "08.03.03.003",
-      "sku": "MS-BXGJH-8-01",
+      "sku": "MS-BXGJH-8",
       "name_th": "กลอนประตูสแตนเลสหนาพิเศษ ขนาด 8 นิ้ว (บรรจุ 120 ชิ้น/ลัง)",
+      "name_th_short": "กลอนประตูสแตนเลสหนาพิเศษ",
       "name_cn": "不锈钢门栓加厚 8寸（120个/箱）",
       "price": 26.4,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "MS",
       "material_cn": "不锈钢加厚",
       "material_code": "BXGJH",
-      "spec_number": "8-01",
-      "row_no": 90,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "8",
+      "row_no": 90
     },
     {
       "id": "08-03-03-004",
       "slug": "08-03-03-004",
       "code": "08.03.03.004",
-      "sku": "MS-BXGJH-10-01",
+      "sku": "MS-BXGJH-10",
       "name_th": "กลอนประตูสแตนเลสหนาพิเศษ ขนาด 10 นิ้ว (บรรจุ 20 ชิ้น/ลัง)",
+      "name_th_short": "กลอนประตูสแตนเลสหนาพิเศษ",
       "name_cn": "不锈钢门栓加厚 10寸（20个/箱）",
       "price": 45.6,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "MS",
       "material_cn": "不锈钢加厚",
       "material_code": "BXGJH",
-      "spec_number": "10-01",
-      "row_no": 91,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10",
+      "row_no": 91
     },
     {
       "id": "08-03-03-005",
       "slug": "08-03-03-005",
       "code": "08.03.03.005",
-      "sku": "MS-BXGJH-12-01",
+      "sku": "MS-BXGJH-12",
       "name_th": "กลอนประตูสแตนเลสหนาพิเศษ ขนาด 12 นิ้ว (บรรจุ 10 ชิ้น/ลัง)",
+      "name_th_short": "กลอนประตูสแตนเลสหนาพิเศษ",
       "name_cn": "不锈钢门栓加厚 12寸（10个/箱）",
       "price": 52.8,
       "image": "/placeholder.svg",
@@ -160,17 +157,16 @@
       "category_code": "MS",
       "material_cn": "不锈钢加厚",
       "material_code": "BXGJH",
-      "spec_number": "12-01",
-      "row_no": 92,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "12",
+      "row_no": 92
     },
     {
       "id": "08-03-03-006",
       "slug": "08-03-03-006",
       "code": "08.03.03.006",
-      "sku": "MS-BXGJH-14-01",
+      "sku": "MS-BXGJH-14",
       "name_th": "กลอนประตูสแตนเลสหนาพิเศษ ขนาด 14 นิ้ว (บรรจุ 10 ชิ้น/ลัง)",
+      "name_th_short": "กลอนประตูสแตนเลสหนาพิเศษ",
       "name_cn": "不锈钢门栓加厚 14寸（10个/箱）",
       "price": 55.2,
       "image": "/placeholder.svg",
@@ -192,10 +188,8 @@
       "category_code": "MS",
       "material_cn": "不锈钢加厚",
       "material_code": "BXGJH",
-      "spec_number": "14-01",
-      "row_no": 93,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "14",
+      "row_no": 93
     }
   ]
 }

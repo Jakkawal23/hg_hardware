@@ -9,8 +9,9 @@
       "id": "11-09-07-001",
       "slug": "11-09-07-001",
       "code": "11.09.07.001",
-      "sku": "SZJ-ZD-00000-01",
+      "sku": "SZJ-ZD-00000",
       "name_th": "กรรไกรตัดกิ่งไม้ รุ่นมาตรฐาน",
+      "name_th_short": "กรรไกรตัดกิ่งไม้",
       "name_cn": "树枝剪 中档",
       "price": 60,
       "image": "/placeholder.svg",
@@ -32,10 +33,8 @@
       "category_code": "SZJ",
       "material_cn": "中档",
       "material_code": "ZD",
-      "spec_number": "00000-01",
-      "row_no": 622,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000",
+      "row_no": 622
     }
   ]
 }

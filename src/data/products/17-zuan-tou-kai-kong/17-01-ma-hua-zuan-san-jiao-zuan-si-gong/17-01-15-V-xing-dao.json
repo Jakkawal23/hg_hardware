@@ -9,8 +9,9 @@
       "id": "17-01-15-003",
       "slug": "17-01-15-003",
       "code": "17.01.15.003",
-      "sku": "XD-VJD-12-01",
+      "sku": "XD-VJD-12",
       "name_th": "มีดกัดตัววี 12",
+      "name_th_short": "มีดกัดตัววี 12",
       "name_cn": "12V型刀（30支/盒）YT-506006",
       "price": 70.8,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "XD",
       "material_cn": "V型刀",
       "material_code": "VJD",
-      "spec_number": "12-01",
-      "row_no": 201,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "12",
+      "row_no": 201
     },
     {
       "id": "17-01-15-004",
       "slug": "17-01-15-004",
       "code": "17.01.15.004",
-      "sku": "XD-VJD-10-01",
+      "sku": "XD-VJD-10",
       "name_th": "มีดกัดตัววี 10",
+      "name_th_short": "มีดกัดตัววี 10",
       "name_cn": "10V型刀（30支/盒）YT-505012",
       "price": 70.8,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "XD",
       "material_cn": "V型刀",
       "material_code": "VJD",
-      "spec_number": "10-01",
-      "row_no": 202,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10",
+      "row_no": 202
     },
     {
       "id": "17-01-15-005",
       "slug": "17-01-15-005",
       "code": "17.01.15.005",
-      "sku": "XD-VJD-8-01",
+      "sku": "XD-VJD-8",
       "name_th": "มีดกัดตัววี 8",
+      "name_th_short": "มีดกัดตัววี 8",
       "name_cn": "8V型刀（30支/盒）YT-505008",
       "price": 70.8,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "XD",
       "material_cn": "V型刀",
       "material_code": "VJD",
-      "spec_number": "8-01",
-      "row_no": 203,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "8",
+      "row_no": 203
     },
     {
       "id": "17-01-15-006",
       "slug": "17-01-15-006",
       "code": "17.01.15.006",
-      "sku": "XD-VJD-6-01",
+      "sku": "XD-VJD-6",
       "name_th": "มีดกัดตัววี 6",
+      "name_th_short": "มีดกัดตัววี 6",
       "name_cn": "6V型刀（30支/盒）YT-505008",
       "price": 70.8,
       "image": "/placeholder.svg",
@@ -128,10 +126,8 @@
       "category_code": "XD",
       "material_cn": "V型刀",
       "material_code": "VJD",
-      "spec_number": "6-01",
-      "row_no": 204,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "6",
+      "row_no": 204
     }
   ]
 }

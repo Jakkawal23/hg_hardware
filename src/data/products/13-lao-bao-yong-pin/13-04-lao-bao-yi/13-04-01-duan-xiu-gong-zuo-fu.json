@@ -9,8 +9,9 @@
       "id": "13-04-01-002",
       "slug": "13-04-01-002",
       "code": "13.04.01.002",
-      "sku": "GF-FL-A-1-01",
+      "sku": "GF-FL-A-1",
       "name_th": "เสื้อฟอร์มทำงานคอปก ระดับ A",
+      "name_th_short": "เสื้อฟอร์มทำงานคอปก เกรด A",
       "name_cn": "翻领工服A级",
       "price": 480,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "GF",
       "material_cn": "翻领",
       "material_code": "FL-A",
-      "spec_number": "1-01",
-      "row_no": 52,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1",
+      "row_no": 52
     },
     {
       "id": "13-04-01-003",
       "slug": "13-04-01-003",
       "code": "13.04.01.003",
-      "sku": "GF-FL-B-1-01",
+      "sku": "GF-FL-B-1",
       "name_th": "เสื้อฟอร์มทำงานคอปก ระดับ B",
+      "name_th_short": "เสื้อฟอร์มทำงานคอปก เกรด B",
       "name_cn": "翻领工服B级",
       "price": 306,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "GF",
       "material_cn": "翻领",
       "material_code": "FL-B",
-      "spec_number": "1-01",
-      "row_no": 53,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1",
+      "row_no": 53
     },
     {
       "id": "13-04-01-004",
       "slug": "13-04-01-004",
       "code": "13.04.01.004",
-      "sku": "GF-FG-SG-1-01",
+      "sku": "GF-FG-SG-1",
       "name_th": "เสื้อฟอร์มทำงานลายตารางแห้งไว",
+      "name_th_short": "เสื้อฟอร์มทำงานลายตารางแห้งไว",
       "name_cn": "工服方格速干",
       "price": 84,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "GF",
       "material_cn": "方格",
       "material_code": "FG-SG",
-      "spec_number": "1-01",
-      "row_no": 54,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1",
+      "row_no": 54
     },
     {
       "id": "13-04-01-005",
       "slug": "13-04-01-005",
       "code": "13.04.01.005",
-      "sku": "GF-CM-1-01",
+      "sku": "GF-CM-1",
       "name_th": "เสื้อฟอร์มทำงานผ้าฝ้ายแท้",
+      "name_th_short": "เสื้อฟอร์มทำงานผ้าฝ้าย",
       "name_cn": "工服纯棉",
       "price": 126,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "GF",
       "material_cn": "纯棉",
       "material_code": "CM",
-      "spec_number": "1-01",
-      "row_no": 55,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1",
+      "row_no": 55
     },
     {
       "id": "13-04-01-006",
       "slug": "13-04-01-006",
       "code": "13.04.01.006",
-      "sku": "TX-PT-B-1-01",
+      "sku": "TX-PT-B-1",
       "name_th": "รองเท้าแตะ (B ธรรมดา)",
+      "name_th_short": "รองเท้าแตะธรรมดา",
       "name_cn": "拖鞋（B普通）",
       "price": 63.6,
       "image": "/placeholder.svg",
@@ -160,17 +157,16 @@
       "category_code": "TX",
       "material_cn": "普通",
       "material_code": "PT-B",
-      "spec_number": "1-01",
-      "row_no": 56,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1",
+      "row_no": 56
     },
     {
       "id": "13-04-01-007",
       "slug": "13-04-01-007",
       "code": "13.04.01.007",
-      "sku": "TX-H-A-1-01",
+      "sku": "TX-H-A-1",
       "name_th": "รองเท้าแตะ (A คุณภาพดี)",
+      "name_th_short": "รองเท้าแตะเกรดดี",
       "name_cn": "拖鞋（A好）",
       "price": 81.6,
       "image": "/placeholder.svg",
@@ -192,10 +188,8 @@
       "category_code": "TX",
       "material_cn": "好",
       "material_code": "H-A",
-      "spec_number": "1-01",
-      "row_no": 57,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1",
+      "row_no": 57
     }
   ]
 }

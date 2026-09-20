@@ -9,8 +9,9 @@
       "id": "21-02-03-007",
       "slug": "21-02-03-007",
       "code": "21.02.03.007",
-      "sku": "HSTT-DDBT-ZY-27150",
+      "sku": "HSTT-DDBT-ZY-27-150",
       "name_th": "ลูกบ็อกซ์ลมสีดำสำหรับบล็อกไฟฟ้า 27x150 มม. (ยาวพิเศษ)",
+      "name_th_short": "ลูกบ็อกซ์ลมสีดำ",
       "name_cn": "电动扳手专用黑色套筒 27*150",
       "price": 81.6,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "HSTT",
       "material_cn": "电动扳手专用",
       "material_code": "DDBT-ZY",
-      "spec_number": "27150.0",
-      "row_no": 136,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "27-150",
+      "row_no": 136
     },
     {
       "id": "21-02-03-008",
       "slug": "21-02-03-008",
       "code": "21.02.03.008",
-      "sku": "HSTT-DDBT-ZY-24150",
+      "sku": "HSTT-DDBT-ZY-24-150",
       "name_th": "ลูกบ็อกซ์ลมสีดำสำหรับบล็อกไฟฟ้า 24x150 มม. (ยาวพิเศษ)",
+      "name_th_short": "ลูกบ็อกซ์ลมสีดำ",
       "name_cn": "电动扳手专用黑色套筒 24*150",
       "price": 60,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "HSTT",
       "material_cn": "电动扳手专用",
       "material_code": "DDBT-ZY",
-      "spec_number": "24150.0",
-      "row_no": 137,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "24-150",
+      "row_no": 137
     },
     {
       "id": "21-02-03-009",
       "slug": "21-02-03-009",
       "code": "21.02.03.009",
-      "sku": "HSTT-DDBT-ZY-22150",
+      "sku": "HSTT-DDBT-ZY-22-150",
       "name_th": "ลูกบ็อกซ์ลมสีดำสำหรับบล็อกไฟฟ้า 22x150 มม. (ยาวพิเศษ)",
+      "name_th_short": "ลูกบ็อกซ์ลมสีดำ",
       "name_cn": "电动扳手专用黑色套筒 22*150",
       "price": 54,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "HSTT",
       "material_cn": "电动扳手专用",
       "material_code": "DDBT-ZY",
-      "spec_number": "22150.0",
-      "row_no": 138,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "22-150",
+      "row_no": 138
     },
     {
       "id": "21-02-03-010",
       "slug": "21-02-03-010",
       "code": "21.02.03.010",
-      "sku": "HSTT-DDBT-ZY-19150",
+      "sku": "HSTT-DDBT-ZY-19-150",
       "name_th": "ลูกบ็อกซ์ลมสีดำสำหรับบล็อกไฟฟ้า 19x150 มม. (ยาวพิเศษ)",
+      "name_th_short": "ลูกบ็อกซ์ลมสีดำ",
       "name_cn": "电动扳手专用黑色套筒 19*150",
       "price": 42,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "HSTT",
       "material_cn": "电动扳手专用",
       "material_code": "DDBT-ZY",
-      "spec_number": "19150.0",
-      "row_no": 139,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "19-150",
+      "row_no": 139
     },
     {
       "id": "21-02-03-011",
       "slug": "21-02-03-011",
       "code": "21.02.03.011",
-      "sku": "HSTT-DDBT-ZY-18150",
+      "sku": "HSTT-DDBT-ZY-18-150",
       "name_th": "ลูกบ็อกซ์ลมสีดำสำหรับบล็อกไฟฟ้า 18x150 มม. (ยาวพิเศษ)",
+      "name_th_short": "ลูกบ็อกซ์ลมสีดำ",
       "name_cn": "电动扳手专用黑色套筒 18*150",
       "price": 42,
       "image": "/placeholder.svg",
@@ -160,10 +157,8 @@
       "category_code": "HSTT",
       "material_cn": "电动扳手专用",
       "material_code": "DDBT-ZY",
-      "spec_number": "18150.0",
-      "row_no": 140,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "18-150",
+      "row_no": 140
     }
   ]
 }

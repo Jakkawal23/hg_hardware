@@ -9,8 +9,9 @@
       "id": "11-03-06-001",
       "slug": "11-03-06-001",
       "code": "11.03.06.001",
-      "sku": "SYB-JC-81012-01",
+      "sku": "SYB-JC-81012",
       "name_th": "ประแจสามทางแบบยาว 8-10-12mm",
+      "name_th_short": "ประแจสามทาง 8-10-12mm",
       "name_cn": "加长三叉扳手 8-10-12",
       "price": 42,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "SYB",
       "material_cn": "加长",
       "material_code": "JC",
-      "spec_number": "81012-01",
-      "row_no": 270,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "81012",
+      "row_no": 270
     },
     {
       "id": "11-03-06-002",
       "slug": "11-03-06-002",
       "code": "11.03.06.002",
-      "sku": "SYB-JC-101214-01",
+      "sku": "SYB-JC-101214",
       "name_th": "ประแจสามทางแบบยาว 10-12-14mm",
+      "name_th_short": "ประแจสามทาง 10-12-14mm",
       "name_cn": "加长三叉扳手 10-12-14",
       "price": 48,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "SYB",
       "material_cn": "加长",
       "material_code": "JC",
-      "spec_number": "101214-01",
-      "row_no": 271,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "101214",
+      "row_no": 271
     },
     {
       "id": "11-03-06-003",
       "slug": "11-03-06-003",
       "code": "11.03.06.003",
-      "sku": "SYB-JC-121417-01",
+      "sku": "SYB-JC-121417",
       "name_th": "ประแจสามทางแบบยาว 12-14-17mm",
+      "name_th_short": "ประแจสามทาง 12-14-17mm",
       "name_cn": "加长三叉扳手 12-14-17",
       "price": 72,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "SYB",
       "material_cn": "加长",
       "material_code": "JC",
-      "spec_number": "121417-01",
-      "row_no": 272,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "121417",
+      "row_no": 272
     },
     {
       "id": "11-03-06-004",
       "slug": "11-03-06-004",
       "code": "11.03.06.004",
-      "sku": "SYB-JC-111315-01",
+      "sku": "SYB-JC-111315",
       "name_th": "ประแจสามทางแบบยาว 11-13-15mm",
+      "name_th_short": "ประแจสามทาง 11-13-15mm",
       "name_cn": "加长三叉扳手 11-13-15",
       "price": 60,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "SYB",
       "material_cn": "加长",
       "material_code": "JC",
-      "spec_number": "111315-01",
-      "row_no": 273,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "111315",
+      "row_no": 273
     },
     {
       "id": "11-03-06-005",
       "slug": "11-03-06-005",
       "code": "11.03.06.005",
-      "sku": "SYB-JC-141719-01",
+      "sku": "SYB-JC-141719",
       "name_th": "ประแจสามทางแบบยาว 14-17-19mm",
+      "name_th_short": "ประแจสามทาง 14-17-19mm",
       "name_cn": "加长三叉扳手 14-17-19",
       "price": 78,
       "image": "/placeholder.svg",
@@ -160,10 +157,8 @@
       "category_code": "SYB",
       "material_cn": "加长",
       "material_code": "JC",
-      "spec_number": "141719-01",
-      "row_no": 274,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "141719",
+      "row_no": 274
     }
   ]
 }

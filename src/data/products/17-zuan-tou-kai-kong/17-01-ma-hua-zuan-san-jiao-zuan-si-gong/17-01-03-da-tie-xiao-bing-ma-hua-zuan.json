@@ -9,8 +9,9 @@
       "id": "17-01-03-001",
       "slug": "17-01-03-001",
       "code": "17.01.03.001",
-      "sku": "ZT-XBZ-14-01",
+      "sku": "ZT-XBZ-14",
       "name_th": "ดอกสว่านก้านลดเจาะเหล็ก 14",
+      "name_th_short": "ดอกสว่านก้านลดเจาะเหล็ก 14",
       "name_cn": "打铁小柄钻 14",
       "price": 84,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "ZT",
       "material_cn": "小柄钻",
       "material_code": "XBZ",
-      "spec_number": "14-01",
-      "row_no": 140,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "14",
+      "row_no": 140
     },
     {
       "id": "17-01-03-002",
       "slug": "17-01-03-002",
       "code": "17.01.03.002",
-      "sku": "ZT-XBZ-16-01",
+      "sku": "ZT-XBZ-16",
       "name_th": "ดอกสว่านก้านลดเจาะเหล็ก 16",
+      "name_th_short": "ดอกสว่านก้านลดเจาะเหล็ก 16",
       "name_cn": "打铁小柄钻 16",
       "price": 92.4,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "ZT",
       "material_cn": "小柄钻",
       "material_code": "XBZ",
-      "spec_number": "16-01",
-      "row_no": 141,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "16",
+      "row_no": 141
     },
     {
       "id": "17-01-03-003",
       "slug": "17-01-03-003",
       "code": "17.01.03.003",
-      "sku": "ZT-XBZ-18-01",
+      "sku": "ZT-XBZ-18",
       "name_th": "ดอกสว่านก้านลดเจาะเหล็ก 18",
+      "name_th_short": "ดอกสว่านก้านลดเจาะเหล็ก 18",
       "name_cn": "打铁小柄钻 18",
       "price": 98.4,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "ZT",
       "material_cn": "小柄钻",
       "material_code": "XBZ",
-      "spec_number": "18-01",
-      "row_no": 142,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "18",
+      "row_no": 142
     },
     {
       "id": "17-01-03-004",
       "slug": "17-01-03-004",
       "code": "17.01.03.004",
-      "sku": "ZT-XBZ-20-01",
+      "sku": "ZT-XBZ-20",
       "name_th": "ดอกสว่านก้านลดเจาะเหล็ก 20",
+      "name_th_short": "ดอกสว่านก้านลดเจาะเหล็ก 20",
       "name_cn": "打铁小柄钻 20",
       "price": 121.2,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "ZT",
       "material_cn": "小柄钻",
       "material_code": "XBZ",
-      "spec_number": "20-01",
-      "row_no": 143,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "20",
+      "row_no": 143
     },
     {
       "id": "17-01-03-005",
       "slug": "17-01-03-005",
       "code": "17.01.03.005",
-      "sku": "ZT-XBZ-22-01",
+      "sku": "ZT-XBZ-22",
       "name_th": "ดอกสว่านก้านลดเจาะเหล็ก 22",
+      "name_th_short": "ดอกสว่านก้านลดเจาะเหล็ก 22",
       "name_cn": "打铁小柄钻 22",
       "price": 129.6,
       "image": "/placeholder.svg",
@@ -160,17 +157,16 @@
       "category_code": "ZT",
       "material_cn": "小柄钻",
       "material_code": "XBZ",
-      "spec_number": "22-01",
-      "row_no": 144,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "22",
+      "row_no": 144
     },
     {
       "id": "17-01-03-006",
       "slug": "17-01-03-006",
       "code": "17.01.03.006",
-      "sku": "ZT-XBZ-24-01",
+      "sku": "ZT-XBZ-24",
       "name_th": "ดอกสว่านก้านลดเจาะเหล็ก 24",
+      "name_th_short": "ดอกสว่านก้านลดเจาะเหล็ก 24",
       "name_cn": "打铁小柄钻 24",
       "price": 160.8,
       "image": "/placeholder.svg",
@@ -192,17 +188,16 @@
       "category_code": "ZT",
       "material_cn": "小柄钻",
       "material_code": "XBZ",
-      "spec_number": "24-01",
-      "row_no": 145,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "24",
+      "row_no": 145
     },
     {
       "id": "17-01-03-007",
       "slug": "17-01-03-007",
       "code": "17.01.03.007",
-      "sku": "ZT-XBZ-25-01",
+      "sku": "ZT-XBZ-25",
       "name_th": "ดอกสว่านก้านลดเจาะเหล็ก 25",
+      "name_th_short": "ดอกสว่านก้านลดเจาะเหล็ก 25",
       "name_cn": "打铁小柄钻 25",
       "price": 162,
       "image": "/placeholder.svg",
@@ -224,10 +219,8 @@
       "category_code": "ZT",
       "material_cn": "小柄钻",
       "material_code": "XBZ",
-      "spec_number": "25-01",
-      "row_no": 146,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "25",
+      "row_no": 146
     }
   ]
 }

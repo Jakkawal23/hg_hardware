@@ -9,8 +9,9 @@
       "id": "13-05-03-001",
       "slug": "13-05-03-001",
       "code": "13.05.03.001",
-      "sku": "MZ-BZD-HS-1-01",
+      "sku": "MZ-BZD-HS-1",
       "name_th": "หน้ากากเชื่อมกึ่งอัตโนมัติ สีแดง",
+      "name_th_short": "หน้ากากเชื่อมกึ่งอัตโนมัติ",
       "name_cn": "红半自动面罩",
       "price": 54,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "MZ",
       "material_cn": "半自动",
       "material_code": "BZD-HS",
-      "spec_number": "1-01",
-      "row_no": 81,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1",
+      "row_no": 81
     },
     {
       "id": "13-05-03-002",
       "slug": "13-05-03-002",
       "code": "13.05.03.002",
-      "sku": "MZ-SC-LS-1-01",
+      "sku": "MZ-SC-LS-1",
       "name_th": "หน้ากากเชื่อมแบบถือกระจกน้ำเงิน",
+      "name_th_short": "หน้ากากเชื่อมมือถือ",
       "name_cn": "蓝色镜面手持面罩",
       "price": 48,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "MZ",
       "material_cn": "手持",
       "material_code": "SC-LS",
-      "spec_number": "1-01",
-      "row_no": 82,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1",
+      "row_no": 82
     },
     {
       "id": "13-05-03-003",
       "slug": "13-05-03-003",
       "code": "13.05.03.003",
-      "sku": "MZ-GL-1-01",
+      "sku": "MZ-GL-1",
       "name_th": "หน้ากากป้องกันลายผี",
+      "name_th_short": "หน้ากากลายผี",
       "name_cn": "鬼脸面罩",
       "price": 36,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "MZ",
       "material_cn": "鬼脸",
       "material_code": "GL",
-      "spec_number": "1-01",
-      "row_no": 83,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1",
+      "row_no": 83
     },
     {
       "id": "13-05-03-004",
       "slug": "13-05-03-004",
       "code": "13.05.03.004",
-      "sku": "MZ-DBB-HS-1-01",
+      "sku": "MZ-DBB-HS-1",
       "name_th": "หน้ากากเชื่อมขอบใหญ่ สีแดง",
+      "name_th_short": "หน้ากากเชื่อมขอบใหญ่",
       "name_cn": "红色大包边面罩",
       "price": 42,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "MZ",
       "material_cn": "大包边",
       "material_code": "DBB-HS",
-      "spec_number": "1-01",
-      "row_no": 84,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1",
+      "row_no": 84
     },
     {
       "id": "13-05-03-006",
       "slug": "13-05-03-006",
       "code": "13.05.03.006",
-      "sku": "MZ-SL-HEI-1-01",
+      "sku": "MZ-SL-HEI-1",
       "name_th": "หน้ากากเชื่อมแบบถือพลาสติกดำ",
+      "name_th_short": "หน้ากากเชื่อมมือถือพลาสติก",
       "name_cn": "黑塑料手持面罩",
       "price": 36,
       "image": "/placeholder.svg",
@@ -160,17 +157,16 @@
       "category_code": "MZ",
       "material_cn": "塑料",
       "material_code": "SL-HEI",
-      "spec_number": "1-01",
-      "row_no": 85,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1",
+      "row_no": 85
     },
     {
       "id": "13-05-03-013",
       "slug": "13-05-03-013",
       "code": "13.05.03.013",
-      "sku": "MZ-TD-10-01",
+      "sku": "MZ-TD-10",
       "name_th": "หน้ากากป้องกันแบบสวมศีรษะ (ขาว ดำ เทา) (10ชิ้น/กล่อง)",
+      "name_th_short": "หน้ากากป้องกันสวมศีรษะ",
       "name_cn": "头戴防护面罩（白 黑 灰）10个/盒",
       "price": 72,
       "image": "/placeholder.svg",
@@ -192,17 +188,16 @@
       "category_code": "MZ",
       "material_cn": "头戴",
       "material_code": "TD",
-      "spec_number": "10-01",
-      "row_no": 86,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10",
+      "row_no": 86
     },
     {
       "id": "13-05-03-014",
       "slug": "13-05-03-014",
       "code": "13.05.03.014",
-      "sku": "MZ-NP-ZDBG-1-01",
+      "sku": "MZ-NP-ZDBG-1",
       "name_th": "หน้ากากเชื่อมหนังวัวปรับแสงอัตโนมัติเต็มใบ (กล่อง)",
+      "name_th_short": "หน้ากากเชื่อมปรับแสงอัตโนมัติ",
       "name_cn": "牛皮电焊面罩-全脸自动变光/盒装",
       "price": 216,
       "image": "/placeholder.svg",
@@ -224,10 +219,8 @@
       "category_code": "MZ",
       "material_cn": "牛皮",
       "material_code": "NP-ZDBG",
-      "spec_number": "1-01",
-      "row_no": 87,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1",
+      "row_no": 87
     }
   ]
 }

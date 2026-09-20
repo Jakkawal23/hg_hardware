@@ -11,6 +11,7 @@
       "code": "24.01.01.007",
       "sku": "ZXBP-JQR-SX-25-600W",
       "name_th": "ปั๊มน้ำอัตโนมัติดิจิตอลโรบอท Deyin 25มม./220V รุ่น WZB-ED 600W",
+      "name_th_short": "ปั๊มน้ำอัตโนมัติดิจิตอล 600W",
       "name_cn": "德音自吸泵机器人数显款25mm/220V WZB-ED 600W",
       "price": 3600,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "机器人数显款",
       "material_code": "JQR-SX",
       "spec_number": "25-600W",
-      "row_no": 1,
-      "col_o": null,
-      "col_r": null
+      "row_no": 1
     },
     {
       "id": "24-01-01-008",
@@ -43,6 +42,7 @@
       "code": "24.01.01.008",
       "sku": "ZXBP-JQR-SX-25-300W",
       "name_th": "ปั๊มน้ำอัตโนมัติดิจิตอลโรบอท Deyin 25มม./220V รุ่น WZB-ED 300W",
+      "name_th_short": "ปั๊มน้ำอัตโนมัติดิจิตอล 300W",
       "name_cn": "德音自吸泵机器人数显款25mm/220V WZB-ED 300W",
       "price": 2760,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "机器人数显款",
       "material_code": "JQR-SX",
       "spec_number": "25-300W",
-      "row_no": 2,
-      "col_o": null,
-      "col_r": null
+      "row_no": 2
     },
     {
       "id": "24-01-01-009",
@@ -75,6 +73,7 @@
       "code": "24.01.01.009",
       "sku": "ZXBP-JQR-SX-25-200W",
       "name_th": "ปั๊มน้ำอัตโนมัติดิจิตอลโรบอท Deyin 25มม./220V รุ่น WZB-ED 200W",
+      "name_th_short": "ปั๊มน้ำอัตโนมัติดิจิตอล 200W",
       "name_cn": "德音自吸泵机器人数显款25mm/220V WZB-ED 200W",
       "price": 2700,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "机器人数显款",
       "material_code": "JQR-SX",
       "spec_number": "25-200W",
-      "row_no": 3,
-      "col_o": null,
-      "col_r": null
+      "row_no": 3
     },
     {
       "id": "24-01-01-011",
@@ -107,6 +104,7 @@
       "code": "24.01.01.011",
       "sku": "QSB-DX-BXG-25-0.37B",
       "name_th": "ปั๊มไดโว่น้ำสะอาดสแตนเลส Deyin 25มม./220V รุ่น QDX1.5-16-0.37B (ฐานสแตนเลส)",
+      "name_th_short": "ปั๊มไดโว่น้ำสะอาดสแตนเลส",
       "name_cn": "德音单相不锈钢潜水电泵/潜水泵25mm/220V--QDX1.5-16-0.37B不锈钢（不锈钢底座）",
       "price": 1920,
       "image": "/placeholder.svg",
@@ -129,9 +127,7 @@
       "material_cn": "单相不锈钢底座",
       "material_code": "DX-BXG",
       "spec_number": "25-0.37B",
-      "row_no": 4,
-      "col_o": null,
-      "col_r": null
+      "row_no": 4
     },
     {
       "id": "24-01-01-012",
@@ -139,6 +135,7 @@
       "code": "24.01.01.012",
       "sku": "ZYBP-JY-ZD-BXG-15-150A",
       "name_th": "ปั๊มเพิ่มแรงดันอัตโนมัติสแตนเลส Deyin 15มม./220V รุ่น DYZ-150A",
+      "name_th_short": "ปั๊มเพิ่มแรงดันอัตโนมัติ",
       "name_cn": "德音全自动不锈钢家用增压泵15mm/220V--DYZ-150A",
       "price": 1560,
       "image": "/placeholder.svg",
@@ -161,9 +158,7 @@
       "material_cn": "家用全自动不锈钢",
       "material_code": "JY-ZD-BXG",
       "spec_number": "15-150A",
-      "row_no": 5,
-      "col_o": null,
-      "col_r": null
+      "row_no": 5
     },
     {
       "id": "24-01-01-013",
@@ -171,6 +166,7 @@
       "code": "24.01.01.013",
       "sku": "QSB-BXG-WS-DC-1.5-15M",
       "name_th": "ปั๊มไดโว่ไร้แปรงถ่านสแตนเลส Deyin 1.5 นิ้ว ส่งสูง 15ม. (48/60/72V)",
+      "name_th_short": "ปั๊มไดโว่ไร้แปรงถ่าน",
       "name_cn": "德音不锈钢无刷潜水泵1.5寸15米-48/60/72V",
       "price": 2160,
       "image": "/placeholder.svg",
@@ -193,9 +189,7 @@
       "material_cn": "不锈钢无刷DC",
       "material_code": "BXG-WS-DC",
       "spec_number": "1.5-15M",
-      "row_no": 6,
-      "col_o": null,
-      "col_r": null
+      "row_no": 6
     },
     {
       "id": "24-01-01-014",
@@ -203,6 +197,7 @@
       "code": "24.01.01.014",
       "sku": "QSB-DX-BXG-25-0.75B",
       "name_th": "ปั๊มไดโว่น้ำสะอาดสแตนเลส Deyin 25มม./220V รุ่น QDX1.5-32-0.75B (ฐานสแตนเลส)",
+      "name_th_short": "ปั๊มไดโว่น้ำสะอาดสแตนเลส",
       "name_cn": "德音单相不锈钢潜水电泵/潜水泵25mm/220V--QDX1.5-32-0.75B不锈钢（不锈钢底座）",
       "price": 2256,
       "image": "/placeholder.svg",
@@ -225,9 +220,7 @@
       "material_cn": "单相不锈钢底座",
       "material_code": "DX-BXG",
       "spec_number": "25-0.75B",
-      "row_no": 7,
-      "col_o": null,
-      "col_r": null
+      "row_no": 7
     },
     {
       "id": "24-01-01-015",
@@ -235,6 +228,7 @@
       "code": "24.01.01.015",
       "sku": "QSB-LK-TBT-100-2.2",
       "name_th": "ปั๊มไดโว่เสื้ออลูมิเนียมหัวเหล็ก Deyin 100มม./220V รุ่น QDX65-7-2.2",
+      "name_th_short": "ปั๊มไดโว่เสื้ออลูมิเนียม",
       "name_cn": "德音潜水泵100mm/220V--QDX65-7-2.2 铝壳铁泵头",
       "price": 3816,
       "image": "/placeholder.svg",
@@ -257,9 +251,7 @@
       "material_cn": "铝壳铁泵头",
       "material_code": "LK-TBT",
       "spec_number": "100-2.2",
-      "row_no": 8,
-      "col_o": null,
-      "col_r": null
+      "row_no": 8
     },
     {
       "id": "24-01-01-016",
@@ -267,6 +259,7 @@
       "code": "24.01.01.016",
       "sku": "WSBP-DX-BXG-50-1.5B",
       "name_th": "ปั๊มไดโว่น้ำเสียสแตนเลส Deyin 50มม./220V รุ่น WQD15-15-1.5B",
+      "name_th_short": "ปั๊มไดโว่น้ำเสียสแตนเลส",
       "name_cn": "德音单相不锈钢污水电泵/污水泵50mm/220V--WQD15-15-1.5B不锈钢",
       "price": 3600,
       "image": "/placeholder.svg",
@@ -289,9 +282,7 @@
       "material_cn": "单相不锈钢",
       "material_code": "DX-BXG",
       "spec_number": "50-1.5B",
-      "row_no": 9,
-      "col_o": null,
-      "col_r": null
+      "row_no": 9
     },
     {
       "id": "24-01-01-017",
@@ -299,6 +290,7 @@
       "code": "24.01.01.017",
       "sku": "WSBP-DX-BXG-50-1.1B",
       "name_th": "ปั๊มไดโว่น้ำเสียสแตนเลส Deyin 50มม./220V รุ่น WQD10-15-1.1B",
+      "name_th_short": "ปั๊มไดโว่น้ำเสียสแตนเลส",
       "name_cn": "德音单相不锈钢污水电泵/污水泵50mm/220V--WQD10-15-1.1B不锈钢",
       "price": 2940,
       "image": "/placeholder.svg",
@@ -321,9 +313,7 @@
       "material_cn": "单相不锈钢",
       "material_code": "DX-BXG",
       "spec_number": "50-1.1B",
-      "row_no": 10,
-      "col_o": null,
-      "col_r": null
+      "row_no": 10
     },
     {
       "id": "24-01-01-018",
@@ -331,6 +321,7 @@
       "code": "24.01.01.018",
       "sku": "WSBP-DX-BXG-50-0.75B",
       "name_th": "ปั๊มไดโว่น้ำเสียสแตนเลส Deyin 50มม./220V รุ่น WQD8-10-0.75B",
+      "name_th_short": "ปั๊มไดโว่น้ำเสียสแตนเลส",
       "name_cn": "德音单相不锈钢污水电泵/污水泵50mm/220V--WQD8-10-0.75B不锈钢",
       "price": 2640,
       "image": "/placeholder.svg",
@@ -353,9 +344,7 @@
       "material_cn": "单相不锈钢",
       "material_code": "DX-BXG",
       "spec_number": "50-0.75B",
-      "row_no": 11,
-      "col_o": null,
-      "col_r": null
+      "row_no": 11
     },
     {
       "id": "24-01-01-019",
@@ -363,6 +352,7 @@
       "code": "24.01.01.019",
       "sku": "WSBP-DX-BXG-40-0.37B",
       "name_th": "ปั๊มไดโว่น้ำเสียสแตนเลส Deyin 40มม./220V รุ่น WQD5-8-0.37B",
+      "name_th_short": "ปั๊มไดโว่น้ำเสียสแตนเลส",
       "name_cn": "德音单相不锈钢污水电泵/污水泵40mm/220V--WQD5-8-0.37B不锈钢",
       "price": 2064,
       "image": "/placeholder.svg",
@@ -385,9 +375,7 @@
       "material_cn": "单相不锈钢",
       "material_code": "DX-BXG",
       "spec_number": "40-0.37B",
-      "row_no": 12,
-      "col_o": null,
-      "col_r": null
+      "row_no": 12
     },
     {
       "id": "24-01-01-020",
@@ -395,6 +383,7 @@
       "code": "24.01.01.020",
       "sku": "ZXBP-DX-ZX-PS-25-JET1500",
       "name_th": "ปั๊มเจ็ทอัตโนมัติ/ปั๊มล่อน้ำ Deyin 25มม./220V รุ่น JET 1500",
+      "name_th_short": "ปั๊มเจ็ทอัตโนมัติ",
       "name_cn": "德音单相自吸喷射泵/自吸泵25mm/220V JET 1500",
       "price": 2160,
       "image": "/placeholder.svg",
@@ -417,9 +406,7 @@
       "material_cn": "单相自吸喷射",
       "material_code": "DX-ZX-PS",
       "spec_number": "25-JET1500",
-      "row_no": 13,
-      "col_o": null,
-      "col_r": null
+      "row_no": 13
     }
   ]
 }

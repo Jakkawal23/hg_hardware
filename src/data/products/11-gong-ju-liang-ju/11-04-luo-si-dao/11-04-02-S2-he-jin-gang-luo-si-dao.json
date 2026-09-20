@@ -11,6 +11,7 @@
       "code": "11.04.02.001",
       "sku": "LSD-SS-04-01",
       "name_th": "ไขควงปากแบนด้ามสองสี 4 นิ้ว (12 ตัว/กล่อง)",
+      "name_th_short": "ไขควงปากแบน 4 นิ้ว",
       "name_cn": "双色塑胶柄螺丝刀4寸”一字（12把/盒）",
       "price": 36,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "双色柄",
       "material_code": "SS",
       "spec_number": "04-01",
-      "row_no": 360,
-      "col_o": null,
-      "col_r": null
+      "row_no": 360
     },
     {
       "id": "11-04-02-002",
@@ -43,6 +42,7 @@
       "code": "11.04.02.002",
       "sku": "LSD-SS-05-01",
       "name_th": "ไขควงปากแบนด้ามสองสี 5 นิ้ว (12 ตัว/กล่อง) YT-70305SL",
+      "name_th_short": "ไขควงปากแบน 5 นิ้ว",
       "name_cn": "双色塑胶柄螺丝刀5寸”一字（12把/盒）YT-70305SL",
       "price": 42,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "双色柄",
       "material_code": "SS",
       "spec_number": "05-01",
-      "row_no": 361,
-      "col_o": null,
-      "col_r": null
+      "row_no": 361
     },
     {
       "id": "11-04-02-003",
@@ -75,6 +73,7 @@
       "code": "11.04.02.003",
       "sku": "LSD-SS-06-01",
       "name_th": "ไขควงปากแบนด้ามสองสี 6 นิ้ว (12 ตัว/กล่อง) YT-70306SL",
+      "name_th_short": "ไขควงปากแบน 6 นิ้ว",
       "name_cn": "双色塑胶柄螺丝刀6寸”一字（12把/盒）YT-70306SL",
       "price": 48,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "双色柄",
       "material_code": "SS",
       "spec_number": "06-01",
-      "row_no": 362,
-      "col_o": null,
-      "col_r": null
+      "row_no": 362
     },
     {
       "id": "11-04-02-004",
@@ -107,6 +104,7 @@
       "code": "11.04.02.004",
       "sku": "LSD-SS-08-01",
       "name_th": "ไขควงปากแบนด้ามสองสี 8 นิ้ว (12 ตัว/กล่อง) YT-70308SL",
+      "name_th_short": "ไขควงปากแบน 8 นิ้ว",
       "name_cn": "双色塑胶柄螺丝刀8寸”一字（12把/盒）YT-70308SL",
       "price": 60,
       "image": "/placeholder.svg",
@@ -129,9 +127,7 @@
       "material_cn": "双色柄",
       "material_code": "SS",
       "spec_number": "08-01",
-      "row_no": 363,
-      "col_o": null,
-      "col_r": null
+      "row_no": 363
     },
     {
       "id": "11-04-02-005",
@@ -139,6 +135,7 @@
       "code": "11.04.02.005",
       "sku": "LSD-SS-05-02",
       "name_th": "ไขควงปากแฉกด้ามสองสี 5 นิ้ว (12 ตัว/กล่อง) YT-70305PH",
+      "name_th_short": "ไขควงปากแฉก 5 นิ้ว",
       "name_cn": "双色塑胶柄螺丝刀5寸”十字（12把/盒）YT-70305PH",
       "price": 42,
       "image": "/placeholder.svg",
@@ -161,9 +158,7 @@
       "material_cn": "双色柄",
       "material_code": "SS",
       "spec_number": "05-02",
-      "row_no": 364,
-      "col_o": null,
-      "col_r": null
+      "row_no": 364
     },
     {
       "id": "11-04-02-006",
@@ -171,6 +166,7 @@
       "code": "11.04.02.006",
       "sku": "LSD-SS-06-02",
       "name_th": "ไขควงปากแฉกด้ามสองสี 6 นิ้ว (12 ตัว/กล่อง) YT-70306PH",
+      "name_th_short": "ไขควงปากแฉก 6 นิ้ว",
       "name_cn": "双色塑胶柄螺丝刀6寸”十字（12把/盒）YT-70306PH",
       "price": 48,
       "image": "/placeholder.svg",
@@ -193,9 +189,7 @@
       "material_cn": "双色柄",
       "material_code": "SS",
       "spec_number": "06-02",
-      "row_no": 365,
-      "col_o": null,
-      "col_r": null
+      "row_no": 365
     },
     {
       "id": "11-04-02-007",
@@ -203,6 +197,7 @@
       "code": "11.04.02.007",
       "sku": "LSD-SS-08-02",
       "name_th": "ไขควงปากแฉกด้ามสองสี 8 นิ้ว (12 ตัว/กล่อง) YT-70308PH",
+      "name_th_short": "ไขควงปากแฉก 8 นิ้ว",
       "name_cn": "双色塑胶柄螺丝刀8寸”十字（12把/盒）YT-70308PH",
       "price": 60,
       "image": "/placeholder.svg",
@@ -225,16 +220,15 @@
       "material_cn": "双色柄",
       "material_code": "SS",
       "spec_number": "08-02",
-      "row_no": 366,
-      "col_o": null,
-      "col_r": null
+      "row_no": 366
     },
     {
       "id": "11-04-02-008",
       "slug": "11-04-02-008",
       "code": "11.04.02.008",
-      "sku": "LSD-YB-06100-01",
+      "sku": "LSD-YB-6-100-01",
       "name_th": "ไขควงปากแบนด้ามกลม 6*100mm (12 ตัว/กล่อง)",
+      "name_th_short": "ไขควงปากแบน 6*100mm",
       "name_cn": "高档圆柄螺丝刀6*100一字（12把/盒）",
       "price": 26.4,
       "image": "/placeholder.svg",
@@ -256,17 +250,16 @@
       "category_code": "LSD",
       "material_cn": "圆柄",
       "material_code": "YB",
-      "spec_number": "06100-01",
-      "row_no": 367,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "6-100-01",
+      "row_no": 367
     },
     {
       "id": "11-04-02-009",
       "slug": "11-04-02-009",
       "code": "11.04.02.009",
-      "sku": "LSD-YB-06100-02",
+      "sku": "LSD-YB-6-100-02",
       "name_th": "ไขควงปากแฉกด้ามกลม 6*100mm (12 ตัว/กล่อง)",
+      "name_th_short": "ไขควงปากแฉก 6*100mm",
       "name_cn": "高档圆柄螺丝刀6*100十字（12把/盒）",
       "price": 26.4,
       "image": "/placeholder.svg",
@@ -288,17 +281,16 @@
       "category_code": "LSD",
       "material_cn": "圆柄",
       "material_code": "YB",
-      "spec_number": "06100-02",
-      "row_no": 368,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "6-100-02",
+      "row_no": 368
     },
     {
       "id": "11-04-02-010",
       "slug": "11-04-02-010",
       "code": "11.04.02.010",
-      "sku": "LSD-YB-06125-01",
+      "sku": "LSD-YB-6-125",
       "name_th": "ไขควงปากแบนด้ามกลม 6*125mm (12 ตัว/กล่อง) YT-70905SL",
+      "name_th_short": "ไขควงปากแบน 6*125mm",
       "name_cn": "高档圆柄螺丝刀6*125一字（12把/盒）YT-70905SL",
       "price": 30,
       "image": "/placeholder.svg",
@@ -320,17 +312,16 @@
       "category_code": "LSD",
       "material_cn": "圆柄",
       "material_code": "YB",
-      "spec_number": "06125-01",
-      "row_no": 369,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "6-125",
+      "row_no": 369
     },
     {
       "id": "11-04-02-012",
       "slug": "11-04-02-012",
       "code": "11.04.02.012",
-      "sku": "LSD-YB-06200-01",
+      "sku": "LSD-YB-6-200-01",
       "name_th": "ไขควงปากแบนด้ามกลม 6*200mm (12 ตัว/กล่อง) YT-70908SL",
+      "name_th_short": "ไขควงปากแบน 6*200mm",
       "name_cn": "高档圆柄螺丝刀6*200一字（12把/盒）YT-70908SL",
       "price": 36,
       "image": "/placeholder.svg",
@@ -352,17 +343,16 @@
       "category_code": "LSD",
       "material_cn": "圆柄",
       "material_code": "YB",
-      "spec_number": "06200-01",
-      "row_no": 370,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "6-200-01",
+      "row_no": 370
     },
     {
       "id": "11-04-02-013",
       "slug": "11-04-02-013",
       "code": "11.04.02.013",
-      "sku": "LSD-YB-06200-02",
+      "sku": "LSD-YB-6-200-02",
       "name_th": "ไขควงปากแฉกด้ามกลม 6*200mm (12 ตัว/กล่อง) YT-70908PH",
+      "name_th_short": "ไขควงปากแฉก 6*200mm",
       "name_cn": "高档圆柄螺丝刀6*200十字（12把/盒）YT-70908PH",
       "price": 36,
       "image": "/placeholder.svg",
@@ -384,17 +374,16 @@
       "category_code": "LSD",
       "material_cn": "圆柄",
       "material_code": "YB",
-      "spec_number": "06200-02",
-      "row_no": 371,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "6-200-02",
+      "row_no": 371
     },
     {
       "id": "11-04-02-014",
       "slug": "11-04-02-014",
       "code": "11.04.02.014",
-      "sku": "LSD-YB-06150-01",
+      "sku": "LSD-YB-6-150-01",
       "name_th": "ไขควงปากแบนด้ามกลม 6*150mm (12 ตัว/กล่อง) YT-70906SL",
+      "name_th_short": "ไขควงปากแบน 6*150mm",
       "name_cn": "高档圆柄螺丝刀6*150一字（12把/盒）YT-70906SL",
       "price": 33.6,
       "image": "/placeholder.svg",
@@ -416,17 +405,16 @@
       "category_code": "LSD",
       "material_cn": "圆柄",
       "material_code": "YB",
-      "spec_number": "06150-01",
-      "row_no": 372,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "6-150-01",
+      "row_no": 372
     },
     {
       "id": "11-04-02-015",
       "slug": "11-04-02-015",
       "code": "11.04.02.015",
-      "sku": "LSD-YB-06150-02",
+      "sku": "LSD-YB-6-150-02",
       "name_th": "ไขควงปากแฉกด้ามกลม 6*150mm (12 ตัว/กล่อง) YT",
+      "name_th_short": "ไขควงปากแฉก 6*150mm",
       "name_cn": "高档圆柄螺丝刀6*150十字（12把/盒）YT",
       "price": 33.6,
       "image": "/placeholder.svg",
@@ -448,10 +436,8 @@
       "category_code": "LSD",
       "material_cn": "圆柄",
       "material_code": "YB",
-      "spec_number": "06150-02",
-      "row_no": 373,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "6-150-02",
+      "row_no": 373
     },
     {
       "id": "11-04-02-016",
@@ -459,6 +445,7 @@
       "code": "11.04.02.016",
       "sku": "LSD-SS-04-02",
       "name_th": "ไขควงปากแฉกด้ามสองสี 4 นิ้ว (12 ตัว/กล่อง)",
+      "name_th_short": "ไขควงปากแฉก 4 นิ้ว",
       "name_cn": "双色塑胶柄螺丝刀4寸”十字（12把/盒）",
       "price": 36,
       "image": "/placeholder.svg",
@@ -481,9 +468,7 @@
       "material_cn": "双色柄",
       "material_code": "SS",
       "spec_number": "04-02",
-      "row_no": 374,
-      "col_o": null,
-      "col_r": null
+      "row_no": 374
     }
   ]
 }

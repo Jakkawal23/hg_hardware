@@ -9,8 +9,9 @@
       "id": "13-01-04-006",
       "slug": "13-01-04-006",
       "code": "13.01.04.006",
-      "sku": "ST-DH-A258-1-01",
+      "sku": "ST-DH-A258-1",
       "name_th": "ถุงมือเชื่อมหนังสีเหลืองล้วนแบบยาวสีน้ำตาลทอง A258",
+      "name_th_short": "ถุงมือเชื่อมหนังเหลือง",
       "name_cn": "电焊手套/全黄/长款/金棕A258",
       "price": null,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "ST",
       "material_cn": "电焊",
       "material_code": "DH-A258",
-      "spec_number": "1-01",
-      "row_no": 5,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1",
+      "row_no": 5
     },
     {
       "id": "13-01-04-008",
       "slug": "13-01-04-008",
       "code": "13.01.04.008",
-      "sku": "ST-DH-MS-1-01",
+      "sku": "ST-DH-MS-1",
       "name_th": "ถุงมือเชื่อมหนังกลับแบบยาวขอบแดง",
+      "name_th_short": "ถุงมือเชื่อมหนังกลับ",
       "name_cn": "电焊手套长款/磨砂皮/红边",
       "price": 96,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "ST",
       "material_cn": "电焊",
       "material_code": "DH-MS",
-      "spec_number": "1-01",
-      "row_no": 6,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1",
+      "row_no": 6
     }
   ]
 }

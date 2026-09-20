@@ -9,8 +9,9 @@
       "id": "11-11-05-005",
       "slug": "11-11-05-005",
       "code": "11.11.05.005",
-      "sku": "DQT-SK-38000-01",
+      "sku": "DQT-SK-38000",
       "name_th": "สูบลมแรงดันสูง ยี่ห้อShike ขนาด 38 บรรจุ 10 ชิ้น/กล่อง",
+      "name_th_short": "สูบลม",
       "name_cn": "世克 高压打气筒（38)（10个/盒）",
       "price": 240,
       "image": "/placeholder.svg",
@@ -32,10 +33,8 @@
       "category_code": "DQT",
       "material_cn": "世克",
       "material_code": "SK",
-      "spec_number": "38000-01",
-      "row_no": 717,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "38000",
+      "row_no": 717
     }
   ]
 }

@@ -11,6 +11,7 @@
       "code": "22.02.01.001",
       "sku": "DTMZ-HR-HX-12W-ZB",
       "name_th": "แผงไฟชิป LED ทรงกลมโดนัท Hongri 12W (แสงขาวบริสุทธิ์)",
+      "name_th_short": "แผงไฟวงแหวน LED",
       "name_cn": "红日环形灯-灯贴 12W 正白",
       "price": 48,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "红日环形灯",
       "material_code": "HR-HX",
       "spec_number": "12W-ZB",
-      "row_no": 71,
-      "col_o": null,
-      "col_r": null
+      "row_no": 71
     },
     {
       "id": "22-02-01-004",
@@ -43,6 +42,7 @@
       "code": "22.02.01.004",
       "sku": "DTMZ-HR-HX-36W-ZB",
       "name_th": "แผงไฟชิป LED ทรงกลมโดนัท Hongri 36W (แสงขาวบริสุทธิ์)",
+      "name_th_short": "แผงไฟวงแหวน LED",
       "name_cn": "红日环形灯-灯贴 36W 正白",
       "price": 102,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "红日环形灯",
       "material_code": "HR-HX",
       "spec_number": "36W-ZB",
-      "row_no": 72,
-      "col_o": null,
-      "col_r": null
+      "row_no": 72
     },
     {
       "id": "22-02-01-005",
@@ -75,6 +73,7 @@
       "code": "22.02.01.005",
       "sku": "DTMZ-HR-HX-48W-ZB",
       "name_th": "แผงไฟชิป LED ทรงกลมโดนัท Hongri 48W (แสงขาวบริสุทธิ์)",
+      "name_th_short": "แผงไฟวงแหวน LED",
       "name_cn": "红日环形灯-灯贴 48W 正白",
       "price": 180,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "红日环形灯",
       "material_code": "HR-HX",
       "spec_number": "48W-ZB",
-      "row_no": 73,
-      "col_o": null,
-      "col_r": null
+      "row_no": 73
     },
     {
       "id": "22-02-01-009",
@@ -107,6 +104,7 @@
       "code": "22.02.01.009",
       "sku": "DTMZ-YM-HX-12W-BG",
       "name_th": "แผงไฟชิป LED ทรงกลมโดนัท Yaming 12W (แสงขาว)",
+      "name_th_short": "แผงไฟวงแหวน LED",
       "name_cn": "亚明环形灯-LED灯贴 12W 白光",
       "price": 42,
       "image": "/placeholder.svg",
@@ -129,9 +127,7 @@
       "material_cn": "亚明环形灯",
       "material_code": "YM-HX",
       "spec_number": "12W-BG",
-      "row_no": 74,
-      "col_o": null,
-      "col_r": null
+      "row_no": 74
     },
     {
       "id": "22-02-01-010",
@@ -139,6 +135,7 @@
       "code": "22.02.01.010",
       "sku": "DTMZ-YM-HX-18W-BG",
       "name_th": "แผงไฟชิป LED ทรงกลมโดนัท Yaming 18W (แสงขาว)",
+      "name_th_short": "แผงไฟวงแหวน LED",
       "name_cn": "亚明环形灯-LED灯贴 18W 白光",
       "price": 60,
       "image": "/placeholder.svg",
@@ -161,9 +158,7 @@
       "material_cn": "亚明环形灯",
       "material_code": "YM-HX",
       "spec_number": "18W-BG",
-      "row_no": 75,
-      "col_o": null,
-      "col_r": null
+      "row_no": 75
     },
     {
       "id": "22-02-01-012",
@@ -171,6 +166,7 @@
       "code": "22.02.01.012",
       "sku": "DTMZ-YM-HX-36W-BG",
       "name_th": "แผงไฟชิป LED ทรงกลมโดนัท Yaming 36W (แสงขาว)",
+      "name_th_short": "แผงไฟวงแหวน LED",
       "name_cn": "亚明环形灯-LED灯贴 36W 白光",
       "price": 84,
       "image": "/placeholder.svg",
@@ -193,9 +189,7 @@
       "material_cn": "亚明环形灯",
       "material_code": "YM-HX",
       "spec_number": "36W-BG",
-      "row_no": 76,
-      "col_o": null,
-      "col_r": null
+      "row_no": 76
     },
     {
       "id": "22-02-01-013",
@@ -203,6 +197,7 @@
       "code": "22.02.01.013",
       "sku": "DTMZ-YM-HX-48W-BG",
       "name_th": "แผงไฟชิป LED ทรงกลมโดนัท Yaming 48W (แสงขาว)",
+      "name_th_short": "แผงไฟวงแหวน LED",
       "name_cn": "亚明环形灯-LED灯贴 48W 白光",
       "price": 158.4,
       "image": "/placeholder.svg",
@@ -225,9 +220,7 @@
       "material_cn": "亚明环形灯",
       "material_code": "YM-HX",
       "spec_number": "48W-BG",
-      "row_no": 77,
-      "col_o": null,
-      "col_r": null
+      "row_no": 77
     },
     {
       "id": "22-02-01-014",
@@ -235,6 +228,7 @@
       "code": "22.02.01.014",
       "sku": "DTMZ-YM-HX-72W-BG",
       "name_th": "แผงไฟชิป LED ทรงกลมโดนัท Yaming 72W (แสงขาว)",
+      "name_th_short": "แผงไฟวงแหวน LED",
       "name_cn": "亚明环形灯-LED灯贴 72W 白光",
       "price": 216,
       "image": "/placeholder.svg",
@@ -257,9 +251,7 @@
       "material_cn": "亚明环形灯",
       "material_code": "YM-HX",
       "spec_number": "72W-BG",
-      "row_no": 78,
-      "col_o": null,
-      "col_r": null
+      "row_no": 78
     }
   ]
 }

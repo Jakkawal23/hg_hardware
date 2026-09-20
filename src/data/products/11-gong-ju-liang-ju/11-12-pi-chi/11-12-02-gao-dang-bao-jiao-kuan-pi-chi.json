@@ -9,8 +9,9 @@
       "id": "11-12-02-001",
       "slug": "11-12-02-001",
       "code": "11.12.02.001",
-      "sku": "PJ-GDBG-20000-01",
+      "sku": "PJ-GDBG-20000",
       "name_th": "ตลับเมตรเทปผ้าใยแก้ว รุ่นพรีเมียม หุ้มยาง ขนาด 20 เมตร",
+      "name_th_short": "ตลับเมตรผ้าใยแก้ว 20 เมตร",
       "name_cn": "精品量具高档纤维尺/包胶皮尺 20米",
       "price": 174,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "PJ",
       "material_cn": "高档包胶",
       "material_code": "GDBG",
-      "spec_number": "20000-01",
-      "row_no": 729,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "20000",
+      "row_no": 729
     },
     {
       "id": "11-12-02-002",
       "slug": "11-12-02-002",
       "code": "11.12.02.002",
-      "sku": "PJ-GDBG-30000-01",
+      "sku": "PJ-GDBG-30000",
       "name_th": "ตลับเมตรเทปผ้าใยแก้ว รุ่นพรีเมียม หุ้มยาง ขนาด 30 เมตร",
+      "name_th_short": "ตลับเมตรผ้าใยแก้ว 30 เมตร",
       "name_cn": "精品量具高档纤维尺/包胶皮尺 30米",
       "price": 216,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "PJ",
       "material_cn": "高档包胶",
       "material_code": "GDBG",
-      "spec_number": "30000-01",
-      "row_no": 730,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "30000",
+      "row_no": 730
     },
     {
       "id": "11-12-02-003",
       "slug": "11-12-02-003",
       "code": "11.12.02.003",
-      "sku": "PJ-GDBG-50000-01",
+      "sku": "PJ-GDBG-50000",
       "name_th": "ตลับเมตรเทปผ้าใยแก้ว รุ่นพรีเมียม หุ้มยาง ขนาด 50 เมตร",
+      "name_th_short": "ตลับเมตรผ้าใยแก้ว 50 เมตร",
       "name_cn": "精品量具高档纤维尺/包胶皮尺 50米",
       "price": 258,
       "image": "/placeholder.svg",
@@ -96,10 +95,8 @@
       "category_code": "PJ",
       "material_cn": "高档包胶",
       "material_code": "GDBG",
-      "spec_number": "50000-01",
-      "row_no": 731,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "50000",
+      "row_no": 731
     }
   ]
 }

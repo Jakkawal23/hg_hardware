@@ -11,6 +11,7 @@
       "code": "27.05.0002",
       "sku": "JSZ-PU-TL-FZ-700MM",
       "name_th": "เสาจราจรล้มลุกพลาสติก PU กันกระแทก สูง 70 ซม. (700มม.)",
+      "name_th_short": "เสาจราจรล้มลุก PU",
       "name_cn": "PU弹力柱/防撞柱/警示柱 700cm",
       "price": 96,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "PU弹力防撞",
       "material_code": "PU-TL-FZ",
       "spec_number": "700MM",
-      "row_no": 7,
-      "col_o": null,
-      "col_r": null
+      "row_no": 7
     }
   ]
 }

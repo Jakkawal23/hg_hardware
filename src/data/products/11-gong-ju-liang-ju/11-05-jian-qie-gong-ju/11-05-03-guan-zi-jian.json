@@ -9,8 +9,9 @@
       "id": "11-05-03-005",
       "slug": "11-05-03-005",
       "code": "11.05.03.005",
-      "sku": "GZQ-JH-450-01",
-      "name_th": "ประแจคอม้า (Pipe Wrench) อเมริกัน ขนาด 450 มม. (18 นิ้ว)",
+      "sku": "GZQ-JH-450",
+      "name_th": "ประแจคอม้า (Pipe Wrench) (Jinhu) อเมริกัน ขนาด 450 มม. (18 นิ้ว)",
+      "name_th_short": "ประแจคอม้า",
       "name_cn": "金虎美式管子钳 450（18寸）",
       "price": 408,
       "image": "/placeholder.svg",
@@ -32,10 +33,8 @@
       "category_code": "GZQ",
       "material_cn": "金虎",
       "material_code": "JH",
-      "spec_number": "450-01",
-      "row_no": 453,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "450",
+      "row_no": 453
     }
   ]
 }

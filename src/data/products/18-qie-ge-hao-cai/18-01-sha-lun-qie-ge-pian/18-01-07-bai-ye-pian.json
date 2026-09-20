@@ -9,8 +9,9 @@
       "id": "18-01-07-002",
       "slug": "18-01-07-002",
       "code": "18.01.07.002",
-      "sku": "BYP-HF-ZD-100-25",
+      "sku": "BYP-HF-ZD-100",
       "name_th": "ใบเจียรผ้าทรายซ้อน Hufan เกรดกลาง (25 แผ่น/แพ็ค)",
+      "name_th_short": "ใบเจียรผ้าทรายซ้อน",
       "name_cn": "沪帆百叶片 中档（25片/筒）",
       "price": 9.6,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "BYP",
       "material_cn": "沪帆中档",
       "material_code": "HF-ZD",
-      "spec_number": "100-25",
-      "row_no": 13,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "100",
+      "row_no": 13
     },
     {
       "id": "18-01-07-003",
       "slug": "18-01-07-003",
       "code": "18.01.07.003",
-      "sku": "BYP-HF-GD-100-10",
+      "sku": "BYP-HF-GD-100",
       "name_th": "ใบเจียรผ้าทรายซ้อน Hufan เกรดพรีเมียม (10 แผ่น/แพ็ค)",
+      "name_th_short": "ใบเจียรผ้าทรายซ้อน",
       "name_cn": "沪帆百叶片 高档（10片/筒）",
       "price": 12,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "BYP",
       "material_cn": "沪帆高档",
       "material_code": "HF-GD",
-      "spec_number": "100-10",
-      "row_no": 14,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "100",
+      "row_no": 14
     },
     {
       "id": "18-01-07-005",
       "slug": "18-01-07-005",
       "code": "18.01.07.005",
-      "sku": "BYP-HS-10016",
+      "sku": "BYP-HS-100",
       "name_th": "ใบเจียรผ้าทรายซ้อน ทรายดำ 100x16 มม. (400 แผ่น/ลัง)",
+      "name_th_short": "ใบเจียรผ้าทรายซ้อน",
       "name_cn": "百叶片100*16黑砂（一件400片）",
       "price": 13.2,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "BYP",
       "material_cn": "黑砂",
       "material_code": "HS",
-      "spec_number": "10016.0",
-      "row_no": 15,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "100",
+      "row_no": 15
     },
     {
       "id": "18-01-07-006",
       "slug": "18-01-07-006",
       "code": "18.01.07.006",
-      "sku": "BYP-HOS-10016",
+      "sku": "BYP-HOS-100",
       "name_th": "ใบเจียรผ้าทรายซ้อน ทรายแดง 100x16 มม.",
+      "name_th_short": "ใบเจียรผ้าทรายซ้อน",
       "name_cn": "百叶片100*16红砂",
       "price": 12,
       "image": "/placeholder.svg",
@@ -128,10 +126,8 @@
       "category_code": "BYP",
       "material_cn": "红砂",
       "material_code": "HOS",
-      "spec_number": "10016.0",
-      "row_no": 16,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "100",
+      "row_no": 16
     }
   ]
 }

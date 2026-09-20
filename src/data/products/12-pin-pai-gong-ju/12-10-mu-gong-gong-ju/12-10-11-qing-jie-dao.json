@@ -9,8 +9,9 @@
       "id": "12-10-11-013",
       "slug": "12-10-11-013",
       "code": "12.10.11.013",
-      "sku": "GWD-BJ-8200-01",
+      "sku": "GWD-BJ-8200",
       "name_th": "มีดขูดคราบสกปรก ขนาด 8 นิ้ว (200 มม.)",
+      "name_th_short": "มีดขูดคราบสกปรก",
       "name_cn": "便捷式刮污刀8/200（10把/盒）YT-256008",
       "price": 42,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "GWD",
       "material_cn": "便捷式",
       "material_code": "BJ",
-      "spec_number": "8200-01",
-      "row_no": 119,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "8200",
+      "row_no": 119
     },
     {
       "id": "12-10-11-014",
       "slug": "12-10-11-014",
       "code": "12.10.11.014",
-      "sku": "GWD-BJC-100-01",
-      "name_th": "มีดขูดคราบสกปรก (ด้ามยาว) ขนาด 100 มม.",
+      "sku": "GWD-BJC-100",
+      "name_th": "มีดขูดคราบสกปรก Weilishi (ด้ามยาว) ขนาด 100 มม.",
+      "name_th_short": "มีดขูดคราบสกปรก Weilishi",
       "name_cn": "(威力狮W4317)便捷式刮污刀/清洁刀 100MM 长柄",
       "price": 144,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "GWD",
       "material_cn": "便捷式长柄",
       "material_code": "BJC",
-      "spec_number": "100-01",
-      "row_no": 120,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "100",
+      "row_no": 120
     }
   ]
 }

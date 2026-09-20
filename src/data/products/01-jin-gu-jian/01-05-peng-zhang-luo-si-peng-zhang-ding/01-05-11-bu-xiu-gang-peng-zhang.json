@@ -9,8 +9,9 @@
       "id": "01-05-11-001",
       "slug": "01-05-11-001",
       "code": "01.05.11.001",
-      "sku": "PJS-304BXG-0880-04",
+      "sku": "PJS-304BXG-8-80BXG",
       "name_th": "พุกสแตนเลส 304 8*80",
+      "name_th_short": "พุกสแตนเลส",
       "name_cn": "304不锈钢膨胀8*80",
       "price": 10.2,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "PJS",
       "material_cn": "304不锈钢",
       "material_code": "304BXG",
-      "spec_number": "0880-04",
-      "row_no": 409,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "8-80BXG",
+      "row_no": 409
     },
     {
       "id": "01-05-11-002",
       "slug": "01-05-11-002",
       "code": "01.05.11.002",
-      "sku": "PJS-304BXG-1080-05",
+      "sku": "PJS-304BXG-10-80BXG",
       "name_th": "พุกสแตนเลส 304 10*80",
+      "name_th_short": "พุกสแตนเลส",
       "name_cn": "304不锈钢膨胀10*80",
       "price": 13.2,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "PJS",
       "material_cn": "304不锈钢",
       "material_code": "304BXG",
-      "spec_number": "1080-05",
-      "row_no": 410,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10-80BXG",
+      "row_no": 410
     },
     {
       "id": "01-05-11-003",
       "slug": "01-05-11-003",
       "code": "01.05.11.003",
-      "sku": "PJS-304BXG-10100-03",
+      "sku": "PJS-304BXG-10-100BXG",
       "name_th": "พุกสแตนเลส 304 10*100",
+      "name_th_short": "พุกสแตนเลส",
       "name_cn": "304不锈钢膨胀10*100",
       "price": 16.2,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "PJS",
       "material_cn": "304不锈钢",
       "material_code": "304BXG",
-      "spec_number": "10100-03",
-      "row_no": 411,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10-100BXG",
+      "row_no": 411
     },
     {
       "id": "01-05-11-005",
       "slug": "01-05-11-005",
       "code": "01.05.11.005",
-      "sku": "PJS-304BXG-12100-05",
+      "sku": "PJS-304BXG-12-100BXG",
       "name_th": "พุกสแตนเลส 304 12*100",
+      "name_th_short": "พุกสแตนเลส",
       "name_cn": "304不锈钢膨胀12*100",
       "price": 19.2,
       "image": "/placeholder.svg",
@@ -128,10 +126,8 @@
       "category_code": "PJS",
       "material_cn": "304不锈钢",
       "material_code": "304BXG",
-      "spec_number": "12100-05",
-      "row_no": 412,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "12-100BXG",
+      "row_no": 412
     }
   ]
 }

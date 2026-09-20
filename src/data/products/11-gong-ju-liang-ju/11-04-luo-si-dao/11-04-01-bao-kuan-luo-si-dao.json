@@ -9,8 +9,9 @@
       "id": "11-04-01-001",
       "slug": "11-04-01-001",
       "code": "11.04.01.001",
-      "sku": "LSD-708-04-01",
+      "sku": "LSD-708-04",
       "name_th": "ไขควงปากแบน 4 นิ้ว รุ่น 708 (12 ตัว/กล่อง) YT-70804SL",
+      "name_th_short": "ไขควงปากแบน 4 นิ้ว",
       "name_cn": "708型新款螺丝刀4寸”一字（12把/盒）YT-70804SL",
       "price": 19.2,
       "image": "/placeholder.svg",
@@ -31,18 +32,17 @@
       "category_cn": "螺丝刀",
       "category_code": "LSD",
       "material_cn": "新款708",
-      "material_code": "708.0",
-      "spec_number": "04-01",
-      "row_no": 354,
-      "col_o": null,
-      "col_r": null
+      "material_code": "708",
+      "spec_number": "04",
+      "row_no": 354
     },
     {
       "id": "11-04-01-002",
       "slug": "11-04-01-002",
       "code": "11.04.01.002",
-      "sku": "LSD-708-05-01",
+      "sku": "LSD-708-05",
       "name_th": "ไขควงปากแบน 5 นิ้ว รุ่น 708 (12 ตัว/กล่อง) YT-70805SL",
+      "name_th_short": "ไขควงปากแบน 5 นิ้ว",
       "name_cn": "708型新款螺丝刀5寸”一字（12把/盒）YT-70805SL",
       "price": 21.6,
       "image": "/placeholder.svg",
@@ -63,11 +63,9 @@
       "category_cn": "螺丝刀",
       "category_code": "LSD",
       "material_cn": "新款708",
-      "material_code": "708.0",
-      "spec_number": "05-01",
-      "row_no": 355,
-      "col_o": null,
-      "col_r": null
+      "material_code": "708",
+      "spec_number": "05",
+      "row_no": 355
     },
     {
       "id": "11-04-01-003",
@@ -75,6 +73,7 @@
       "code": "11.04.01.003",
       "sku": "LSD-708-06-01",
       "name_th": "ไขควงปากแบน 6 นิ้ว รุ่น 708 (12 ตัว/กล่อง) YT-70806SL",
+      "name_th_short": "ไขควงปากแบน 6 นิ้ว",
       "name_cn": "708型新款螺丝刀6寸”一字（12把/盒）YT-70806SL",
       "price": 24,
       "image": "/placeholder.svg",
@@ -95,11 +94,9 @@
       "category_cn": "螺丝刀",
       "category_code": "LSD",
       "material_cn": "新款708",
-      "material_code": "708.0",
+      "material_code": 708,
       "spec_number": "06-01",
-      "row_no": 356,
-      "col_o": null,
-      "col_r": null
+      "row_no": 356
     },
     {
       "id": "11-04-01-004",
@@ -107,6 +104,7 @@
       "code": "11.04.01.004",
       "sku": "LSD-708-08-01",
       "name_th": "ไขควงปากแบน 8 นิ้ว รุ่น 708 (12 ตัว/กล่อง) YT-70808SL",
+      "name_th_short": "ไขควงปากแบน 8 นิ้ว",
       "name_cn": "708型新款螺丝刀8寸”一字（12把/盒）YT-70808SL",
       "price": 26.4,
       "image": "/placeholder.svg",
@@ -127,11 +125,9 @@
       "category_cn": "螺丝刀",
       "category_code": "LSD",
       "material_cn": "新款708",
-      "material_code": "708.0",
+      "material_code": 708,
       "spec_number": "08-01",
-      "row_no": 357,
-      "col_o": null,
-      "col_r": null
+      "row_no": 357
     },
     {
       "id": "11-04-01-005",
@@ -139,6 +135,7 @@
       "code": "11.04.01.005",
       "sku": "LSD-708-06-02",
       "name_th": "ไขควงปากแฉก 6 นิ้ว รุ่น 708 (12 ตัว/กล่อง) YT-70806PH",
+      "name_th_short": "ไขควงปากแฉก 6 นิ้ว",
       "name_cn": "708型新款螺丝刀6寸\"十字（12把/盒）YT-70806PH",
       "price": 24,
       "image": "/placeholder.svg",
@@ -159,11 +156,9 @@
       "category_cn": "螺丝刀",
       "category_code": "LSD",
       "material_cn": "新款708",
-      "material_code": "708.0",
+      "material_code": 708,
       "spec_number": "06-02",
-      "row_no": 358,
-      "col_o": null,
-      "col_r": null
+      "row_no": 358
     },
     {
       "id": "11-04-01-006",
@@ -171,6 +166,7 @@
       "code": "11.04.01.006",
       "sku": "LSD-708-08-02",
       "name_th": "ไขควงปากแฉก 8 นิ้ว รุ่น 708 (12 ตัว/กล่อง) YT-70808PH",
+      "name_th_short": "ไขควงปากแฉก 8 นิ้ว",
       "name_cn": "708型新款螺丝刀8寸”十字（12把/盒）YT-70808PH",
       "price": 26.4,
       "image": "/placeholder.svg",
@@ -191,11 +187,9 @@
       "category_cn": "螺丝刀",
       "category_code": "LSD",
       "material_cn": "新款708",
-      "material_code": "708.0",
+      "material_code": 708,
       "spec_number": "08-02",
-      "row_no": 359,
-      "col_o": null,
-      "col_r": null
+      "row_no": 359
     }
   ]
 }

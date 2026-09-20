@@ -9,8 +9,9 @@
       "id": "12-05-09-0001",
       "slug": "12-05-09-0001",
       "code": "12.05.09.0001",
-      "sku": "LSD-SS-6100-01",
-      "name_th": "ไขควงยืดหดได้ ขนาด 4-6 นิ้ว รุ่น YT-70804",
+      "sku": "LSD-SS-6100",
+      "name_th": "ไขควงยืดหดได้ ขนาด 4-6 นิ้ว 100 มม. รุ่น YT-70804",
+      "name_th_short": "ไขควงยืดหดได้",
       "name_cn": "4寸-6寸伸缩螺丝刀6”/100（12把/盒）YT-70804",
       "price": 54,
       "image": "/placeholder.svg",
@@ -32,10 +33,8 @@
       "category_code": "LSD",
       "material_cn": "伸缩",
       "material_code": "SS",
-      "spec_number": "6100-01",
-      "row_no": 77,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "6100",
+      "row_no": 77
     }
   ]
 }

@@ -9,8 +9,9 @@
       "id": "12-02-16-002",
       "slug": "12-02-16-002",
       "code": "12.02.16.002",
-      "sku": "SJG-SK-04160-01",
+      "sku": "SJG-SK-4-160",
       "name_th": "ตะไบละเอียด Shike ขนาด 4*160 มม.",
+      "name_th_short": "ตะไบละเอียด Shike",
       "name_cn": "世克 什锦锉（4*160）（20支/盒）",
       "price": 114,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "SJG",
       "material_cn": "世克",
       "material_code": "SK",
-      "spec_number": "04160-01",
-      "row_no": 15,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "4-160",
+      "row_no": 15
     },
     {
       "id": "12-02-16-003",
       "slug": "12-02-16-003",
       "code": "12.02.16.003",
-      "sku": "SJG-SK-05180-01",
+      "sku": "SJG-SK-5-180",
       "name_th": "ตะไบละเอียด Shike ขนาด 5*180 มม.",
+      "name_th_short": "ตะไบละเอียด Shike",
       "name_cn": "世克 什锦锉（5*180）（14支/盒）",
       "price": 138,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "SJG",
       "material_cn": "世克",
       "material_code": "SK",
-      "spec_number": "05180-01",
-      "row_no": 16,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "5-180",
+      "row_no": 16
     }
   ]
 }

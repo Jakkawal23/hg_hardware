@@ -11,6 +11,7 @@
       "code": "23.04.03.004",
       "sku": "JL-YK-HJZ-PUC-1.5-WX",
       "name_th": "ล้อดำซีรีส์ Heijinzuan 1.5 นิ้ว แบรนด์ Yangke (ล้อเป็น)",
+      "name_th_short": "ล้อดำ 1.5 นิ้ว (ล้อเป็น)",
       "name_cn": "杨克1.5寸黑金钻（PUC）脚轮 万向",
       "price": 26.4,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "杨克黑金钻PUC",
       "material_code": "YK-HJZ-PUC",
       "spec_number": "1.5-WX",
-      "row_no": 57,
-      "col_o": null,
-      "col_r": null
+      "row_no": 57
     },
     {
       "id": "23-04-03-005",
@@ -43,6 +42,7 @@
       "code": "23.04.03.005",
       "sku": "JL-YK-HJZ-PUC-1.5-DX",
       "name_th": "ล้อดำซีรีส์ Heijinzuan 1.5 นิ้ว แบรนด์ Yangke (ล้อตาย)",
+      "name_th_short": "ล้อดำ 1.5 นิ้ว (ล้อตาย)",
       "name_cn": "杨克1.5寸黑金钻（PUC）脚轮 定向",
       "price": 24,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "杨克黑金钻PUC",
       "material_code": "YK-HJZ-PUC",
       "spec_number": "1.5-DX",
-      "row_no": 58,
-      "col_o": null,
-      "col_r": null
+      "row_no": 58
     },
     {
       "id": "23-04-03-006",
@@ -75,6 +73,7 @@
       "code": "23.04.03.006",
       "sku": "JL-YK-HJZ-PUC-1.5-SC",
       "name_th": "ล้อดำซีรีส์ Heijinzuan 1.5 นิ้ว แบรนด์ Yangke (ล้อติดเบรก)",
+      "name_th_short": "ล้อดำ 1.5 นิ้ว (มีเบรก)",
       "name_cn": "杨克1.5寸黑金钻（PUC）脚轮 刹车",
       "price": 42,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "杨克黑金钻PUC",
       "material_code": "YK-HJZ-PUC",
       "spec_number": "1.5-SC",
-      "row_no": 59,
-      "col_o": null,
-      "col_r": null
+      "row_no": 59
     },
     {
       "id": "23-04-03-008",
@@ -107,6 +104,7 @@
       "code": "23.04.03.008",
       "sku": "JL-YK-HJZ-PUC-2-DX",
       "name_th": "ล้อดำซีรีส์ Heijinzuan 2 นิ้ว แบรนด์ Yangke (ล้อตาย)",
+      "name_th_short": "ล้อดำ 2 นิ้ว (ล้อตาย)",
       "name_cn": "杨克2寸黑金钻（PUC）脚轮 定向",
       "price": 26.4,
       "image": "/placeholder.svg",
@@ -129,9 +127,7 @@
       "material_cn": "杨克黑金钻PUC",
       "material_code": "YK-HJZ-PUC",
       "spec_number": "2-DX",
-      "row_no": 60,
-      "col_o": null,
-      "col_r": null
+      "row_no": 60
     },
     {
       "id": "23-04-03-009",
@@ -139,6 +135,7 @@
       "code": "23.04.03.009",
       "sku": "JL-YK-HJZ-PUC-2-SC",
       "name_th": "ล้อดำซีรีส์ Heijinzuan 2 นิ้ว แบรนด์ Yangke (ล้อติดเบรก)",
+      "name_th_short": "ล้อดำ 2 นิ้ว (มีเบรก)",
       "name_cn": "杨克2寸黑金钻（PUC）脚轮 刹车",
       "price": 45.6,
       "image": "/placeholder.svg",
@@ -161,9 +158,7 @@
       "material_cn": "杨克黑金钻PUC",
       "material_code": "YK-HJZ-PUC",
       "spec_number": "2-SC",
-      "row_no": 61,
-      "col_o": null,
-      "col_r": null
+      "row_no": 61
     },
     {
       "id": "23-04-03-010",
@@ -171,6 +166,7 @@
       "code": "23.04.03.010",
       "sku": "JL-BZ-BNL-ZX-3-WX",
       "name_th": "ล้อไนลอนขาวขนาดกลาง 3 นิ้ว (ล้อเป็น/หมุนรอบ)",
+      "name_th_short": "ล้อไนลอนขาว 3 นิ้ว (ล้อเป็น)",
       "name_cn": "3寸中型白尼龙脚轮 万向",
       "price": 78,
       "image": "/placeholder.svg",
@@ -193,9 +189,7 @@
       "material_cn": "标准白尼龙中型",
       "material_code": "BZ-BNL-ZX",
       "spec_number": "3-WX",
-      "row_no": 62,
-      "col_o": null,
-      "col_r": null
+      "row_no": 62
     },
     {
       "id": "23-04-03-016",
@@ -203,6 +197,7 @@
       "code": "23.04.03.016",
       "sku": "JL-BK-SZ-BNL-4-WX",
       "name_th": "ล้อไนลอนขาวตลับลูกปืนคู่รุ่นยอดนิยม 4 นิ้ว (ล้อเป็น)",
+      "name_th_short": "ล้อไนลอนขาว 4 นิ้ว (ล้อเป็น)",
       "name_cn": "爆款4寸双轴白尼龙脚轮 万向",
       "price": null,
       "image": "/placeholder.svg",
@@ -225,9 +220,7 @@
       "material_cn": "爆款双轴白尼龙",
       "material_code": "BK-SZ-BNL",
       "spec_number": "4-WX",
-      "row_no": 63,
-      "col_o": null,
-      "col_r": null
+      "row_no": 63
     },
     {
       "id": "23-04-03-017",
@@ -235,6 +228,7 @@
       "code": "23.04.03.017",
       "sku": "JL-BK-SZ-BNL-4-DX",
       "name_th": "ล้อไนลอนขาวตลับลูกปืนคู่รุ่นยอดนิยม 4 นิ้ว (ล้อตาย)",
+      "name_th_short": "ล้อไนลอนขาว 4 นิ้ว (ล้อตาย)",
       "name_cn": "爆款4寸双轴白尼龙脚轮 定向",
       "price": 84,
       "image": "/placeholder.svg",
@@ -257,9 +251,7 @@
       "material_cn": "爆款双轴白尼龙",
       "material_code": "BK-SZ-BNL",
       "spec_number": "4-DX",
-      "row_no": 64,
-      "col_o": null,
-      "col_r": null
+      "row_no": 64
     },
     {
       "id": "23-04-03-018",
@@ -267,6 +259,7 @@
       "code": "23.04.03.018",
       "sku": "JL-XK-BNL-ZX-5-WX",
       "name_th": "ล้อไนลอนขาวขนาดกลางรุ่นใหม่ 5 นิ้ว (ล้อเป็น/หมุนรอบ)",
+      "name_th_short": "ล้อไนลอนขาว 5 นิ้ว (ล้อเป็น)",
       "name_cn": "新款5寸中型白尼龙脚轮 万向",
       "price": null,
       "image": "/placeholder.svg",
@@ -289,9 +282,7 @@
       "material_cn": "新款白尼龙中型",
       "material_code": "XK-BNL-ZX",
       "spec_number": "5-WX",
-      "row_no": 65,
-      "col_o": null,
-      "col_r": null
+      "row_no": 65
     },
     {
       "id": "23-04-03-019",
@@ -299,6 +290,7 @@
       "code": "23.04.03.019",
       "sku": "JL-XK-BNL-ZX-5-DX",
       "name_th": "ล้อไนลอนขาวขนาดกลางรุ่นใหม่ 5 นิ้ว (ล้อตาย/ทางเดียว)",
+      "name_th_short": "ล้อไนลอนขาว 5 นิ้ว (ล้อตาย)",
       "name_cn": "新款5寸中型白尼龙脚轮 定向",
       "price": 96,
       "image": "/placeholder.svg",
@@ -321,9 +313,7 @@
       "material_cn": "新款白尼龙中型",
       "material_code": "XK-BNL-ZX",
       "spec_number": "5-DX",
-      "row_no": 66,
-      "col_o": null,
-      "col_r": null
+      "row_no": 66
     },
     {
       "id": "23-04-03-021",
@@ -331,6 +321,7 @@
       "code": "23.04.03.021",
       "sku": "JL-BZ-NLL-6-WX",
       "name_th": "ล้อไนลอนมาตรฐาน 6 นิ้ว (ล้อเป็น/หมุนรอบ)",
+      "name_th_short": "ล้อไนลอน 6 นิ้ว (ล้อเป็น)",
       "name_cn": "尼龙轮-万向 6寸",
       "price": 102,
       "image": "/placeholder.svg",
@@ -353,9 +344,7 @@
       "material_cn": "标准尼龙轮",
       "material_code": "BZ-NLL",
       "spec_number": "6-WX",
-      "row_no": 67,
-      "col_o": null,
-      "col_r": null
+      "row_no": 67
     }
   ]
 }

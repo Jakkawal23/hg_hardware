@@ -9,8 +9,9 @@
       "id": "05-01-04-001",
       "slug": "05-01-04-001",
       "code": "05.01.04.001",
-      "sku": "HLG-6-6-01",
+      "sku": "HLG-PT-6",
       "name_th": "ท่อฉนวนกันความร้อน (ท่อเหลือง) 6# (100 เส้น/ห่อ)",
+      "name_th_short": "ท่อฉนวนกันความร้อน (ท่อเหลือง)",
       "name_cn": "黄腊管 6#(100条/包)",
       "price": 252,
       "image": "/placeholder.svg",
@@ -31,18 +32,17 @@
       "category_cn": "黄腊管",
       "category_code": "HLG",
       "material_cn": "6#",
-      "material_code": "6.0",
-      "spec_number": "6-01",
-      "row_no": 48,
-      "col_o": null,
-      "col_r": null
+      "material_code": "PT",
+      "spec_number": "6",
+      "row_no": 48
     },
     {
       "id": "05-01-04-002",
       "slug": "05-01-04-002",
       "code": "05.01.04.002",
-      "sku": "HLG-8-8-01",
+      "sku": "HLG-PT-8",
       "name_th": "ท่อฉนวนกันความร้อน (ท่อเหลือง) 8# (100 เส้น/ห่อ)",
+      "name_th_short": "ท่อฉนวนกันความร้อน (ท่อเหลือง)",
       "name_cn": "黄腊管 8#(100条/包）",
       "price": 288,
       "image": "/placeholder.svg",
@@ -63,18 +63,17 @@
       "category_cn": "黄腊管",
       "category_code": "HLG",
       "material_cn": "8#",
-      "material_code": "8.0",
-      "spec_number": "8-01",
-      "row_no": 49,
-      "col_o": null,
-      "col_r": null
+      "material_code": "PT",
+      "spec_number": "8",
+      "row_no": 49
     },
     {
       "id": "05-01-04-004",
       "slug": "05-01-04-004",
       "code": "05.01.04.004",
-      "sku": "HLG-12-12-01",
+      "sku": "HLG-PT-12",
       "name_th": "ท่อฉนวนกันความร้อน (ท่อเหลือง) 12# (50 เส้น/ห่อ)",
+      "name_th_short": "ท่อฉนวนกันความร้อน (ท่อเหลือง)",
       "name_cn": "黄腊管 12#（50条/包）",
       "price": 312,
       "image": "/placeholder.svg",
@@ -95,18 +94,17 @@
       "category_cn": "黄腊管",
       "category_code": "HLG",
       "material_cn": "12#",
-      "material_code": "12.0",
-      "spec_number": "12-01",
-      "row_no": 50,
-      "col_o": null,
-      "col_r": null
+      "material_code": "PT",
+      "spec_number": "12",
+      "row_no": 50
     },
     {
       "id": "05-01-04-006",
       "slug": "05-01-04-006",
       "code": "05.01.04.006",
-      "sku": "HLG-10-10-01",
+      "sku": "HLG-PT-10",
       "name_th": "ท่อฉนวนกันความร้อน (ท่อเหลือง) 10# (50 เส้น/ห่อ)",
+      "name_th_short": "ท่อฉนวนกันความร้อน (ท่อเหลือง)",
       "name_cn": "黄腊管 10#（50条/包）",
       "price": 180,
       "image": "/placeholder.svg",
@@ -127,11 +125,9 @@
       "category_cn": "黄腊管",
       "category_code": "HLG",
       "material_cn": "10#",
-      "material_code": "10.0",
-      "spec_number": "10-01",
-      "row_no": 51,
-      "col_o": null,
-      "col_r": null
+      "material_code": "PT",
+      "spec_number": "10",
+      "row_no": 51
     }
   ]
 }

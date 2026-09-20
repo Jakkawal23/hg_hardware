@@ -9,8 +9,9 @@
       "id": "01-11-04-001",
       "slug": "01-11-04-001",
       "code": "01.11.04.001",
-      "sku": "SND-AX-30-01",
+      "sku": "SND-AX-30",
       "name_th": "ตะปูคอนกรีต 30",
+      "name_th_short": "ตะปูคอนกรีต",
       "name_cn": "安心水泥钉30（1寸）",
       "price": 24,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "SND",
       "material_cn": "安心",
       "material_code": "AX",
-      "spec_number": "30-01",
-      "row_no": 756,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "30",
+      "row_no": 756
     },
     {
       "id": "01-11-04-002",
       "slug": "01-11-04-002",
       "code": "01.11.04.002",
-      "sku": "SND-AX-40-01",
+      "sku": "SND-AX-40",
       "name_th": "ตะปูคอนกรีต 40",
+      "name_th_short": "ตะปูคอนกรีต",
       "name_cn": "安心水泥钉40(1.5寸）",
       "price": 24,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "SND",
       "material_cn": "安心",
       "material_code": "AX",
-      "spec_number": "40-01",
-      "row_no": 757,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "40",
+      "row_no": 757
     },
     {
       "id": "01-11-04-003",
       "slug": "01-11-04-003",
       "code": "01.11.04.003",
-      "sku": "SND-AX-50-01",
+      "sku": "SND-AX-50",
       "name_th": "ตะปูคอนกรีต 50",
+      "name_th_short": "ตะปูคอนกรีต",
       "name_cn": "安心水泥钉50(2寸）",
       "price": 24,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "SND",
       "material_cn": "安心",
       "material_code": "AX",
-      "spec_number": "50-01",
-      "row_no": 758,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "50",
+      "row_no": 758
     },
     {
       "id": "01-11-04-004",
       "slug": "01-11-04-004",
       "code": "01.11.04.004",
-      "sku": "SND-AX-60-01",
+      "sku": "SND-AX-60",
       "name_th": "ตะปูคอนกรีต 60",
+      "name_th_short": "ตะปูคอนกรีต",
       "name_cn": "安心水泥钉60(2.5寸）",
       "price": 24,
       "image": "/placeholder.svg",
@@ -128,10 +126,8 @@
       "category_code": "SND",
       "material_cn": "安心",
       "material_code": "AX",
-      "spec_number": "60-01",
-      "row_no": 759,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "60",
+      "row_no": 759
     },
     {
       "id": "01-11-04-005",
@@ -139,6 +135,7 @@
       "code": "01.11.04.005",
       "sku": "SND-AX-70-01",
       "name_th": "ตะปูคอนกรีต 70 (แบบแยกชิ้น)",
+      "name_th_short": "ตะปูคอนกรีต",
       "name_cn": "安心水泥钉70(3寸）",
       "price": 456,
       "image": "/placeholder.svg",
@@ -161,16 +158,15 @@
       "material_cn": "安心",
       "material_code": "AX",
       "spec_number": "70-01",
-      "row_no": 760,
-      "col_o": null,
-      "col_r": null
+      "row_no": 760
     },
     {
       "id": "01-11-04-006",
       "slug": "01-11-04-006",
       "code": "01.11.04.006",
-      "sku": "SND-AX-80-01",
+      "sku": "SND-AX-80",
       "name_th": "ตะปูคอนกรีต 80",
+      "name_th_short": "ตะปูคอนกรีต",
       "name_cn": "安心水泥钉80(3.5寸）",
       "price": 24,
       "image": "/placeholder.svg",
@@ -192,17 +188,16 @@
       "category_code": "SND",
       "material_cn": "安心",
       "material_code": "AX",
-      "spec_number": "80-01",
-      "row_no": 761,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "80",
+      "row_no": 761
     },
     {
       "id": "01-11-04-007",
       "slug": "01-11-04-007",
       "code": "01.11.04.007",
-      "sku": "SND-AX-100-01",
+      "sku": "SND-AX-100",
       "name_th": "ตะปูคอนกรีต 100",
+      "name_th_short": "ตะปูคอนกรีต",
       "name_cn": "安心水泥钉100(4寸）",
       "price": 24,
       "image": "/placeholder.svg",
@@ -224,10 +219,8 @@
       "category_code": "SND",
       "material_cn": "安心",
       "material_code": "AX",
-      "spec_number": "100-01",
-      "row_no": 762,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "100",
+      "row_no": 762
     },
     {
       "id": "01-11-04-010",
@@ -235,6 +228,7 @@
       "code": "01.11.04.010",
       "sku": "SND-AX-70-02",
       "name_th": "ตะปูคอนกรีต 70 (บรรจุกล่อง 25 กล่อง/ลัง)",
+      "name_th_short": "ตะปูคอนกรีต",
       "name_cn": "安心水泥钉70(3寸）",
       "price": 24,
       "image": "/placeholder.svg",
@@ -257,9 +251,7 @@
       "material_cn": "安心",
       "material_code": "AX",
       "spec_number": "70-02",
-      "row_no": 763,
-      "col_o": null,
-      "col_r": null
+      "row_no": 763
     }
   ]
 }

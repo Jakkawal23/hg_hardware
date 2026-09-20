@@ -9,8 +9,9 @@
       "id": "11-06-07-001",
       "slug": "11-06-07-001",
       "code": "11.06.07.001",
-      "sku": "ZJJQ-BP-00000-01",
+      "sku": "ZJJQ-BP-00000",
       "name_th": "ปืนยิงกาวเสียบเหล็ก",
+      "name_th_short": "ปืนฉีดกาวเสียบเหล็ก",
       "name_cn": "植筋胶枪",
       "price": 156,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "ZJJQ",
       "material_cn": "标配",
       "material_code": "BP",
-      "spec_number": "00000-01",
-      "row_no": 484,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000",
+      "row_no": 484
     },
     {
       "id": "11-06-07-002",
       "slug": "11-06-07-002",
       "code": "11.06.07.002",
-      "sku": "MJQ-SL-00000-01",
+      "sku": "MJQ-SL-00000",
       "name_th": "ปืนยิงกาวแนวร่อง แบบพลาสติก บรรจุ 1 ชิ้น/กล่อง",
+      "name_th_short": "ปืนยิงกาวยาแนว",
       "name_cn": "塑料美缝枪（1把/盒）",
       "price": 126,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "MJQ",
       "material_cn": "塑料",
       "material_code": "SL",
-      "spec_number": "00000-01",
-      "row_no": 485,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000",
+      "row_no": 485
     },
     {
       "id": "11-06-07-003",
       "slug": "11-06-07-003",
       "code": "11.06.07.003",
-      "sku": "MJQ-5021SG-00000-01",
-      "name_th": "ปืนยิงกาวแนวร่อง รุ่นสองแกน โครงเหล็ก ประหยัดแรง รหัส 5021",
+      "sku": "MJQ-5021SG-00000",
+      "name_th": "ปืนยิงกาวแนวร่อง รุ่นพรีเมียม รุ่นสองแกน โครงเหล็ก ประหยัดแรง รหัส 5021",
+      "name_th_short": "ปืนยิงกาวยาแนว",
       "name_cn": "5021-精品双管铁架省力美缝枪（2把盒）",
       "price": 168,
       "image": "/placeholder.svg",
@@ -96,10 +95,8 @@
       "category_code": "MJQ",
       "material_cn": "5021双管",
       "material_code": "5021SG",
-      "spec_number": "00000-01",
-      "row_no": 486,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000",
+      "row_no": 486
     }
   ]
 }

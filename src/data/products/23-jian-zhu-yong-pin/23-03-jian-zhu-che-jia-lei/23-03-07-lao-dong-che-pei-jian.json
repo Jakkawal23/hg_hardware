@@ -11,6 +11,7 @@
       "code": "23.03.07.005",
       "sku": "LDC-PJ-NT-01",
       "name_th": "ยางในรถเข็นปูน/ยางในรถเข็นล้อเดี่ยว",
+      "name_th_short": "ยางในรถเข็นปูน",
       "name_cn": "劳动车内胎",
       "price": null,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "内胎",
       "material_code": "NT",
       "spec_number": "01",
-      "row_no": 45,
-      "col_o": null,
-      "col_r": null
+      "row_no": 45
     },
     {
       "id": "23-03-07-013",
@@ -43,6 +42,7 @@
       "code": "23.03.07.013",
       "sku": "LDC-PJ-ZC-01",
       "name_th": "ลูกปืนเพลารถเข็นปูน/ตลับลูกปืนรถเข็นล้อเดี่ยว",
+      "name_th_short": "ลูกปืนรถเข็นปูน",
       "name_cn": "劳动车轴承",
       "price": 24,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "轴承",
       "material_code": "ZC",
       "spec_number": "01",
-      "row_no": 46,
-      "col_o": null,
-      "col_r": null
+      "row_no": 46
     },
     {
       "id": "23-03-07-022",
@@ -75,6 +73,7 @@
       "code": "23.03.07.022",
       "sku": "LDC-PJ-HDC-ZC-01",
       "name_th": "ลูกปืนเพลารถเข็นปูนล้อเดี่ยว (รุ่นฮุ่ยโต่วเช่อ)",
+      "name_th_short": "ลูกปืนรถเข็นปูน",
       "name_cn": "（灰斗车）劳动车轴承",
       "price": 36,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "灰斗车轴承",
       "material_code": "HDC-ZC",
       "spec_number": "01",
-      "row_no": 47,
-      "col_o": null,
-      "col_r": null
+      "row_no": 47
     },
     {
       "id": "23-03-07-023",
@@ -107,6 +104,7 @@
       "code": "23.03.07.023",
       "sku": "LDC-PJ-CZ-01",
       "name_th": "แกนเพลารถเข็นปูน/แกนล้อรถเข็นล้อเดี่ยว",
+      "name_th_short": "แกนเพลารถเข็นปูน",
       "name_cn": "（灰斗车）劳动车车轴",
       "price": 276,
       "image": "/placeholder.svg",
@@ -129,9 +127,7 @@
       "material_cn": "车轴",
       "material_code": "CZ",
       "spec_number": "01",
-      "row_no": 48,
-      "col_o": null,
-      "col_r": null
+      "row_no": 48
     }
   ]
 }

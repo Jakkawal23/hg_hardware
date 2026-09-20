@@ -10,7 +10,8 @@
       "slug": "17-01-18-004",
       "code": "17.01.18.004",
       "sku": null,
-      "name_th": "เพชรทรงหกเหลี่ยม Hans King Diamond 12 (5 ชิ้น/กล่องเล็ก)",
+      "name_th": "ดอกสว่านก้านหกเหลี่ยม Hans 12",
+      "name_th_short": "ดอกสว่านก้านหกเหลี่ยม 12",
       "name_cn": "汉斯六角霸王钻 12（5支/小盒）",
       "price": 38.4,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": null,
       "material_code": null,
       "spec_number": null,
-      "row_no": 214,
-      "col_o": null,
-      "col_r": null
+      "row_no": 214
     }
   ]
 }

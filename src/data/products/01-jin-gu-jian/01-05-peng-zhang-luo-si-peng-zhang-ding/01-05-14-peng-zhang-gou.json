@@ -9,8 +9,9 @@
       "id": "01-05-14-001",
       "slug": "01-05-14-001",
       "code": "01.05.14.001",
-      "sku": "PJG-M6-6-02",
+      "sku": "PJG-M6-6",
       "name_th": "พุกตะขอ M6",
+      "name_th_short": "พุกตะขอ",
       "name_cn": "膨胀钩M6",
       "price": 2.4,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "PJG",
       "material_cn": "M6",
       "material_code": "M6",
-      "spec_number": "6-02",
-      "row_no": 430,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "6",
+      "row_no": 430
     },
     {
       "id": "01-05-14-002",
       "slug": "01-05-14-002",
       "code": "01.05.14.002",
-      "sku": "PJG-M8-8-10",
+      "sku": "PJG-M8-8",
       "name_th": "พุกตะขอ M8",
+      "name_th_short": "พุกตะขอ",
       "name_cn": "膨胀钩M8",
       "price": 4.2,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "PJG",
       "material_cn": "M8",
       "material_code": "M8",
-      "spec_number": "8-10",
-      "row_no": 431,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "8",
+      "row_no": 431
     },
     {
       "id": "01-05-14-003",
       "slug": "01-05-14-003",
       "code": "01.05.14.003",
-      "sku": "PJG-M10-10-12",
+      "sku": "PJG-M10-10",
       "name_th": "พุกตะขอ M10",
+      "name_th_short": "พุกตะขอ",
       "name_cn": "膨胀钩M10",
       "price": 6.48,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "PJG",
       "material_cn": "M10",
       "material_code": "M10",
-      "spec_number": "10-12",
-      "row_no": 432,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10",
+      "row_no": 432
     },
     {
       "id": "01-05-14-004",
       "slug": "01-05-14-004",
       "code": "01.05.14.004",
-      "sku": "PJG-M12-12-11",
+      "sku": "PJG-M12-12",
       "name_th": "พุกตะขอ M12",
+      "name_th_short": "พุกตะขอ",
       "name_cn": "膨胀钩M12",
       "price": 10.2,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "PJG",
       "material_cn": "M12",
       "material_code": "M12",
-      "spec_number": "12-11",
-      "row_no": 433,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "12",
+      "row_no": 433
     },
     {
       "id": "01-05-14-005",
       "slug": "01-05-14-005",
       "code": "01.05.14.005",
-      "sku": "DG-KX-1-01",
+      "sku": "DG-KX-1",
       "name_th": "ตะขอแขวนพัดลมเพดาน",
+      "name_th_short": "ตะขอแขวนพัดลมเพดาน",
       "name_cn": "空心板吊扇钩",
       "price": 9.36,
       "image": "/placeholder.svg",
@@ -160,10 +157,8 @@
       "category_code": "DG",
       "material_cn": "空心板",
       "material_code": "KX",
-      "spec_number": "1-01",
-      "row_no": 434,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1",
+      "row_no": 434
     }
   ]
 }

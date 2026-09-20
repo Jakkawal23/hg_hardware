@@ -9,8 +9,9 @@
       "id": "04-05-12-001",
       "slug": "04-05-12-001",
       "code": "04.05.12.001",
-      "sku": "DC-9V-01-01",
+      "sku": "DC-9V-01",
       "name_th": "แบตเตอรี่ทั่วไป 9V",
+      "name_th_short": "ถ่าน 9V",
       "name_cn": "普通电池 9V",
       "price": 15.6,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "DC",
       "material_cn": "9V",
       "material_code": "9V",
-      "spec_number": "01-01",
-      "row_no": 85,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "01",
+      "row_no": 85
     },
     {
       "id": "04-05-12-002",
       "slug": "04-05-12-002",
       "code": "04.05.12.002",
-      "sku": "DC-2H-01-01",
+      "sku": "DC-2H-01",
       "name_th": "แบตเตอรี่ทรงกลมเบอร์ 2 Baixiang (2 ก้อน/แผง)",
+      "name_th_short": "ถ่านกลมเบอร์ 2",
       "name_cn": "白象-2号圆电池（2粒/卡）",
       "price": 36,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "DC",
       "material_cn": "2号电池",
       "material_code": "2H",
-      "spec_number": "01-01",
-      "row_no": 86,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "01",
+      "row_no": 86
     }
   ]
 }

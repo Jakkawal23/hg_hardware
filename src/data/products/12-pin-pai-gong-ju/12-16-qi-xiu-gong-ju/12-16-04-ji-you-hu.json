@@ -9,8 +9,9 @@
       "id": "12-16-04-006",
       "slug": "12-16-04-006",
       "code": "12.16.04.006",
-      "sku": "YH-GYD-350-01",
+      "sku": "YH-GYD-350",
       "name_th": "กาหยอดน้ำมันแรงดันสูง (ใหญ่) 350 กรัม",
+      "name_th_short": "กาหยอดน้ำมันแรงดันสูง (ใหญ่)",
       "name_cn": "高压油壶（大）350g(10个/盒)YT-10905",
       "price": 74.4,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "YH",
       "material_cn": "高压大",
       "material_code": "GYD",
-      "spec_number": "350-01",
-      "row_no": 156,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "350",
+      "row_no": 156
     },
     {
       "id": "12-16-04-007",
       "slug": "12-16-04-007",
       "code": "12.16.04.007",
-      "sku": "YH-GYX-250-01",
+      "sku": "YH-GYX-250",
       "name_th": "กาหยอดน้ำมันแรงดันสูง (เล็ก) 250 กรัม",
+      "name_th_short": "กาหยอดน้ำมันแรงดันสูง (เล็ก)",
       "name_cn": "高压油壶（小）250g(10个/盒）YT-10906",
       "price": 48,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "YH",
       "material_cn": "高压小",
       "material_code": "GYX",
-      "spec_number": "250-01",
-      "row_no": 157,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "250",
+      "row_no": 157
     },
     {
       "id": "12-16-04-008",
       "slug": "12-16-04-008",
       "code": "12.16.04.008",
-      "sku": "YH-XTM-250-01",
+      "sku": "YH-XTM-250",
       "name_th": "กาหยอดน้ำมันแรงดันสูง (ใส) 250 กรัม",
+      "name_th_short": "กาหยอดน้ำมันแรงดันสูง (ใส)",
       "name_cn": "小透明高压油壶250g(10个/盒)YT-10906",
       "price": 54,
       "image": "/placeholder.svg",
@@ -96,10 +95,8 @@
       "category_code": "YH",
       "material_cn": "小透明",
       "material_code": "XTM",
-      "spec_number": "250-01",
-      "row_no": 158,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "250",
+      "row_no": 158
     }
   ]
 }

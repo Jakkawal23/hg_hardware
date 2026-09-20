@@ -11,6 +11,7 @@
       "code": "16.03.04.010",
       "sku": "DM-BS-10-250",
       "name_th": "ฟิล์มคลุมดิน สีขาว 250 เมตร (10ม้วน/มัด)",
+      "name_th_short": "ฟิล์มคลุมดิน สีขาว",
       "name_cn": "地膜（10卷/捆） 250米白色",
       "price": 96,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "白色",
       "material_code": "BS",
       "spec_number": "10-250",
-      "row_no": 40,
-      "col_o": null,
-      "col_r": null
+      "row_no": 40
     },
     {
       "id": "16-03-04-011",
@@ -43,6 +42,7 @@
       "code": "16.03.04.011",
       "sku": "DM-HS-10-350",
       "name_th": "ฟิล์มคลุมดิน สีเหลือง 350 เมตร (10ม้วน/มัด)",
+      "name_th_short": "ฟิล์มคลุมดิน สีเหลือง",
       "name_cn": "地膜（10卷/捆） 350米黄色",
       "price": 132,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "黄色",
       "material_code": "HS",
       "spec_number": "10-350",
-      "row_no": 41,
-      "col_o": null,
-      "col_r": null
+      "row_no": 41
     }
   ]
 }

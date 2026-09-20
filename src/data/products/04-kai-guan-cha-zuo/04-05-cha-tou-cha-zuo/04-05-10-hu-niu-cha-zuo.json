@@ -9,8 +9,9 @@
       "id": "04-05-10-001",
       "slug": "04-05-10-001",
       "code": "04.05.10.001",
-      "sku": "CZ-SY-16A-01",
+      "sku": "CZ-SY-16A",
       "name_th": "ปลั๊กตัวเมีย 3 ขา หูหนิว (Huniu) 16A",
+      "name_th_short": "ปลั๊กตัวเมีย 3 ขา 16A",
       "name_cn": "插座《沪牛》三眼插座16A",
       "price": 21.6,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "CZ",
       "material_cn": "三眼",
       "material_code": "SY",
-      "spec_number": "16A-01",
-      "row_no": 72,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "16A",
+      "row_no": 72
     },
     {
       "id": "04-05-10-002",
       "slug": "04-05-10-002",
       "code": "04.05.10.002",
-      "sku": "CZ-SY-10A-01",
+      "sku": "CZ-SY-10A",
       "name_th": "ปลั๊กตัวเมีย 3 ขา หูหนิว (Huniu) 10A",
+      "name_th_short": "ปลั๊กตัวเมีย 3 ขา 10A",
       "name_cn": "插座《沪牛》三眼插座10A",
       "price": 18,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "CZ",
       "material_cn": "三眼",
       "material_code": "SY",
-      "spec_number": "10A-01",
-      "row_no": 73,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10A",
+      "row_no": 73
     },
     {
       "id": "04-05-10-003",
       "slug": "04-05-10-003",
       "code": "04.05.10.003",
-      "sku": "CZ-BLGSY-25A-01",
+      "sku": "CZ-BLGSY-25A",
       "name_th": "ปลั๊กตัวเมีย 4 ขา หูหนิว (Huniu) วัสดุไฟเบอร์กลาส 25A",
+      "name_th_short": "ปลั๊กตัวเมีย 4 ขา ไฟเบอร์กลาส",
       "name_cn": "插座《沪牛》玻璃钢四眼插座25A",
       "price": 45.6,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "CZ",
       "material_cn": "玻璃钢四眼",
       "material_code": "BLGSY",
-      "spec_number": "25A-01",
-      "row_no": 74,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "25A",
+      "row_no": 74
     },
     {
       "id": "04-05-10-005",
       "slug": "04-05-10-005",
       "code": "04.05.10.005",
-      "sku": "CZ-SYAZ-25A-01",
+      "sku": "CZ-SYAZ-25A",
       "name_th": "ปลั๊กตัวเมีย 3 ขา หูหนิว (Huniu) 25A แบบฝัง",
+      "name_th_short": "ปลั๊กตัวเมีย 3 ขา แบบฝัง",
       "name_cn": "插座《沪牛》三眼插座25A暗装",
       "price": 45.6,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "CZ",
       "material_cn": "三眼暗装",
       "material_code": "SYAZ",
-      "spec_number": "25A-01",
-      "row_no": 75,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "25A",
+      "row_no": 75
     },
     {
       "id": "04-05-10-007",
       "slug": "04-05-10-007",
       "code": "04.05.10.007",
-      "sku": "CZ-MZWK-10A-01",
+      "sku": "CZ-MZWK-10A",
       "name_th": "ปลั๊กตัวเมีย 5 รู หูหนิว (Huniu) แบบลอย 10A",
+      "name_th_short": "ปลั๊กตัวเมีย 5 รู แบบลอย",
       "name_cn": "插座《沪牛》明装五孔插座10A",
       "price": 30,
       "image": "/placeholder.svg",
@@ -160,17 +157,16 @@
       "category_code": "CZ",
       "material_cn": "明装五孔",
       "material_code": "MZWK",
-      "spec_number": "10A-01",
-      "row_no": 76,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10A",
+      "row_no": 76
     },
     {
       "id": "04-05-10-009",
       "slug": "04-05-10-009",
       "code": "04.05.10.009",
-      "sku": "CZ-SYAZ-16A-01",
+      "sku": "CZ-SYAZ-16A",
       "name_th": "ปลั๊กตัวเมีย 4 ขา หูหนิว (Huniu) 16A แบบฝัง (10 ตัว/กล่อง)",
+      "name_th_short": "ปลั๊กตัวเมีย 4 ขา แบบฝัง",
       "name_cn": "插座《沪牛》四眼插座16A暗装（10只/盒）",
       "price": 36,
       "image": "/placeholder.svg",
@@ -192,10 +188,8 @@
       "category_code": "CZ",
       "material_cn": "四眼暗装",
       "material_code": "SYAZ",
-      "spec_number": "16A-01",
-      "row_no": 77,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "16A",
+      "row_no": 77
     }
   ]
 }

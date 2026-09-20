@@ -11,6 +11,7 @@
       "code": "21.03.02.001",
       "sku": "KSBS-GD-01",
       "name_th": "ด้ามฟรี/ด้ามก๊อกแก็ก เกรดพรีเมียม",
+      "name_th_short": "ด้ามฟรีบ็อกซ์",
       "name_cn": "快速扳手 高档",
       "price": 96,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "高档",
       "material_code": "GD",
       "spec_number": "01",
-      "row_no": 151,
-      "col_o": null,
-      "col_r": null
+      "row_no": 151
     }
   ]
 }

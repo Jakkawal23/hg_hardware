@@ -9,8 +9,9 @@
       "id": "08-01-10-001",
       "slug": "08-01-10-001",
       "code": "08.01.10.001",
-      "sku": "GS-TKS-38-01",
+      "sku": "GS-TKS-38",
       "name_th": "แม่กุญแจเลียนแบบทองเหลือง 《ระบบมาสเตอร์คีย์》-Huandun ขนาด 38 มม.",
+      "name_th_short": "แม่กุญแจเลียนแบบทองเหลือง",
       "name_cn": "环盾-仿铜挂锁《通开锁》 38",
       "price": 26.4,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "GS",
       "material_cn": "通开锁",
       "material_code": "TKS",
-      "spec_number": "38-01",
-      "row_no": 38,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "38",
+      "row_no": 38
     },
     {
       "id": "08-01-10-002",
       "slug": "08-01-10-002",
       "code": "08.01.10.002",
-      "sku": "GS-TKS-50-01",
+      "sku": "GS-TKS-50",
       "name_th": "แม่กุญแจเลียนแบบทองเหลือง 《ระบบมาสเตอร์คีย์》-Huandun ขนาด 50 มม.",
+      "name_th_short": "แม่กุญแจเลียนแบบทองเหลือง",
       "name_cn": "环盾-仿铜挂锁《通开锁》 50",
       "price": 42,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "GS",
       "material_cn": "通开锁",
       "material_code": "TKS",
-      "spec_number": "50-01",
-      "row_no": 39,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "50",
+      "row_no": 39
     },
     {
       "id": "08-01-10-003",
       "slug": "08-01-10-003",
       "code": "08.01.10.003",
-      "sku": "GS-TKSF-40-01",
+      "sku": "GS-TKSF-40",
       "name_th": "แม่กุญแจสี่เหลี่ยมสแตนเลส 《ระบบมาสเตอร์คีย์》 ขนาด 40 มม.",
+      "name_th_short": "แม่กุญแจสี่เหลี่ยมสแตนเลส มาสเตอร์คีย์",
       "name_cn": "不锈钢《通开锁》通开四方锁 40",
       "price": 48,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "GS",
       "material_cn": "通开四方锁",
       "material_code": "TKSF",
-      "spec_number": "40-01",
-      "row_no": 40,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "40",
+      "row_no": 40
     },
     {
       "id": "08-01-10-004",
       "slug": "08-01-10-004",
       "code": "08.01.10.004",
-      "sku": "GS-TKSF-50-01",
+      "sku": "GS-TKSF-50",
       "name_th": "แม่กุญแจสี่เหลี่ยมสแตนเลส 《ระบบมาสเตอร์คีย์》 ขนาด 50 มม.",
+      "name_th_short": "แม่กุญแจสี่เหลี่ยมสแตนเลส มาสเตอร์คีย์",
       "name_cn": "不锈钢《通开锁》通开四方锁 50",
       "price": 60,
       "image": "/placeholder.svg",
@@ -128,10 +126,8 @@
       "category_code": "GS",
       "material_cn": "通开四方锁",
       "material_code": "TKSF",
-      "spec_number": "50-01",
-      "row_no": 41,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "50",
+      "row_no": 41
     }
   ]
 }

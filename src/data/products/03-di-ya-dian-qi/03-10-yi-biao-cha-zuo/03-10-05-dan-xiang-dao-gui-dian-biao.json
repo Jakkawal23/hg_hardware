@@ -9,8 +9,9 @@
       "id": "03-10-05-001",
       "slug": "03-10-05-001",
       "code": "03.10.05.001",
-      "sku": "DB-DGLC-2P560A-01",
+      "sku": "DB-DGLC-2P560A",
       "name_th": "มิเตอร์ไฟฟ้าเฟสเดียวแบบราง 2P/หน้าจอ LCD 5(60)A",
+      "name_th_short": "มิเตอร์ไฟฟ้าแบบราง จอ LCD",
       "name_cn": "2P单相导轨电能表/电表/液晶屏幕 5（60）A",
       "price": 180,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "DB",
       "material_cn": "导轨液晶",
       "material_code": "DGLC",
-      "spec_number": "2P560A-01",
-      "row_no": 4,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "2P560A",
+      "row_no": 4
     },
     {
       "id": "03-10-05-002",
       "slug": "03-10-05-002",
       "code": "03.10.05.002",
-      "sku": "DB-DGLY-2P560A-02",
+      "sku": "DB-DGLY-2P560A",
       "name_th": "มิเตอร์ไฟฟ้าเฟสเดียวแบบราง 2P/ระบบบลูทูธ 5(60)A",
+      "name_th_short": "มิเตอร์ไฟฟ้าแบบราง บลูทูธ",
       "name_cn": "2P单相导轨电能表/电表/蓝牙智能 5（60）A",
       "price": 570,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "DB",
       "material_cn": "导轨蓝牙",
       "material_code": "DGLY",
-      "spec_number": "2P560A-02",
-      "row_no": 5,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "2P560A",
+      "row_no": 5
     }
   ]
 }

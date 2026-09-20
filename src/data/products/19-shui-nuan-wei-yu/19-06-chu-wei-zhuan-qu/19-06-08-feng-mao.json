@@ -10,7 +10,8 @@
       "slug": "19-06-07-002",
       "code": "19.06.07.002",
       "sku": "FM-LG-150-000150",
-      "name_th": "หน้ากากระบายอากาศ/ฝาครอบช่องระบายลมสแตนเลสเงา Jinliwang 150 มม.",
+      "name_th": "หน้ากากระบายอากาศ/ฝาครอบช่องระบายลมเงา Jinliwang 150 มม.",
+      "name_th_short": "ฝาครอบช่องระบายลม",
       "name_cn": "金力王亮光风帽150-JLW.000150",
       "price": 105.6,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "亮光",
       "material_code": "LG",
       "spec_number": "150-000150",
-      "row_no": 39,
-      "col_o": null,
-      "col_r": null
+      "row_no": 39
     }
   ]
 }

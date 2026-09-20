@@ -11,6 +11,7 @@
       "code": "22.06.02.001",
       "sku": "XFYJD-AQCK-DM-ZX",
       "name_th": "ป้ายไฟทางออกหนีไฟแบบหน้าเดียว-ชี้ตรง มาตรฐานดับเพลิง (ไม่รับคืน)",
+      "name_th_short": "ป้ายไฟทางออกฉุกเฉิน",
       "name_cn": "消防标志灯/安全出口（单面）正向 不退换",
       "price": 138,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "安全出口单面",
       "material_code": "AQCK-DM",
       "spec_number": "ZX",
-      "row_no": 147,
-      "col_o": null,
-      "col_r": null
+      "row_no": 147
     },
     {
       "id": "22-06-02-002",
@@ -43,6 +42,7 @@
       "code": "22.06.02.002",
       "sku": "XFYJD-AQCK-DM-ZUX",
       "name_th": "ป้ายไฟทางออกหนีไฟแบบหน้าเดียว-ชี้ซ้าย มาตรฐานดับเพลิง (ไม่รับคืน)",
+      "name_th_short": "ป้ายไฟทางออกฉุกเฉิน",
       "name_cn": "消防标志灯/安全出口（单面）左向 不退换",
       "price": 138,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "安全出口单面",
       "material_code": "AQCK-DM",
       "spec_number": "ZUX",
-      "row_no": 148,
-      "col_o": null,
-      "col_r": null
+      "row_no": 148
     },
     {
       "id": "22-06-02-003",
@@ -75,6 +73,7 @@
       "code": "22.06.02.003",
       "sku": "XFYJD-AQCK-DM-YX",
       "name_th": "ป้ายไฟทางออกหนีไฟแบบหน้าเดียว-ชี้ขวา มาตรฐานดับเพลิง (ไม่รับคืน)",
+      "name_th_short": "ป้ายไฟทางออกฉุกเฉิน",
       "name_cn": "消防标志灯/安全出口（单面）右向 不退换",
       "price": 138,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "安全出口单面",
       "material_code": "AQCK-DM",
       "spec_number": "YX",
-      "row_no": 149,
-      "col_o": null,
-      "col_r": null
+      "row_no": 149
     },
     {
       "id": "22-06-02-004",
@@ -107,6 +104,7 @@
       "code": "22.06.02.004",
       "sku": "XFYJD-AQCK-DM-SX",
       "name_th": "ป้ายไฟทางออกหนีไฟแบบหน้าเดียว-สองทาง มาตรฐานดับเพลิง (ไม่รับคืน)",
+      "name_th_short": "ป้ายไฟทางออกฉุกเฉิน",
       "name_cn": "消防标志灯/安全出口（单面）双向 不退换",
       "price": 138,
       "image": "/placeholder.svg",
@@ -129,9 +127,7 @@
       "material_cn": "安全出口单面",
       "material_code": "AQCK-DM",
       "spec_number": "SX",
-      "row_no": 150,
-      "col_o": null,
-      "col_r": null
+      "row_no": 150
     }
   ]
 }

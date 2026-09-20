@@ -9,8 +9,9 @@
       "id": "11-15-01-003",
       "slug": "11-15-01-003",
       "code": "11.15.01.003",
-      "sku": "TC-LJ-05000-01",
+      "sku": "TC-LJ-05000",
       "name_th": "สต๊าฟวัดระดับ (Tower Scale) อะลูมิเนียม ขนาด 5 เมตร",
+      "name_th_short": "สต๊าฟวัดระดับ",
       "name_cn": "铝合金塔尺5米",
       "price": 468,
       "image": "/placeholder.svg",
@@ -32,10 +33,8 @@
       "category_code": "TC",
       "material_cn": "铝合金",
       "material_code": "LJ",
-      "spec_number": "05000-01",
-      "row_no": 777,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "05000",
+      "row_no": 777
     }
   ]
 }

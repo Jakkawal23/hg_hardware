@@ -9,8 +9,9 @@
       "id": "11-01-05-001",
       "slug": "11-01-05-001",
       "code": "11.01.05.001",
-      "sku": "LGQ-HS-00-01",
+      "sku": "LGQ-HS-00",
       "name_th": "คีมหนีบโครงฝ้าด้ามสองสี Hufan",
+      "name_th_short": "คีมหนีบโครงฝ้า",
       "name_cn": "沪帆双色柄龙骨钳",
       "price": 120,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "LGQ",
       "material_cn": "沪帆双色柄",
       "material_code": "HS",
-      "spec_number": "00-01",
-      "row_no": 30,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00",
+      "row_no": 30
     },
     {
       "id": "11-01-05-003",
       "slug": "11-01-05-003",
       "code": "11.01.05.003",
-      "sku": "LGQ-SS-260-01",
+      "sku": "LGQ-SS-260",
       "name_th": "คีมหนีบโครงฝ้ามือเดียว Shike (เกรดโปร) 260mm 12A",
+      "name_th_short": "คีมหนีบโครงฝ้า",
       "name_cn": "世克 单手龙骨钳（专业级）260 12A",
       "price": 372,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "LGQ",
       "material_cn": "世克单手",
       "material_code": "SS",
-      "spec_number": "260-01",
-      "row_no": 31,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "260",
+      "row_no": 31
     }
   ]
 }

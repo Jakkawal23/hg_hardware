@@ -9,8 +9,9 @@
       "id": "18-02-09-003",
       "slug": "18-02-09-003",
       "code": "18.02.09.003",
-      "sku": "JGSMP-FS-THJ-100-01",
+      "sku": "JGSMP-FS-THJ-100",
       "name_th": "ถ้วยขัดเพชร/จานเจียรปูน Fengsu สีทองแชมเปญ",
+      "name_th_short": "ถ้วยขัดเพชร",
       "name_cn": "锋速金刚石磨盘 土豪金",
       "price": 57.6,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "JGSMP",
       "material_cn": "锋速土豪金",
       "material_code": "FS-THJ",
-      "spec_number": "100-01",
-      "row_no": 23,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "100",
+      "row_no": 23
     },
     {
       "id": "18-02-09-005",
       "slug": "18-02-09-005",
       "code": "18.02.09.005",
-      "sku": "JGSMP-ZT-JS-100-01",
+      "sku": "JGSMP-ZT-JS-100",
       "name_th": "ถ้วยขัดเพชร/จานเจียรปูน Zhaotong สีทอง",
+      "name_th_short": "ถ้วยขัดเพชร",
       "name_cn": "兆通金刚石磨盘 金色",
       "price": 102,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "JGSMP",
       "material_cn": "兆通金色",
       "material_code": "ZT-JS",
-      "spec_number": "100-01",
-      "row_no": 24,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "100",
+      "row_no": 24
     }
   ]
 }

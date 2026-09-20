@@ -9,8 +9,9 @@
       "id": "05-01-16-001",
       "slug": "05-01-16-001",
       "code": "05.01.16.001",
-      "sku": "YXM-NL5-05-01",
+      "sku": "YXM-NL5-05",
       "name_th": "น็อตครอบต่อสายไฟ/เทอร์มินัล 5",
+      "name_th_short": "น็อตครอบต่อสายไฟ",
       "name_cn": "尼龙压线帽/接线端子 5",
       "price": 36,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "YXM",
       "material_cn": "尼龙5",
       "material_code": "NL5",
-      "spec_number": "05-01",
-      "row_no": 84,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "05",
+      "row_no": 84
     },
     {
       "id": "05-01-16-002",
       "slug": "05-01-16-002",
       "code": "05.01.16.002",
-      "sku": "YXM-NL6-06-01",
+      "sku": "YXM-NL6-06",
       "name_th": "น็อตครอบต่อสายไฟ/เทอร์มินัล 6",
+      "name_th_short": "น็อตครอบต่อสายไฟ",
       "name_cn": "尼龙压线帽/接线端子 6",
       "price": 42,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "YXM",
       "material_cn": "尼龙6",
       "material_code": "NL6",
-      "spec_number": "06-01",
-      "row_no": 85,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "06",
+      "row_no": 85
     },
     {
       "id": "05-01-16-003",
       "slug": "05-01-16-003",
       "code": "05.01.16.003",
-      "sku": "YXM-NL8-08-01",
+      "sku": "YXM-NL8-08",
       "name_th": "น็อตครอบต่อสายไฟ/เทอร์มินัล 8",
+      "name_th_short": "น็อตครอบต่อสายไฟ",
       "name_cn": "尼龙压线帽/接线端子 8",
       "price": 72,
       "image": "/placeholder.svg",
@@ -96,10 +95,8 @@
       "category_code": "YXM",
       "material_cn": "尼龙8",
       "material_code": "NL8",
-      "spec_number": "08-01",
-      "row_no": 86,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "08",
+      "row_no": 86
     }
   ]
 }

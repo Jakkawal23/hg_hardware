@@ -9,8 +9,9 @@
       "id": "01-11-05-003",
       "slug": "01-11-05-003",
       "code": "01.11.05.003",
-      "sku": "HYD-YT-M8-01",
+      "sku": "HYD-YT-M8",
       "name_th": "ตะปูยิงปืน (หัวแดง) M8",
+      "name_th_short": "ตะปูยิงปืนหัวแดง",
       "name_cn": "一体火药钉（红头）M8",
       "price": 1.56,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "HYD",
       "material_cn": "一体",
       "material_code": "YT",
-      "spec_number": "M8-01",
-      "row_no": 764,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "M8",
+      "row_no": 764
     },
     {
       "id": "01-11-05-005",
       "slug": "01-11-05-005",
       "code": "01.11.05.005",
-      "sku": "HYD-YT-M10-01",
+      "sku": "HYD-YT-M10",
       "name_th": "ตะปูยิงปืน (หัวแดง) M10",
+      "name_th_short": "ตะปูยิงปืนหัวแดง",
       "name_cn": "一体火药钉（红头）M10",
       "price": 1.68,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "HYD",
       "material_cn": "一体",
       "material_code": "YT",
-      "spec_number": "M10-01",
-      "row_no": 765,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "M10",
+      "row_no": 765
     }
   ]
 }

@@ -11,6 +11,7 @@
       "code": "19.04.03.001",
       "sku": "PT-JLW-HS-5501",
       "name_th": "หัวฉีดชำระ/ฝักบัวมือถือ Jinliwang รุ่น Hans - JLW.5501",
+      "name_th_short": "หัวฝักบัวมือถือ",
       "name_cn": "金力王汉斯手喷/喷头-JLW.5501",
       "price": 50.4,
       "image": "/placeholder.svg",
@@ -32,10 +33,8 @@
       "category_code": "PT",
       "material_cn": "金力王汉斯",
       "material_code": "JLW-HS",
-      "spec_number": "5501.0",
-      "row_no": 6,
-      "col_o": null,
-      "col_r": null
+      "spec_number": 5501,
+      "row_no": 6
     },
     {
       "id": "19-04-03-002",
@@ -43,6 +42,7 @@
       "code": "19.04.03.002",
       "sku": "PT-JLW-XM-5502",
       "name_th": "หัวฉีดชำระ/ฝักบัวมือถือ Jinliwang รุ่น Xiamen - JLW.5502",
+      "name_th_short": "หัวฝักบัวมือถือ",
       "name_cn": "金力王厦门手喷/喷头-JLW.5502",
       "price": 48,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "PT",
       "material_cn": "金力王厦门",
       "material_code": "JLW-XM",
-      "spec_number": "5502.0",
-      "row_no": 7,
-      "col_o": null,
-      "col_r": null
+      "spec_number": 5502,
+      "row_no": 7
     }
   ]
 }

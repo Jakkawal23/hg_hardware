@@ -9,8 +9,9 @@
       "id": "22-03-03-002",
       "slug": "22-03-03-002",
       "code": "22.03.03.002",
-      "sku": "YB-YM-4D-BS-300300",
+      "sku": "YB-YM-4D-BS-300-300",
       "name_th": "เครื่องทำความร้อนในห้องน้ำแบบ 4 หลอด Yaming 300x300 (ครึ่งพลาสติก)",
+      "name_th_short": "โคมไฟทำความร้อนห้องน้ำ",
       "name_cn": "亚明四灯浴霸 300*300/半塑",
       "price": 744,
       "image": "/placeholder.svg",
@@ -32,10 +33,8 @@
       "category_code": "YB",
       "material_cn": "亚明四灯半塑",
       "material_code": "YM-4D-BS",
-      "spec_number": "300300.0",
-      "row_no": 85,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "300-300",
+      "row_no": 85
     }
   ]
 }

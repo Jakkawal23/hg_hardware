@@ -11,6 +11,7 @@
       "code": "21.01.09.011",
       "sku": "QJD-PN-LS-DW-50T",
       "name_th": "แม่แรงกระปุกไฮดรอลิกตั้ง Peiniu 50 ตัน รุ่นปรับระดับต่ำ (พร้อมด้ามกด)",
+      "name_th_short": "แม่แรงกระปุกไฮดรอลิก 50 ตัน",
       "name_cn": "沛牛工具立式油压千斤顶-带杆子 50T 低位调节",
       "price": 2616,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "沛牛立式低位",
       "material_code": "PN-LS-DW",
       "spec_number": "50T",
-      "row_no": 53,
-      "col_o": null,
-      "col_r": null
+      "row_no": 53
     },
     {
       "id": "21-01-09-012",
@@ -43,6 +42,7 @@
       "code": "21.01.09.012",
       "sku": "QJD-PN-LS-DW-32T",
       "name_th": "แม่แรงกระปุกไฮดรอลิกตั้ง Peiniu 32 ตัน รุ่นปรับระดับต่ำ (พร้อมด้ามกด)",
+      "name_th_short": "แม่แรงกระปุกไฮดรอลิก 32 ตัน",
       "name_cn": "沛牛工具立式油压千斤顶-带杆子 32T 低位调节",
       "price": 1632,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "沛牛立式低位",
       "material_code": "PN-LS-DW",
       "spec_number": "32T",
-      "row_no": 54,
-      "col_o": null,
-      "col_r": null
+      "row_no": 54
     },
     {
       "id": "21-01-09-013",
@@ -75,6 +73,7 @@
       "code": "21.01.09.013",
       "sku": "QJD-PN-LS-20T",
       "name_th": "แม่แรงกระปุกไฮดรอลิกตั้ง Peiniu ขนาด 20 ตัน (พร้อมด้ามกด)",
+      "name_th_short": "แม่แรงกระปุกไฮดรอลิก 20 ตัน",
       "name_cn": "沛牛工具立式油压千斤顶-带杆子 20T",
       "price": 1152,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "沛牛立式",
       "material_code": "PN-LS",
       "spec_number": "20T",
-      "row_no": 55,
-      "col_o": null,
-      "col_r": null
+      "row_no": 55
     },
     {
       "id": "21-01-09-014",
@@ -107,6 +104,7 @@
       "code": "21.01.09.014",
       "sku": "QJD-PN-LS-16T",
       "name_th": "แม่แรงกระปุกไฮดรอลิกตั้ง Peiniu ขนาด 16 ตัน (พร้อมด้ามกด)",
+      "name_th_short": "แม่แรงกระปุกไฮดรอลิก 16 ตัน",
       "name_cn": "沛牛工具立式油压千斤顶-带杆子 16T",
       "price": 984,
       "image": "/placeholder.svg",
@@ -129,9 +127,7 @@
       "material_cn": "沛牛立式",
       "material_code": "PN-LS",
       "spec_number": "16T",
-      "row_no": 56,
-      "col_o": null,
-      "col_r": null
+      "row_no": 56
     },
     {
       "id": "21-01-09-015",
@@ -139,6 +135,7 @@
       "code": "21.01.09.015",
       "sku": "QJD-PN-LS-12T",
       "name_th": "แม่แรงกระปุกไฮดรอลิกตั้ง Peiniu ขนาด 12 ตัน (พร้อมด้ามกด)",
+      "name_th_short": "แม่แรงกระปุกไฮดรอลิก 12 ตัน",
       "name_cn": "沛牛工具立式油压千斤顶-带杆子 12T",
       "price": 852,
       "image": "/placeholder.svg",
@@ -161,9 +158,7 @@
       "material_cn": "沛牛立式",
       "material_code": "PN-LS",
       "spec_number": "12T",
-      "row_no": 57,
-      "col_o": null,
-      "col_r": null
+      "row_no": 57
     },
     {
       "id": "21-01-09-016",
@@ -171,6 +166,7 @@
       "code": "21.01.09.016",
       "sku": "QJD-PN-LS-10T",
       "name_th": "แม่แรงกระปุกไฮดรอลิกตั้ง Peiniu ขนาด 10 ตัน (พร้อมด้ามกด)",
+      "name_th_short": "แม่แรงกระปุกไฮดรอลิก 10 ตัน",
       "name_cn": "沛牛工具立式油压千斤顶-带杆子 10T",
       "price": 708,
       "image": "/placeholder.svg",
@@ -193,9 +189,7 @@
       "material_cn": "沛牛立式",
       "material_code": "PN-LS",
       "spec_number": "10T",
-      "row_no": 58,
-      "col_o": null,
-      "col_r": null
+      "row_no": 58
     },
     {
       "id": "21-01-09-017",
@@ -203,6 +197,7 @@
       "code": "21.01.09.017",
       "sku": "QJD-PN-LS-8T",
       "name_th": "แม่แรงกระปุกไฮดรอลิกตั้ง Peiniu ขนาด 8 ตัน (พร้อมด้ามกด)",
+      "name_th_short": "แม่แรงกระปุกไฮดรอลิก 8 ตัน",
       "name_cn": "沛牛工具立式油压千斤顶-带杆子 8T",
       "price": 600,
       "image": "/placeholder.svg",
@@ -225,9 +220,7 @@
       "material_cn": "沛牛立式",
       "material_code": "PN-LS",
       "spec_number": "8T",
-      "row_no": 59,
-      "col_o": null,
-      "col_r": null
+      "row_no": 59
     },
     {
       "id": "21-01-09-018",
@@ -235,6 +228,7 @@
       "code": "21.01.09.018",
       "sku": "QJD-PN-LS-5T",
       "name_th": "แม่แรงกระปุกไฮดรอลิกตั้ง Peiniu ขนาด 5 ตัน (พร้อมด้ามกด)",
+      "name_th_short": "แม่แรงกระปุกไฮดรอลิก 5 ตัน",
       "name_cn": "沛牛工具立式油压千斤顶-带杆子 5T",
       "price": 492,
       "image": "/placeholder.svg",
@@ -257,9 +251,7 @@
       "material_cn": "沛牛立式",
       "material_code": "PN-LS",
       "spec_number": "5T",
-      "row_no": 60,
-      "col_o": null,
-      "col_r": null
+      "row_no": 60
     },
     {
       "id": "21-01-09-019",
@@ -267,6 +259,7 @@
       "code": "21.01.09.019",
       "sku": "QJD-PN-LS-3T",
       "name_th": "แม่แรงกระปุกไฮดรอลิกตั้ง Peiniu ขนาด 3 ตัน (พร้อมด้ามกด)",
+      "name_th_short": "แม่แรงกระปุกไฮดรอลิก 3 ตัน",
       "name_cn": "沛牛工具立式油压千斤顶-带杆子 3T",
       "price": 414,
       "image": "/placeholder.svg",
@@ -289,9 +282,7 @@
       "material_cn": "沛牛立式",
       "material_code": "PN-LS",
       "spec_number": "3T",
-      "row_no": 61,
-      "col_o": null,
-      "col_r": null
+      "row_no": 61
     },
     {
       "id": "21-01-09-020",
@@ -299,6 +290,7 @@
       "code": "21.01.09.020",
       "sku": "QJD-PN-LS-2T",
       "name_th": "แม่แรงกระปุกไฮดรอลิกตั้ง Peiniu ขนาด 2 ตัน (พร้อมด้ามกด)",
+      "name_th_short": "แม่แรงกระปุกไฮดรอลิก 2 ตัน",
       "name_cn": "沛牛工具立式油压千斤顶-带杆子 2T",
       "price": 360,
       "image": "/placeholder.svg",
@@ -321,9 +313,7 @@
       "material_cn": "沛牛立式",
       "material_code": "PN-LS",
       "spec_number": "2T",
-      "row_no": 62,
-      "col_o": null,
-      "col_r": null
+      "row_no": 62
     }
   ]
 }

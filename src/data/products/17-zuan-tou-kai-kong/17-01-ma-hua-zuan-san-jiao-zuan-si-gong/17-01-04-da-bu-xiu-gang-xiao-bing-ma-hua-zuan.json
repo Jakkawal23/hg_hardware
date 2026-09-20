@@ -9,8 +9,9 @@
       "id": "17-01-04-001",
       "slug": "17-01-04-001",
       "code": "17.01.04.001",
-      "sku": "ZT-BXGX-14-01",
+      "sku": "ZT-BXGX-14",
       "name_th": "ดอกสว่านก้านลดเจาะสแตนเลส 14",
+      "name_th_short": "ดอกสว่านก้านลดเจาะสแตนเลส 14",
       "name_cn": "（打不锈钢）小柄钻 14",
       "price": 146.4,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "ZT",
       "material_cn": "不锈钢小柄",
       "material_code": "BXGX",
-      "spec_number": "14-01",
-      "row_no": 147,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "14",
+      "row_no": 147
     },
     {
       "id": "17-01-04-002",
       "slug": "17-01-04-002",
       "code": "17.01.04.002",
-      "sku": "ZT-BXGX-16-01",
+      "sku": "ZT-BXGX-16",
       "name_th": "ดอกสว่านก้านลดเจาะสแตนเลส 16",
+      "name_th_short": "ดอกสว่านก้านลดเจาะสแตนเลส 16",
       "name_cn": "（打不锈钢）小柄钻 16",
       "price": 140.4,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "ZT",
       "material_cn": "不锈钢小柄",
       "material_code": "BXGX",
-      "spec_number": "16-01",
-      "row_no": 148,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "16",
+      "row_no": 148
     },
     {
       "id": "17-01-04-003",
       "slug": "17-01-04-003",
       "code": "17.01.04.003",
-      "sku": "ZT-BXGX-18-01",
+      "sku": "ZT-BXGX-18",
       "name_th": "ดอกสว่านก้านลดเจาะสแตนเลส 18",
+      "name_th_short": "ดอกสว่านก้านลดเจาะสแตนเลส 18",
       "name_cn": "（打不锈钢）小柄钻 18",
       "price": 171.6,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "ZT",
       "material_cn": "不锈钢小柄",
       "material_code": "BXGX",
-      "spec_number": "18-01",
-      "row_no": 149,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "18",
+      "row_no": 149
     },
     {
       "id": "17-01-04-004",
       "slug": "17-01-04-004",
       "code": "17.01.04.004",
-      "sku": "ZT-BXGX-20-01",
+      "sku": "ZT-BXGX-20",
       "name_th": "ดอกสว่านก้านลดเจาะสแตนเลส 20",
+      "name_th_short": "ดอกสว่านก้านลดเจาะสแตนเลส 20",
       "name_cn": "（打不锈钢）小柄钻 20",
       "price": 202.8,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "ZT",
       "material_cn": "不锈钢小柄",
       "material_code": "BXGX",
-      "spec_number": "20-01",
-      "row_no": 150,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "20",
+      "row_no": 150
     },
     {
       "id": "17-01-04-006",
       "slug": "17-01-04-006",
       "code": "17.01.04.006",
-      "sku": "ZT-BXGX-24-01",
+      "sku": "ZT-BXGX-24",
       "name_th": "ดอกสว่านก้านลดเจาะสแตนเลส 24",
+      "name_th_short": "ดอกสว่านก้านลดเจาะสแตนเลส 24",
       "name_cn": "（打不锈钢）小柄钻 24",
       "price": 258,
       "image": "/placeholder.svg",
@@ -160,17 +157,16 @@
       "category_code": "ZT",
       "material_cn": "不锈钢小柄",
       "material_code": "BXGX",
-      "spec_number": "24-01",
-      "row_no": 151,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "24",
+      "row_no": 151
     },
     {
       "id": "17-01-04-007",
       "slug": "17-01-04-007",
       "code": "17.01.04.007",
-      "sku": "ZT-BXGX-25-01",
+      "sku": "ZT-BXGX-25",
       "name_th": "ดอกสว่านก้านลดเจาะสแตนเลส 25",
+      "name_th_short": "ดอกสว่านก้านลดเจาะสแตนเลส 25",
       "name_cn": "（打不锈钢）小柄钻 25",
       "price": 280.8,
       "image": "/placeholder.svg",
@@ -192,10 +188,8 @@
       "category_code": "ZT",
       "material_cn": "不锈钢小柄",
       "material_code": "BXGX",
-      "spec_number": "25-01",
-      "row_no": 152,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "25",
+      "row_no": 152
     }
   ]
 }

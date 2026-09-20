@@ -11,6 +11,7 @@
       "code": "23.01.01.013",
       "sku": "TQ-JQ-QS-1.6J",
       "name_th": "พลั่วปลายแหลมเหล็ก 1.6 ชั่ง (สีส้ม)",
+      "name_th_short": "พลั่วปลายแหลม",
       "name_cn": "铁锹/尖锹1.6斤桔色",
       "price": 72,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "尖锹桔色",
       "material_code": "JQ-QS",
       "spec_number": "1.6J",
-      "row_no": 1,
-      "col_o": null,
-      "col_r": null
+      "row_no": 1
     },
     {
       "id": "23-01-01-014",
@@ -43,6 +42,7 @@
       "code": "23.01.01.014",
       "sku": "TQ-FQ-QS-1.6J",
       "name_th": "พลั่วปลายตัดเหล็ก 1.6 ชั่ง (สีส้ม)",
+      "name_th_short": "พลั่วปลายตัด",
       "name_cn": "铁锹/方锹1.6斤桔色",
       "price": 72,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "方锹桔色",
       "material_code": "FQ-QS",
       "spec_number": "1.6J",
-      "row_no": 2,
-      "col_o": null,
-      "col_r": null
+      "row_no": 2
     },
     {
       "id": "23-01-01-015",
@@ -75,6 +73,7 @@
       "code": "23.01.01.015",
       "sku": "TQ-PJ-TQB-01",
       "name_th": "ด้ามจับพลั่วเหล็ก/พลั่วตัก",
+      "name_th_short": "ด้ามพลั่ว",
       "name_cn": "铁锹柄",
       "price": 72,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "铁锹柄",
       "material_code": "TQB",
       "spec_number": "01",
-      "row_no": 3,
-      "col_o": null,
-      "col_r": null
+      "row_no": 3
     }
   ]
 }

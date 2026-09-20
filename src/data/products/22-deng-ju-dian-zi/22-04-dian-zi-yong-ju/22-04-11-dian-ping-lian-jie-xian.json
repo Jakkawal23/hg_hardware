@@ -11,6 +11,7 @@
       "code": "22.04.11.001",
       "sku": "DHX-QC-DP-3M",
       "name_th": "สายพ่วงแบตเตอรี่รถยนต์/สายจัมป์แบต ยาว 3 เมตร",
+      "name_th_short": "สายพ่วงแบตรถยนต์",
       "name_cn": "汽车电瓶搭火线/连接线 3M",
       "price": 264,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "汽车电瓶专用",
       "material_code": "QC-DP",
       "spec_number": "3M",
-      "row_no": 117,
-      "col_o": null,
-      "col_r": null
+      "row_no": 117
     }
   ]
 }

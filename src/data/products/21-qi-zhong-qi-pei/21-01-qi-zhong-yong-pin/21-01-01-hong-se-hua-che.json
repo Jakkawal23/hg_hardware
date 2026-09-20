@@ -11,6 +11,7 @@
       "code": "21.01.01.001",
       "sku": "HC-HOS-HG-0.1T",
       "name_th": "รอกวิ่ง/รอกเดี่ยว สีแดง-ตะขอแดง 0.1 ตัน",
+      "name_th_short": "รอกตะขอแดง",
       "name_cn": "滑车红色-红钩 0.1T",
       "price": 19.2,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "红色红钩",
       "material_code": "HOS-HG",
       "spec_number": "0.1T",
-      "row_no": 1,
-      "col_o": null,
-      "col_r": null
+      "row_no": 1
     },
     {
       "id": "21-01-01-002",
@@ -43,6 +42,7 @@
       "code": "21.01.01.002",
       "sku": "HC-HOS-HG-0.2T",
       "name_th": "รอกวิ่ง/รอกเดี่ยว สีแดง-ตะขอแดง 0.2 ตัน",
+      "name_th_short": "รอกตะขอแดง",
       "name_cn": "滑车红色-红钩 0.2T",
       "price": 26.4,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "红色红钩",
       "material_code": "HOS-HG",
       "spec_number": "0.2T",
-      "row_no": 2,
-      "col_o": null,
-      "col_r": null
+      "row_no": 2
     },
     {
       "id": "21-01-01-003",
@@ -75,6 +73,7 @@
       "code": "21.01.01.003",
       "sku": "HC-HOS-HG-0.3T",
       "name_th": "รอกวิ่ง/รอกเดี่ยว สีแดง-ตะขอแดง 0.3 ตัน",
+      "name_th_short": "รอกตะขอแดง",
       "name_cn": "滑车红色-红钩 0.3T",
       "price": 36,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "红色红钩",
       "material_code": "HOS-HG",
       "spec_number": "0.3T",
-      "row_no": 3,
-      "col_o": null,
-      "col_r": null
+      "row_no": 3
     },
     {
       "id": "21-01-01-004",
@@ -107,6 +104,7 @@
       "code": "21.01.01.004",
       "sku": "HC-HOS-HG-0.4T",
       "name_th": "รอกวิ่ง/รอกเดี่ยว สีแดง-ตะขอแดง 0.4 ตัน",
+      "name_th_short": "รอกตะขอแดง",
       "name_cn": "滑车红色-红钩 0.4T",
       "price": 48,
       "image": "/placeholder.svg",
@@ -129,9 +127,7 @@
       "material_cn": "红色红钩",
       "material_code": "HOS-HG",
       "spec_number": "0.4T",
-      "row_no": 4,
-      "col_o": null,
-      "col_r": null
+      "row_no": 4
     },
     {
       "id": "21-01-01-005",
@@ -139,6 +135,7 @@
       "code": "21.01.01.005",
       "sku": "HC-HOS-HG-0.5T",
       "name_th": "รอกวิ่ง/รอกเดี่ยว สีแดง-ตะขอแดง 0.5 ตัน",
+      "name_th_short": "รอกตะขอแดง",
       "name_cn": "滑车红色-红钩 0.5T",
       "price": 138,
       "image": "/placeholder.svg",
@@ -161,9 +158,7 @@
       "material_cn": "红色红钩",
       "material_code": "HOS-HG",
       "spec_number": "0.5T",
-      "row_no": 5,
-      "col_o": null,
-      "col_r": null
+      "row_no": 5
     },
     {
       "id": "21-01-01-007",
@@ -171,6 +166,7 @@
       "code": "21.01.01.007",
       "sku": "HC-HOS-HG-2T",
       "name_th": "รอกวิ่ง/รอกเดี่ยว สีแดง-ตะขอแดง 2 ตัน",
+      "name_th_short": "รอกตะขอแดง",
       "name_cn": "滑车红色-红钩 2T",
       "price": 396,
       "image": "/placeholder.svg",
@@ -193,9 +189,7 @@
       "material_cn": "红色红钩",
       "material_code": "HOS-HG",
       "spec_number": "2T",
-      "row_no": 6,
-      "col_o": null,
-      "col_r": null
+      "row_no": 6
     },
     {
       "id": "21-01-01-008",
@@ -203,6 +197,7 @@
       "code": "21.01.01.008",
       "sku": "HC-HOS-HG-3T",
       "name_th": "รอกวิ่ง/รอกเดี่ยว สีแดง-ตะขอแดง 3 ตัน",
+      "name_th_short": "รอกตะขอแดง",
       "name_cn": "滑车红色-红钩 3T",
       "price": 492,
       "image": "/placeholder.svg",
@@ -225,9 +220,7 @@
       "material_cn": "红色红钩",
       "material_code": "HOS-HG",
       "spec_number": "3T",
-      "row_no": 7,
-      "col_o": null,
-      "col_r": null
+      "row_no": 7
     }
   ]
 }

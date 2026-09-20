@@ -10,7 +10,8 @@
       "slug": "17-02-03-001",
       "code": "17.02.03.001",
       "sku": null,
-      "name_th": "ดอกกัดกำหนดตำแหน่งแม่เหล็กกำลังสูง Hufan S2 ขนาด 65 มม.",
+      "name_th": "ดอกไขควง S2 แหวนแม่เหล็ก Hufan 65มม.",
+      "name_th_short": "ดอกไขควง แหวนแม่เหล็ก 65มม.",
       "name_cn": "沪帆S2强力磁圈定位批头 65MM",
       "price": 27.6,
       "image": "/placeholder.svg",
@@ -33,16 +34,15 @@
       "material_cn": null,
       "material_code": null,
       "spec_number": null,
-      "row_no": 230,
-      "col_o": null,
-      "col_r": null
+      "row_no": 230
     },
     {
       "id": "17-02-03-002",
       "slug": "17-02-03-002",
       "code": "17.02.03.002",
       "sku": null,
-      "name_th": "ดอกกัดกำหนดตำแหน่งขดลวดแม่เหล็กกำลังสูง Hufan S2 ขนาด 100 มม.",
+      "name_th": "ดอกไขควง S2 แหวนแม่เหล็ก Hufan 100มม.",
+      "name_th_short": "ดอกไขควง แหวนแม่เหล็ก 100มม.",
       "name_cn": "沪帆S2强力磁圈定位批头 100MM",
       "price": 32.4,
       "image": "/placeholder.svg",
@@ -65,16 +65,15 @@
       "material_cn": null,
       "material_code": null,
       "spec_number": null,
-      "row_no": 231,
-      "col_o": null,
-      "col_r": null
+      "row_no": 231
     },
     {
       "id": "17-02-03-003",
       "slug": "17-02-03-003",
       "code": "17.02.03.003",
       "sku": null,
-      "name_th": "ดอกไขควงกำหนดตำแหน่งขดลวดแม่เหล็กแรงสูง Dongcheng (2*6.35*65)",
+      "name_th": "ดอกไขควงแหวนแม่เหล็ก Dongcheng 65มม.",
+      "name_th_short": "ดอกไขควงแหวนแม่เหล็ก 65มม.",
       "name_cn": "东成强力磁圈定位批头（2*6.35*65）",
       "price": 336,
       "image": "/placeholder.svg",
@@ -97,16 +96,15 @@
       "material_cn": null,
       "material_code": null,
       "spec_number": null,
-      "row_no": 232,
-      "col_o": null,
-      "col_r": null
+      "row_no": 232
     },
     {
       "id": "17-02-03-004",
       "slug": "17-02-03-004",
       "code": "17.02.03.004",
       "sku": null,
-      "name_th": "ดอกไขควงกำหนดตำแหน่งขดลวดแม่เหล็กแรงสูง Dongcheng (2*6.35*100)",
+      "name_th": "ดอกไขควงแหวนแม่เหล็ก Dongcheng 100มม.",
+      "name_th_short": "ดอกไขควงแหวนแม่เหล็ก 100มม.",
       "name_cn": "东成强力磁圈定位批头（2*6.35*100）",
       "price": 421.2,
       "image": "/placeholder.svg",
@@ -129,9 +127,7 @@
       "material_cn": null,
       "material_code": null,
       "spec_number": null,
-      "row_no": 233,
-      "col_o": null,
-      "col_r": null
+      "row_no": 233
     }
   ]
 }

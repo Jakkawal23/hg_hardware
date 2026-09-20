@@ -11,6 +11,7 @@
       "code": "22.01.21.001",
       "sku": "XDD-HR-GY-16W",
       "name_th": "โคมไฟเพดานซาลาเปาระบบเซนเซอร์ Hongri 16W",
+      "name_th_short": "โคมไฟเพดานเซนเซอร์",
       "name_cn": "红日感应吸顶灯 16W",
       "price": 168,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "红日感应",
       "material_code": "HR-GY",
       "spec_number": "16W",
-      "row_no": 61,
-      "col_o": null,
-      "col_r": null
+      "row_no": 61
     },
     {
       "id": "22-01-21-002",
@@ -43,6 +42,7 @@
       "code": "22.01.21.002",
       "sku": "XDD-HR-GY-22W",
       "name_th": "โคมไฟเพดานซาลาเปาระบบเซนเซอร์ Hongri 22W",
+      "name_th_short": "โคมไฟเพดานเซนเซอร์",
       "name_cn": "红日感应吸顶灯 22W",
       "price": 210,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "红日感应",
       "material_code": "HR-GY",
       "spec_number": "22W",
-      "row_no": 62,
-      "col_o": null,
-      "col_r": null
+      "row_no": 62
     }
   ]
 }

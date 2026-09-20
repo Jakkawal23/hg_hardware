@@ -11,6 +11,7 @@
       "code": "05.01.14.002",
       "sku": "AH-ACH-01-01",
       "name_th": "กล่องพักสายไฟแบบฝัง A ชนิดเจาะรู Wanju สีแดง",
+      "name_th_short": "กล่องพักสายไฟแบบฝัง สีแดง",
       "name_cn": "万巨-A型冲孔拼装盒/暗盒 红色",
       "price": 6,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "A型冲孔",
       "material_code": "ACH",
       "spec_number": "01-01",
-      "row_no": 82,
-      "col_o": null,
-      "col_r": null
+      "row_no": 82
     },
     {
       "id": "05-01-14-003",
@@ -43,6 +42,7 @@
       "code": "05.01.14.003",
       "sku": "AH-ACH-01-02",
       "name_th": "กล่องพักสายไฟแบบฝัง A ชนิดเจาะรู Wanju สีฟ้า",
+      "name_th_short": "กล่องพักสายไฟแบบฝัง สีฟ้า",
       "name_cn": "万巨-A型冲孔拼装盒/暗盒 蓝色",
       "price": 6,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "A型冲孔",
       "material_code": "ACH",
       "spec_number": "01-02",
-      "row_no": 83,
-      "col_o": null,
-      "col_r": null
+      "row_no": 83
     }
   ]
 }

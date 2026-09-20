@@ -9,8 +9,9 @@
       "id": "08-02-04-012",
       "slug": "08-02-04-012",
       "code": "08.02.04.012",
-      "sku": "JL-YY-02-01",
-      "name_th": "บานพับถ้วยไฮดรอลิก Kaidigu/Yinghua สแตนเลส (แพ็ค 2 ชิ้น) แบบทับขอบ",
+      "sku": "JL-YY-02",
+      "name_th": "บานพับถ้วยไฮดรอลิก Kaidigu/Yinghua สแตนเลส (แพ็ค 2 ชิ้น) แบบทับขอบ ไม่มีฝา",
+      "name_th_short": "บานพับถ้วยไฮดรอลิก",
       "name_cn": "楷迪固/樱花-不锈钢吸塑液压铰链2只装 大弯/不盖",
       "price": 60,
       "image": "/placeholder.svg",
@@ -32,10 +33,8 @@
       "category_code": "JL",
       "material_cn": "液压",
       "material_code": "YY",
-      "spec_number": "02-01",
-      "row_no": 70,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "02",
+      "row_no": 70
     }
   ]
 }

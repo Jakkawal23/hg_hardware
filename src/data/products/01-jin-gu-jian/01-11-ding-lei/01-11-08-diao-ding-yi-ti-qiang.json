@@ -9,8 +9,9 @@
       "id": "01-11-08-003",
       "slug": "01-11-08-003",
       "code": "01.11.08.003",
-      "sku": "HYQ-MN-001-01",
+      "sku": "HYQ-MN-001",
       "name_th": "ปืนยิงตะปู (มินิ)",
+      "name_th_short": "ปืนยิงตะปู",
       "name_cn": "吊顶神器火药枪（迷你枪）",
       "price": 1080,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "HYQ",
       "material_cn": "迷你",
       "material_code": "MN",
-      "spec_number": "001-01",
-      "row_no": 772,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "001",
+      "row_no": 772
     },
     {
       "id": "01-11-08-004",
       "slug": "01-11-08-004",
       "code": "01.11.08.004",
-      "sku": "HYQ-BZ-001-01",
+      "sku": "HYQ-BZ-001",
       "name_th": "ปืนยิงตะปู",
+      "name_th_short": "ปืนยิงตะปู",
       "name_cn": "吊顶神器火药枪",
       "price": 1320,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "HYQ",
       "material_cn": "标准",
       "material_code": "BZ",
-      "spec_number": "001-01",
-      "row_no": 773,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "001",
+      "row_no": 773
     }
   ]
 }

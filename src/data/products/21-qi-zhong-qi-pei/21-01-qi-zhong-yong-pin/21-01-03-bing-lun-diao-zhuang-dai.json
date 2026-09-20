@@ -11,6 +11,7 @@
       "code": "21.01.03.001",
       "sku": "DD-GB-W-BL-1T2M-3.5",
       "name_th": "สายพานยกผ้าโพลีโพรพิลีน สีขาว มาตรฐานกัวเปียว 1Tยาว2M หน้ากว้าง3.5ซม.",
+      "name_th_short": "สลิงผ้าใบสีขาว",
       "name_cn": "国标（白色）丙纶吊带/起重吊装带 1T2M 宽3.5公分",
       "price": 48,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "国标白色丙纶",
       "material_code": "GB-W-BL",
       "spec_number": "1T2M-3.5",
-      "row_no": 8,
-      "col_o": null,
-      "col_r": null
+      "row_no": 8
     },
     {
       "id": "21-01-03-002",
@@ -43,6 +42,7 @@
       "code": "21.01.03.002",
       "sku": "DD-GB-W-BL-1T3M-3.5",
       "name_th": "สายพานยกผ้าโพลีโพรพิลีน สีขาว มาตรฐานกัวเปียว 1Tยาว3M หน้ากว้าง3.5ซม.",
+      "name_th_short": "สลิงผ้าใบสีขาว",
       "name_cn": "国标（白色）丙纶吊带/起重吊装带 1T3M 宽3.5公分",
       "price": 57.6,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "国标白色丙纶",
       "material_code": "GB-W-BL",
       "spec_number": "1T3M-3.5",
-      "row_no": 9,
-      "col_o": null,
-      "col_r": null
+      "row_no": 9
     },
     {
       "id": "21-01-03-003",
@@ -75,6 +73,7 @@
       "code": "21.01.03.003",
       "sku": "DD-GB-W-BL-1T4M-3.5",
       "name_th": "สายพานยกผ้าโพลีโพรพิลีน สีขาว มาตรฐานกัวเปียว 1Tยาว4M หน้ากว้าง3.5ซม.",
+      "name_th_short": "สลิงผ้าใบสีขาว",
       "name_cn": "国标（白色）丙纶吊带/起重吊装带 1T4M 宽3.5公分",
       "price": 79.2,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "国标白色丙纶",
       "material_code": "GB-W-BL",
       "spec_number": "1T4M-3.5",
-      "row_no": 10,
-      "col_o": null,
-      "col_r": null
+      "row_no": 10
     },
     {
       "id": "21-01-03-004",
@@ -107,6 +104,7 @@
       "code": "21.01.03.004",
       "sku": "DD-GB-W-BL-1T5M-3.5",
       "name_th": "สายพานยกผ้าโพลีโพรพิลีน สีขาว มาตรฐานกัวเปียว 1Tยาว5M หน้ากว้าง3.5ซม.",
+      "name_th_short": "สลิงผ้าใบสีขาว",
       "name_cn": "国标（白色）丙纶吊带/起重吊装带 1T5M 宽3.5公分",
       "price": 120,
       "image": "/placeholder.svg",
@@ -129,9 +127,7 @@
       "material_cn": "国标白色丙纶",
       "material_code": "GB-W-BL",
       "spec_number": "1T5M-3.5",
-      "row_no": 11,
-      "col_o": null,
-      "col_r": null
+      "row_no": 11
     },
     {
       "id": "21-01-03-005",
@@ -139,6 +135,7 @@
       "code": "21.01.03.005",
       "sku": "DD-GB-W-BL-1T6M-3.5",
       "name_th": "สายพานยกผ้าโพลีโพรพิลีน สีขาว มาตรฐานกัวเปียว 1Tยาว6M หน้ากว้าง3.5ซม.",
+      "name_th_short": "สลิงผ้าใบสีขาว",
       "name_cn": "国标（白色）丙纶吊带/起重吊装带 1T6M 宽3.5公分",
       "price": 126,
       "image": "/placeholder.svg",
@@ -161,9 +158,7 @@
       "material_cn": "国标白色丙纶",
       "material_code": "GB-W-BL",
       "spec_number": "1T6M-3.5",
-      "row_no": 12,
-      "col_o": null,
-      "col_r": null
+      "row_no": 12
     },
     {
       "id": "21-01-03-006",
@@ -171,6 +166,7 @@
       "code": "21.01.03.006",
       "sku": "DD-GB-W-BL-2T2M-5.0",
       "name_th": "สายพานยกผ้าโพลีโพรพิลีน สีขาว มาตรฐานกัวเปียว 2Tยาว2M หน้ากว้าง5ซม.",
+      "name_th_short": "สลิงผ้าใบสีขาว",
       "name_cn": "国标（白色）丙纶吊带/起重吊装带 2T2M 宽5公分",
       "price": 72,
       "image": "/placeholder.svg",
@@ -193,9 +189,7 @@
       "material_cn": "国标白色丙纶",
       "material_code": "GB-W-BL",
       "spec_number": "2T2M-5.0",
-      "row_no": 13,
-      "col_o": null,
-      "col_r": null
+      "row_no": 13
     },
     {
       "id": "21-01-03-009",
@@ -203,6 +197,7 @@
       "code": "21.01.03.009",
       "sku": "DD-GB-W-BL-2T5M-5.0",
       "name_th": "สายพานยกผ้าโพลีโพรพิลีน สีขาว มาตรฐานกัวเปียว 2Tยาว5M หน้ากว้าง5ซม.",
+      "name_th_short": "สลิงผ้าใบสีขาว",
       "name_cn": "国标（白色）丙纶吊带/起重吊装带 2T5M 宽5公分",
       "price": 162,
       "image": "/placeholder.svg",
@@ -225,9 +220,7 @@
       "material_cn": "国标白色丙纶",
       "material_code": "GB-W-BL",
       "spec_number": "2T5M-5.0",
-      "row_no": 14,
-      "col_o": null,
-      "col_r": null
+      "row_no": 14
     },
     {
       "id": "21-01-03-011",
@@ -235,6 +228,7 @@
       "code": "21.01.03.011",
       "sku": "DD-GB-W-BL-3T2M-8.0",
       "name_th": "สายพานยกผ้าโพลีโพรพิลีน สีขาว มาตรฐานกัวเปียว 3Tยาว2M หน้ากว้าง8ซม.",
+      "name_th_short": "สลิงผ้าใบสีขาว",
       "name_cn": "国标（白色）丙纶吊带/起重吊装带 3T2M 宽8公分",
       "price": 138,
       "image": "/placeholder.svg",
@@ -257,9 +251,7 @@
       "material_cn": "国标白色丙纶",
       "material_code": "GB-W-BL",
       "spec_number": "3T2M-8.0",
-      "row_no": 15,
-      "col_o": null,
-      "col_r": null
+      "row_no": 15
     },
     {
       "id": "21-01-03-012",
@@ -267,6 +259,7 @@
       "code": "21.01.03.012",
       "sku": "DD-GB-W-BL-3T3M-8.0",
       "name_th": "สายพานยกผ้าโพลีโพรพิลีน สีขาว มาตรฐานกัวเปียว 3Tยาว3M หน้ากว้าง8ซม.",
+      "name_th_short": "สลิงผ้าใบสีขาว",
       "name_cn": "国标（白色）丙纶吊带/起重吊装带 3T3M 宽8公分",
       "price": 156,
       "image": "/placeholder.svg",
@@ -289,9 +282,7 @@
       "material_cn": "国标白色丙纶",
       "material_code": "GB-W-BL",
       "spec_number": "3T3M-8.0",
-      "row_no": 16,
-      "col_o": null,
-      "col_r": null
+      "row_no": 16
     },
     {
       "id": "21-01-03-013",
@@ -299,6 +290,7 @@
       "code": "21.01.03.013",
       "sku": "DD-GB-W-BL-3T4M-8.0",
       "name_th": "สายพานยกผ้าโพลีโพรพิลีน สีขาว มาตรฐานกัวเปียว 3Tยาว4M หน้ากว้าง8ซม.",
+      "name_th_short": "สลิงผ้าใบสีขาว",
       "name_cn": "国标（白色）丙纶吊带/起重吊装带 3T4M 宽8公分",
       "price": 192,
       "image": "/placeholder.svg",
@@ -321,9 +313,7 @@
       "material_cn": "国标白色丙纶",
       "material_code": "GB-W-BL",
       "spec_number": "3T4M-8.0",
-      "row_no": 17,
-      "col_o": null,
-      "col_r": null
+      "row_no": 17
     },
     {
       "id": "21-01-03-015",
@@ -331,6 +321,7 @@
       "code": "21.01.03.015",
       "sku": "DD-GB-W-BL-3T6M-8.0",
       "name_th": "สายพานยกผ้าโพลีโพรพิลีน สีขาว มาตรฐานกัวเปียว 3Tยาว6M หน้ากว้าง8ซม.",
+      "name_th_short": "สลิงผ้าใบสีขาว",
       "name_cn": "国标（白色）丙纶吊带/起重吊装带 3T6M 宽8公分",
       "price": 252,
       "image": "/placeholder.svg",
@@ -353,9 +344,7 @@
       "material_cn": "国标白色丙纶",
       "material_code": "GB-W-BL",
       "spec_number": "3T6M-8.0",
-      "row_no": 18,
-      "col_o": null,
-      "col_r": null
+      "row_no": 18
     },
     {
       "id": "21-01-03-016",
@@ -363,6 +352,7 @@
       "code": "21.01.03.016",
       "sku": "DD-GB-W-BL-3T8M-8.0",
       "name_th": "สายพานยกผ้าโพลีโพรพิลีน สีขาว มาตรฐานกัวเปียว 3Tยาว8M หน้ากว้าง8ซม.",
+      "name_th_short": "สลิงผ้าใบสีขาว",
       "name_cn": "国标（白色）丙纶吊带/起重吊装带 3T8M 宽8公分",
       "price": 408,
       "image": "/placeholder.svg",
@@ -385,9 +375,7 @@
       "material_cn": "国标白色丙纶",
       "material_code": "GB-W-BL",
       "spec_number": "3T8M-8.0",
-      "row_no": 19,
-      "col_o": null,
-      "col_r": null
+      "row_no": 19
     },
     {
       "id": "21-01-03-017",
@@ -395,6 +383,7 @@
       "code": "21.01.03.017",
       "sku": "DD-GB-W-BL-3T10M-8.0",
       "name_th": "สายพานยกผ้าโพลีโพรพิลีน สีขาว มาตรฐานกัวเปียว 3Tยาว10M หน้ากว้าง8ซม.",
+      "name_th_short": "สลิงผ้าใบสีขาว",
       "name_cn": "国标（白色）丙纶吊带/起重吊装带 3T10M 宽8公分",
       "price": 504,
       "image": "/placeholder.svg",
@@ -417,16 +406,15 @@
       "material_cn": "国标白色丙纶",
       "material_code": "GB-W-BL",
       "spec_number": "3T10M-8.0",
-      "row_no": 20,
-      "col_o": null,
-      "col_r": null
+      "row_no": 20
     },
     {
       "id": "21-01-03-018",
       "slug": "21-01-03-018",
       "code": "21.01.03.018",
-      "sku": "DD-GB-W-BL-5T3M-10",
+      "sku": "DD-GB-W-BL-5T3M",
       "name_th": "สายพานยกผ้าโพลีโพรพิลีน สีขาว มาตรฐานกัวเปียว 5Tยาว3M หน้ากว้าง10ซม.",
+      "name_th_short": "สลิงผ้าใบสีขาว",
       "name_cn": "国标（白色）丙纶吊带/起重吊装带 5T3M 宽10公分",
       "price": 180,
       "image": "/placeholder.svg",
@@ -448,17 +436,16 @@
       "category_code": "DD",
       "material_cn": "国标白色丙纶",
       "material_code": "GB-W-BL",
-      "spec_number": "5T3M-10",
-      "row_no": 21,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "5T3M",
+      "row_no": 21
     },
     {
       "id": "21-01-03-019",
       "slug": "21-01-03-019",
       "code": "21.01.03.019",
-      "sku": "DD-GB-W-BL-5T4M-10",
+      "sku": "DD-GB-W-BL-5T4M",
       "name_th": "สายพานยกผ้าโพลีโพรพิลีน สีขาว มาตรฐานกัวเปียว 5Tยาว4M หน้ากว้าง10ซม.",
+      "name_th_short": "สลิงผ้าใบสีขาว",
       "name_cn": "国标（白色）丙纶吊带/起重吊装带 5T4M 宽10公分",
       "price": 240,
       "image": "/placeholder.svg",
@@ -480,17 +467,16 @@
       "category_code": "DD",
       "material_cn": "国标白色丙纶",
       "material_code": "GB-W-BL",
-      "spec_number": "5T4M-10",
-      "row_no": 22,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "5T4M",
+      "row_no": 22
     },
     {
       "id": "21-01-03-020",
       "slug": "21-01-03-020",
       "code": "21.01.03.020",
-      "sku": "DD-GB-W-BL-5T5M-10",
+      "sku": "DD-GB-W-BL-5T5M",
       "name_th": "สายพานยกผ้าโพลีโพรพิลีน สีขาว มาตรฐานกัวเปียว 5Tยาว5M หน้ากว้าง10ซม.",
+      "name_th_short": "สลิงผ้าใบสีขาว",
       "name_cn": "国标（白色）丙纶吊带/起重吊装带 5T5M 宽10公分",
       "price": 312,
       "image": "/placeholder.svg",
@@ -512,17 +498,16 @@
       "category_code": "DD",
       "material_cn": "国标白色丙纶",
       "material_code": "GB-W-BL",
-      "spec_number": "5T5M-10",
-      "row_no": 23,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "5T5M",
+      "row_no": 23
     },
     {
       "id": "21-01-03-022",
       "slug": "21-01-03-022",
       "code": "21.01.03.022",
-      "sku": "DD-GB-W-BL-5T8M-10",
+      "sku": "DD-GB-W-BL-5T8M",
       "name_th": "สายพานยกผ้าโพลีโพรพิลีน สีขาว มาตรฐานกัวเปียว 5Tยาว8M หน้ากว้าง10ซม.",
+      "name_th_short": "สลิงผ้าใบสีขาว",
       "name_cn": "国标（白色）丙纶吊带/起重吊装带 5T8M 宽10公分",
       "price": 456,
       "image": "/placeholder.svg",
@@ -544,17 +529,16 @@
       "category_code": "DD",
       "material_cn": "国标白色丙纶",
       "material_code": "GB-W-BL",
-      "spec_number": "5T8M-10",
-      "row_no": 24,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "5T8M",
+      "row_no": 24
     },
     {
       "id": "21-01-03-023",
       "slug": "21-01-03-023",
       "code": "21.01.03.023",
-      "sku": "DD-GB-W-BL-5T10M-10",
+      "sku": "DD-GB-W-BL-5T10M",
       "name_th": "สายพานยกผ้าโพลีโพรพิลีน สีขาว มาตรฐานกัวเปียว 5Tยาว10M หน้ากว้าง10ซม.",
+      "name_th_short": "สลิงผ้าใบสีขาว",
       "name_cn": "国标（白色）丙纶吊带/起重吊装带 5T10M 宽10公分",
       "price": 540,
       "image": "/placeholder.svg",
@@ -576,17 +560,16 @@
       "category_code": "DD",
       "material_cn": "国标白色丙纶",
       "material_code": "GB-W-BL",
-      "spec_number": "5T10M-10",
-      "row_no": 25,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "5T10M",
+      "row_no": 25
     },
     {
       "id": "21-01-03-025",
       "slug": "21-01-03-025",
       "code": "21.01.03.025",
-      "sku": "DD-GB-W-BL-8T3M-12",
+      "sku": "DD-GB-W-BL-8T3M",
       "name_th": "สายพานยกผ้าโพลีโพรพิลีน สีขาว มาตรฐานกัวเปียว 8Tยาว3M หน้ากว้าง12ซม.",
+      "name_th_short": "สลิงผ้าใบสีขาว",
       "name_cn": "国标（白色）丙纶吊带/起重吊装带 8T3M 宽12公分",
       "price": 264,
       "image": "/placeholder.svg",
@@ -608,17 +591,16 @@
       "category_code": "DD",
       "material_cn": "国标白色丙纶",
       "material_code": "GB-W-BL",
-      "spec_number": "8T3M-12",
-      "row_no": 26,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "8T3M",
+      "row_no": 26
     },
     {
       "id": "21-01-03-026",
       "slug": "21-01-03-026",
       "code": "21.01.03.026",
-      "sku": "DD-GB-W-BL-8T5M-12",
+      "sku": "DD-GB-W-BL-8T5M",
       "name_th": "สายพานยกผ้าโพลีโพรพิลีน สีขาว มาตรฐานกัวเปียว 8Tยาว5M หน้ากว้าง12ซม.",
+      "name_th_short": "สลิงผ้าใบสีขาว",
       "name_cn": "国标（白色）丙纶吊带/起重吊装带 8T5M 宽12公分",
       "price": 444,
       "image": "/placeholder.svg",
@@ -640,17 +622,16 @@
       "category_code": "DD",
       "material_cn": "国标白色丙纶",
       "material_code": "GB-W-BL",
-      "spec_number": "8T5M-12",
-      "row_no": 27,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "8T5M",
+      "row_no": 27
     },
     {
       "id": "21-01-03-027",
       "slug": "21-01-03-027",
       "code": "21.01.03.027",
-      "sku": "DD-GB-W-BL-8T6M-12",
+      "sku": "DD-GB-W-BL-8T6M",
       "name_th": "สายพานยกผ้าโพลีโพรพิลีน สีขาว มาตรฐานกัวเปียว 8Tยาว6M หน้ากว้าง12ซม.",
+      "name_th_short": "สลิงผ้าใบสีขาว",
       "name_cn": "国标（白色）丙纶吊带/起重吊装带 8T6M 宽12公分",
       "price": 528,
       "image": "/placeholder.svg",
@@ -672,17 +653,16 @@
       "category_code": "DD",
       "material_cn": "国标白色丙纶",
       "material_code": "GB-W-BL",
-      "spec_number": "8T6M-12",
-      "row_no": 28,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "8T6M",
+      "row_no": 28
     },
     {
       "id": "21-01-03-028",
       "slug": "21-01-03-028",
       "code": "21.01.03.028",
-      "sku": "DD-GB-W-BL-8T8M-12",
+      "sku": "DD-GB-W-BL-8T8M",
       "name_th": "สายพานยกผ้าโพลีโพรพิลีน สีขาว มาตรฐานกัวเปียว 8Tยาว8M หน้ากว้าง12ซม.",
+      "name_th_short": "สลิงผ้าใบสีขาว",
       "name_cn": "国标（白色）丙纶吊带/起重吊装带 8T8M 宽12公分",
       "price": 708,
       "image": "/placeholder.svg",
@@ -704,17 +684,16 @@
       "category_code": "DD",
       "material_cn": "国标白色丙纶",
       "material_code": "GB-W-BL",
-      "spec_number": "8T8M-12",
-      "row_no": 29,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "8T8M",
+      "row_no": 29
     },
     {
       "id": "21-01-03-029",
       "slug": "21-01-03-029",
       "code": "21.01.03.029",
-      "sku": "DD-GB-W-BL-8T10M-12",
+      "sku": "DD-GB-W-BL-8T10M",
       "name_th": "สายพานยกผ้าโพลีโพรพิลีน สีขาว มาตรฐานกัวเปียว 8Tยาว10M หน้ากว้าง12ซม.",
+      "name_th_short": "สลิงผ้าใบสีขาว",
       "name_cn": "国标（白色）丙纶吊带/起重吊装带 8T10M 宽12公分",
       "price": 972,
       "image": "/placeholder.svg",
@@ -736,17 +715,16 @@
       "category_code": "DD",
       "material_cn": "国标白色丙纶",
       "material_code": "GB-W-BL",
-      "spec_number": "8T10M-12",
-      "row_no": 30,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "8T10M",
+      "row_no": 30
     },
     {
       "id": "21-01-03-030",
       "slug": "21-01-03-030",
       "code": "21.01.03.030",
-      "sku": "DD-GB-W-BL-10T5M-15",
+      "sku": "DD-GB-W-BL-10T5M",
       "name_th": "สายพานยกผ้าโพลีโพรพิลีน สีขาว มาตรฐานกัวเปียว 10Tยาว5M หน้ากว้าง15ซม.",
+      "name_th_short": "สลิงผ้าใบสีขาว",
       "name_cn": "国标（白色）丙纶吊带/起重吊装带 10T5M 宽15公分",
       "price": 546,
       "image": "/placeholder.svg",
@@ -768,17 +746,16 @@
       "category_code": "DD",
       "material_cn": "国标白色丙纶",
       "material_code": "GB-W-BL",
-      "spec_number": "10T5M-15",
-      "row_no": 31,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10T5M",
+      "row_no": 31
     },
     {
       "id": "21-01-03-031",
       "slug": "21-01-03-031",
       "code": "21.01.03.031",
-      "sku": "DD-GB-W-BL-10T6M-15",
+      "sku": "DD-GB-W-BL-10T6M",
       "name_th": "สายพานยกผ้าโพลีโพรพิลีน สีขาว มาตรฐานกัวเปียว 10Tยาว6M หน้ากว้าง15ซม.",
+      "name_th_short": "สลิงผ้าใบสีขาว",
       "name_cn": "国标（白色）丙纶吊带/起重吊装带 10T6M 宽15公分",
       "price": 672,
       "image": "/placeholder.svg",
@@ -800,17 +777,16 @@
       "category_code": "DD",
       "material_cn": "国标白色丙纶",
       "material_code": "GB-W-BL",
-      "spec_number": "10T6M-15",
-      "row_no": 32,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10T6M",
+      "row_no": 32
     },
     {
       "id": "21-01-03-032",
       "slug": "21-01-03-032",
       "code": "21.01.03.032",
-      "sku": "DD-GB-W-BL-10T8M-15",
+      "sku": "DD-GB-W-BL-10T8M",
       "name_th": "สายพานยกผ้าโพลีโพรพิลีน สีขาว มาตรฐานกัวเปียว 10Tยาว8M หน้ากว้าง15ซม.",
+      "name_th_short": "สลิงผ้าใบสีขาว",
       "name_cn": "国标（白色）丙纶吊带/起重吊装带 10T8M 宽15公分",
       "price": 876,
       "image": "/placeholder.svg",
@@ -832,17 +808,16 @@
       "category_code": "DD",
       "material_cn": "国标白色丙纶",
       "material_code": "GB-W-BL",
-      "spec_number": "10T8M-15",
-      "row_no": 33,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10T8M",
+      "row_no": 33
     },
     {
       "id": "21-01-03-034",
       "slug": "21-01-03-034",
       "code": "21.01.03.034",
-      "sku": "DD-GB-W-BL-5T2M-10",
+      "sku": "DD-GB-W-BL-5T2M",
       "name_th": "สายพานยกผ้าโพลีโพรพิลีน สีขาว มาตรฐานกัวเปียว 5Tยาว2M หน้ากว้าง10ซม.",
+      "name_th_short": "สลิงผ้าใบสีขาว",
       "name_cn": "国标（白色）丙纶吊带/起重吊装带 5T2M 宽10公分",
       "price": null,
       "image": "/placeholder.svg",
@@ -864,17 +839,16 @@
       "category_code": "DD",
       "material_cn": "国标白色丙纶",
       "material_code": "GB-W-BL",
-      "spec_number": "5T2M-10",
-      "row_no": 34,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "5T2M",
+      "row_no": 34
     },
     {
       "id": "21-01-03-037",
       "slug": "21-01-03-037",
       "code": "21.01.03.037",
-      "sku": "DD-GB-W-BL-5T6M-10",
+      "sku": "DD-GB-W-BL-5T6M",
       "name_th": "สายพานยกผ้าโพลีโพรพิลีน สีขาว มาตรฐานกัวเปียว 5Tยาว6M หน้ากว้าง10ซม.",
+      "name_th_short": "สลิงผ้าใบสีขาว",
       "name_cn": "国标（白色）丙纶吊带/起重吊装带 5T6M 宽10公分",
       "price": 378,
       "image": "/placeholder.svg",
@@ -896,10 +870,8 @@
       "category_code": "DD",
       "material_cn": "国标白色丙纶",
       "material_code": "GB-W-BL",
-      "spec_number": "5T6M-10",
-      "row_no": 35,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "5T6M",
+      "row_no": 35
     },
     {
       "id": "21-01-03-038",
@@ -907,6 +879,7 @@
       "code": "21.01.03.038",
       "sku": "DD-GB-W-BL-3T5M-8.0",
       "name_th": "สายพานยกผ้าโพลีโพรพิลีน สีขาว มาตรฐานกัวเปียว 3Tยาว5M หน้ากว้าง8ซม.",
+      "name_th_short": "สลิงผ้าใบสีขาว",
       "name_cn": "国标（白色）丙纶吊带/起重吊装带 3T5M 宽8公分",
       "price": 264,
       "image": "/placeholder.svg",
@@ -929,9 +902,7 @@
       "material_cn": "国标白色丙纶",
       "material_code": "GB-W-BL",
       "spec_number": "3T5M-8.0",
-      "row_no": 36,
-      "col_o": null,
-      "col_r": null
+      "row_no": 36
     },
     {
       "id": "21-01-03-039",
@@ -939,6 +910,7 @@
       "code": "21.01.03.039",
       "sku": "DD-GB-W-BL-2T3M-5.0",
       "name_th": "สายพานยกผ้าโพลีโพรพิลีน สีขาว มาตรฐานกัวเปียว 2Tยาว3M หน้ากว้าง5ซม.",
+      "name_th_short": "สลิงผ้าใบสีขาว",
       "name_cn": "国标（白色）丙纶吊带/起重吊装带 2T3M 宽5公分",
       "price": 108,
       "image": "/placeholder.svg",
@@ -961,9 +933,7 @@
       "material_cn": "国标白色丙纶",
       "material_code": "GB-W-BL",
       "spec_number": "2T3M-5.0",
-      "row_no": 37,
-      "col_o": null,
-      "col_r": null
+      "row_no": 37
     }
   ]
 }

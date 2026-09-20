@@ -11,6 +11,7 @@
       "code": "27.04.0002",
       "sku": "JKX-AQ-JSD-50M",
       "name_th": "เทปกั้นเขตเตือนภัย/เทปยูโร ขาว-แดง ยาว 50 เมตร",
+      "name_th_short": "เทปกั้นเขตเตือนภัย 50ม.",
       "name_cn": "安全警示带/警戒线 50米",
       "price": 72,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "安全警示带",
       "material_code": "AQ-JSD",
       "spec_number": "50M",
-      "row_no": 5,
-      "col_o": null,
-      "col_r": null
+      "row_no": 5
     },
     {
       "id": "27-04-0003",
@@ -43,6 +42,7 @@
       "code": "27.04.0003",
       "sku": "JKX-AQ-JSD-100M",
       "name_th": "เทปกั้นเขตเตือนภัย/เทปยูโร ขาว-แดง ยาว 100 เมตร",
+      "name_th_short": "เทปกั้นเขตเตือนภัย 100ม.",
       "name_cn": "安全警示带/警戒线 100米",
       "price": 105.6,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "安全警示带",
       "material_code": "AQ-JSD",
       "spec_number": "100M",
-      "row_no": 6,
-      "col_o": null,
-      "col_r": null
+      "row_no": 6
     }
   ]
 }

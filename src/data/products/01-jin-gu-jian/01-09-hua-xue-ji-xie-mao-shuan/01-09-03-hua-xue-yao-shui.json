@@ -9,8 +9,9 @@
       "id": "01-09-03-003",
       "slug": "01-09-03-003",
       "code": "01.09.03.003",
-      "sku": "HXYS-M12-00012-01",
+      "sku": "HXYS-M12-00012",
       "name_th": "น้ำยาพุกเคมี 12",
+      "name_th_short": "น้ำยาพุกเคมี",
       "name_cn": "化学药水M12",
       "price": 2.4,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "HXYS",
       "material_cn": "M12",
       "material_code": "M12",
-      "spec_number": "00012-01",
-      "row_no": 611,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00012",
+      "row_no": 611
     },
     {
       "id": "01-09-03-006",
       "slug": "01-09-03-006",
       "code": "01.09.03.006",
-      "sku": "HXYS-M16-00016-01",
+      "sku": "HXYS-M16-00016",
       "name_th": "น้ำยาพุกเคมี 16",
+      "name_th_short": "น้ำยาพุกเคมี",
       "name_cn": "化学药水M16",
       "price": 3.6,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "HXYS",
       "material_cn": "M16",
       "material_code": "M16",
-      "spec_number": "00016-01",
-      "row_no": 612,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00016",
+      "row_no": 612
     },
     {
       "id": "01-09-03-008",
       "slug": "01-09-03-008",
       "code": "01.09.03.008",
-      "sku": "HXYS-M20-00020-01",
+      "sku": "HXYS-M20-00020",
       "name_th": "น้ำยาพุกเคมี 20",
+      "name_th_short": "น้ำยาพุกเคมี",
       "name_cn": "化学药水M20",
       "price": 8.4,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "HXYS",
       "material_cn": "M20",
       "material_code": "M20",
-      "spec_number": "00020-01",
-      "row_no": 613,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00020",
+      "row_no": 613
     },
     {
       "id": "01-09-03-013",
       "slug": "01-09-03-013",
       "code": "01.09.03.013",
-      "sku": "HXYS-M24-00024-01",
+      "sku": "HXYS-M24-00024",
       "name_th": "น้ำยาพุกเคมี 24",
+      "name_th_short": "น้ำยาพุกเคมี",
       "name_cn": "化学药水M24",
       "price": 18,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "HXYS",
       "material_cn": "M24",
       "material_code": "M24",
-      "spec_number": "00024-01",
-      "row_no": 614,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00024",
+      "row_no": 614
     },
     {
       "id": "01-09-03-015",
       "slug": "01-09-03-015",
       "code": "01.09.03.015",
-      "sku": "HXYS-M30-00030-01",
+      "sku": "HXYS-M30-00030",
       "name_th": "น้ำยาพุกเคมี 30",
+      "name_th_short": "น้ำยาพุกเคมี",
       "name_cn": "化学药水M30",
       "price": 42,
       "image": "/placeholder.svg",
@@ -160,10 +157,8 @@
       "category_code": "HXYS",
       "material_cn": "M30",
       "material_code": "M30",
-      "spec_number": "00030-01",
-      "row_no": 615,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00030",
+      "row_no": 615
     }
   ]
 }

@@ -9,8 +9,9 @@
       "id": "12-20-31-009",
       "slug": "12-20-31-009",
       "code": "12.20.31.009",
-      "sku": "LYQ-YG-01-01",
+      "sku": "LYQ-YG-01",
       "name_th": "คีมย้ำหางปลา (แบบกลม)",
+      "name_th_short": "คีมย้ำหางปลาแบบกลม",
       "name_cn": "圆管接线冷压钳（10把/盒）YT-260024 / (10 /)",
       "price": 324,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "LYQ",
       "material_cn": "圆管",
       "material_code": "YG",
-      "spec_number": "01-01",
-      "row_no": 186,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "01",
+      "row_no": 186
     },
     {
       "id": "12-20-31-010",
       "slug": "12-20-31-010",
       "code": "12.20.31.010",
-      "sku": "LYQ-DYZY-690-01",
+      "sku": "LYQ-DYZY-690",
       "name_th": "คีมย้ำหางปลาแบบมีฉนวน รุ่น TP-690",
+      "name_th_short": "คีมย้ำหางปลาแบบมีฉนวน",
       "name_cn": "带檐绝缘接线冷压钳TP-690（10把/盒）YT-260023 / TP-690",
       "price": 324,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "LYQ",
       "material_cn": "带檐绝缘",
       "material_code": "DYZY",
-      "spec_number": "690-01",
-      "row_no": 187,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "690",
+      "row_no": 187
     },
     {
       "id": "12-20-31-011",
       "slug": "12-20-31-011",
       "code": "12.20.31.011",
-      "sku": "LYQ-ZY-0560-01",
+      "sku": "LYQ-ZY-0560",
       "name_th": "คีมย้ำหางปลาแบบมีฉนวน รุ่น HD-0560",
+      "name_th_short": "คีมย้ำหางปลาแบบมีฉนวน",
       "name_cn": "绝缘接线冷压钳HD-0560（10把/盒）YT-260022 / HD-0560",
       "price": 324,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "LYQ",
       "material_cn": "绝缘",
       "material_code": "ZY",
-      "spec_number": "0560-01",
-      "row_no": 188,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "0560",
+      "row_no": 188
     },
     {
       "id": "12-20-31-012",
       "slug": "12-20-31-012",
       "code": "12.20.31.012",
-      "sku": "LYQ-BD-6-01",
+      "sku": "LYQ-BD-6",
       "name_th": "คีมย้ำหางปลาแบบปิด รุ่น DD-6",
+      "name_th_short": "คีมย้ำหางปลาแบบปิด",
       "name_cn": "闭端接线冷压钳DD-6（10把/盒）YT-260020 / DD-6",
       "price": 324,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "LYQ",
       "material_cn": "闭端",
       "material_code": "BD",
-      "spec_number": "6-01",
-      "row_no": 189,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "6",
+      "row_no": 189
     },
     {
       "id": "12-20-31-013",
       "slug": "12-20-31-013",
       "code": "12.20.31.013",
-      "sku": "LYQ-CT-3A-01",
-      "name_th": "คีมย้ำหางปลา รุ่น DD-3A",
+      "sku": "LYQ-CT-3A",
+      "name_th": "คีมย้ำหางปลาแบบเสียบปลั๊ก รุ่น DD-3A",
+      "name_th_short": "คีมย้ำหางปลาแบบเสียบปลั๊ก",
       "name_cn": "插套接线冷压钳DD-3A（10把/盒）YT-260019 / DD-3A",
       "price": 324,
       "image": "/placeholder.svg",
@@ -160,17 +157,16 @@
       "category_code": "LYQ",
       "material_cn": "插套",
       "material_code": "CT",
-      "spec_number": "3A-01",
-      "row_no": 190,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "3A",
+      "row_no": 190
     },
     {
       "id": "12-20-31-014",
       "slug": "12-20-31-014",
       "code": "12.20.31.014",
-      "sku": "LYQ-LJS-2-01",
+      "sku": "LYQ-LJS-2",
       "name_th": "คีมย้ำหางปลาแบบเปลือย รุ่น DD-2",
+      "name_th_short": "คีมย้ำหางปลาแบบเปลือย",
       "name_cn": "裸接线冷压钳DD-2（10把/盒）YT-260018 / DD-2",
       "price": 360,
       "image": "/placeholder.svg",
@@ -192,17 +188,16 @@
       "category_code": "LYQ",
       "material_cn": "裸接线",
       "material_code": "LJS",
-      "spec_number": "2-01",
-      "row_no": 191,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "2",
+      "row_no": 191
     },
     {
       "id": "12-20-31-015",
       "slug": "12-20-31-015",
       "code": "12.20.31.015",
-      "sku": "LYQ-ZY-1-01",
+      "sku": "LYQ-ZY-1",
       "name_th": "คีมย้ำหางปลาแบบฉนวน รุ่น DD-1",
+      "name_th_short": "คีมย้ำหางปลาแบบมีฉนวน",
       "name_cn": "绝缘接线冷压钳DD-1（10把/盒）YT-260017 / DD-1",
       "price": 324,
       "image": "/placeholder.svg",
@@ -224,10 +219,8 @@
       "category_code": "LYQ",
       "material_cn": "绝缘",
       "material_code": "ZY",
-      "spec_number": "1-01",
-      "row_no": 192,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1",
+      "row_no": 192
     }
   ]
 }

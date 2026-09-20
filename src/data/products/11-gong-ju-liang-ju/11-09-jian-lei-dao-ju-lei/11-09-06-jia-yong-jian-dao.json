@@ -9,8 +9,9 @@
       "id": "11-09-06-001",
       "slug": "11-09-06-001",
       "code": "11.09.06.001",
-      "sku": "JD-FX513-00000-01",
+      "sku": "JD-FX513-00000",
       "name_th": "กรรไกรกันสนิม รุ่นพรีเมียม รหัส 513 หัวใหญ่",
+      "name_th_short": "กรรไกรกันสนิม",
       "name_cn": "精品防锈剪刀 513大头",
       "price": 42,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "JD",
       "material_cn": "防锈513",
       "material_code": "FX513",
-      "spec_number": "00000-01",
-      "row_no": 615,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000",
+      "row_no": 615
     },
     {
       "id": "11-09-06-002",
       "slug": "11-09-06-002",
       "code": "11.09.06.002",
-      "sku": "JD-FX512-00000-01",
+      "sku": "JD-FX512-00000",
       "name_th": "กรรไกรกันสนิม รุ่นพรีเมียม รหัส 512 หัวแหลม",
+      "name_th_short": "กรรไกรกันสนิม",
       "name_cn": "精品防锈剪刀 512尖头",
       "price": 42,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "JD",
       "material_cn": "防锈512",
       "material_code": "FX512",
-      "spec_number": "00000-01",
-      "row_no": 616,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000",
+      "row_no": 616
     },
     {
       "id": "11-09-06-004",
       "slug": "11-09-06-004",
       "code": "11.09.06.004",
-      "sku": "JD-JYL-10120-01",
+      "sku": "JD-JYL-10120",
       "name_th": "กรรไกรใช้งานทั่วไป รหัส 1012 สีน้ำเงิน",
+      "name_th_short": "กรรไกรใช้งานทั่วไป",
       "name_cn": "家用剪刀 1012-蓝色",
       "price": 26.4,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "JD",
       "material_cn": "家用蓝色",
       "material_code": "JYL",
-      "spec_number": "10120-01",
-      "row_no": 617,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10120",
+      "row_no": 617
     },
     {
       "id": "11-09-06-005",
       "slug": "11-09-06-005",
       "code": "11.09.06.005",
-      "sku": "JD-QLYS-08000-01",
+      "sku": "JD-QLYS-08000",
       "name_th": "กรรไกรตัดงานหนัก ขนาด 8 นิ้ว สีเงิน บรรจุ 10 ชิ้น/กล่อง",
+      "name_th_short": "กรรไกรตัดงานหนัก",
       "name_cn": "8强力剪银色（10把/盒）YT-260006",
       "price": 139.2,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "JD",
       "material_cn": "强力银色",
       "material_code": "QLYS",
-      "spec_number": "08000-01",
-      "row_no": 618,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "08000",
+      "row_no": 618
     },
     {
       "id": "11-09-06-006",
       "slug": "11-09-06-006",
       "code": "11.09.06.006",
-      "sku": "JD-BXGDY-08000-01",
+      "sku": "JD-BXGDY-08000",
       "name_th": "กรรไกรสเตนเลสเอนกประสงค์ ขนาด 8 นิ้ว บรรจุ 8 ชิ้น/กล่อง",
+      "name_th_short": "กรรไกรอเนกประสงค์",
       "name_cn": "8不锈钢多用剪刀（8把/盒）YT-238008",
       "price": 84,
       "image": "/placeholder.svg",
@@ -160,17 +157,16 @@
       "category_code": "JD",
       "material_cn": "不锈钢多用",
       "material_code": "BXGDY",
-      "spec_number": "08000-01",
-      "row_no": 619,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "08000",
+      "row_no": 619
     },
     {
       "id": "11-09-06-007",
       "slug": "11-09-06-007",
       "code": "11.09.06.007",
-      "sku": "JD-XCJ-08000-01",
+      "sku": "JD-XCJ-08000",
       "name_th": "กรรไกรตัดรางสายไฟ สเตนเลส ขนาด 8 นิ้ว บรรจุ 8 ชิ้น/กล่อง",
+      "name_th_short": "กรรไกรตัดรางสายไฟ",
       "name_cn": "8不锈钢线槽剪（8把/盒）",
       "price": 93.6,
       "image": "/placeholder.svg",
@@ -192,17 +188,16 @@
       "category_code": "JD",
       "material_cn": "线槽剪",
       "material_code": "XCJ",
-      "spec_number": "08000-01",
-      "row_no": 620,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "08000",
+      "row_no": 620
     },
     {
       "id": "11-09-06-008",
       "slug": "11-09-06-008",
       "code": "11.09.06.008",
-      "sku": "JD-WLS-32020-01",
+      "sku": "JD-WLS-32020",
       "name_th": "กรรไกรตัดผ้า ยี่ห้อWeilishi รหัส W3202",
+      "name_th_short": "กรรไกรตัดผ้า",
       "name_cn": "(威力狮W3202) 修布剪刀",
       "price": 19.2,
       "image": "/placeholder.svg",
@@ -224,10 +219,8 @@
       "category_code": "JD",
       "material_cn": "威力狮",
       "material_code": "WLS",
-      "spec_number": "32020-01",
-      "row_no": 621,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "32020",
+      "row_no": 621
     }
   ]
 }

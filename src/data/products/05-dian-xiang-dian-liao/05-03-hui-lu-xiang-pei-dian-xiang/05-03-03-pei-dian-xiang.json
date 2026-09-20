@@ -10,7 +10,8 @@
       "slug": "05-03-03-002",
       "code": "05.03.03.002",
       "sku": "HLX-JXF-4030-01",
-      "name_th": "ตู้ไฟควบคุม JXF-K3-4030 (แบบหนา)",
+      "name_th": "ตู้ไฟควบคุม JXF-K3-4030/16M (แบบหนา)",
+      "name_th_short": "ตู้ไฟควบคุม",
       "name_cn": "加厚非标箱/回路箱 JXF-K3-4030/16M/J（不退换）",
       "price": 378,
       "image": "/placeholder.svg",
@@ -33,16 +34,15 @@
       "material_cn": "加厚非标",
       "material_code": "JXF",
       "spec_number": "4030-01",
-      "row_no": 133,
-      "col_o": null,
-      "col_r": null
+      "row_no": 133
     },
     {
       "id": "05-03-03-003",
       "slug": "05-03-03-003",
       "code": "05.03.03.003",
-      "sku": "HLX-JXF-5040-01",
-      "name_th": "ตู้ไฟควบคุม JXF-K3-5040 (แบบหนา)",
+      "sku": "HLX-JXF-5040",
+      "name_th": "ตู้ไฟควบคุม JXF-K3-5040/16M (แบบหนา)",
+      "name_th_short": "ตู้ไฟควบคุม",
       "name_cn": "加厚非标箱/回路箱 JXF-K3-5040/16M/J（不退换）",
       "price": 648,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "HLX",
       "material_cn": "加厚非标",
       "material_code": "JXF",
-      "spec_number": "5040-01",
-      "row_no": 134,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "5040",
+      "row_no": 134
     },
     {
       "id": "05-03-03-004",
       "slug": "05-03-03-004",
       "code": "05.03.03.004",
-      "sku": "HLX-JXF-6050-01",
-      "name_th": "ตู้ไฟควบคุม JXF-K3-6050 (แบบหนา)",
+      "sku": "HLX-JXF-6050",
+      "name_th": "ตู้ไฟควบคุม JXF-K3-6050/18M (แบบหนา)",
+      "name_th_short": "ตู้ไฟควบคุม",
       "name_cn": "加厚非标箱/回路箱 JXF-K3-6050/18M/J（不退换）",
       "price": 876,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "HLX",
       "material_cn": "加厚非标",
       "material_code": "JXF",
-      "spec_number": "6050-01",
-      "row_no": 135,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "6050",
+      "row_no": 135
     },
     {
       "id": "05-03-03-005",
       "slug": "05-03-03-005",
       "code": "05.03.03.005",
-      "sku": "HLX-JXF-8060-01",
-      "name_th": "ตู้ไฟควบคุม JXF-K3-8060 (แบบหนา)",
+      "sku": "HLX-JXF-8060",
+      "name_th": "ตู้ไฟควบคุม JXF-K3-8060/20M (แบบหนา)",
+      "name_th_short": "ตู้ไฟควบคุม",
       "name_cn": "加厚非标箱/回路箱 JXF-K3-8060/20M/J（不退换）",
       "price": 1320,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "HLX",
       "material_cn": "加厚非标",
       "material_code": "JXF",
-      "spec_number": "8060-01",
-      "row_no": 136,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "8060",
+      "row_no": 136
     },
     {
       "id": "05-03-03-006",
       "slug": "05-03-03-006",
       "code": "05.03.03.006",
       "sku": "HLX-JXF-4030-02",
-      "name_th": "ตู้ไฟควบคุม JXF1-K6-4030 (แบบหนา/ปลอดภัย)",
+      "name_th": "ตู้ไฟควบคุม JXF1-K6-4030/20B (แบบหนา/ปลอดภัย)",
+      "name_th_short": "ตู้ไฟควบคุม",
       "name_cn": "加厚安全型基业箱/回路箱 JXF1-K6-4030/20B（不退换）",
       "price": 624,
       "image": "/placeholder.svg",
@@ -161,9 +158,7 @@
       "material_cn": "加厚安全",
       "material_code": "JXF",
       "spec_number": "4030-02",
-      "row_no": 137,
-      "col_o": null,
-      "col_r": null
+      "row_no": 137
     }
   ]
 }

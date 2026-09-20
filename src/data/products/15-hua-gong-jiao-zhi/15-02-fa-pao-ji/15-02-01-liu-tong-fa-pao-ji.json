@@ -9,8 +9,9 @@
       "id": "15-02-01-017",
       "slug": "15-02-01-017",
       "code": "15.02.01.017",
-      "sku": "FPJ-QGYT-750-01",
+      "sku": "FPJ-QGYT-750",
       "name_th": "โฟมพียู (ใช้ได้ทั้งหัวฉีดและปืน) 750 กรัม",
+      "name_th_short": "โฟมพียู",
       "name_cn": "发泡剂（枪管一体）750g",
       "price": 78,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "FPJ",
       "material_cn": "枪管一体",
       "material_code": "QGYT",
-      "spec_number": "750-01",
-      "row_no": 20,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "750",
+      "row_no": 20
     },
     {
       "id": "15-02-01-018",
       "slug": "15-02-01-018",
       "code": "15.02.01.018",
-      "sku": "FPJ-HMO-1-01",
+      "sku": "FPJ-HMO-1",
       "name_th": "โฟมพียู Mengou แดง (ใช้ได้ทั้งหัวฉีดและปืน)",
+      "name_th_short": "โฟมพียู Mengou สีแดง",
       "name_cn": "红梦欧发泡剂（枪管一体）",
       "price": 102,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "FPJ",
       "material_cn": "红梦欧",
       "material_code": "HMO",
-      "spec_number": "1-01",
-      "row_no": 21,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1",
+      "row_no": 21
     }
   ]
 }

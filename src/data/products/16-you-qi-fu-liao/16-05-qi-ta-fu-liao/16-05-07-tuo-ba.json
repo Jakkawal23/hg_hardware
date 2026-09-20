@@ -9,8 +9,9 @@
       "id": "16-05-07-0004",
       "slug": "16-05-07-0004",
       "code": "16.05.07.0004",
-      "sku": "TB-KJDJM-1-01",
+      "sku": "TB-KJDJM-1",
       "name_th": "ไม้ถูพื้นฟองน้ำ PVA บิดล็อคแบบไม่ต้องใช้มือซัก เกรดพรีเมียมด้ามยืดหด Kangjunda",
+      "name_th_short": "ไม้ถูพื้น",
       "name_cn": "康俊达免手洗高档胶棉拖把 伸缩杆",
       "price": 198,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "TB",
       "material_cn": "康俊达胶棉",
       "material_code": "KJDJM",
-      "spec_number": "1-01",
-      "row_no": 101,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1",
+      "row_no": 101
     },
     {
       "id": "16-05-07-0006",
       "slug": "16-05-07-0006",
       "code": "16.05.07.0006",
-      "sku": "TB-JLPB-9016-01",
+      "sku": "TB-JLPB-90-16",
       "name_th": "ไม้ถูพื้นแบบม็อบดันฝุ่นแบนเกรดพรีเมียม สีเขียวทหารแบบหนา 90x16 ซม.",
+      "name_th_short": "ไม้ถูพื้น",
       "name_cn": "拖把军绿加厚/高档平板拖把 90*16",
       "price": 204,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "TB",
       "material_cn": "军绿平板",
       "material_code": "JLPB",
-      "spec_number": "9016-01",
-      "row_no": 102,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "90-16",
+      "row_no": 102
     }
   ]
 }

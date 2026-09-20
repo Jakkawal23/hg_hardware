@@ -9,8 +9,9 @@
       "id": "01-05-10-001",
       "slug": "01-05-10-001",
       "code": "01.05.10.001",
-      "sku": "LB-YL-8-01",
+      "sku": "LB-YL-8",
       "name_th": "พุกตะกั่วลายเกล็ดปลา M8",
+      "name_th_short": "พุกตะกั่ว",
       "name_cn": "鱼鳞拉爆M8( M8)",
       "price": 1.44,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "LB",
       "material_cn": "鱼鳞",
       "material_code": "YL",
-      "spec_number": "8-01",
-      "row_no": 401,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "8",
+      "row_no": 401
     },
     {
       "id": "01-05-10-002",
       "slug": "01-05-10-002",
       "code": "01.05.10.002",
-      "sku": "LB-YL-10-01",
+      "sku": "LB-YL-10",
       "name_th": "พุกตะกั่วลายเกล็ดปลา M10",
+      "name_th_short": "พุกตะกั่ว",
       "name_cn": "鱼鳞拉爆M10( M10)",
       "price": 1.8,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "LB",
       "material_cn": "鱼鳞",
       "material_code": "YL",
-      "spec_number": "10-01",
-      "row_no": 402,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10",
+      "row_no": 402
     },
     {
       "id": "01-05-10-003",
       "slug": "01-05-10-003",
       "code": "01.05.10.003",
-      "sku": "LB-YL-12-01",
+      "sku": "LB-YL-12",
       "name_th": "พุกตะกั่วลายเกล็ดปลา M12",
+      "name_th_short": "พุกตะกั่ว",
       "name_cn": "鱼鳞拉爆M12( M12)",
       "price": 4.8,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "LB",
       "material_cn": "鱼鳞",
       "material_code": "YL",
-      "spec_number": "12-01",
-      "row_no": 403,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "12",
+      "row_no": 403
     },
     {
       "id": "01-05-10-004",
       "slug": "01-05-10-004",
       "code": "01.05.10.004",
-      "sku": "LB-304BXG-10-02",
+      "sku": "LB-304BXG-10",
       "name_th": "พุกตะกั่วสแตนเลส M10",
+      "name_th_short": "พุกตะกั่วสแตนเลส",
       "name_cn": "不锈钢鱼鳞拉爆M10(M10)",
       "price": 5.76,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "LB",
       "material_cn": "304不锈钢",
       "material_code": "304BXG",
-      "spec_number": "10-02",
-      "row_no": 404,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10",
+      "row_no": 404
     },
     {
       "id": "01-05-10-006",
       "slug": "01-05-10-006",
       "code": "01.05.10.006",
-      "sku": "LB-304BXG-8-02",
+      "sku": "LB-304BXG-8",
       "name_th": "พุกตะกั่วสแตนเลส M8",
+      "name_th_short": "พุกตะกั่วสแตนเลส",
       "name_cn": "不锈钢鱼鳞拉爆M8(M8)",
       "price": 4.32,
       "image": "/placeholder.svg",
@@ -160,17 +157,16 @@
       "category_code": "LB",
       "material_cn": "304不锈钢",
       "material_code": "304BXG",
-      "spec_number": "8-02",
-      "row_no": 405,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "8",
+      "row_no": 405
     },
     {
       "id": "01-05-10-007",
       "slug": "01-05-10-007",
       "code": "01.05.10.007",
-      "sku": "LB-304BXG-12-02",
+      "sku": "LB-304BXG-12",
       "name_th": "พุกตะกั่วสแตนเลส M12",
+      "name_th_short": "พุกตะกั่วสแตนเลส",
       "name_cn": "不锈钢鱼鳞拉爆M12(M12)",
       "price": 8.4,
       "image": "/placeholder.svg",
@@ -192,17 +188,16 @@
       "category_code": "LB",
       "material_cn": "304不锈钢",
       "material_code": "304BXG",
-      "spec_number": "12-02",
-      "row_no": 406,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "12",
+      "row_no": 406
     },
     {
       "id": "01-05-10-008",
       "slug": "01-05-10-008",
       "code": "01.05.10.008",
-      "sku": "LB-RDX-10-03",
-      "name_th": "พุกตะกั่วชุบสังกะสี M10",
+      "sku": "LB-RDX-10",
+      "name_th": "พุกตะกั่วชุบกัลวาไนซ์ M10",
+      "name_th_short": "พุกตะกั่ว",
       "name_cn": "热镀锌鱼鳞拉爆M10( M10)",
       "price": 4.8,
       "image": "/placeholder.svg",
@@ -224,17 +219,16 @@
       "category_code": "LB",
       "material_cn": "热镀锌",
       "material_code": "RDX",
-      "spec_number": "10-03",
-      "row_no": 407,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10",
+      "row_no": 407
     },
     {
       "id": "01-05-10-009",
       "slug": "01-05-10-009",
       "code": "01.05.10.009",
-      "sku": "LB-YL-6-01",
+      "sku": "LB-YL-6",
       "name_th": "พุกตะกั่วลายเกล็ดปลา M6",
+      "name_th_short": "พุกตะกั่ว",
       "name_cn": "鱼鳞拉爆M6( M6)",
       "price": 0.84,
       "image": "/placeholder.svg",
@@ -256,10 +250,8 @@
       "category_code": "LB",
       "material_cn": "鱼鳞",
       "material_code": "YL",
-      "spec_number": "6-01",
-      "row_no": 408,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "6",
+      "row_no": 408
     }
   ]
 }

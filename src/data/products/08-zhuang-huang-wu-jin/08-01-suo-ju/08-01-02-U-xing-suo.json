@@ -9,8 +9,9 @@
       "id": "08-01-02-001",
       "slug": "08-01-02-001",
       "code": "08.01.02.001",
-      "sku": "MTS-U-A06-01",
+      "sku": "MTS-U-A06",
       "name_th": "ล็อกตัวยูสำหรับรถมอเตอร์ไซค์ รุ่น A06",
+      "name_th_short": "ล็อกตัวยูมอเตอร์ไซค์",
       "name_cn": "U型摩托锁 A06",
       "price": 126,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "MTS",
       "material_cn": "U型",
       "material_code": "U",
-      "spec_number": "A06-01",
-      "row_no": 8,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "A06",
+      "row_no": 8
     },
     {
       "id": "08-01-02-002",
       "slug": "08-01-02-002",
       "code": "08.01.02.002",
-      "sku": "MTS-U-A12-01",
+      "sku": "MTS-U-A12",
       "name_th": "ล็อกตัวยูสำหรับรถมอเตอร์ไซค์ รุ่น A12",
+      "name_th_short": "ล็อกตัวยูมอเตอร์ไซค์",
       "name_cn": "U型摩托锁 A12",
       "price": 180,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "MTS",
       "material_cn": "U型",
       "material_code": "U",
-      "spec_number": "A12-01",
-      "row_no": 9,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "A12",
+      "row_no": 9
     },
     {
       "id": "08-01-02-003",
       "slug": "08-01-02-003",
       "code": "08.01.02.003",
-      "sku": "MTS-U-825-01",
+      "sku": "MTS-U-825",
       "name_th": "ล็อกตัวยูสำหรับรถมอเตอร์ไซค์ รุ่น 825",
+      "name_th_short": "ล็อกตัวยูมอเตอร์ไซค์",
       "name_cn": "U型摩托锁 825",
       "price": 66,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "MTS",
       "material_cn": "U型",
       "material_code": "U",
-      "spec_number": "825-01",
-      "row_no": 10,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "825",
+      "row_no": 10
     },
     {
       "id": "08-01-02-004",
       "slug": "08-01-02-004",
       "code": "08.01.02.004",
-      "sku": "MTS-U-605-01",
+      "sku": "MTS-U-605",
       "name_th": "ล็อกตัวยูสำหรับรถมอเตอร์ไซค์ รุ่น 605",
+      "name_th_short": "ล็อกตัวยูมอเตอร์ไซค์",
       "name_cn": "U型摩托锁 605",
       "price": 216,
       "image": "/placeholder.svg",
@@ -128,10 +126,8 @@
       "category_code": "MTS",
       "material_cn": "U型",
       "material_code": "U",
-      "spec_number": "605-01",
-      "row_no": 11,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "605",
+      "row_no": 11
     }
   ]
 }

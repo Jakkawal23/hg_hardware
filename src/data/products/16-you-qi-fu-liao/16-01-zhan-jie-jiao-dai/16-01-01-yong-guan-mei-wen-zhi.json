@@ -9,8 +9,9 @@
       "id": "16-01-01-003",
       "slug": "16-01-01-003",
       "code": "16.01.01.003",
-      "sku": "MWZ-YK-5-10",
+      "sku": "MWZ-YK-5-01",
       "name_th": "เทปกาวย่น Yongkuan 5 ซม. 30หลา 10เมตร (45ม้วน/ลัง)",
+      "name_th_short": "เทปกาวย่น",
       "name_cn": "永冠美纹纸 5公分-30码10米（45卷/箱）",
       "price": 480,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "MWZ",
       "material_cn": "永冠",
       "material_code": "YK",
-      "spec_number": "5-10",
-      "row_no": 1,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "5-01",
+      "row_no": 1
     },
     {
       "id": "16-01-01-010",
       "slug": "16-01-01-010",
       "code": "16.01.01.010",
-      "sku": "MWZ-YK-5-13",
+      "sku": "MWZ-YK-5-02",
       "name_th": "เทปกาวย่น Yongkuan 5 ซม. 50หลา 13เมตร (45ม้วน/ลัง)",
+      "name_th_short": "เทปกาวย่น",
       "name_cn": "永冠美纹纸 5公分-50码13米（45卷/箱）",
       "price": 13.2,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "MWZ",
       "material_cn": "永冠",
       "material_code": "YK",
-      "spec_number": "5-13",
-      "row_no": 2,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "5-02",
+      "row_no": 2
     },
     {
       "id": "16-01-01-011",
       "slug": "16-01-01-011",
       "code": "16.01.01.011",
-      "sku": "MWZ-YK-3-13",
+      "sku": "MWZ-YK-3-01",
       "name_th": "เทปกาวย่น Yongkuan 3 ซม. 50หลา 13เมตร (72ม้วน/ลัง)",
+      "name_th_short": "เทปกาวย่น",
       "name_cn": "永冠美纹纸 3公分-50码13米（72卷/箱）",
       "price": 7.8,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "MWZ",
       "material_cn": "永冠",
       "material_code": "YK",
-      "spec_number": "3-13",
-      "row_no": 3,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "3-01",
+      "row_no": 3
     },
     {
       "id": "16-01-01-012",
       "slug": "16-01-01-012",
       "code": "16.01.01.012",
-      "sku": "MWZ-YK-3-10",
+      "sku": "MWZ-YK-3-02",
       "name_th": "เทปกาวย่น Yongkuan 3 ซม. 30หลา 10เมตร (72ม้วน/ลัง)",
+      "name_th_short": "เทปกาวย่น",
       "name_cn": "永冠美纹纸 3公分-30码10米（72卷/箱）",
       "price": 6,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "MWZ",
       "material_cn": "永冠",
       "material_code": "YK",
-      "spec_number": "3-10",
-      "row_no": 4,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "3-02",
+      "row_no": 4
     },
     {
       "id": "16-01-01-013",
       "slug": "16-01-01-013",
       "code": "16.01.01.013",
-      "sku": "MWZ-YK-2-18",
+      "sku": "MWZ-YK-2-01",
       "name_th": "เทปกาวย่น Yongkuan 2 ซม. 80หลา 18เมตร (108ม้วน/ลัง)",
+      "name_th_short": "เทปกาวย่น",
       "name_cn": "永冠美纹纸 2公分-80码18米（108卷/箱）",
       "price": 7.44,
       "image": "/placeholder.svg",
@@ -160,17 +157,16 @@
       "category_code": "MWZ",
       "material_cn": "永冠",
       "material_code": "YK",
-      "spec_number": "2-18",
-      "row_no": 5,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "2-01",
+      "row_no": 5
     },
     {
       "id": "16-01-01-014",
       "slug": "16-01-01-014",
       "code": "16.01.01.014",
-      "sku": "MWZ-YK-2-13",
+      "sku": "MWZ-YK-2-02",
       "name_th": "เทปกาวย่น Yongkuan 2 ซม. 50หลา 13เมตร (108ม้วน/ลัง)",
+      "name_th_short": "เทปกาวย่น",
       "name_cn": "永冠美纹纸 2公分-50码13米（108卷/箱）",
       "price": 5.4,
       "image": "/placeholder.svg",
@@ -192,17 +188,16 @@
       "category_code": "MWZ",
       "material_cn": "永冠",
       "material_code": "YK",
-      "spec_number": "2-13",
-      "row_no": 6,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "2-02",
+      "row_no": 6
     },
     {
       "id": "16-01-01-015",
       "slug": "16-01-01-015",
       "code": "16.01.01.015",
-      "sku": "MWZ-YK-2-10",
+      "sku": "MWZ-YK-2-03",
       "name_th": "เทปกาวย่น Yongkuan 2 ซม. 30หลา 10เมตร (108ม้วน/ลัง)",
+      "name_th_short": "เทปกาวย่น",
       "name_cn": "永冠美纹纸 2公分-30码10米 (108卷/箱）",
       "price": 4.32,
       "image": "/placeholder.svg",
@@ -224,17 +219,16 @@
       "category_code": "MWZ",
       "material_cn": "永冠",
       "material_code": "YK",
-      "spec_number": "2-10",
-      "row_no": 7,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "2-03",
+      "row_no": 7
     },
     {
       "id": "16-01-01-016",
       "slug": "16-01-01-016",
       "code": "16.01.01.016",
-      "sku": "MWZ-PT-5-18",
+      "sku": "MWZ-PT-5",
       "name_th": "เทปกาวย่น 5 ซม. 80หลา 18เมตร (45ม้วน/ลัง)",
+      "name_th_short": "เทปกาวย่น",
       "name_cn": "美纹纸 5公分-80码18米（45卷/箱）",
       "price": 17.4,
       "image": "/placeholder.svg",
@@ -256,10 +250,8 @@
       "category_code": "MWZ",
       "material_cn": "普通",
       "material_code": "PT",
-      "spec_number": "5-18",
-      "row_no": 8,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "5",
+      "row_no": 8
     }
   ]
 }

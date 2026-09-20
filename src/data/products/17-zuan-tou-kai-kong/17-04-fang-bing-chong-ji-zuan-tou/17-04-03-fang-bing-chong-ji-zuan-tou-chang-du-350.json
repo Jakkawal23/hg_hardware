@@ -11,6 +11,7 @@
       "code": "17.04.03.001",
       "sku": "DZC-FB-8-350",
       "name_th": "ดอกโรตารี่ก้านเหลี่ยม 8x350",
+      "name_th_short": "ดอกโรตารี่ก้านเหลี่ยม 8",
       "name_cn": "电锤钻头-方柄8*350",
       "price": 96,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "方柄",
       "material_code": "FB",
       "spec_number": "8-350",
-      "row_no": 282,
-      "col_o": null,
-      "col_r": null
+      "row_no": 282
     },
     {
       "id": "17-04-03-002",
@@ -43,6 +42,7 @@
       "code": "17.04.03.002",
       "sku": "DZC-FB-10-350",
       "name_th": "ดอกโรตารี่ก้านเหลี่ยม 10x350",
+      "name_th_short": "ดอกโรตารี่ก้านเหลี่ยม 10",
       "name_cn": "电锤钻头-方柄10*350",
       "price": 96,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "方柄",
       "material_code": "FB",
       "spec_number": "10-350",
-      "row_no": 283,
-      "col_o": null,
-      "col_r": null
+      "row_no": 283
     },
     {
       "id": "17-04-03-003",
@@ -75,6 +73,7 @@
       "code": "17.04.03.003",
       "sku": "DZC-FB-12-350",
       "name_th": "ดอกโรตารี่ก้านเหลี่ยม 12x350",
+      "name_th_short": "ดอกโรตารี่ก้านเหลี่ยม 12",
       "name_cn": "电锤钻头-方柄12*350",
       "price": 108,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "方柄",
       "material_code": "FB",
       "spec_number": "12-350",
-      "row_no": 284,
-      "col_o": null,
-      "col_r": null
+      "row_no": 284
     },
     {
       "id": "17-04-03-004",
@@ -107,6 +104,7 @@
       "code": "17.04.03.004",
       "sku": "DZC-FB-14-350",
       "name_th": "ดอกโรตารี่ก้านเหลี่ยม 14x350",
+      "name_th_short": "ดอกโรตารี่ก้านเหลี่ยม 14",
       "name_cn": "电锤钻头-方柄14*350 /",
       "price": 120,
       "image": "/placeholder.svg",
@@ -129,9 +127,7 @@
       "material_cn": "方柄",
       "material_code": "FB",
       "spec_number": "14-350",
-      "row_no": 285,
-      "col_o": null,
-      "col_r": null
+      "row_no": 285
     },
     {
       "id": "17-04-03-005",
@@ -139,6 +135,7 @@
       "code": "17.04.03.005",
       "sku": "DZC-FB-20-350",
       "name_th": "ดอกโรตารี่ก้านเหลี่ยม 20x350",
+      "name_th_short": "ดอกโรตารี่ก้านเหลี่ยม 20",
       "name_cn": "电锤钻头-方柄20*350 /",
       "price": 240,
       "image": "/placeholder.svg",
@@ -161,9 +158,7 @@
       "material_cn": "方柄",
       "material_code": "FB",
       "spec_number": "20-350",
-      "row_no": 286,
-      "col_o": null,
-      "col_r": null
+      "row_no": 286
     },
     {
       "id": "17-04-03-006",
@@ -171,6 +166,7 @@
       "code": "17.04.03.006",
       "sku": "DZC-FB-28-350",
       "name_th": "ดอกโรตารี่ก้านเหลี่ยม 28x350",
+      "name_th_short": "ดอกโรตารี่ก้านเหลี่ยม 28",
       "name_cn": "电锤钻头-方柄28*350 /",
       "price": 480,
       "image": "/placeholder.svg",
@@ -193,9 +189,7 @@
       "material_cn": "方柄",
       "material_code": "FB",
       "spec_number": "28-350",
-      "row_no": 287,
-      "col_o": null,
-      "col_r": null
+      "row_no": 287
     },
     {
       "id": "17-04-03-007",
@@ -203,6 +197,7 @@
       "code": "17.04.03.007",
       "sku": "DZC-FB-30-350",
       "name_th": "ดอกโรตารี่ก้านเหลี่ยม 30x350",
+      "name_th_short": "ดอกโรตารี่ก้านเหลี่ยม 30",
       "name_cn": "电锤钻头-方柄30*350 /",
       "price": 660,
       "image": "/placeholder.svg",
@@ -225,9 +220,7 @@
       "material_cn": "方柄",
       "material_code": "FB",
       "spec_number": "30-350",
-      "row_no": 288,
-      "col_o": null,
-      "col_r": null
+      "row_no": 288
     },
     {
       "id": "17-04-03-008",
@@ -235,6 +228,7 @@
       "code": "17.04.03.008",
       "sku": "DZC-FB-22-350",
       "name_th": "ดอกโรตารี่ก้านเหลี่ยม 22x350",
+      "name_th_short": "ดอกโรตารี่ก้านเหลี่ยม 22",
       "name_cn": "电锤钻头-方柄22*350 /",
       "price": 288,
       "image": "/placeholder.svg",
@@ -257,9 +251,7 @@
       "material_cn": "方柄",
       "material_code": "FB",
       "spec_number": "22-350",
-      "row_no": 289,
-      "col_o": null,
-      "col_r": null
+      "row_no": 289
     },
     {
       "id": "17-04-03-009",
@@ -267,6 +259,7 @@
       "code": "17.04.03.009",
       "sku": "DZC-FB-28-500",
       "name_th": "ดอกโรตารี่ก้านเหลี่ยม 28x500",
+      "name_th_short": "ดอกโรตารี่ก้านเหลี่ยม 28",
       "name_cn": "电锤钻头-方柄28*500 /",
       "price": 660,
       "image": "/placeholder.svg",
@@ -289,9 +282,7 @@
       "material_cn": "方柄",
       "material_code": "FB",
       "spec_number": "28-500",
-      "row_no": 290,
-      "col_o": null,
-      "col_r": null
+      "row_no": 290
     }
   ]
 }

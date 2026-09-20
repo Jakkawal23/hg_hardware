@@ -9,8 +9,9 @@
       "id": "09-04-01-002",
       "slug": "09-04-01-002",
       "code": "09.04.01.002",
-      "sku": "BS-HHX-400-01",
+      "sku": "BS-HHX-400",
       "name_th": "พัดลมติดผนังหรู ยี่ห้อหยางจื่อ รุ่น FB16A ขนาด 400 มม. 220V สีดำ",
+      "name_th_short": "พัดลมติดผนังหรู สีดำ",
       "name_cn": "扬子豪华型壁扇FB16A/400mm-220黑色",
       "price": 624,
       "image": "/placeholder.svg",
@@ -32,10 +33,8 @@
       "category_code": "BS",
       "material_cn": "豪华型",
       "material_code": "HHX",
-      "spec_number": "400-01",
-      "row_no": 7,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "400",
+      "row_no": 7
     }
   ]
 }

@@ -9,8 +9,9 @@
       "id": "17-01-13-001",
       "slug": "17-01-13-001",
       "code": "17.01.13.001",
-      "sku": "ZT-SY-6-01",
+      "sku": "ZT-SY-6",
       "name_th": "ดอกสว่านหัวกากบาทก้านหกเหลี่ยม 6",
+      "name_th_short": "ดอกสว่านหัวกากบาทก้านหกเหลี่ยม 6",
       "name_cn": "福星六角柄十字钻/四刃霸王钻-黑色 6mm（10支/盒）",
       "price": 27.6,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "ZT",
       "material_cn": "四刃",
       "material_code": "SY",
-      "spec_number": "6-01",
-      "row_no": 188,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "6",
+      "row_no": 188
     },
     {
       "id": "17-01-13-002",
       "slug": "17-01-13-002",
       "code": "17.01.13.002",
-      "sku": "ZT-SY-8-01",
+      "sku": "ZT-SY-8",
       "name_th": "ดอกสว่านหัวกากบาทก้านหกเหลี่ยม 8",
+      "name_th_short": "ดอกสว่านหัวกากบาทก้านหกเหลี่ยม 8",
       "name_cn": "福星六角柄十字钻/四刃霸王钻-黑色 8mm（10支/盒）",
       "price": 39.6,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "ZT",
       "material_cn": "四刃",
       "material_code": "SY",
-      "spec_number": "8-01",
-      "row_no": 189,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "8",
+      "row_no": 189
     },
     {
       "id": "17-01-13-003",
       "slug": "17-01-13-003",
       "code": "17.01.13.003",
-      "sku": "ZT-SY-12-01",
+      "sku": "ZT-SY-12",
       "name_th": "ดอกสว่านหัวกากบาทก้านหกเหลี่ยม 12",
+      "name_th_short": "ดอกสว่านหัวกากบาทก้านหกเหลี่ยม 12",
       "name_cn": "福星六角柄十字钻/四刃霸王钻-黑色 12mm（5支/盒）",
       "price": 58.8,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "ZT",
       "material_cn": "四刃",
       "material_code": "SY",
-      "spec_number": "12-01",
-      "row_no": 190,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "12",
+      "row_no": 190
     },
     {
       "id": "17-01-13-004",
       "slug": "17-01-13-004",
       "code": "17.01.13.004",
-      "sku": "ZT-SY-10-01",
+      "sku": "ZT-SY-10",
       "name_th": "ดอกสว่านหัวกากบาทก้านหกเหลี่ยม 10",
+      "name_th_short": "ดอกสว่านหัวกากบาทก้านหกเหลี่ยม 10",
       "name_cn": "福星六角柄十字钻/四刃霸王钻-黑色10mm（5支/盒）",
       "price": 46.8,
       "image": "/placeholder.svg",
@@ -128,10 +126,8 @@
       "category_code": "ZT",
       "material_cn": "四刃",
       "material_code": "SY",
-      "spec_number": "10-01",
-      "row_no": 191,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10",
+      "row_no": 191
     }
   ]
 }

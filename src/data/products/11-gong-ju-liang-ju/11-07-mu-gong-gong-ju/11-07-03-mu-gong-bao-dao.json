@@ -9,8 +9,9 @@
       "id": "11-07-03-001",
       "slug": "11-07-03-001",
       "code": "11.07.03.001",
-      "sku": "MGP-BP-18000-01",
+      "sku": "MGP-BP-18000",
       "name_th": "กบไสไม้ (แบบเหล็ก/ไม้) ขนาด 180 มม.",
+      "name_th_short": "กบไสไม้",
       "name_cn": "木工刨/木刨 180",
       "price": 108,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "MGP",
       "material_cn": "标配",
       "material_code": "BP",
-      "spec_number": "18000-01",
-      "row_no": 534,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "18000",
+      "row_no": 534
     },
     {
       "id": "11-07-03-002",
       "slug": "11-07-03-002",
       "code": "11.07.03.002",
-      "sku": "MGP-BP-28000-01",
+      "sku": "MGP-BP-28000",
       "name_th": "กบไสไม้ (แบบเหล็ก/ไม้) ขนาด 280 มม.",
+      "name_th_short": "กบไสไม้",
       "name_cn": "木工刨/木刨 280",
       "price": 144,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "MGP",
       "material_cn": "标配",
       "material_code": "BP",
-      "spec_number": "28000-01",
-      "row_no": 535,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "28000",
+      "row_no": 535
     },
     {
       "id": "11-07-03-003",
       "slug": "11-07-03-003",
       "code": "11.07.03.003",
-      "sku": "MGP-BP-35000-01",
+      "sku": "MGP-BP-35000",
       "name_th": "กบไสไม้ (แบบเหล็ก/ไม้) ขนาด 350 มม.",
+      "name_th_short": "กบไสไม้",
       "name_cn": "木工刨/木刨 350",
       "price": 151.2,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "MGP",
       "material_cn": "标配",
       "material_code": "BP",
-      "spec_number": "35000-01",
-      "row_no": 536,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "35000",
+      "row_no": 536
     },
     {
       "id": "11-07-03-005",
       "slug": "11-07-03-005",
       "code": "11.07.03.005",
-      "sku": "GT-BP-00000-01",
+      "sku": "GT-BP-00000",
       "name_th": "แผ่นเสริมใบกบ (Cap Iron)",
+      "name_th_short": "แผ่นเสริมใบกบ",
       "name_cn": "盖铁",
       "price": 13.2,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "GT",
       "material_cn": "标配",
       "material_code": "BP",
-      "spec_number": "00000-01",
-      "row_no": 537,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000",
+      "row_no": 537
     },
     {
       "id": "11-07-03-006",
       "slug": "11-07-03-006",
       "code": "11.07.03.006",
-      "sku": "MGP-WLS-06180-01",
+      "sku": "MGP-WLS-06180",
       "name_th": "กบไสไม้ Weilishi รุ่นJinggong ขนาด 6x180 มม.",
+      "name_th_short": "กบไสไม้",
       "name_cn": "(威力狮W0077A) 精工木刨/木工刨 6x180MM",
       "price": 210,
       "image": "/placeholder.svg",
@@ -160,17 +157,16 @@
       "category_code": "MGP",
       "material_cn": "威力狮",
       "material_code": "WLS",
-      "spec_number": "06180-01",
-      "row_no": 538,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "06180",
+      "row_no": 538
     },
     {
       "id": "11-07-03-008",
       "slug": "11-07-03-008",
       "code": "11.07.03.008",
-      "sku": "MGP-WLS-06300-01",
+      "sku": "MGP-WLS-06300",
       "name_th": "กบไสไม้ Weilishi รุ่นJinggong ขนาด 6x300 มม.",
+      "name_th_short": "กบไสไม้",
       "name_cn": "(威力狮W0077C) 精工木刨/木工刨 6x300MM",
       "price": 259.2,
       "image": "/placeholder.svg",
@@ -192,10 +188,8 @@
       "category_code": "MGP",
       "material_cn": "威力狮",
       "material_code": "WLS",
-      "spec_number": "06300-01",
-      "row_no": 539,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "06300",
+      "row_no": 539
     }
   ]
 }

@@ -11,6 +11,7 @@
       "code": "27.03.0002",
       "sku": "LZ-PJ-SSG-HB-00154-50G",
       "name_th": "ท่อกั้นกรวยจราจรยืดหดได้ สีแดง-ขาว (50ท่อน/ถุง)",
+      "name_th_short": "ท่อกั้นกรวยยืดหด",
       "name_cn": "路锥伸缩杆红白（50根/袋） 00154",
       "price": 60,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "伸缩杆红白",
       "material_code": "SSG-HB",
       "spec_number": "00154-50G",
-      "row_no": 3,
-      "col_o": null,
-      "col_r": null
+      "row_no": 3
     },
     {
       "id": "27-03-0004",
@@ -43,6 +42,7 @@
       "code": "27.03.0004",
       "sku": "LZ-PJ-LG-01",
       "name_th": "คานบาร์เชื่อมต่อกรวยจราจร / ไม้กั้นกรวย",
+      "name_th_short": "คานเชื่อมกรวยจราจร",
       "name_cn": "警示锥连杆",
       "price": 72,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "连杆",
       "material_code": "LG",
       "spec_number": "01",
-      "row_no": 4,
-      "col_o": null,
-      "col_r": null
+      "row_no": 4
     }
   ]
 }

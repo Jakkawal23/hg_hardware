@@ -9,8 +9,9 @@
       "id": "11-13-05-003",
       "slug": "11-13-05-003",
       "code": "11.13.05.003",
-      "sku": "JC-HFZS-110525-01",
+      "sku": "JC-HFZS-110525",
       "name_th": "ตลับเมตรแบบล็อคอัตโนมัติ ยี่ห้อHufan รุ่น 110525",
+      "name_th_short": "ตลับเมตร",
       "name_cn": "沪帆 自锁式卷尺 110525",
       "price": 60,
       "image": "/placeholder.svg",
@@ -32,10 +33,8 @@
       "category_code": "JC",
       "material_cn": "沪帆自锁",
       "material_code": "HFZS",
-      "spec_number": "110525-01",
-      "row_no": 753,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "110525",
+      "row_no": 753
     }
   ]
 }

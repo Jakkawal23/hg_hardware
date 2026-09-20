@@ -11,6 +11,7 @@
       "code": "23.01.06.002",
       "sku": "NT-RD-ZK-50G",
       "name_th": "ถังปูนพลาสติก สีแดง (ยกมัด 50 ใบ/ไม่แยกขาย)",
+      "name_th_short": "ถังปูนพลาสติก",
       "name_cn": "泥桶 红色 （不拆零）50个",
       "price": 42,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "红色整捆",
       "material_code": "RD-ZK",
       "spec_number": "50G",
-      "row_no": 11,
-      "col_o": null,
-      "col_r": null
+      "row_no": 11
     },
     {
       "id": "23-01-06-005",
@@ -43,6 +42,7 @@
       "code": "23.01.06.005",
       "sku": "NT-PJ-TB-LV-30G",
       "name_th": "ด้ามเหล็กจับถังปูน สีเขียว (มัดละ 30 อัน)",
+      "name_th_short": "ด้ามถังปูน",
       "name_cn": "泥桶柄/铁柄 绿色（30个/捆）",
       "price": 6,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "铁柄绿色",
       "material_code": "TB-LV",
       "spec_number": "30G",
-      "row_no": 12,
-      "col_o": null,
-      "col_r": null
+      "row_no": 12
     },
     {
       "id": "23-01-06-009",
@@ -75,6 +73,7 @@
       "code": "23.01.06.009",
       "sku": "NT-HE-HXB-50G",
       "name_th": "ถังปูนพลาสติก สีดำพร้อมหูหิ้วสีแดงเล็ก (มัดละ 50 ใบ)",
+      "name_th_short": "ถังปูนพลาสติก",
       "name_cn": "泥桶 黑色带红色细柄--50个/捆",
       "price": 30,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "黑色红细柄",
       "material_code": "HE-HXB",
       "spec_number": "50G",
-      "row_no": 13,
-      "col_o": null,
-      "col_r": null
+      "row_no": 13
     }
   ]
 }

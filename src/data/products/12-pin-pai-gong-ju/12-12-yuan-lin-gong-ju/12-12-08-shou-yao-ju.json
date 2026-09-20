@@ -9,8 +9,9 @@
       "id": "12-12-07-004",
       "slug": "12-12-07-004",
       "code": "12.12.07.004",
-      "sku": "SYJ-SMM-180-01",
+      "sku": "SYJ-SMM-180",
       "name_th": "เลื่อยมือ (ฟัน 3 ด้าน) ขนาด 180 มม.",
+      "name_th_short": "เลื่อยมือ",
       "name_cn": "手腰锯（三面磨齿）180mm（6把/盒）YT-222026 / () 180.",
       "price": 150,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "SYJ",
       "material_cn": "三面磨齿",
       "material_code": "SMM",
-      "spec_number": "180-01",
-      "row_no": 143,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "180",
+      "row_no": 143
     },
     {
       "id": "12-12-08-005",
       "slug": "12-12-08-005",
       "code": "12.12.08.005",
-      "sku": "ZDJ-SMM-11250-01",
+      "sku": "ZDJ-SMM-11250",
       "name_th": "เลื่อยพับ (ฟัน 3 ด้าน) ขนาด 11 นิ้ว (250 มม.)",
+      "name_th_short": "เลื่อยพับ",
       "name_cn": "折叠锯（三面磨齿）11”250mm（6把/盒）YT-222025 / () 11″250.",
       "price": 126,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "ZDJ",
       "material_cn": "三面磨齿",
       "material_code": "SMM",
-      "spec_number": "11250-01",
-      "row_no": 144,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "11250",
+      "row_no": 144
     }
   ]
 }

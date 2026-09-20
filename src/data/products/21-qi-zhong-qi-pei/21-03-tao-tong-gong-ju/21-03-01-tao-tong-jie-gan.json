@@ -11,6 +11,7 @@
       "code": "21.03.01.001",
       "sku": "WG-GD-01",
       "name_th": "ด้ามขันบ็อกซ์/ด้ามขันแอล เกรดพรีเมียม",
+      "name_th_short": "ด้ามขันบ็อกซ์",
       "name_cn": "高档弯杆",
       "price": 72,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "高档",
       "material_code": "GD",
       "spec_number": "01",
-      "row_no": 150,
-      "col_o": null,
-      "col_r": null
+      "row_no": 150
     }
   ]
 }

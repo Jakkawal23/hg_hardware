@@ -11,6 +11,7 @@
       "code": "16.04.24.0002",
       "sku": "ZPQ-DZ-20-100",
       "name_th": "คลิปฐานรองปรับระดับกระเบื้อง 2.0 มม. (100ชิ้น/แพ็ค)",
+      "name_th_short": "อุปกรณ์จัดระดับกระเบื้อง",
       "name_cn": "瓷砖找平器底座 2.0mm（100个/包）",
       "price": 36,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "底座",
       "material_code": "DZ",
       "spec_number": "20-100",
-      "row_no": 91,
-      "col_o": null,
-      "col_r": null
+      "row_no": 91
     }
   ]
 }

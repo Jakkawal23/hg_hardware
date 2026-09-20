@@ -11,6 +11,7 @@
       "code": "27.01.0002",
       "sku": "LZ-FX-HB-70CM",
       "name_th": "กรวยจราจรฐานเหลี่ยม สีแดง-ขาว สูง 70 ซม.",
+      "name_th_short": "กรวยจราจรฐานเหลี่ยม",
       "name_cn": "70方形路锥红白/警示锥",
       "price": 102,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "方形红白",
       "material_code": "FX-HB",
       "spec_number": "70CM",
-      "row_no": 1,
-      "col_o": null,
-      "col_r": null
+      "row_no": 1
     }
   ]
 }

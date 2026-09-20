@@ -11,6 +11,7 @@
       "code": "21.04.02.001",
       "sku": "QBG-GD-TM-PU-8",
       "name_th": "สายลม PU สีใส เกรดพรีเมียม ขนาด 8 มม.",
+      "name_th_short": "สายลม PU ใส",
       "name_cn": "气泵管高档透明 PU 8",
       "price": 624,
       "image": "/placeholder.svg",
@@ -32,10 +33,8 @@
       "category_code": "QBG",
       "material_cn": "高档透明PU",
       "material_code": "GD-TM-PU",
-      "spec_number": "8.0",
-      "row_no": 167,
-      "col_o": null,
-      "col_r": null
+      "spec_number": 8,
+      "row_no": 167
     },
     {
       "id": "21-04-02-002",
@@ -43,6 +42,7 @@
       "code": "21.04.02.002",
       "sku": "QBG-GD-TM-PU-10",
       "name_th": "สายลม PU สีใส เกรดพรีเมียม ขนาด 10 มม.",
+      "name_th_short": "สายลม PU ใส",
       "name_cn": "气泵管高档透明 PU 10",
       "price": 912,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "QBG",
       "material_cn": "高档透明PU",
       "material_code": "GD-TM-PU",
-      "spec_number": "10.0",
-      "row_no": 168,
-      "col_o": null,
-      "col_r": null
+      "spec_number": 10,
+      "row_no": 168
     },
     {
       "id": "21-04-02-005",
@@ -75,6 +73,7 @@
       "code": "21.04.02.005",
       "sku": "QBG-GD-LAS-PU-10",
       "name_th": "สายลม PU สีฟ้า เกรดพรีเมียม ขนาด 10 มม.",
+      "name_th_short": "สายลม PU สีฟ้า",
       "name_cn": "气泵管高档蓝色 PU 10",
       "price": 1008,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "QBG",
       "material_cn": "高档蓝色PU",
       "material_code": "GD-LAS-PU",
-      "spec_number": "10.0",
-      "row_no": 169,
-      "col_o": null,
-      "col_r": null
+      "spec_number": 10,
+      "row_no": 169
     },
     {
       "id": "21-04-02-007",
       "slug": "21-04-02-007",
       "code": "21.04.02.007",
-      "sku": "QBG-GD-TM-PU-46-200M",
+      "sku": "QBG-GD-TM-PU-4-6-200M",
       "name_th": "สายลม PU สีใส เกรดพรีเมียม ขนาด 4x6 มม. (ม้วน 200 เมตร)",
+      "name_th_short": "สายลม PU ใส",
       "name_cn": "气泵管/气动风管高档透明 PU 6 PU4*6*200M",
       "price": 900,
       "image": "/placeholder.svg",
@@ -128,10 +126,8 @@
       "category_code": "QBG",
       "material_cn": "高档透明PU",
       "material_code": "GD-TM-PU",
-      "spec_number": "46-200M",
-      "row_no": 170,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "4-6-200M",
+      "row_no": 170
     }
   ]
 }

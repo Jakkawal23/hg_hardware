@@ -11,6 +11,7 @@
       "code": "22.01.11.001",
       "sku": "CWD-DLX-MW107-18W",
       "name_th": "โคมไฟครัวและห้องน้ำ Delixi รุ่น MW107 แสงขาว 18W (300x300 มม.)",
+      "name_th_short": "โคมไฟครัว-ห้องน้ำ",
       "name_cn": "德力西厨卫灯MW107 冷白18W（300*300）",
       "price": 276,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "德力西系列",
       "material_code": "DLX",
       "spec_number": "MW107-18W",
-      "row_no": 48,
-      "col_o": null,
-      "col_r": null
+      "row_no": 48
     },
     {
       "id": "22-01-11-002",
@@ -43,6 +42,7 @@
       "code": "22.01.11.002",
       "sku": "CWD-DLX-MW107-24W",
       "name_th": "โคมไฟครัวและห้องน้ำ Delixi รุ่น MW107 แสงขาว 24W (300x600 มม.)",
+      "name_th_short": "โคมไฟครัว-ห้องน้ำ",
       "name_cn": "德力西厨卫灯MW107 冷白24W（300*600）",
       "price": 372,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "德力西系列",
       "material_code": "DLX",
       "spec_number": "MW107-24W",
-      "row_no": 49,
-      "col_o": null,
-      "col_r": null
+      "row_no": 49
     }
   ]
 }

@@ -9,8 +9,9 @@
       "id": "01-11-03-001",
       "slug": "01-11-03-001",
       "code": "01.11.03.001",
-      "sku": "GPD-FB-18-01",
+      "sku": "GPD-FB-18",
       "name_th": "ตะปูยิงเหล็ก ST-18",
+      "name_th_short": "ตะปูยิงเหล็ก",
       "name_cn": "非标钢排钉ST-18",
       "price": 25.2,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "GPD",
       "material_cn": "非标",
       "material_code": "FB",
-      "spec_number": "18-01",
-      "row_no": 751,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "18",
+      "row_no": 751
     },
     {
       "id": "01-11-03-002",
       "slug": "01-11-03-002",
       "code": "01.11.03.002",
-      "sku": "GPD-FB-25-01",
+      "sku": "GPD-FB-25",
       "name_th": "ตะปูยิงเหล็ก ST-25",
+      "name_th_short": "ตะปูยิงเหล็ก",
       "name_cn": "非标钢排钉ST-25",
       "price": 25.2,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "GPD",
       "material_cn": "非标",
       "material_code": "FB",
-      "spec_number": "25-01",
-      "row_no": 752,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "25",
+      "row_no": 752
     },
     {
       "id": "01-11-03-004",
       "slug": "01-11-03-004",
       "code": "01.11.03.004",
-      "sku": "GPD-FB-32-01",
+      "sku": "GPD-FB-32",
       "name_th": "ตะปูยิงเหล็ก ST-32",
+      "name_th_short": "ตะปูยิงเหล็ก",
       "name_cn": "非标钢排钉ST-32",
       "price": 28.8,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "GPD",
       "material_cn": "非标",
       "material_code": "FB",
-      "spec_number": "32-01",
-      "row_no": 753,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "32",
+      "row_no": 753
     },
     {
       "id": "01-11-03-006",
       "slug": "01-11-03-006",
       "code": "01.11.03.006",
-      "sku": "GPD-FB-38-01",
+      "sku": "GPD-FB-38",
       "name_th": "ตะปูยิงเหล็ก ST-38",
+      "name_th_short": "ตะปูยิงเหล็ก",
       "name_cn": "非标钢排钉ST-38",
       "price": 32.4,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "GPD",
       "material_cn": "非标",
       "material_code": "FB",
-      "spec_number": "38-01",
-      "row_no": 754,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "38",
+      "row_no": 754
     },
     {
       "id": "01-11-03-008",
       "slug": "01-11-03-008",
       "code": "01.11.03.008",
-      "sku": "GPD-FB-50-01",
+      "sku": "GPD-FB-50",
       "name_th": "ตะปูยิงเหล็ก ST-50",
+      "name_th_short": "ตะปูยิงเหล็ก",
       "name_cn": "非标钢排钉ST-50",
       "price": 42,
       "image": "/placeholder.svg",
@@ -160,10 +157,8 @@
       "category_code": "GPD",
       "material_cn": "非标",
       "material_code": "FB",
-      "spec_number": "50-01",
-      "row_no": 755,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "50",
+      "row_no": 755
     }
   ]
 }

@@ -9,8 +9,9 @@
       "id": "11-05-07-001",
       "slug": "11-05-07-001",
       "code": "11.05.07.001",
-      "sku": "GJB-JH-450-01",
-      "name_th": "ประแจดัดเหล็ก/ประแจคอม้า ขนาด 450 มม. (18 นิ้ว)",
+      "sku": "GJB-JH-450",
+      "name_th": "ประแจดัดเหล็ก/ประแจคอม้า (Jinhu) ขนาด 450 มม. (18 นิ้ว)",
+      "name_th_short": "ประแจดัดเหล็ก",
       "name_cn": "金虎钢筋扳手 450（18寸)钢索管钳",
       "price": 240,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "GJB",
       "material_cn": "金虎",
       "material_code": "JH",
-      "spec_number": "450-01",
-      "row_no": 459,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "450",
+      "row_no": 459
     },
     {
       "id": "11-05-07-002",
       "slug": "11-05-07-002",
       "code": "11.05.07.002",
-      "sku": "GJB-JH-600-01",
-      "name_th": "ประแจดัดเหล็ก/ประแจคอม้า ขนาด 600 มม. (24 นิ้ว)",
+      "sku": "GJB-JH-600",
+      "name_th": "ประแจดัดเหล็ก/ประแจคอม้า (Jinhu) ขนาด 600 มม. (24 นิ้ว)",
+      "name_th_short": "ประแจดัดเหล็ก",
       "name_cn": "金虎钢筋扳手 600(24寸）钢索管钳",
       "price": 456,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "GJB",
       "material_cn": "金虎",
       "material_code": "JH",
-      "spec_number": "600-01",
-      "row_no": 460,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "600",
+      "row_no": 460
     }
   ]
 }

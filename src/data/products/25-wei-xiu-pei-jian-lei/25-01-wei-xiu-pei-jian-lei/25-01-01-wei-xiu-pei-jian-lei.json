@@ -11,6 +11,7 @@
       "code": "25.369",
       "sku": "ZJT-JJ-B16-0316",
       "name_th": "หัวจับดอกสว่านแบบใช้จำปา 3-16 มม. เตเปอร์ B16",
+      "name_th_short": "หัวจับดอกสว่านแบบจำปา",
       "name_cn": "钻卡头（钻夹头）3-16mm B16",
       "price": 194.4,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "键紧型B16",
       "material_code": "JJ-B16",
       "spec_number": "0316",
-      "row_no": 1,
-      "col_o": null,
-      "col_r": null
+      "row_no": 1
     },
     {
       "id": "25-424",
@@ -43,6 +42,7 @@
       "code": "25.424",
       "sku": "ZJZH-DDBS-ZH-1513",
       "name_th": "ชุดข้อต่อแปลงบล็อกไฟฟ้าเป็นสว่าน (พร้อมหัวจับ 1.5-13 มม.)",
+      "name_th_short": "ชุดแปลงบล็อกไฟฟ้าเป็นสว่าน",
       "name_cn": "电动扳手变电钻（配钻卡头/钻夹头1.5-13）",
       "price": 102,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "ZJZH",
       "material_cn": "电动扳手转换",
       "material_code": "DDBS-ZH",
-      "spec_number": "1513.0",
-      "row_no": 2,
-      "col_o": null,
-      "col_r": null
+      "spec_number": 1513,
+      "row_no": 2
     },
     {
       "id": "25-425",
@@ -75,6 +73,7 @@
       "code": "25.425",
       "sku": "ZJT-DC-SJ-0510",
       "name_th": "หัวจับดอกสว่านแบบมือบิด DC ขนาด 0.5-10 มม.",
+      "name_th_short": "หัวจับดอกสว่านมือบิด",
       "name_cn": "DC手紧钻夹头 05-10mm",
       "price": 78,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "DC手紧无键",
       "material_code": "DC-SJ",
       "spec_number": "0510",
-      "row_no": 3,
-      "col_o": null,
-      "col_r": null
+      "row_no": 3
     },
     {
       "id": "25-426",
@@ -107,6 +104,7 @@
       "code": "25.426",
       "sku": "ZJT-DC-BZ-13",
       "name_th": "หัวจับดอกสว่านมาตรฐาน DC ขนาด 13 มม.",
+      "name_th_short": "หัวจับดอกสว่าน 13มม.",
       "name_cn": "DC钻夹头 13mm",
       "price": 102,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "ZJT",
       "material_cn": "DC标准型",
       "material_code": "DC-BZ",
-      "spec_number": "13.0",
-      "row_no": 4,
-      "col_o": null,
-      "col_r": null
+      "spec_number": 13,
+      "row_no": 4
     },
     {
       "id": "25-427",
       "slug": "25-427",
       "code": "25.427",
-      "sku": "ZJT-DC-SJ-1/2-20UNF-01",
+      "sku": "ZJT-DC-SJ-1/2-20UNF",
       "name_th": "หัวจับดอกสว่านแบบมือบิด DC ขนาด 10 มม. (เกลียว 1/2-20UNF)",
+      "name_th_short": "หัวจับดอกสว่านมือบิด 10มม.",
       "name_cn": "DC手紧钻夹头 10mm",
       "price": 78,
       "image": "/placeholder.svg",
@@ -160,17 +157,16 @@
       "category_code": "ZJT",
       "material_cn": "DC手紧无键",
       "material_code": "DC-SJ",
-      "spec_number": "1/2-20UNF-01",
-      "row_no": 5,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1/2-20UNF",
+      "row_no": 5
     },
     {
       "id": "25-428",
       "slug": "25-428",
       "code": "25.428",
-      "sku": "ZJT-DC-SJ-3/8-24UNF-01",
+      "sku": "ZJT-DC-SJ-3/8-24UNF",
       "name_th": "หัวจับดอกสว่านแบบมือบิด DC ขนาด 10 มม. (เกลียว 3/8-24UNF)",
+      "name_th_short": "หัวจับดอกสว่านมือบิด 10มม.",
       "name_cn": "DC手紧钻夹头 10mm",
       "price": 72,
       "image": "/placeholder.svg",
@@ -192,10 +188,8 @@
       "category_code": "ZJT",
       "material_cn": "DC手紧无键",
       "material_code": "DC-SJ",
-      "spec_number": "3/8-24UNF-01",
-      "row_no": 6,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "3/8-24UNF",
+      "row_no": 6
     },
     {
       "id": "25-432",
@@ -203,6 +197,7 @@
       "code": "25.432",
       "sku": "DCB-SMS-DY-21V-15J",
       "name_th": "แบตเตอรี่แพ็ค Samus 21V 15 ก้อน (ทรงอินเตอร์เฟซ Dayi A3)",
+      "name_th_short": "แบตเตอรี่แพ็ค Samus 21V",
       "name_cn": "山姆斯 21V 15节电池包(大艺A3接口款)",
       "price": 960,
       "image": "/placeholder.svg",
@@ -225,9 +220,7 @@
       "material_cn": "山姆斯大艺A3",
       "material_code": "SMS-DY",
       "spec_number": "21V-15J",
-      "row_no": 7,
-      "col_o": null,
-      "col_r": null
+      "row_no": 7
     },
     {
       "id": "25-437",
@@ -235,6 +228,7 @@
       "code": "25.437",
       "sku": "CDQ-SMS-XC-21V-1015",
       "name_th": "สายชาร์จเฉพาะทางสำหรับแบตเตอรี่ Samus 21V (10-15 ก้อน)",
+      "name_th_short": "สายชาร์จแบตเตอรี่ Samus",
       "name_cn": "山姆斯21V（10节-15节电池包）专用线充",
       "price": 180,
       "image": "/placeholder.svg",
@@ -257,9 +251,7 @@
       "material_cn": "山姆斯专用线充",
       "material_code": "SMS-XC",
       "spec_number": "21V-1015",
-      "row_no": 8,
-      "col_o": null,
-      "col_r": null
+      "row_no": 8
     }
   ]
 }

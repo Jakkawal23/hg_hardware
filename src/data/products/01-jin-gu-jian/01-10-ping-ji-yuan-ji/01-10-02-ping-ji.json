@@ -9,8 +9,9 @@
       "id": "01-10-02-073",
       "slug": "01-10-02-073",
       "code": "01.10.02.073",
-      "sku": "JLS-P-0620-02",
+      "sku": "JLS-P-6-20",
       "name_th": "สกรูหัวแบน 6*20",
+      "name_th_short": "สกรูหัวแบน",
       "name_cn": "平机螺丝6*20",
       "price": 33.6,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "JLS",
       "material_cn": "平",
       "material_code": "P",
-      "spec_number": "0620-02",
-      "row_no": 643,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "6-20",
+      "row_no": 643
     },
     {
       "id": "01-10-02-074",
       "slug": "01-10-02-074",
       "code": "01.10.02.074",
-      "sku": "JLS-P-0616-02",
+      "sku": "JLS-P-6-16",
       "name_th": "สกรูหัวแบน 6*16",
+      "name_th_short": "สกรูหัวแบน",
       "name_cn": "平机螺丝6*16",
       "price": 33.6,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "JLS",
       "material_cn": "平",
       "material_code": "P",
-      "spec_number": "0616-02",
-      "row_no": 644,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "6-16",
+      "row_no": 644
     },
     {
       "id": "01-10-02-075",
       "slug": "01-10-02-075",
       "code": "01.10.02.075",
-      "sku": "JLS-P-0530-02",
+      "sku": "JLS-P-5-30",
       "name_th": "สกรูหัวแบน 5*30",
+      "name_th_short": "สกรูหัวแบน",
       "name_cn": "平机螺丝5*30",
       "price": 33.6,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "JLS",
       "material_cn": "平",
       "material_code": "P",
-      "spec_number": "0530-02",
-      "row_no": 645,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "5-30",
+      "row_no": 645
     },
     {
       "id": "01-10-02-076",
       "slug": "01-10-02-076",
       "code": "01.10.02.076",
-      "sku": "JLS-P-0550-02",
+      "sku": "JLS-P-5-50",
       "name_th": "สกรูหัวแบน 5*50",
+      "name_th_short": "สกรูหัวแบน",
       "name_cn": "平机螺丝5*50",
       "price": 33.6,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "JLS",
       "material_cn": "平",
       "material_code": "P",
-      "spec_number": "0550-02",
-      "row_no": 646,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "5-50",
+      "row_no": 646
     },
     {
       "id": "01-10-02-077",
       "slug": "01-10-02-077",
       "code": "01.10.02.077",
-      "sku": "JLS-P-0630-02",
+      "sku": "JLS-P-6-30",
       "name_th": "สกรูหัวแบน 6*30",
+      "name_th_short": "สกรูหัวแบน",
       "name_cn": "平机螺丝6*30",
       "price": 33.6,
       "image": "/placeholder.svg",
@@ -160,17 +157,16 @@
       "category_code": "JLS",
       "material_cn": "平",
       "material_code": "P",
-      "spec_number": "0630-02",
-      "row_no": 647,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "6-30",
+      "row_no": 647
     },
     {
       "id": "01-10-02-078",
       "slug": "01-10-02-078",
       "code": "01.10.02.078",
-      "sku": "JLS-P-0650-02",
+      "sku": "JLS-P-6-50",
       "name_th": "สกรูหัวแบน 6*50",
+      "name_th_short": "สกรูหัวแบน",
       "name_cn": "平机螺丝6*50",
       "price": 33.6,
       "image": "/placeholder.svg",
@@ -192,10 +188,8 @@
       "category_code": "JLS",
       "material_cn": "平",
       "material_code": "P",
-      "spec_number": "0650-02",
-      "row_no": 648,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "6-50",
+      "row_no": 648
     }
   ]
 }

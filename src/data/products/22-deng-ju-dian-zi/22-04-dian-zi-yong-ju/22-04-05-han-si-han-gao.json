@@ -9,8 +9,9 @@
       "id": "22-04-05-001",
       "slug": "22-04-05-001",
       "code": "22.04.05.001",
-      "sku": "HXS-HS-XJ-08-01",
+      "sku": "HXS-HS-XJ-08",
       "name_th": "ลวดบัดกรีม้วนเล็ก แบรนด์ Huasheng (1)",
+      "name_th_short": "ลวดบัดกรีม้วนเล็ก",
       "name_cn": "焊锡丝小卷 华胜",
       "price": 72,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "HXS",
       "material_cn": "华胜小卷",
       "material_code": "HS-XJ",
-      "spec_number": "08-01",
-      "row_no": 101,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "08",
+      "row_no": 101
     },
     {
       "id": "22-04-05-002",
       "slug": "22-04-05-002",
       "code": "22.04.05.002",
-      "sku": "HXS-HS-XJ-12-01",
+      "sku": "HXS-HS-XJ-12",
       "name_th": "ลวดบัดกรีม้วนเล็ก แบรนด์ Huasheng (2)",
+      "name_th_short": "ลวดบัดกรีม้วนเล็ก",
       "name_cn": "焊锡丝小卷 华胜",
       "price": 72,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "HXS",
       "material_cn": "华胜小卷",
       "material_code": "HS-XJ",
-      "spec_number": "12-01",
-      "row_no": 102,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "12",
+      "row_no": 102
     },
     {
       "id": "22-04-05-006",
       "slug": "22-04-05-006",
       "code": "22.04.05.006",
-      "sku": "HXS-HS-XJ-10-01",
+      "sku": "HXS-HS-XJ-10",
       "name_th": "ลวดบัดกรีม้วนเล็ก แบรนด์ Huasheng (3)",
+      "name_th_short": "ลวดบัดกรีม้วนเล็ก",
       "name_cn": "焊锡丝小卷 华胜",
       "price": 69.6,
       "image": "/placeholder.svg",
@@ -96,10 +95,8 @@
       "category_code": "HXS",
       "material_cn": "华胜小卷",
       "material_code": "HS-XJ",
-      "spec_number": "10-01",
-      "row_no": 103,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10",
+      "row_no": 103
     },
     {
       "id": "22-04-05-007",
@@ -107,6 +104,7 @@
       "code": "22.04.05.007",
       "sku": "HXT-YN-JX-68AF7",
       "name_th": "ตะกั่วแท่งบัดกรีเกรดดี ยูนนาน 68A F-7 (50 แท่ง/กล่อง)",
+      "name_th_short": "ตะกั่วบัดกรีแท่ง",
       "name_cn": "云南焊锡条（好） 68A F-7（50根/箱）",
       "price": 216,
       "image": "/placeholder.svg",
@@ -129,9 +127,7 @@
       "material_cn": "云南精选",
       "material_code": "YN-JX",
       "spec_number": "68AF7",
-      "row_no": 104,
-      "col_o": null,
-      "col_r": null
+      "row_no": 104
     },
     {
       "id": "22-04-05-009",
@@ -139,6 +135,7 @@
       "code": "22.04.05.009",
       "sku": "HXS-YT-HZ-25-801025",
       "name_th": "ลวดบัดกรี 2.5 มม. รุ่น YT-801025 (20 ม้วน/กล่อง)",
+      "name_th_short": "ลวดบัดกรี",
       "name_cn": "焊锡丝2.5（20个/盒）YT-801025",
       "price": 69.6,
       "image": "/placeholder.svg",
@@ -161,9 +158,7 @@
       "material_cn": "YT系列盒装",
       "material_code": "YT-HZ",
       "spec_number": "25-801025",
-      "row_no": 105,
-      "col_o": null,
-      "col_r": null
+      "row_no": 105
     },
     {
       "id": "22-04-05-010",
@@ -171,6 +166,7 @@
       "code": "22.04.05.010",
       "sku": "HXS-YT-HZ-18-801025",
       "name_th": "ลวดบัดกรี 1.8 มม. รุ่น YT-801025 (20 ม้วน/กล่อง)",
+      "name_th_short": "ลวดบัดกรี",
       "name_cn": "焊锡丝1.8（20个/盒）YT-801025",
       "price": 69.6,
       "image": "/placeholder.svg",
@@ -193,9 +189,7 @@
       "material_cn": "YT系列盒装",
       "material_code": "YT-HZ",
       "spec_number": "18-801025",
-      "row_no": 106,
-      "col_o": null,
-      "col_r": null
+      "row_no": 106
     },
     {
       "id": "22-04-05-011",
@@ -203,6 +197,7 @@
       "code": "22.04.05.011",
       "sku": "HXS-YT-HZ-12-801012",
       "name_th": "ลวดบัดกรี 1.2 มม. รุ่น YT-801012 (20 ม้วน/กล่อง)",
+      "name_th_short": "ลวดบัดกรี",
       "name_cn": "焊锡丝1.2（20个/盒）YT-801012",
       "price": 69.6,
       "image": "/placeholder.svg",
@@ -225,9 +220,7 @@
       "material_cn": "YT系列盒装",
       "material_code": "YT-HZ",
       "spec_number": "12-801012",
-      "row_no": 107,
-      "col_o": null,
-      "col_r": null
+      "row_no": 107
     },
     {
       "id": "22-04-05-012",
@@ -235,6 +228,7 @@
       "code": "22.04.05.012",
       "sku": "HXS-YT-HZ-10-801010",
       "name_th": "ลวดบัดกรี 1.0 มม. รุ่น YT-801010 (20 ม้วน/กล่อง)",
+      "name_th_short": "ลวดบัดกรี",
       "name_cn": "焊锡丝1.0（20个/盒）YT-801010",
       "price": 69.6,
       "image": "/placeholder.svg",
@@ -257,9 +251,7 @@
       "material_cn": "YT系列盒装",
       "material_code": "YT-HZ",
       "spec_number": "10-801010",
-      "row_no": 108,
-      "col_o": null,
-      "col_r": null
+      "row_no": 108
     },
     {
       "id": "22-04-05-013",
@@ -267,6 +259,7 @@
       "code": "22.04.05.013",
       "sku": "HXS-YT-HZ-08-801008",
       "name_th": "ลวดบัดกรี 0.8 มม. รุ่น YT-801008 (20 ม้วน/กล่อง)",
+      "name_th_short": "ลวดบัดกรี",
       "name_cn": "焊锡丝0.8（20个/盒）YT-801008",
       "price": 69.6,
       "image": "/placeholder.svg",
@@ -289,9 +282,7 @@
       "material_cn": "YT系列盒装",
       "material_code": "YT-HZ",
       "spec_number": "08-801008",
-      "row_no": 109,
-      "col_o": null,
-      "col_r": null
+      "row_no": 109
     },
     {
       "id": "22-04-05-014",
@@ -299,6 +290,7 @@
       "code": "22.04.05.014",
       "sku": "HXS-SK-XJ-1.0",
       "name_th": "ลวดบัดกรีม้วนเล็ก 1.0 มม. แบรนด์ Shike (20 ม้วน/กล่อง)",
+      "name_th_short": "ลวดบัดกรี",
       "name_cn": "世克 焊锡丝 1.0（小卷）（20个/盒）",
       "price": 78,
       "image": "/placeholder.svg",
@@ -321,9 +313,7 @@
       "material_cn": "世克小卷",
       "material_code": "SK-XJ",
       "spec_number": "1.0",
-      "row_no": 110,
-      "col_o": null,
-      "col_r": null
+      "row_no": 110
     },
     {
       "id": "22-04-05-015",
@@ -331,6 +321,7 @@
       "code": "22.04.05.015",
       "sku": "HXS-SK-XJ-1.5",
       "name_th": "ลวดบัดกรีม้วนเล็ก 1.5 มม. แบรนด์ Shike (20 ม้วน/กล่อง)",
+      "name_th_short": "ลวดบัดกรี",
       "name_cn": "世克 焊锡丝 1.5（小卷）（20个/盒）",
       "price": 78,
       "image": "/placeholder.svg",
@@ -352,10 +343,8 @@
       "category_code": "HXS",
       "material_cn": "世克小卷",
       "material_code": "SK-XJ",
-      "spec_number": "1.5",
-      "row_no": 111,
-      "col_o": null,
-      "col_r": null
+      "spec_number": 1.5,
+      "row_no": 111
     },
     {
       "id": "22-04-05-016",
@@ -363,6 +352,7 @@
       "code": "22.04.05.016",
       "sku": "HXS-SK-XJ-2.0",
       "name_th": "ลวดบัดกรีม้วนเล็ก 2.0 มม. แบรนด์ Shike (20 ม้วน/กล่อง)",
+      "name_th_short": "ลวดบัดกรี",
       "name_cn": "世克 焊锡丝 2.0（小卷）（20个/盒）",
       "price": 78,
       "image": "/placeholder.svg",
@@ -385,9 +375,7 @@
       "material_cn": "世克小卷",
       "material_code": "SK-XJ",
       "spec_number": "2.0",
-      "row_no": 112,
-      "col_o": null,
-      "col_r": null
+      "row_no": 112
     }
   ]
 }

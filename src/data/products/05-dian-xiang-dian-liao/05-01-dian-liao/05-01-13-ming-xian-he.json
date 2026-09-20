@@ -9,8 +9,9 @@
       "id": "05-01-13-003",
       "slug": "05-01-13-003",
       "code": "05.01.13.003",
-      "sku": "MH-GJ-100-01",
-      "name_th": "กล่องพักสายไฟแบบลอย Wanju (100 ตัว/ลัง)",
+      "sku": "MH-GJ-100",
+      "name_th": "กล่องพักสายไฟแบบลอยเกรดพรีเมียม Wanju (100 ตัว/ลัง)",
+      "name_th_short": "กล่องพักสายไฟแบบลอย",
       "name_cn": "万巨-高级明线盒/明盒 100个/箱",
       "price": 5.04,
       "image": "/placeholder.svg",
@@ -32,10 +33,8 @@
       "category_code": "MH",
       "material_cn": "高级",
       "material_code": "GJ",
-      "spec_number": "100-01",
-      "row_no": 81,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "100",
+      "row_no": 81
     }
   ]
 }

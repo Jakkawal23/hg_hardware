@@ -9,8 +9,9 @@
       "id": "11-11-02-003",
       "slug": "11-11-02-003",
       "code": "11.11.02.003",
-      "sku": "QG-1M-10000-01",
+      "sku": "QG-1M-10000",
       "name_th": "ชะแลง ขนาด 1 เมตร",
+      "name_th_short": "ชะแลง",
       "name_cn": "撬棍 1米",
       "price": null,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "QG",
       "material_cn": "1米",
       "material_code": "1M",
-      "spec_number": "10000-01",
-      "row_no": 709,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10000",
+      "row_no": 709
     },
     {
       "id": "11-11-02-010",
       "slug": "11-11-02-010",
       "code": "11.11.02.010",
-      "sku": "QG-15M-15000-01",
+      "sku": "QG-15M-15000",
       "name_th": "ชะแลง ขนาด 1.5 เมตร",
+      "name_th_short": "ชะแลง",
       "name_cn": "撬棍1.5米 1.5",
       "price": 180,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "QG",
       "material_cn": "1.5米",
       "material_code": "15M",
-      "spec_number": "15000-01",
-      "row_no": 710,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "15000",
+      "row_no": 710
     },
     {
       "id": "11-11-02-011",
       "slug": "11-11-02-011",
       "code": "11.11.02.011",
-      "sku": "QG-12M-12000-01",
+      "sku": "QG-12M-12000",
       "name_th": "ชะแลง ขนาด 1.2 เมตร",
+      "name_th_short": "ชะแลง",
       "name_cn": "撬棍1.2米 1.2",
       "price": 144,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "QG",
       "material_cn": "1.2米",
       "material_code": "12M",
-      "spec_number": "12000-01",
-      "row_no": 711,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "12000",
+      "row_no": 711
     },
     {
       "id": "11-11-02-012",
       "slug": "11-11-02-012",
       "code": "11.11.02.012",
-      "sku": "QG-60CM-60000-01",
+      "sku": "QG-60CM-60000",
       "name_th": "ชะแลง ขนาด 60 ซม.",
+      "name_th_short": "ชะแลง",
       "name_cn": "撬棍60公分",
       "price": 66,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "QG",
       "material_cn": "60公分",
       "material_code": "60CM",
-      "spec_number": "60000-01",
-      "row_no": 712,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "60000",
+      "row_no": 712
     },
     {
       "id": "11-11-02-013",
       "slug": "11-11-02-013",
       "code": "11.11.02.013",
-      "sku": "QG-2518M-25180-01",
+      "sku": "QG-PT-25-1.8M",
       "name_th": "ชะแลง ขนาด 25 มม. ยาว 1.8 เมตร",
+      "name_th_short": "ชะแลง",
       "name_cn": "撬棍25*1.8米",
       "price": 360,
       "image": "/placeholder.svg",
@@ -159,18 +156,17 @@
       "category_cn": "撬棍",
       "category_code": "QG",
       "material_cn": "25*1.8米",
-      "material_code": "2518M",
-      "spec_number": "25180-01",
-      "row_no": 713,
-      "col_o": null,
-      "col_r": null
+      "material_code": "PT",
+      "spec_number": "25-1.8M",
+      "row_no": 713
     },
     {
       "id": "11-11-02-014",
       "slug": "11-11-02-014",
       "code": "11.11.02.014",
-      "sku": "QG-YGH-15000-01",
+      "sku": "QG-YGH-15000",
       "name_th": "ชะแลงเหล็กกลม ขนาด 1.5 เมตร สีดำ",
+      "name_th_short": "ชะแลง",
       "name_cn": "圆钢撬棍1.5米 黑色",
       "price": 348,
       "image": "/placeholder.svg",
@@ -192,10 +188,8 @@
       "category_code": "QG",
       "material_cn": "圆钢黑色",
       "material_code": "YGH",
-      "spec_number": "15000-01",
-      "row_no": 714,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "15000",
+      "row_no": 714
     }
   ]
 }

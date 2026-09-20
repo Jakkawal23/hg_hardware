@@ -11,6 +11,7 @@
       "code": "21.02.01.001",
       "sku": "TTTZ-DK-DZ-8mm",
       "name_th": "ลูกบ็อกซ์สั้น ขนาด 8 มม.",
+      "name_th_short": "ลูกบ็อกซ์สั้น",
       "name_cn": "套筒头子 8",
       "price": 12,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "短款单只",
       "material_code": "DK-DZ",
       "spec_number": "8mm",
-      "row_no": 63,
-      "col_o": null,
-      "col_r": null
+      "row_no": 63
     },
     {
       "id": "21-02-01-002",
@@ -43,6 +42,7 @@
       "code": "21.02.01.002",
       "sku": "TTTZ-DK-DZ-9mm",
       "name_th": "ลูกบ็อกซ์สั้น ขนาด 9 มม.",
+      "name_th_short": "ลูกบ็อกซ์สั้น",
       "name_cn": "套筒头子 9",
       "price": 12,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "短款单只",
       "material_code": "DK-DZ",
       "spec_number": "9mm",
-      "row_no": 64,
-      "col_o": null,
-      "col_r": null
+      "row_no": 64
     },
     {
       "id": "21-02-01-003",
@@ -75,6 +73,7 @@
       "code": "21.02.01.003",
       "sku": "TTTZ-DK-DZ-10mm",
       "name_th": "ลูกบ็อกซ์สั้น ขนาด 10 มม.",
+      "name_th_short": "ลูกบ็อกซ์สั้น",
       "name_cn": "套筒头子 10",
       "price": 12,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "短款单只",
       "material_code": "DK-DZ",
       "spec_number": "10mm",
-      "row_no": 65,
-      "col_o": null,
-      "col_r": null
+      "row_no": 65
     },
     {
       "id": "21-02-01-004",
@@ -107,6 +104,7 @@
       "code": "21.02.01.004",
       "sku": "TTTZ-DK-DZ-11mm",
       "name_th": "ลูกบ็อกซ์สั้น ขนาด 11 มม.",
+      "name_th_short": "ลูกบ็อกซ์สั้น",
       "name_cn": "套筒头子 11",
       "price": 12,
       "image": "/placeholder.svg",
@@ -129,9 +127,7 @@
       "material_cn": "短款单只",
       "material_code": "DK-DZ",
       "spec_number": "11mm",
-      "row_no": 66,
-      "col_o": null,
-      "col_r": null
+      "row_no": 66
     },
     {
       "id": "21-02-01-005",
@@ -139,6 +135,7 @@
       "code": "21.02.01.005",
       "sku": "TTTZ-DK-DZ-12mm",
       "name_th": "ลูกบ็อกซ์สั้น ขนาด 12 มม.",
+      "name_th_short": "ลูกบ็อกซ์สั้น",
       "name_cn": "套筒头子 12",
       "price": 12,
       "image": "/placeholder.svg",
@@ -161,9 +158,7 @@
       "material_cn": "短款单只",
       "material_code": "DK-DZ",
       "spec_number": "12mm",
-      "row_no": 67,
-      "col_o": null,
-      "col_r": null
+      "row_no": 67
     },
     {
       "id": "21-02-01-006",
@@ -171,6 +166,7 @@
       "code": "21.02.01.006",
       "sku": "TTTZ-DK-DZ-13mm",
       "name_th": "ลูกบ็อกซ์สั้น ขนาด 13 มม.",
+      "name_th_short": "ลูกบ็อกซ์สั้น",
       "name_cn": "套筒头子 13",
       "price": 12,
       "image": "/placeholder.svg",
@@ -193,9 +189,7 @@
       "material_cn": "短款单只",
       "material_code": "DK-DZ",
       "spec_number": "13mm",
-      "row_no": 68,
-      "col_o": null,
-      "col_r": null
+      "row_no": 68
     },
     {
       "id": "21-02-01-007",
@@ -203,6 +197,7 @@
       "code": "21.02.01.007",
       "sku": "TTTZ-DK-DZ-14mm",
       "name_th": "ลูกบ็อกซ์สั้น ขนาด 14 มม.",
+      "name_th_short": "ลูกบ็อกซ์สั้น",
       "name_cn": "套筒头子 14",
       "price": 12,
       "image": "/placeholder.svg",
@@ -225,9 +220,7 @@
       "material_cn": "短款单只",
       "material_code": "DK-DZ",
       "spec_number": "14mm",
-      "row_no": 69,
-      "col_o": null,
-      "col_r": null
+      "row_no": 69
     },
     {
       "id": "21-02-01-008",
@@ -235,6 +228,7 @@
       "code": "21.02.01.008",
       "sku": "TTTZ-DK-DZ-15mm",
       "name_th": "ลูกบ็อกซ์สั้น ขนาด 15 มม.",
+      "name_th_short": "ลูกบ็อกซ์สั้น",
       "name_cn": "套筒头子 15",
       "price": 12,
       "image": "/placeholder.svg",
@@ -257,9 +251,7 @@
       "material_cn": "短款单只",
       "material_code": "DK-DZ",
       "spec_number": "15mm",
-      "row_no": 70,
-      "col_o": null,
-      "col_r": null
+      "row_no": 70
     },
     {
       "id": "21-02-01-009",
@@ -267,6 +259,7 @@
       "code": "21.02.01.009",
       "sku": "TTTZ-DK-DZ-16mm",
       "name_th": "ลูกบ็อกซ์สั้น ขนาด 16 มม.",
+      "name_th_short": "ลูกบ็อกซ์สั้น",
       "name_cn": "套筒头子 16",
       "price": 12,
       "image": "/placeholder.svg",
@@ -289,9 +282,7 @@
       "material_cn": "短款单只",
       "material_code": "DK-DZ",
       "spec_number": "16mm",
-      "row_no": 71,
-      "col_o": null,
-      "col_r": null
+      "row_no": 71
     },
     {
       "id": "21-02-01-010",
@@ -299,6 +290,7 @@
       "code": "21.02.01.010",
       "sku": "TTTZ-DK-DZ-17mm",
       "name_th": "ลูกบ็อกซ์สั้น ขนาด 17 มม.",
+      "name_th_short": "ลูกบ็อกซ์สั้น",
       "name_cn": "套筒头子 17",
       "price": 13.2,
       "image": "/placeholder.svg",
@@ -321,9 +313,7 @@
       "material_cn": "短款单只",
       "material_code": "DK-DZ",
       "spec_number": "17mm",
-      "row_no": 72,
-      "col_o": null,
-      "col_r": null
+      "row_no": 72
     },
     {
       "id": "21-02-01-011",
@@ -331,6 +321,7 @@
       "code": "21.02.01.011",
       "sku": "TTTZ-DK-DZ-18mm",
       "name_th": "ลูกบ็อกซ์สั้น ขนาด 18 มม.",
+      "name_th_short": "ลูกบ็อกซ์สั้น",
       "name_cn": "套筒头子 18",
       "price": 19.2,
       "image": "/placeholder.svg",
@@ -353,9 +344,7 @@
       "material_cn": "短款单只",
       "material_code": "DK-DZ",
       "spec_number": "18mm",
-      "row_no": 73,
-      "col_o": null,
-      "col_r": null
+      "row_no": 73
     },
     {
       "id": "21-02-01-012",
@@ -363,6 +352,7 @@
       "code": "21.02.01.012",
       "sku": "TTTZ-DK-DZ-19mm",
       "name_th": "ลูกบ็อกซ์สั้น ขนาด 19 มม.",
+      "name_th_short": "ลูกบ็อกซ์สั้น",
       "name_cn": "套筒头子 19",
       "price": 19.2,
       "image": "/placeholder.svg",
@@ -385,9 +375,7 @@
       "material_cn": "短款单只",
       "material_code": "DK-DZ",
       "spec_number": "19mm",
-      "row_no": 74,
-      "col_o": null,
-      "col_r": null
+      "row_no": 74
     },
     {
       "id": "21-02-01-013",
@@ -395,6 +383,7 @@
       "code": "21.02.01.013",
       "sku": "TTTZ-DK-DZ-20mm",
       "name_th": "ลูกบ็อกซ์สั้น ขนาด 20 มม.",
+      "name_th_short": "ลูกบ็อกซ์สั้น",
       "name_cn": "套筒头子 20",
       "price": 21.6,
       "image": "/placeholder.svg",
@@ -417,9 +406,7 @@
       "material_cn": "短款单只",
       "material_code": "DK-DZ",
       "spec_number": "20mm",
-      "row_no": 75,
-      "col_o": null,
-      "col_r": null
+      "row_no": 75
     },
     {
       "id": "21-02-01-014",
@@ -427,6 +414,7 @@
       "code": "21.02.01.014",
       "sku": "TTTZ-DK-DZ-21mm",
       "name_th": "ลูกบ็อกซ์สั้น ขนาด 21 มม.",
+      "name_th_short": "ลูกบ็อกซ์สั้น",
       "name_cn": "套筒头子 21",
       "price": 21.6,
       "image": "/placeholder.svg",
@@ -449,9 +437,7 @@
       "material_cn": "短款单只",
       "material_code": "DK-DZ",
       "spec_number": "21mm",
-      "row_no": 76,
-      "col_o": null,
-      "col_r": null
+      "row_no": 76
     },
     {
       "id": "21-02-01-015",
@@ -459,6 +445,7 @@
       "code": "21.02.01.015",
       "sku": "TTTZ-DK-DZ-22mm",
       "name_th": "ลูกบ็อกซ์สั้น ขนาด 22 มม.",
+      "name_th_short": "ลูกบ็อกซ์สั้น",
       "name_cn": "套筒头子 22",
       "price": 24,
       "image": "/placeholder.svg",
@@ -481,9 +468,7 @@
       "material_cn": "短款单只",
       "material_code": "DK-DZ",
       "spec_number": "22mm",
-      "row_no": 77,
-      "col_o": null,
-      "col_r": null
+      "row_no": 77
     },
     {
       "id": "21-02-01-016",
@@ -491,6 +476,7 @@
       "code": "21.02.01.016",
       "sku": "TTTZ-DK-DZ-23mm",
       "name_th": "ลูกบ็อกซ์สั้น ขนาด 23 มม.",
+      "name_th_short": "ลูกบ็อกซ์สั้น",
       "name_cn": "套筒头子 23",
       "price": 26.4,
       "image": "/placeholder.svg",
@@ -513,9 +499,7 @@
       "material_cn": "短款单只",
       "material_code": "DK-DZ",
       "spec_number": "23mm",
-      "row_no": 78,
-      "col_o": null,
-      "col_r": null
+      "row_no": 78
     },
     {
       "id": "21-02-01-017",
@@ -523,6 +507,7 @@
       "code": "21.02.01.017",
       "sku": "TTTZ-DK-DZ-24mm",
       "name_th": "ลูกบ็อกซ์สั้น ขนาด 24 มม.",
+      "name_th_short": "ลูกบ็อกซ์สั้น",
       "name_cn": "套筒头子 24",
       "price": 26.4,
       "image": "/placeholder.svg",
@@ -545,9 +530,7 @@
       "material_cn": "短款单只",
       "material_code": "DK-DZ",
       "spec_number": "24mm",
-      "row_no": 79,
-      "col_o": null,
-      "col_r": null
+      "row_no": 79
     },
     {
       "id": "21-02-01-018",
@@ -555,6 +538,7 @@
       "code": "21.02.01.018",
       "sku": "TTTZ-DK-DZ-25mm",
       "name_th": "ลูกบ็อกซ์สั้น ขนาด 25 มม.",
+      "name_th_short": "ลูกบ็อกซ์สั้น",
       "name_cn": "套筒头子 25",
       "price": 28.8,
       "image": "/placeholder.svg",
@@ -577,9 +561,7 @@
       "material_cn": "短款单只",
       "material_code": "DK-DZ",
       "spec_number": "25mm",
-      "row_no": 80,
-      "col_o": null,
-      "col_r": null
+      "row_no": 80
     },
     {
       "id": "21-02-01-019",
@@ -587,6 +569,7 @@
       "code": "21.02.01.019",
       "sku": "TTTZ-DK-DZ-26mm",
       "name_th": "ลูกบ็อกซ์สั้น ขนาด 26 มม.",
+      "name_th_short": "ลูกบ็อกซ์สั้น",
       "name_cn": "套筒头子 26",
       "price": 30,
       "image": "/placeholder.svg",
@@ -609,9 +592,7 @@
       "material_cn": "短款单只",
       "material_code": "DK-DZ",
       "spec_number": "26mm",
-      "row_no": 81,
-      "col_o": null,
-      "col_r": null
+      "row_no": 81
     },
     {
       "id": "21-02-01-020",
@@ -619,6 +600,7 @@
       "code": "21.02.01.020",
       "sku": "TTTZ-DK-DZ-27mm",
       "name_th": "ลูกบ็อกซ์สั้น ขนาด 27 มม.",
+      "name_th_short": "ลูกบ็อกซ์สั้น",
       "name_cn": "套筒头子 27",
       "price": 33.6,
       "image": "/placeholder.svg",
@@ -641,9 +623,7 @@
       "material_cn": "短款单只",
       "material_code": "DK-DZ",
       "spec_number": "27mm",
-      "row_no": 82,
-      "col_o": null,
-      "col_r": null
+      "row_no": 82
     },
     {
       "id": "21-02-01-021",
@@ -651,6 +631,7 @@
       "code": "21.02.01.021",
       "sku": "TTTZ-DK-DZ-28mm",
       "name_th": "ลูกบ็อกซ์สั้น ขนาด 28 มม.",
+      "name_th_short": "ลูกบ็อกซ์สั้น",
       "name_cn": "套筒头子 28",
       "price": 42,
       "image": "/placeholder.svg",
@@ -673,9 +654,7 @@
       "material_cn": "短款单只",
       "material_code": "DK-DZ",
       "spec_number": "28mm",
-      "row_no": 83,
-      "col_o": null,
-      "col_r": null
+      "row_no": 83
     },
     {
       "id": "21-02-01-022",
@@ -683,6 +662,7 @@
       "code": "21.02.01.022",
       "sku": "TTTZ-DK-DZ-30mm",
       "name_th": "ลูกบ็อกซ์สั้น ขนาด 30 มม.",
+      "name_th_short": "ลูกบ็อกซ์สั้น",
       "name_cn": "套筒头子 30",
       "price": 42,
       "image": "/placeholder.svg",
@@ -705,9 +685,7 @@
       "material_cn": "短款单只",
       "material_code": "DK-DZ",
       "spec_number": "30mm",
-      "row_no": 84,
-      "col_o": null,
-      "col_r": null
+      "row_no": 84
     },
     {
       "id": "21-02-01-023",
@@ -715,6 +693,7 @@
       "code": "21.02.01.023",
       "sku": "TTTZ-DK-DZ-32mm",
       "name_th": "ลูกบ็อกซ์สั้น ขนาด 32 มม.",
+      "name_th_short": "ลูกบ็อกซ์สั้น",
       "name_cn": "套筒头子 32",
       "price": 33.6,
       "image": "/placeholder.svg",
@@ -737,9 +716,7 @@
       "material_cn": "短款单只",
       "material_code": "DK-DZ",
       "spec_number": "32mm",
-      "row_no": 85,
-      "col_o": null,
-      "col_r": null
+      "row_no": 85
     },
     {
       "id": "21-02-01-027",
@@ -747,6 +724,7 @@
       "code": "21.02.01.027",
       "sku": "JCTT-YT-HZ-22-S803022",
       "name_th": "ลูกบ็อกซ์ยาว ขนาด 22 มม. รุ่น YT-S803022 (6 ตัว/กล่อง)",
+      "name_th_short": "ลูกบ็อกซ์ยาว",
       "name_cn": "22mm加长套筒（6把/盒）YT-S803022",
       "price": 66,
       "image": "/placeholder.svg",
@@ -769,9 +747,7 @@
       "material_cn": "YT系列盒装",
       "material_code": "YT-HZ",
       "spec_number": "22-S803022",
-      "row_no": 86,
-      "col_o": null,
-      "col_r": null
+      "row_no": 86
     },
     {
       "id": "21-02-01-028",
@@ -779,6 +755,7 @@
       "code": "21.02.01.028",
       "sku": "JCTT-YT-HZ-21-S803021",
       "name_th": "ลูกบ็อกซ์ยาว ขนาด 21 มม. รุ่น YT-S803021 (12 ตัว/กล่อง)",
+      "name_th_short": "ลูกบ็อกซ์ยาว",
       "name_cn": "21mm加长套筒（12把/盒）YT-S803021",
       "price": 60,
       "image": "/placeholder.svg",
@@ -801,9 +778,7 @@
       "material_cn": "YT系列盒装",
       "material_code": "YT-HZ",
       "spec_number": "21-S803021",
-      "row_no": 87,
-      "col_o": null,
-      "col_r": null
+      "row_no": 87
     },
     {
       "id": "21-02-01-029",
@@ -811,6 +786,7 @@
       "code": "21.02.01.029",
       "sku": "JCTT-YT-HZ-20-S803020",
       "name_th": "ลูกบ็อกซ์ยาว ขนาด 20 มม. รุ่น YT-S803020 (12 ตัว/กล่อง)",
+      "name_th_short": "ลูกบ็อกซ์ยาว",
       "name_cn": "20mm加长套筒（12把/盒）YT-S803020",
       "price": 60,
       "image": "/placeholder.svg",
@@ -833,9 +809,7 @@
       "material_cn": "YT系列盒装",
       "material_code": "YT-HZ",
       "spec_number": "20-S803020",
-      "row_no": 88,
-      "col_o": null,
-      "col_r": null
+      "row_no": 88
     },
     {
       "id": "21-02-01-030",
@@ -843,6 +817,7 @@
       "code": "21.02.01.030",
       "sku": "JCTT-YT-HZ-19-S803019",
       "name_th": "ลูกบ็อกซ์ยาว ขนาด 19 มม. รุ่น YT-S803019 (12 ตัว/กล่อง)",
+      "name_th_short": "ลูกบ็อกซ์ยาว",
       "name_cn": "19mm加长套筒（12把/盒）YT-S803019",
       "price": 60,
       "image": "/placeholder.svg",
@@ -865,9 +840,7 @@
       "material_cn": "YT系列盒装",
       "material_code": "YT-HZ",
       "spec_number": "19-S803019",
-      "row_no": 89,
-      "col_o": null,
-      "col_r": null
+      "row_no": 89
     },
     {
       "id": "21-02-01-032",
@@ -875,6 +848,7 @@
       "code": "21.02.01.032",
       "sku": "JCTT-YT-HZ-17-S803017",
       "name_th": "ลูกบ็อกซ์ยาว ขนาด 17 มม. รุ่น YT-S803017 (12 ตัว/กล่อง)",
+      "name_th_short": "ลูกบ็อกซ์ยาว",
       "name_cn": "17mm加长套筒（12把/盒）YT-S803017",
       "price": 54,
       "image": "/placeholder.svg",
@@ -897,9 +871,7 @@
       "material_cn": "YT系列盒装",
       "material_code": "YT-HZ",
       "spec_number": "17-S803017",
-      "row_no": 90,
-      "col_o": null,
-      "col_r": null
+      "row_no": 90
     },
     {
       "id": "21-02-01-033",
@@ -907,6 +879,7 @@
       "code": "21.02.01.033",
       "sku": "JCTT-YT-HZ-16-S803016",
       "name_th": "ลูกบ็อกซ์ยาว ขนาด 16 มม. รุ่น YT-S803016 (12 ตัว/กล่อง)",
+      "name_th_short": "ลูกบ็อกซ์ยาว",
       "name_cn": "16mm加长套筒（12把/盒）YT-S803016",
       "price": 54,
       "image": "/placeholder.svg",
@@ -929,9 +902,7 @@
       "material_cn": "YT系列盒装",
       "material_code": "YT-HZ",
       "spec_number": "16-S803016",
-      "row_no": 91,
-      "col_o": null,
-      "col_r": null
+      "row_no": 91
     },
     {
       "id": "21-02-01-034",
@@ -939,6 +910,7 @@
       "code": "21.02.01.034",
       "sku": "JCTT-YT-HZ-15-S803015",
       "name_th": "ลูกบ็อกซ์ยาว ขนาด 15 มม. รุ่น YT-S803015 (12 ตัว/กล่อง)",
+      "name_th_short": "ลูกบ็อกซ์ยาว",
       "name_cn": "15mm加长套筒（12把/盒）YT-S803015",
       "price": 54,
       "image": "/placeholder.svg",
@@ -961,9 +933,7 @@
       "material_cn": "YT系列盒装",
       "material_code": "YT-HZ",
       "spec_number": "15-S803015",
-      "row_no": 92,
-      "col_o": null,
-      "col_r": null
+      "row_no": 92
     },
     {
       "id": "21-02-01-036",
@@ -971,6 +941,7 @@
       "code": "21.02.01.036",
       "sku": "JCTT-YT-HZ-13-S803013",
       "name_th": "ลูกบ็อกซ์ยาว ขนาด 13 มม. รุ่น YT-S803013 (12 ตัว/กล่อง)",
+      "name_th_short": "ลูกบ็อกซ์ยาว",
       "name_cn": "13mm加长套筒（12把/盒）YT-S803013",
       "price": 48,
       "image": "/placeholder.svg",
@@ -993,9 +964,7 @@
       "material_cn": "YT系列盒装",
       "material_code": "YT-HZ",
       "spec_number": "13-S803013",
-      "row_no": 93,
-      "col_o": null,
-      "col_r": null
+      "row_no": 93
     },
     {
       "id": "21-02-01-038",
@@ -1003,6 +972,7 @@
       "code": "21.02.01.038",
       "sku": "JCTT-YT-HZ-11-S803011",
       "name_th": "ลูกบ็อกซ์ยาว ขนาด 11 มม. รุ่น YT-S803011 (12 ตัว/กล่อง)",
+      "name_th_short": "ลูกบ็อกซ์ยาว",
       "name_cn": "11mm加长套筒（12把/盒）YT-S803011",
       "price": 48,
       "image": "/placeholder.svg",
@@ -1025,9 +995,7 @@
       "material_cn": "YT系列盒装",
       "material_code": "YT-HZ",
       "spec_number": "11-S803011",
-      "row_no": 94,
-      "col_o": null,
-      "col_r": null
+      "row_no": 94
     },
     {
       "id": "21-02-01-039",
@@ -1035,6 +1003,7 @@
       "code": "21.02.01.039",
       "sku": "JCTT-YT-HZ-10-S803010",
       "name_th": "ลูกบ็อกซ์ยาว ขนาด 10 มม. รุ่น YT-S803010 (12 ตัว/กล่อง)",
+      "name_th_short": "ลูกบ็อกซ์ยาว",
       "name_cn": "10mm加长套筒（12把/盒）YT-S803010",
       "price": 48,
       "image": "/placeholder.svg",
@@ -1057,9 +1026,7 @@
       "material_cn": "YT系列盒装",
       "material_code": "YT-HZ",
       "spec_number": "10-S803010",
-      "row_no": 95,
-      "col_o": null,
-      "col_r": null
+      "row_no": 95
     },
     {
       "id": "21-02-01-040",
@@ -1067,6 +1034,7 @@
       "code": "21.02.01.040",
       "sku": "JCTT-YT-HZ-9-S803009",
       "name_th": "ลูกบ็อกซ์ยาว ขนาด 9 มม. รุ่น YT-S803009 (12 ตัว/กล่อง)",
+      "name_th_short": "ลูกบ็อกซ์ยาว",
       "name_cn": "9mm加长套筒（12把/盒）YT-S803009",
       "price": 48,
       "image": "/placeholder.svg",
@@ -1089,9 +1057,7 @@
       "material_cn": "YT系列盒装",
       "material_code": "YT-HZ",
       "spec_number": "9-S803009",
-      "row_no": 96,
-      "col_o": null,
-      "col_r": null
+      "row_no": 96
     },
     {
       "id": "21-02-01-041",
@@ -1099,6 +1065,7 @@
       "code": "21.02.01.041",
       "sku": "JCTT-YT-HZ-8-S803008",
       "name_th": "ลูกบ็อกซ์ยาว ขนาด 8 มม. รุ่น YT-S803008 (12 ตัว/กล่อง)",
+      "name_th_short": "ลูกบ็อกซ์ยาว",
       "name_cn": "8mm加长套筒（12把/盒）YT-S803008",
       "price": 48,
       "image": "/placeholder.svg",
@@ -1121,9 +1088,7 @@
       "material_cn": "YT系列盒装",
       "material_code": "YT-HZ",
       "spec_number": "8-S803008",
-      "row_no": 97,
-      "col_o": null,
-      "col_r": null
+      "row_no": 97
     },
     {
       "id": "21-02-01-042",
@@ -1131,6 +1096,7 @@
       "code": "21.02.01.042",
       "sku": "TTTZ-YT-DK-HZ-32-802032",
       "name_th": "ลูกบ็อกซ์สั้น ขนาด 32 มม. รุ่น YT-802032 (6 ตัว/กล่อง)",
+      "name_th_short": "ลูกบ็อกซ์สั้น",
       "name_cn": "32mm套筒头子短（6把/盒）YT-802032",
       "price": 90,
       "image": "/placeholder.svg",
@@ -1153,9 +1119,7 @@
       "material_cn": "YT系列短盒装",
       "material_code": "YT-DK-HZ",
       "spec_number": "32-802032",
-      "row_no": 98,
-      "col_o": null,
-      "col_r": null
+      "row_no": 98
     },
     {
       "id": "21-02-01-043",
@@ -1163,6 +1127,7 @@
       "code": "21.02.01.043",
       "sku": "TTTZ-YT-DK-HZ-30-802030",
       "name_th": "ลูกบ็อกซ์สั้น ขนาด 30 มม. รุ่น YT-802030 (6 ตัว/กล่อง)",
+      "name_th_short": "ลูกบ็อกซ์สั้น",
       "name_cn": "30mm套筒头子短（6把/盒）YT-802030",
       "price": 90,
       "image": "/placeholder.svg",
@@ -1185,9 +1150,7 @@
       "material_cn": "YT系列短盒装",
       "material_code": "YT-DK-HZ",
       "spec_number": "30-802030",
-      "row_no": 99,
-      "col_o": null,
-      "col_r": null
+      "row_no": 99
     },
     {
       "id": "21-02-01-044",
@@ -1195,6 +1158,7 @@
       "code": "21.02.01.044",
       "sku": "TTTZ-YT-DK-HZ-28-802028",
       "name_th": "ลูกบ็อกซ์สั้น 28 มม. รุ่น YT-802028 (6 ตัว/กล่อง)",
+      "name_th_short": "ลูกบ็อกซ์สั้น",
       "name_cn": "28mm套筒头子短（6把/盒）YT-802028",
       "price": 66,
       "image": "/placeholder.svg",
@@ -1217,9 +1181,7 @@
       "material_cn": "YT系列短盒装",
       "material_code": "YT-DK-HZ",
       "spec_number": "28-802028",
-      "row_no": 100,
-      "col_o": null,
-      "col_r": null
+      "row_no": 100
     },
     {
       "id": "21-02-01-045",
@@ -1227,6 +1189,7 @@
       "code": "21.02.01.045",
       "sku": "TTTZ-YT-DK-HZ-27-802027",
       "name_th": "ลูกบ็อกซ์สั้น 27 มม. รุ่น YT-802027 (6 ตัว/กล่อง)",
+      "name_th_short": "ลูกบ็อกซ์สั้น",
       "name_cn": "27mm套筒头子短（6把/盒）YT-802027",
       "price": 66,
       "image": "/placeholder.svg",
@@ -1249,9 +1212,7 @@
       "material_cn": "YT系列短盒装",
       "material_code": "YT-DK-HZ",
       "spec_number": "27-802027",
-      "row_no": 101,
-      "col_o": null,
-      "col_r": null
+      "row_no": 101
     },
     {
       "id": "21-02-01-046",
@@ -1259,6 +1220,7 @@
       "code": "21.02.01.046",
       "sku": "TTTZ-YT-DK-HZ-26-802026",
       "name_th": "ลูกบ็อกซ์สั้น 26 มม. รุ่น YT-802026 (6 ตัว/กล่อง)",
+      "name_th_short": "ลูกบ็อกซ์สั้น",
       "name_cn": "26mm套筒头子短（6把/盒）YT-802026",
       "price": 66,
       "image": "/placeholder.svg",
@@ -1281,9 +1243,7 @@
       "material_cn": "YT系列短盒装",
       "material_code": "YT-DK-HZ",
       "spec_number": "26-802026",
-      "row_no": 102,
-      "col_o": null,
-      "col_r": null
+      "row_no": 102
     },
     {
       "id": "21-02-01-047",
@@ -1291,6 +1251,7 @@
       "code": "21.02.01.047",
       "sku": "TTTZ-YT-DK-HZ-25-802025",
       "name_th": "ลูกบ็อกซ์สั้น 25 มม. รุ่น YT-802025 (6 ตัว/กล่อง)",
+      "name_th_short": "ลูกบ็อกซ์สั้น",
       "name_cn": "25mm套筒头子短（6把/盒）YT-802025",
       "price": 66,
       "image": "/placeholder.svg",
@@ -1313,9 +1274,7 @@
       "material_cn": "YT系列短盒装",
       "material_code": "YT-DK-HZ",
       "spec_number": "25-802025",
-      "row_no": 103,
-      "col_o": null,
-      "col_r": null
+      "row_no": 103
     },
     {
       "id": "21-02-01-048",
@@ -1323,6 +1282,7 @@
       "code": "21.02.01.048",
       "sku": "TTTZ-YT-DK-HZ-23-802023",
       "name_th": "ลูกบ็อกซ์สั้น 23 มม. รุ่น YT-802023 (6 ตัว/กล่อง)",
+      "name_th_short": "ลูกบ็อกซ์สั้น",
       "name_cn": "23mm套筒头子短（6把/盒）YT-802023",
       "price": 42,
       "image": "/placeholder.svg",
@@ -1345,9 +1305,7 @@
       "material_cn": "YT系列短盒装",
       "material_code": "YT-DK-HZ",
       "spec_number": "23-802023",
-      "row_no": 104,
-      "col_o": null,
-      "col_r": null
+      "row_no": 104
     },
     {
       "id": "21-02-01-049",
@@ -1355,6 +1313,7 @@
       "code": "21.02.01.049",
       "sku": "TTTZ-YT-DK-HZ-22-802022",
       "name_th": "ลูกบ็อกซ์สั้น 22 มม. รุ่น YT-802022 (12 ตัว/กล่อง)",
+      "name_th_short": "ลูกบ็อกซ์สั้น",
       "name_cn": "22mm套筒头子短（12把/盒）YT-802022",
       "price": 42,
       "image": "/placeholder.svg",
@@ -1377,9 +1336,7 @@
       "material_cn": "YT系列短盒装",
       "material_code": "YT-DK-HZ",
       "spec_number": "22-802022",
-      "row_no": 105,
-      "col_o": null,
-      "col_r": null
+      "row_no": 105
     },
     {
       "id": "21-02-01-050",
@@ -1387,6 +1344,7 @@
       "code": "21.02.01.050",
       "sku": "TTTZ-YT-DK-HZ-21-802021",
       "name_th": "ลูกบ็อกซ์สั้น 21 มม. รุ่น YT-802021 (12 ตัว/กล่อง)",
+      "name_th_short": "ลูกบ็อกซ์สั้น",
       "name_cn": "21mm套筒头子短（12把/盒）YT-802021",
       "price": 36,
       "image": "/placeholder.svg",
@@ -1409,9 +1367,7 @@
       "material_cn": "YT系列短盒装",
       "material_code": "YT-DK-HZ",
       "spec_number": "21-802021",
-      "row_no": 106,
-      "col_o": null,
-      "col_r": null
+      "row_no": 106
     },
     {
       "id": "21-02-01-051",
@@ -1419,6 +1375,7 @@
       "code": "21.02.01.051",
       "sku": "TTTZ-YT-DK-HZ-20-802020",
       "name_th": "ลูกบ็อกซ์สั้น 20 มม. รุ่น YT-802020 (12 ตัว/กล่อง)",
+      "name_th_short": "ลูกบ็อกซ์สั้น",
       "name_cn": "20mm套筒头子短（12把/盒）YT-802020",
       "price": 36,
       "image": "/placeholder.svg",
@@ -1441,9 +1398,7 @@
       "material_cn": "YT系列短盒装",
       "material_code": "YT-DK-HZ",
       "spec_number": "20-802020",
-      "row_no": 107,
-      "col_o": null,
-      "col_r": null
+      "row_no": 107
     },
     {
       "id": "21-02-01-052",
@@ -1451,6 +1406,7 @@
       "code": "21.02.01.052",
       "sku": "TTTZ-YT-DK-HZ-19-802019",
       "name_th": "ลูกบ็อกซ์สั้น 19 มม. รุ่น YT-802019 (12 ตัว/กล่อง)",
+      "name_th_short": "ลูกบ็อกซ์สั้น",
       "name_cn": "19mm套筒头子短（12把/盒）YT-802019",
       "price": 36,
       "image": "/placeholder.svg",
@@ -1473,9 +1429,7 @@
       "material_cn": "YT系列短盒装",
       "material_code": "YT-DK-HZ",
       "spec_number": "19-802019",
-      "row_no": 108,
-      "col_o": null,
-      "col_r": null
+      "row_no": 108
     },
     {
       "id": "21-02-01-053",
@@ -1483,6 +1437,7 @@
       "code": "21.02.01.053",
       "sku": "TTTZ-YT-DK-HZ-18-802018",
       "name_th": "ลูกบ็อกซ์สั้น 18 มม. รุ่น YT-802018 (12 ตัว/กล่อง)",
+      "name_th_short": "ลูกบ็อกซ์สั้น",
       "name_cn": "18mm套筒头子短（12把/盒）YT-802018 套筒头子短（12把/盒）YT-802012",
       "price": 36,
       "image": "/placeholder.svg",
@@ -1505,9 +1460,7 @@
       "material_cn": "YT系列短盒装",
       "material_code": "YT-DK-HZ",
       "spec_number": "18-802018",
-      "row_no": 109,
-      "col_o": null,
-      "col_r": null
+      "row_no": 109
     },
     {
       "id": "21-02-01-054",
@@ -1515,6 +1468,7 @@
       "code": "21.02.01.054",
       "sku": "TTTZ-YT-DK-HZ-17-802017",
       "name_th": "ลูกบ็อกซ์สั้น 17 มม. รุ่น YT-802017 (12 ตัว/กล่อง)",
+      "name_th_short": "ลูกบ็อกซ์สั้น",
       "name_cn": "17mm套筒头子短（12把/盒）YT-802017",
       "price": 28.8,
       "image": "/placeholder.svg",
@@ -1537,9 +1491,7 @@
       "material_cn": "YT系列短盒装",
       "material_code": "YT-DK-HZ",
       "spec_number": "17-802017",
-      "row_no": 110,
-      "col_o": null,
-      "col_r": null
+      "row_no": 110
     },
     {
       "id": "21-02-01-055",
@@ -1547,6 +1499,7 @@
       "code": "21.02.01.055",
       "sku": "TTTZ-YT-DK-HZ-16-802016",
       "name_th": "ลูกบ็อกซ์สั้น 16 มม. รุ่น YT-802016 (12 ตัว/กล่อง)",
+      "name_th_short": "ลูกบ็อกซ์สั้น",
       "name_cn": "16mm套筒头子短（12把/盒）YT-802016 套筒头子短（12把/盒）YT-802012",
       "price": 24,
       "image": "/placeholder.svg",
@@ -1569,9 +1522,7 @@
       "material_cn": "YT系列短盒装",
       "material_code": "YT-DK-HZ",
       "spec_number": "16-802016",
-      "row_no": 111,
-      "col_o": null,
-      "col_r": null
+      "row_no": 111
     },
     {
       "id": "21-02-01-056",
@@ -1579,6 +1530,7 @@
       "code": "21.02.01.056",
       "sku": "TTTZ-YT-DK-HZ-14-802014",
       "name_th": "ลูกบ็อกซ์สั้น 14 มม. รุ่น YT-802014 (12 ตัว/กล่อง)",
+      "name_th_short": "ลูกบ็อกซ์สั้น",
       "name_cn": "14mm套筒头子短（12把/盒）YT-802014",
       "price": 24,
       "image": "/placeholder.svg",
@@ -1601,9 +1553,7 @@
       "material_cn": "YT系列短盒装",
       "material_code": "YT-DK-HZ",
       "spec_number": "14-802014",
-      "row_no": 112,
-      "col_o": null,
-      "col_r": null
+      "row_no": 112
     },
     {
       "id": "21-02-01-057",
@@ -1611,6 +1561,7 @@
       "code": "21.02.01.057",
       "sku": "TTTZ-YT-DK-HZ-12-802012",
       "name_th": "ลูกบ็อกซ์สั้น 12 มม. รุ่น YT-802012 (12 ตัว/กล่อง)",
+      "name_th_short": "ลูกบ็อกซ์สั้น",
       "name_cn": "12mm套筒头子短（12把/盒）YT-802012",
       "price": 24,
       "image": "/placeholder.svg",
@@ -1633,9 +1584,7 @@
       "material_cn": "YT系列短盒装",
       "material_code": "YT-DK-HZ",
       "spec_number": "12-802012",
-      "row_no": 113,
-      "col_o": null,
-      "col_r": null
+      "row_no": 113
     },
     {
       "id": "21-02-01-058",
@@ -1643,6 +1592,7 @@
       "code": "21.02.01.058",
       "sku": "TTTZ-YT-DK-HZ-11-802011",
       "name_th": "ลูกบ็อกซ์สั้น 11 มม. รุ่น YT-802011 (12 ตัว/กล่อง)",
+      "name_th_short": "ลูกบ็อกซ์สั้น",
       "name_cn": "11mm套筒头子短（12把/盒）YT-802011",
       "price": 24,
       "image": "/placeholder.svg",
@@ -1665,9 +1615,7 @@
       "material_cn": "YT系列短盒装",
       "material_code": "YT-DK-HZ",
       "spec_number": "11-802011",
-      "row_no": 114,
-      "col_o": null,
-      "col_r": null
+      "row_no": 114
     },
     {
       "id": "21-02-01-059",
@@ -1675,6 +1623,7 @@
       "code": "21.02.01.059",
       "sku": "TTTZ-YT-DK-HZ-10-802010",
       "name_th": "ลูกบ็อกซ์สั้น 10 มม. รุ่น YT-802010 (12 ตัว/กล่อง)",
+      "name_th_short": "ลูกบ็อกซ์สั้น",
       "name_cn": "10mm套筒头子短（12把/盒）YT-802010",
       "price": 24,
       "image": "/placeholder.svg",
@@ -1697,9 +1646,7 @@
       "material_cn": "YT系列短盒装",
       "material_code": "YT-DK-HZ",
       "spec_number": "10-802010",
-      "row_no": 115,
-      "col_o": null,
-      "col_r": null
+      "row_no": 115
     },
     {
       "id": "21-02-01-060",
@@ -1707,6 +1654,7 @@
       "code": "21.02.01.060",
       "sku": "TTTZ-YT-DK-HZ-9-802009",
       "name_th": "ลูกบ็อกซ์สั้น 9 มม. รุ่น YT-802009 (12 ตัว/กล่อง)",
+      "name_th_short": "ลูกบ็อกซ์สั้น",
       "name_cn": "9mm套筒头子短（12把/盒）YT-802009",
       "price": 24,
       "image": "/placeholder.svg",
@@ -1729,9 +1677,7 @@
       "material_cn": "YT系列短盒装",
       "material_code": "YT-DK-HZ",
       "spec_number": "9-802009",
-      "row_no": 116,
-      "col_o": null,
-      "col_r": null
+      "row_no": 116
     },
     {
       "id": "21-02-01-061",
@@ -1739,6 +1685,7 @@
       "code": "21.02.01.061",
       "sku": "TTTZ-YT-DK-HZ-8-802008",
       "name_th": "ลูกบ็อกซ์สั้น 8 มม. รุ่น YT-802008 (12 ตัว/กล่อง)",
+      "name_th_short": "ลูกบ็อกซ์สั้น",
       "name_cn": "8mm套筒头子短（12把/盒）YT-802008",
       "price": 24,
       "image": "/placeholder.svg",
@@ -1761,9 +1708,7 @@
       "material_cn": "YT系列短盒装",
       "material_code": "YT-DK-HZ",
       "spec_number": "8-802008",
-      "row_no": 117,
-      "col_o": null,
-      "col_r": null
+      "row_no": 117
     }
   ]
 }

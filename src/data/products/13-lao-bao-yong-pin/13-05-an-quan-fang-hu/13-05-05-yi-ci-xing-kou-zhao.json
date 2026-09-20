@@ -9,8 +9,9 @@
       "id": "13-05-05-002",
       "slug": "13-05-05-002",
       "code": "13.05.05.002",
-      "sku": "FCF-FC-1-01",
+      "sku": "FCF-FC-1",
       "name_th": "ชุดกันฝุ่น",
+      "name_th_short": "ชุดกันฝุ่น",
       "name_cn": "防尘服",
       "price": 96,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "FCF",
       "material_cn": "防尘",
       "material_code": "FC",
-      "spec_number": "1-01",
-      "row_no": 100,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1",
+      "row_no": 100
     },
     {
       "id": "13-05-05-004",
       "slug": "13-05-05-004",
       "code": "13.05.05.004",
-      "sku": "MJ-QJB-1-01",
+      "sku": "MJ-QJB-1",
       "name_th": "ผ้าขนหนูเช็ดทำความสะอาดสีขาว",
+      "name_th_short": "ผ้าขนหนูเช็ดทำความสะอาด",
       "name_cn": "清洁白毛巾",
       "price": 14.4,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "MJ",
       "material_cn": "清洁白",
       "material_code": "QJB",
-      "spec_number": "1-01",
-      "row_no": 101,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1",
+      "row_no": 101
     },
     {
       "id": "13-05-05-005",
       "slug": "13-05-05-005",
       "code": "13.05.05.005",
-      "sku": "KZ-YCX-1-01",
+      "sku": "KZ-YCX-1",
       "name_th": "หน้ากากอนามัยแบบใช้แล้วทิ้ง",
+      "name_th_short": "หน้ากากอนามัย",
       "name_cn": "一次性口罩",
       "price": 9.6,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "KZ",
       "material_cn": "一次性",
       "material_code": "YCX",
-      "spec_number": "1-01",
-      "row_no": 102,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1",
+      "row_no": 102
     },
     {
       "id": "13-05-05-006",
       "slug": "13-05-05-006",
       "code": "13.05.05.006",
-      "sku": "WJD-WJ-1-01",
+      "sku": "WJD-WJ-1",
       "name_th": "ซองใส่เอกสาร",
+      "name_th_short": "ซองใส่เอกสาร",
       "name_cn": "文件袋",
       "price": 8.4,
       "image": "/placeholder.svg",
@@ -128,10 +126,8 @@
       "category_code": "WJD",
       "material_cn": "文件",
       "material_code": "WJ",
-      "spec_number": "1-01",
-      "row_no": 103,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1",
+      "row_no": 103
     }
   ]
 }

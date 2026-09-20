@@ -11,6 +11,7 @@
       "code": "22.02.03.002",
       "sku": "DTMZ-HR-CT-64W",
       "name_th": "โมดูลหลอดไฟ LED ชนิดแถวยาว Hongri 64W",
+      "name_th_short": "โมดูลไฟแถวยาว",
       "name_cn": "红日LED长条光源模组 64W",
       "price": 216,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "红日长条模组",
       "material_code": "HR-CT",
       "spec_number": "64W",
-      "row_no": 82,
-      "col_o": null,
-      "col_r": null
+      "row_no": 82
     },
     {
       "id": "22-02-03-003",
@@ -43,6 +42,7 @@
       "code": "22.02.03.003",
       "sku": "DTMZ-YM-CTSP-14W",
       "name_th": "โมดูลหลอดไฟ LED แถวยาวแบบคู่ Yaming 14W",
+      "name_th_short": "โมดูลไฟแถวคู่",
       "name_cn": "亚明长条双排模组 14w",
       "price": 72,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "亚明长条双排",
       "material_code": "YM-CTSP",
       "spec_number": "14W",
-      "row_no": 83,
-      "col_o": null,
-      "col_r": null
+      "row_no": 83
     },
     {
       "id": "22-02-03-004",
@@ -75,6 +73,7 @@
       "code": "22.02.03.004",
       "sku": "DTMZ-YM-CTSP-20W",
       "name_th": "โมดูลหลอดไฟ LED แถวยาวแบบคู่ Yaming 20W",
+      "name_th_short": "โมดูลไฟแถวคู่",
       "name_cn": "亚明长条双排模组 20w",
       "price": 84,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "亚明长条双排",
       "material_code": "YM-CTSP",
       "spec_number": "20W",
-      "row_no": 84,
-      "col_o": null,
-      "col_r": null
+      "row_no": 84
     }
   ]
 }

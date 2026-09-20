@@ -11,6 +11,7 @@
       "code": "17.05.04.002",
       "sku": "DGZ-BZ-30-400",
       "name_th": "ดอกสกัดแบนสำหรับ 65A Hufan 30x400",
+      "name_th_short": "ดอกสกัดแบน 30",
       "name_cn": "《沪帆》65A大电镐30*400 扁凿",
       "price": 180,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "扁凿",
       "material_code": "BZ",
       "spec_number": "30-400",
-      "row_no": 308,
-      "col_o": null,
-      "col_r": null
+      "row_no": 308
     }
   ]
 }

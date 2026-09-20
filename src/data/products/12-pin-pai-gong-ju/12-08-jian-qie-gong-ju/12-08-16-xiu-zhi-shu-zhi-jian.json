@@ -9,8 +9,9 @@
       "id": "12-08-16-003",
       "slug": "12-08-16-003",
       "code": "12.08.16.003",
-      "sku": "SZJ-7C-01-01",
+      "sku": "SZJ-7C-01",
       "name_th": "กรรไกรตัดกิ่งไม้ รุ่น 010 ขนาด 7 นิ้ว",
+      "name_th_short": "กรรไกรตัดกิ่งไม้",
       "name_cn": "7寸010树枝剪（8把/盒）YT-260007 / 7",
       "price": 51.6,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "SZJ",
       "material_cn": "7寸",
       "material_code": "7C",
-      "spec_number": "01-01",
-      "row_no": 113,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "01",
+      "row_no": 113
     },
     {
       "id": "12-08-16-004",
       "slug": "12-08-16-004",
       "code": "12.08.16.004",
-      "sku": "SZJ-LJZZ-8-01",
+      "sku": "SZJ-LJZZ-8",
       "name_th": "กรรไกรตัดกิ่งไม้ปากตรง อลูมิเนียม ขนาด 8 นิ้ว",
+      "name_th_short": "กรรไกรตัดกิ่งไม้ปากตรง อลูมิเนียม",
       "name_cn": "8”铝合金直嘴树枝剪（12把/盒）YT-260002 / 8",
       "price": 144,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "SZJ",
       "material_cn": "铝合金直嘴",
       "material_code": "LJZZ",
-      "spec_number": "8-01",
-      "row_no": 114,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "8",
+      "row_no": 114
     },
     {
       "id": "12-08-16-005",
       "slug": "12-08-16-005",
       "code": "12.08.16.005",
-      "sku": "SZJ-LJWZ-8-01",
+      "sku": "SZJ-LJWZ-8",
       "name_th": "กรรไกรตัดกิ่งไม้ปากโค้ง อลูมิเนียม ขนาด 8 นิ้ว",
+      "name_th_short": "กรรไกรตัดกิ่งไม้ปากโค้ง อลูมิเนียม",
       "name_cn": "8”铝合金弯嘴树枝剪（12把/盒）YT-260001 / 8",
       "price": 144,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "SZJ",
       "material_cn": "铝合金弯嘴",
       "material_code": "LJWZ",
-      "spec_number": "8-01",
-      "row_no": 115,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "8",
+      "row_no": 115
     },
     {
       "id": "12-08-16-006",
       "slug": "12-08-16-006",
       "code": "12.08.16.006",
-      "sku": "SZJ-XYBZZ-8-01",
+      "sku": "SZJ-XYBZZ-8",
       "name_th": "กรรไกรตัดกิ่งไม้ปากตรง สีขาวงาช้าง ขนาด 8 นิ้ว",
+      "name_th_short": "กรรไกรตัดกิ่งไม้สีขาวงาช้าง",
       "name_cn": "8”象牙白直嘴树枝剪（8把/盒）YT-247018 / 8",
       "price": 132,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "SZJ",
       "material_cn": "象牙白直嘴",
       "material_code": "XYBZZ",
-      "spec_number": "8-01",
-      "row_no": 116,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "8",
+      "row_no": 116
     },
     {
       "id": "12-08-16-007",
       "slug": "12-08-16-007",
       "code": "12.08.16.007",
-      "sku": "SZJ-HL-8-01",
+      "sku": "SZJ-HL-8",
       "name_th": "กรรไกรตัดกิ่งไม้ระบบรอก ขนาด 8 นิ้ว",
+      "name_th_short": "กรรไกรตัดกิ่งไม้ระบบรอก",
       "name_cn": "8”滑轮树枝剪（12把/盒）YT-238011 / 8",
       "price": 168,
       "image": "/placeholder.svg",
@@ -160,17 +157,16 @@
       "category_code": "SZJ",
       "material_cn": "滑轮",
       "material_code": "HL",
-      "spec_number": "8-01",
-      "row_no": 117,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "8",
+      "row_no": 117
     },
     {
       "id": "12-08-16-008",
       "slug": "12-08-16-008",
       "code": "12.08.16.008",
-      "sku": "XZJ-SL-7-01",
+      "sku": "XZJ-SL-7",
       "name_th": "กรรไกรตัดกิ่งไม้แบบผ่อนแรง ขนาด 7 นิ้ว",
+      "name_th_short": "กรรไกรตัดกิ่งไม้ผ่อนแรง",
       "name_cn": "7”省力修枝剪（12把/盒）YT-238009 / 7",
       "price": 138,
       "image": "/placeholder.svg",
@@ -192,10 +188,8 @@
       "category_code": "XZJ",
       "material_cn": "省力",
       "material_code": "SL",
-      "spec_number": "7-01",
-      "row_no": 118,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "7",
+      "row_no": 118
     }
   ]
 }

@@ -11,6 +11,7 @@
       "code": "23.01.04.001",
       "sku": "CT-NY-WK-766",
       "name_th": "จอบขุดดินการเกษตร-ปากโค้ง รุ่น 766",
+      "name_th_short": "จอบปากโค้ง",
       "name_cn": "农用锄头-弯口 灰刮 766",
       "price": 69.6,
       "image": "/placeholder.svg",
@@ -32,10 +33,8 @@
       "category_code": "CT",
       "material_cn": "农用弯口",
       "material_code": "NY-WK",
-      "spec_number": "766.0",
-      "row_no": 9,
-      "col_o": null,
-      "col_r": null
+      "spec_number": 766,
+      "row_no": 9
     }
   ]
 }

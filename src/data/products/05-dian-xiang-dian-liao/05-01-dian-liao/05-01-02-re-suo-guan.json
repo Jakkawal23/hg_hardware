@@ -11,6 +11,7 @@
       "code": "05.01.02.0001",
       "sku": "RSG-M14FC-14-100",
       "name_th": "ท่อหดกันกัดกร่อน M14 สีดำ (100 เมตร/ม้วน)",
+      "name_th_short": "ท่อหดกันกัดกร่อน สีดำ",
       "name_cn": "M14热缩管防腐黑色 100米/盘",
       "price": 3,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "M14防腐",
       "material_code": "M14FC",
       "spec_number": "14-100",
-      "row_no": 22,
-      "col_o": null,
-      "col_r": null
+      "row_no": 22
     },
     {
       "id": "05-01-02-0002",
@@ -43,6 +42,7 @@
       "code": "05.01.02.0002",
       "sku": "RSG-M10FC-10-100",
       "name_th": "ท่อหดกันกัดกร่อน M10 สีดำ (100 เมตร/ม้วน)",
+      "name_th_short": "ท่อหดกันกัดกร่อน สีดำ",
       "name_cn": "M10热缩管防腐黑色 100米/盘",
       "price": 2.4,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "M10防腐",
       "material_code": "M10FC",
       "spec_number": "10-100",
-      "row_no": 23,
-      "col_o": null,
-      "col_r": null
+      "row_no": 23
     },
     {
       "id": "05-01-02-0009",
@@ -75,6 +73,7 @@
       "code": "05.01.02.0009",
       "sku": "RSG-LAS-20-100",
       "name_th": "ท่อหด M20 สีฟ้า (100 เมตร/ม้วน)",
+      "name_th_short": "ท่อหด สีฟ้า",
       "name_cn": "M20热缩管蓝色 100米/盘",
       "price": 4.8,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "蓝色",
       "material_code": "LAS",
       "spec_number": "20-100",
-      "row_no": 24,
-      "col_o": null,
-      "col_r": null
+      "row_no": 24
     },
     {
       "id": "05-01-02-0010",
@@ -107,6 +104,7 @@
       "code": "05.01.02.0010",
       "sku": "RSG-HUAS-20-100",
       "name_th": "ท่อหด M20 สีเหลือง (100 เมตร/ม้วน)",
+      "name_th_short": "ท่อหด สีเหลือง",
       "name_cn": "M20热缩管黄色 100米/盘",
       "price": 4.8,
       "image": "/placeholder.svg",
@@ -129,9 +127,7 @@
       "material_cn": "黄色",
       "material_code": "HUAS",
       "spec_number": "20-100",
-      "row_no": 25,
-      "col_o": null,
-      "col_r": null
+      "row_no": 25
     },
     {
       "id": "05-01-02-0011",
@@ -139,6 +135,7 @@
       "code": "05.01.02.0011",
       "sku": "RSG-LS-18-100",
       "name_th": "ท่อหด M18 สีเขียว (100 เมตร/ม้วน)",
+      "name_th_short": "ท่อหด สีเขียว",
       "name_cn": "M18热缩管绿色 100米/盘",
       "price": 4.2,
       "image": "/placeholder.svg",
@@ -161,16 +158,15 @@
       "material_cn": "绿色",
       "material_code": "LS",
       "spec_number": "18-100",
-      "row_no": 26,
-      "col_o": null,
-      "col_r": null
+      "row_no": 26
     },
     {
       "id": "05-01-02-0014",
       "slug": "05-01-02-0014",
       "code": "05.01.02.0014",
-      "sku": "RSG-HUAS-25-25",
+      "sku": "RSG-HUAS-25",
       "name_th": "ท่อหด M25 สีเหลือง (25 เมตร/ม้วน)",
+      "name_th_short": "ท่อหด สีเหลือง",
       "name_cn": "M25热缩管黄色 25米/盘",
       "price": 6.6,
       "image": "/placeholder.svg",
@@ -192,10 +188,8 @@
       "category_code": "RSG",
       "material_cn": "黄色",
       "material_code": "HUAS",
-      "spec_number": "25-25",
-      "row_no": 27,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "25",
+      "row_no": 27
     },
     {
       "id": "05-01-02-0015",
@@ -203,6 +197,7 @@
       "code": "05.01.02.0015",
       "sku": "RSG-HES-12-100",
       "name_th": "ท่อหด M12 สีดำ (100 เมตร/ม้วน)",
+      "name_th_short": "ท่อหด สีดำ",
       "name_cn": "M12热缩管黑色 100米/盘",
       "price": 2.76,
       "image": "/placeholder.svg",
@@ -225,9 +220,7 @@
       "material_cn": "黑色",
       "material_code": "HES",
       "spec_number": "12-100",
-      "row_no": 28,
-      "col_o": null,
-      "col_r": null
+      "row_no": 28
     },
     {
       "id": "05-01-02-0016",
@@ -235,6 +228,7 @@
       "code": "05.01.02.0016",
       "sku": "RSG-HOS-12-100",
       "name_th": "ท่อหด M12 สีแดง (100 เมตร/ม้วน)",
+      "name_th_short": "ท่อหด สีแดง",
       "name_cn": "M12热缩管红色 100米/盘",
       "price": 2.76,
       "image": "/placeholder.svg",
@@ -257,9 +251,7 @@
       "material_cn": "红色",
       "material_code": "HOS",
       "spec_number": "12-100",
-      "row_no": 29,
-      "col_o": null,
-      "col_r": null
+      "row_no": 29
     },
     {
       "id": "05-01-02-0017",
@@ -267,6 +259,7 @@
       "code": "05.01.02.0017",
       "sku": "RSG-HUAS-12-100",
       "name_th": "ท่อหด M12 สีเหลือง (100 เมตร/ม้วน)",
+      "name_th_short": "ท่อหด สีเหลือง",
       "name_cn": "M12热缩管黄色 100米/盘",
       "price": 2.76,
       "image": "/placeholder.svg",
@@ -289,9 +282,7 @@
       "material_cn": "黄色",
       "material_code": "HUAS",
       "spec_number": "12-100",
-      "row_no": 30,
-      "col_o": null,
-      "col_r": null
+      "row_no": 30
     },
     {
       "id": "05-01-02-0018",
@@ -299,6 +290,7 @@
       "code": "05.01.02.0018",
       "sku": "RSG-LS-12-100",
       "name_th": "ท่อหด M12 สีเขียว (100 เมตร/ม้วน)",
+      "name_th_short": "ท่อหด สีเขียว",
       "name_cn": "M12热缩管绿色 100米/盘",
       "price": 2.76,
       "image": "/placeholder.svg",
@@ -321,9 +313,7 @@
       "material_cn": "绿色",
       "material_code": "LS",
       "spec_number": "12-100",
-      "row_no": 31,
-      "col_o": null,
-      "col_r": null
+      "row_no": 31
     },
     {
       "id": "05-01-02-0020",
@@ -331,6 +321,7 @@
       "code": "05.01.02.0020",
       "sku": "RSG-HOS-16-100",
       "name_th": "ท่อหด M16 สีแดง (100 เมตร/ม้วน)",
+      "name_th_short": "ท่อหด สีแดง",
       "name_cn": "M16热缩管红色 100米/盘",
       "price": 3.6,
       "image": "/placeholder.svg",
@@ -353,9 +344,7 @@
       "material_cn": "红色",
       "material_code": "HOS",
       "spec_number": "16-100",
-      "row_no": 32,
-      "col_o": null,
-      "col_r": null
+      "row_no": 32
     },
     {
       "id": "05-01-02-0021",
@@ -363,6 +352,7 @@
       "code": "05.01.02.0021",
       "sku": "RSG-HUAS-16-100",
       "name_th": "ท่อหด M16 สีเหลือง (100 เมตร/ม้วน)",
+      "name_th_short": "ท่อหด สีเหลือง",
       "name_cn": "M16热缩管黄色 100米/盘",
       "price": 3.6,
       "image": "/placeholder.svg",
@@ -385,9 +375,7 @@
       "material_cn": "黄色",
       "material_code": "HUAS",
       "spec_number": "16-100",
-      "row_no": 33,
-      "col_o": null,
-      "col_r": null
+      "row_no": 33
     },
     {
       "id": "05-01-02-0022",
@@ -395,6 +383,7 @@
       "code": "05.01.02.0022",
       "sku": "RSG-LS-16-100",
       "name_th": "ท่อหด M16 สีเขียว (100 เมตร/ม้วน)",
+      "name_th_short": "ท่อหด สีเขียว",
       "name_cn": "M16热缩管绿色 100米/盘",
       "price": 3.6,
       "image": "/placeholder.svg",
@@ -417,9 +406,7 @@
       "material_cn": "绿色",
       "material_code": "LS",
       "spec_number": "16-100",
-      "row_no": 34,
-      "col_o": null,
-      "col_r": null
+      "row_no": 34
     },
     {
       "id": "05-01-02-0023",
@@ -427,6 +414,7 @@
       "code": "05.01.02.0023",
       "sku": "RSG-HES-18-100",
       "name_th": "ท่อหด M18 สีดำ (100 เมตร/ม้วน)",
+      "name_th_short": "ท่อหด สีดำ",
       "name_cn": "M18热缩管黑色 100米/盘",
       "price": 4.2,
       "image": "/placeholder.svg",
@@ -449,9 +437,7 @@
       "material_cn": "黑色",
       "material_code": "HES",
       "spec_number": "18-100",
-      "row_no": 35,
-      "col_o": null,
-      "col_r": null
+      "row_no": 35
     },
     {
       "id": "05-01-02-0024",
@@ -459,6 +445,7 @@
       "code": "05.01.02.0024",
       "sku": "RSG-HOS-18-100",
       "name_th": "ท่อหด M18 สีแดง (100 เมตร/ม้วน)",
+      "name_th_short": "ท่อหด สีแดง",
       "name_cn": "M18热缩管红色 100米/盘",
       "price": 4.2,
       "image": "/placeholder.svg",
@@ -481,9 +468,7 @@
       "material_cn": "红色",
       "material_code": "HOS",
       "spec_number": "18-100",
-      "row_no": 36,
-      "col_o": null,
-      "col_r": null
+      "row_no": 36
     },
     {
       "id": "05-01-02-0026",
@@ -491,6 +476,7 @@
       "code": "05.01.02.0026",
       "sku": "RSG-HES-22-100",
       "name_th": "ท่อหด M22 สีดำ (100 เมตร/ม้วน)",
+      "name_th_short": "ท่อหด สีดำ",
       "name_cn": "M22热缩管黑色 100米/盘",
       "price": 4.8,
       "image": "/placeholder.svg",
@@ -513,9 +499,7 @@
       "material_cn": "黑色",
       "material_code": "HES",
       "spec_number": "22-100",
-      "row_no": 37,
-      "col_o": null,
-      "col_r": null
+      "row_no": 37
     },
     {
       "id": "05-01-02-0027",
@@ -523,6 +507,7 @@
       "code": "05.01.02.0027",
       "sku": "RSG-HES-20-100",
       "name_th": "ท่อหด M20 สีดำ (100 เมตร/ม้วน)",
+      "name_th_short": "ท่อหด สีดำ",
       "name_cn": "M20热缩管黑色 100米/盘",
       "price": 4.8,
       "image": "/placeholder.svg",
@@ -545,9 +530,7 @@
       "material_cn": "黑色",
       "material_code": "HES",
       "spec_number": "20-100",
-      "row_no": 38,
-      "col_o": null,
-      "col_r": null
+      "row_no": 38
     },
     {
       "id": "05-01-02-0028",
@@ -555,6 +538,7 @@
       "code": "05.01.02.0028",
       "sku": "RSG-HOS-20-100",
       "name_th": "ท่อหด M20 สีแดง (100 เมตร/ม้วน)",
+      "name_th_short": "ท่อหด สีแดง",
       "name_cn": "M20热缩管红色 100米/盘",
       "price": 4.8,
       "image": "/placeholder.svg",
@@ -577,9 +561,7 @@
       "material_cn": "红色",
       "material_code": "HOS",
       "spec_number": "20-100",
-      "row_no": 39,
-      "col_o": null,
-      "col_r": null
+      "row_no": 39
     },
     {
       "id": "05-01-02-0029",
@@ -587,6 +569,7 @@
       "code": "05.01.02.0029",
       "sku": "RSG-LS-20-100",
       "name_th": "ท่อหด M20 สีเขียว (100 เมตร/ม้วน)",
+      "name_th_short": "ท่อหด สีเขียว",
       "name_cn": "M20热缩管绿色 100米/盘",
       "price": 4.8,
       "image": "/placeholder.svg",
@@ -609,9 +592,7 @@
       "material_cn": "绿色",
       "material_code": "LS",
       "spec_number": "20-100",
-      "row_no": 40,
-      "col_o": null,
-      "col_r": null
+      "row_no": 40
     }
   ]
 }

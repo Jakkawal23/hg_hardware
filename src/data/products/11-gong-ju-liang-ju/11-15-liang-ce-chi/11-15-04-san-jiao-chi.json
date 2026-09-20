@@ -9,8 +9,9 @@
       "id": "11-15-04-001",
       "slug": "11-15-04-001",
       "code": "11.15.04.001",
-      "sku": "SJC-BP-15000-01",
+      "sku": "SJC-BP-15000",
       "name_th": "ไม้ฉากสามเหลี่ยม ขนาด 150 มม. บรรจุ 12 ชิ้น/กล่อง",
+      "name_th_short": "ไม้ฉาก",
       "name_cn": "三角尺 150（12把/盒）",
       "price": 27.6,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "SJC",
       "material_cn": "标配",
       "material_code": "BP",
-      "spec_number": "15000-01",
-      "row_no": 782,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "15000",
+      "row_no": 782
     },
     {
       "id": "11-15-04-002",
       "slug": "11-15-04-002",
       "code": "11.15.04.002",
-      "sku": "SJC-BP-20000-01",
+      "sku": "SJC-BP-20000",
       "name_th": "ไม้ฉากสามเหลี่ยม ขนาด 200 มม. บรรจุ 12 ชิ้น/กล่อง",
+      "name_th_short": "ไม้ฉาก",
       "name_cn": "三角尺 200（12把/盒）",
       "price": 33.6,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "SJC",
       "material_cn": "标配",
       "material_code": "BP",
-      "spec_number": "20000-01",
-      "row_no": 783,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "20000",
+      "row_no": 783
     }
   ]
 }

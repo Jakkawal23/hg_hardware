@@ -9,8 +9,9 @@
       "id": "11-02-09-002",
       "slug": "11-02-09-002",
       "code": "11.02.09.002",
-      "sku": "QGC-JG-00-01",
+      "sku": "QGC-JG-00",
       "name_th": "ค้อนด้ามฉนวนสีเขียว",
+      "name_th_short": "ด้ามค้อนฉนวน",
       "name_cn": "绝缘柄绿色/锤柄",
       "price": 36,
       "image": "/placeholder.svg",
@@ -32,10 +33,8 @@
       "category_code": "QGC",
       "material_cn": "绝缘柄绿色",
       "material_code": "JG",
-      "spec_number": "00-01",
-      "row_no": 116,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00",
+      "row_no": 116
     }
   ]
 }

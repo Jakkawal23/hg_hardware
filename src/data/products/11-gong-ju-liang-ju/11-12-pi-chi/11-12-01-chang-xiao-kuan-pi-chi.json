@@ -11,6 +11,7 @@
       "code": "11.12.01.001",
       "sku": "PJ-BP-20000-01",
       "name_th": "ตลับเมตรแบบเทปผ้า ขนาด 20 เมตร",
+      "name_th_short": "ตลับเมตรผ้าใยแก้ว 20 เมตร",
       "name_cn": "皮尺 20米",
       "price": 54,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "标配",
       "material_code": "BP",
       "spec_number": "20000-01",
-      "row_no": 727,
-      "col_o": null,
-      "col_r": null
+      "row_no": 727
     },
     {
       "id": "11-12-01-002",
@@ -43,6 +42,7 @@
       "code": "11.12.01.002",
       "sku": "PJ-BP-30000-01",
       "name_th": "ตลับเมตรแบบเทปผ้า ขนาด 30 เมตร",
+      "name_th_short": "ตลับเมตรผ้าใยแก้ว 30 เมตร",
       "name_cn": "皮尺 30米",
       "price": 78,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "标配",
       "material_code": "BP",
       "spec_number": "30000-01",
-      "row_no": 728,
-      "col_o": null,
-      "col_r": null
+      "row_no": 728
     }
   ]
 }

@@ -9,8 +9,9 @@
       "id": "11-06-04-001",
       "slug": "11-06-04-001",
       "code": "11.06.04.001",
-      "sku": "FPQ-SL-00000-01",
+      "sku": "FPQ-SL-00000",
       "name_th": "ปืนยิงโฟมพียู แบบพลาสติก สีเหลือง บรรจุ 2 ชิ้น/กล่อง",
+      "name_th_short": "ปืนยิงโฟมพียู",
       "name_cn": "-5发泡枪 塑料黄色（2把/盒）",
       "price": 105.6,
       "image": "/placeholder.svg",
@@ -32,10 +33,8 @@
       "category_code": "FPQ",
       "material_cn": "塑料",
       "material_code": "SL",
-      "spec_number": "00000-01",
-      "row_no": 474,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000",
+      "row_no": 474
     }
   ]
 }

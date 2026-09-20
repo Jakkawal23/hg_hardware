@@ -10,7 +10,8 @@
       "slug": "17-02-02-001",
       "code": "17.02.02.001",
       "sku": null,
-      "name_th": "ปลอกแม่เหล็กแรงสูง Hufan ขนาด 6*65",
+      "name_th": "บล็อกแม่เหล็กแรงสูง Hufan 6x65",
+      "name_th_short": "บล็อกแม่เหล็กแรงสูง 6",
       "name_cn": "沪帆强磁套筒 6*65",
       "price": 8.4,
       "image": "/placeholder.svg",
@@ -33,16 +34,15 @@
       "material_cn": null,
       "material_code": null,
       "spec_number": null,
-      "row_no": 224,
-      "col_o": null,
-      "col_r": null
+      "row_no": 224
     },
     {
       "id": "17-02-02-005",
       "slug": "17-02-02-005",
       "code": "17.02.02.005",
       "sku": null,
-      "name_th": "ปลอกแม่เหล็กแรงสูง Hufan ขนาด 11*65",
+      "name_th": "บล็อกแม่เหล็กแรงสูง Hufan 11x65",
+      "name_th_short": "บล็อกแม่เหล็กแรงสูง 11",
       "name_cn": "沪帆强磁套筒 11*65",
       "price": 16.8,
       "image": "/placeholder.svg",
@@ -65,16 +65,15 @@
       "material_cn": null,
       "material_code": null,
       "spec_number": null,
-      "row_no": 225,
-      "col_o": null,
-      "col_r": null
+      "row_no": 225
     },
     {
       "id": "17-02-02-008",
       "slug": "17-02-02-008",
       "code": "17.02.02.008",
       "sku": null,
-      "name_th": "ปลอกแม่เหล็กแรงสูง Hufan ขนาด 15*65",
+      "name_th": "บล็อกแม่เหล็กแรงสูง Hufan 15x65",
+      "name_th_short": "บล็อกแม่เหล็กแรงสูง 15",
       "name_cn": "沪帆强磁套筒 15*65",
       "price": 43.2,
       "image": "/placeholder.svg",
@@ -97,16 +96,15 @@
       "material_cn": null,
       "material_code": null,
       "spec_number": null,
-      "row_no": 226,
-      "col_o": null,
-      "col_r": null
+      "row_no": 226
     },
     {
       "id": "17-02-02-012",
       "slug": "17-02-02-012",
       "code": "17.02.02.012",
       "sku": null,
-      "name_th": "1/2 หอก/ตัวแปลงแบบยืดหดได้คุณภาพสูง",
+      "name_th": "ข้อต่อสปริงยืดหด/ข้อต่อแปลง 1/2 นิ้ว เกรดสูง",
+      "name_th_short": "ข้อต่อสปริงยืดหด อเนกประสงค์",
       "name_cn": "1/2高档伸缩弹套/转换接头",
       "price": 21.6,
       "image": "/placeholder.svg",
@@ -129,16 +127,15 @@
       "material_cn": null,
       "material_code": null,
       "spec_number": null,
-      "row_no": 227,
-      "col_o": null,
-      "col_r": null
+      "row_no": 227
     },
     {
       "id": "17-02-02-013",
       "slug": "17-02-02-013",
       "code": "17.02.02.013",
       "sku": null,
-      "name_th": "1/2 ตัวต่อประแจไฟฟ้า/พร้อมอะแดปเตอร์เกลียวกลับ",
+      "name_th": "ก้านต่อประแจไฟฟ้า 1/2 นิ้ว พร้อมหัวแปลงเกลียวกลับ",
+      "name_th_short": "ก้านต่อประแจไฟฟ้า หัวแปลงเกลียวกลับ",
       "name_cn": "1/2电动扳手接杆/带反牙转换头",
       "price": 24,
       "image": "/placeholder.svg",
@@ -161,16 +158,15 @@
       "material_cn": null,
       "material_code": null,
       "spec_number": null,
-      "row_no": 228,
-      "col_o": null,
-      "col_r": null
+      "row_no": 228
     },
     {
       "id": "17-02-02-014",
       "slug": "17-02-02-014",
       "code": "17.02.02.014",
       "sku": null,
-      "name_th": "ปลอกแม่เหล็กแรงสูง Dongcheng ขนาด 8*65",
+      "name_th": "บล็อกแม่เหล็กแรงสูง Dongcheng 8x65",
+      "name_th_short": "บล็อกแม่เหล็กแรงสูง 8",
       "name_cn": "东成强磁套筒 8*65",
       "price": 16.8,
       "image": "/placeholder.svg",
@@ -193,9 +189,7 @@
       "material_cn": null,
       "material_code": null,
       "spec_number": null,
-      "row_no": 229,
-      "col_o": null,
-      "col_r": null
+      "row_no": 229
     }
   ]
 }

@@ -9,8 +9,9 @@
       "id": "11-09-13-002",
       "slug": "11-09-13-002",
       "code": "11.09.13.002",
-      "sku": "GSJ-JP-27000-01",
+      "sku": "GSJ-JP-27000",
       "name_th": "เลื่อยตัดกิ่งไม้ รุ่น Lichi พรีเมียม ขนาด 270 มม.",
+      "name_th_short": "เลื่อยตัดกิ่ง",
       "name_cn": "（利齿）精品果树锯 270mm",
       "price": 60,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "GSJ",
       "material_cn": "精品",
       "material_code": "JP",
-      "spec_number": "27000-01",
-      "row_no": 641,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "27000",
+      "row_no": 641
     },
     {
       "id": "11-09-13-004",
       "slug": "11-09-13-004",
       "code": "11.09.13.004",
-      "sku": "JWJ-SP-00000-01",
+      "sku": "JWJ-SP-00000",
       "name_th": "เลื่อยหางหนู ด้ามพลาสติก สำหรับแผ่นยิปซัม",
+      "name_th_short": "เลื่อยหางหนู",
       "name_cn": "塑柄小鸡尾锯（石膏板专用）",
       "price": 21.6,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "JWJ",
       "material_cn": "塑柄",
       "material_code": "SP",
-      "spec_number": "00000-01",
-      "row_no": 642,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000",
+      "row_no": 642
     },
     {
       "id": "11-09-13-005",
       "slug": "11-09-13-005",
       "code": "11.09.13.005",
-      "sku": "GZJ-JS-08000-01",
+      "sku": "GZJ-JS-08000",
       "name_th": "กรรไกรตัดกิ่งไม้ ขนาด 8 นิ้ว สีทอง บรรจุ 8 ชิ้น/กล่อง",
+      "name_th_short": "กรรไกรตัดกิ่งไม้",
       "name_cn": "8”金色果枝剪（8把/盒）YT-247028 / 8",
       "price": 132,
       "image": "/placeholder.svg",
@@ -96,10 +95,8 @@
       "category_code": "GZJ",
       "material_cn": "金色",
       "material_code": "JS",
-      "spec_number": "08000-01",
-      "row_no": 643,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "08000",
+      "row_no": 643
     }
   ]
 }

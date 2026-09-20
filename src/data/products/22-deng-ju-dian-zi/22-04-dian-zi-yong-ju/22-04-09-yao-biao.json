@@ -10,7 +10,8 @@
       "slug": "22-04-09-001",
       "code": "22.04.09.001",
       "sku": "ZAB-RS-500V",
-      "name_th": "เมกโอห์มมิเตอร์/เครื่องวัดความต้านทานดิน Rongshun 500V",
+      "name_th": "เมกโอห์มมิเตอร์/เครื่องวัดความต้านทานฉนวน (เมกเกอร์) Rongshun 500V",
+      "name_th_short": "เมกเกอร์วัดฉนวน",
       "name_cn": "兆欧表/摇表(嵘顺) 500V",
       "price": 912,
       "image": "/placeholder.svg",
@@ -33,16 +34,15 @@
       "material_cn": "嵘顺系列",
       "material_code": "RS",
       "spec_number": "500V",
-      "row_no": 115,
-      "col_o": null,
-      "col_r": null
+      "row_no": 115
     },
     {
       "id": "22-04-09-002",
       "slug": "22-04-09-002",
       "code": "22.04.09.002",
       "sku": "ZAB-RS-1000V",
-      "name_th": "เมกโอห์มมิเตอร์/เครื่องวัดความต้านทานดิน Rongshun 1000V",
+      "name_th": "เมกโอห์มมิเตอร์/เครื่องวัดความต้านทานฉนวน (เมกเกอร์) Rongshun 1000V",
+      "name_th_short": "เมกเกอร์วัดฉนวน",
       "name_cn": "兆欧表/摇表(嵘顺）1000V",
       "price": 984,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "嵘顺系列",
       "material_code": "RS",
       "spec_number": "1000V",
-      "row_no": 116,
-      "col_o": null,
-      "col_r": null
+      "row_no": 116
     }
   ]
 }

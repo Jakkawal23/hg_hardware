@@ -11,6 +11,7 @@
       "code": "19.06.03.009",
       "sku": "SXJSF-GY-2JT-999102",
       "name_th": "ชุดแกนน้ำเข้าชักโครกแรงดันสูง Jinliwang เซ็ต 2 ชิ้น",
+      "name_th_short": "ชุดแกนน้ำเข้าชักโครก",
       "name_cn": "金力王水箱高压进水阀二件套-JLW.999102",
       "price": 60,
       "image": "/placeholder.svg",
@@ -32,10 +33,8 @@
       "category_code": "SXJSF",
       "material_cn": "高压二件套",
       "material_code": "GY-2JT",
-      "spec_number": "999102.0",
-      "row_no": 17,
-      "col_o": null,
-      "col_r": null
+      "spec_number": 999102,
+      "row_no": 17
     },
     {
       "id": "19-06-03-010",
@@ -43,6 +42,7 @@
       "code": "19.06.03.010",
       "sku": "SXJSF-GY-3JT-999103",
       "name_th": "ชุดแกนน้ำเข้าชักโครกแรงดันสูง Jinliwang เซ็ต 3 ชิ้น",
+      "name_th_short": "ชุดแกนน้ำเข้าชักโครก",
       "name_cn": "金力王水箱高压进水阀三件套-JLW.999103",
       "price": 144,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "SXJSF",
       "material_cn": "高压三件套",
       "material_code": "GY-3JT",
-      "spec_number": "999103.0",
-      "row_no": 18,
-      "col_o": null,
-      "col_r": null
+      "spec_number": 999103,
+      "row_no": 18
     }
   ]
 }

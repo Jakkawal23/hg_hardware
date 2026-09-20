@@ -11,6 +11,7 @@
       "code": "17.05.02.004",
       "sku": "DZC-YJZ-14-250",
       "name_th": "ดอกสกัดแหลมก้านกลม 14x250",
+      "name_th_short": "ดอกสกัดแหลมก้านกลม 14",
       "name_cn": "圆柄尖凿14*250",
       "price": 45.6,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "圆柄尖凿",
       "material_code": "YJZ",
       "spec_number": "14-250",
-      "row_no": 300,
-      "col_o": null,
-      "col_r": null
+      "row_no": 300
     },
     {
       "id": "17-05-02-005",
@@ -43,6 +42,7 @@
       "code": "17.05.02.005",
       "sku": "DZC-YBZ-14-250",
       "name_th": "ดอกสกัดแบนก้านกลม 14x250",
+      "name_th_short": "ดอกสกัดแบนก้านกลม 14",
       "name_cn": "圆柄扁凿14*250",
       "price": 45.6,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "圆柄扁凿",
       "material_code": "YBZ",
       "spec_number": "14-250",
-      "row_no": 301,
-      "col_o": null,
-      "col_r": null
+      "row_no": 301
     }
   ]
 }

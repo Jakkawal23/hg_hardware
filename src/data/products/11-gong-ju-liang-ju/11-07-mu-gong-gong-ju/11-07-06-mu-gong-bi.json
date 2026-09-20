@@ -9,8 +9,9 @@
       "id": "11-07-06-007",
       "slug": "11-07-06-007",
       "code": "11.07.06.007",
-      "sku": "MGQB-SC-00000-01",
+      "sku": "MGQB-SC-00000",
       "name_th": "ดินสอเขียนไม้ ยี่ห้อ Shancheng บรรจุ 100 แท่ง/กล่อง",
+      "name_th_short": "ดินสอช่างไม้",
       "name_cn": "木工铅笔 山城（100支/盒）",
       "price": 3,
       "image": "/placeholder.svg",
@@ -32,10 +33,8 @@
       "category_code": "MGQB",
       "material_cn": "山城",
       "material_code": "SC",
-      "spec_number": "00000-01",
-      "row_no": 545,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000",
+      "row_no": 545
     },
     {
       "id": "11-07-06-011",
@@ -43,6 +42,7 @@
       "code": "11.07.06.011",
       "sku": "MGQB-DGZ-00000-01",
       "name_th": "ดินสอเขียนไม้ รุ่นด้ามใหญ่ ยี่ห้อ Hao บรรจุ 72 แท่ง/กล่อง (1)",
+      "name_th_short": "ดินสอช่างไม้",
       "name_cn": "木工铅笔大个子 好（72支/盒）",
       "price": null,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "大个子",
       "material_code": "DGZ",
       "spec_number": "00000-01",
-      "row_no": 546,
-      "col_o": null,
-      "col_r": null
+      "row_no": 546
     },
     {
       "id": "11-07-06-012",
@@ -75,6 +73,7 @@
       "code": "11.07.06.012",
       "sku": "MGQB-DGZ-00000-02",
       "name_th": "ดินสอเขียนไม้ รุ่นด้ามใหญ่ ยี่ห้อ Hao บรรจุ 72 แท่ง/กล่อง (2)",
+      "name_th_short": "ดินสอช่างไม้",
       "name_cn": "木工铅笔大个子 好（72支/盒）",
       "price": 4.32,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "大个子",
       "material_code": "DGZ",
       "spec_number": "00000-02",
-      "row_no": 547,
-      "col_o": null,
-      "col_r": null
+      "row_no": 547
     }
   ]
 }

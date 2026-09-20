@@ -9,8 +9,9 @@
       "id": "12-11-01-020",
       "slug": "12-11-01-020",
       "code": "12.11.01.020",
-      "sku": "DB-LY-01-01",
+      "sku": "DB-LY-01",
       "name_th": "ไขควงวัดไฟ 2 ระบบ",
+      "name_th_short": "ไขควงวัดไฟ 2 ระบบ",
       "name_cn": "两用电笔（15把/盒）YT-700606",
       "price": 39.6,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "DB",
       "material_cn": "两用",
       "material_code": "LY",
-      "spec_number": "01-01",
-      "row_no": 121,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "01",
+      "row_no": 121
     },
     {
       "id": "12-11-01-021",
       "slug": "12-11-01-021",
       "code": "12.11.01.021",
-      "sku": "CDB-QCY-01-01",
+      "sku": "CDB-QCY-01",
       "name_th": "ไขควงวัดไฟสำหรับรถยนต์",
+      "name_th_short": "ไขควงวัดไฟรถยนต์",
       "name_cn": "汽车用测电笔（10把/盒）YT-700601",
       "price": 74.4,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "CDB",
       "material_cn": "汽车用",
       "material_code": "QCY",
-      "spec_number": "01-01",
-      "row_no": 122,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "01",
+      "row_no": 122
     },
     {
       "id": "12-11-01-022",
       "slug": "12-11-01-022",
       "code": "12.11.01.022",
-      "sku": "CDB-PT-01-01",
+      "sku": "CDB-PT-01",
       "name_th": "ไขควงวัดไฟขนาดเล็ก",
+      "name_th_short": "ไขควงวัดไฟขนาดเล็ก",
       "name_cn": "普通小测电笔（24把/盒）YT-10709",
       "price": 15.6,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "CDB",
       "material_cn": "普通",
       "material_code": "PT",
-      "spec_number": "01-01",
-      "row_no": 123,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "01",
+      "row_no": 123
     },
     {
       "id": "12-11-01-024",
       "slug": "12-11-01-024",
       "code": "12.11.01.024",
-      "sku": "DB-BDD-711-01",
+      "sku": "DB-BDD-711",
       "name_th": "ไขควงวัดไฟ รุ่น 711 (ไม่มีไฟ)",
+      "name_th_short": "ไขควงวัดไฟไม่มีไฟ",
       "name_cn": "711不带灯电笔（24把/盒）YT-10711",
       "price": 26.4,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "DB",
       "material_cn": "不带灯",
       "material_code": "BDD",
-      "spec_number": "711-01",
-      "row_no": 124,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "711",
+      "row_no": 124
     },
     {
       "id": "12-11-01-025",
       "slug": "12-11-01-025",
       "code": "12.11.01.025",
-      "sku": "DB-GY-8002-01",
+      "sku": "DB-GY-8002",
       "name_th": "ไขควงวัดไฟ Shike รุ่น 8002 (ระบบสัมผัส)",
+      "name_th_short": "ไขควงวัดไฟ Shike",
       "name_cn": "世克电笔 8002（感应）24支/盒",
       "price": 24,
       "image": "/placeholder.svg",
@@ -160,10 +157,8 @@
       "category_code": "DB",
       "material_cn": "感应",
       "material_code": "GY",
-      "spec_number": "8002-01",
-      "row_no": 125,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "8002",
+      "row_no": 125
     }
   ]
 }

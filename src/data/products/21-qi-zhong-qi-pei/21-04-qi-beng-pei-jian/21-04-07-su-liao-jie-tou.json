@@ -9,8 +9,9 @@
       "id": "21-04-07-007",
       "slug": "21-04-07-007",
       "code": "21.04.07.007",
-      "sku": "SLJT-DX-LAS-0810",
+      "sku": "SLJT-DX-LAS-8",
       "name_th": "ข้อต่อลด/เพิ่มขนาดพลาสติกสำหรับสายลม 8x10 มม. สีฟ้า",
+      "name_th_short": "ข้อต่อลดสายลม",
       "name_cn": "大小气泵塑料接头 8*10 蓝色",
       "price": 7.2,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "SLJT",
       "material_cn": "大小接头蓝色",
       "material_code": "DX-LAS",
-      "spec_number": "0810",
-      "row_no": 182,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "8",
+      "row_no": 182
     },
     {
       "id": "21-04-07-009",
       "slug": "21-04-07-009",
       "code": "21.04.07.009",
-      "sku": "SLJT-DX-LAS-1012",
+      "sku": "SLJT-DX-LAS-10",
       "name_th": "ข้อต่อลด/เพิ่มขนาดพลาสติกสำหรับสายลม 10x12 มม. สีฟ้า",
+      "name_th_short": "ข้อต่อลดสายลม",
       "name_cn": "大小气泵塑料接头 10*12 蓝色",
       "price": 9.6,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "SLJT",
       "material_cn": "大小接头蓝色",
       "material_code": "DX-LAS",
-      "spec_number": "1012.0",
-      "row_no": 183,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10",
+      "row_no": 183
     },
     {
       "id": "21-04-07-010",
@@ -75,6 +73,7 @@
       "code": "21.04.07.010",
       "sku": "ZTJT-PU-LAS-08",
       "name_th": "ข้อต่อตรงสวมเร็วสำหรับสายลม PU-08 สีฟ้า",
+      "name_th_short": "สายลม PU สีฟ้า",
       "name_cn": "气泵管直通接头 PU-08 蓝色",
       "price": 4.8,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "PU系列蓝色",
       "material_code": "PU-LAS",
       "spec_number": "08",
-      "row_no": 184,
-      "col_o": null,
-      "col_r": null
+      "row_no": 184
     },
     {
       "id": "21-04-07-011",
@@ -107,6 +104,7 @@
       "code": "21.04.07.011",
       "sku": "ZTJT-PU-LAS-10",
       "name_th": "ข้อต่อตรงสวมเร็วสำหรับสายลม PU-10 สีฟ้า",
+      "name_th_short": "สายลม PU สีฟ้า",
       "name_cn": "气泵管直通接头 PU-10 蓝色",
       "price": 6,
       "image": "/placeholder.svg",
@@ -128,10 +126,8 @@
       "category_code": "ZTJT",
       "material_cn": "PU系列蓝色",
       "material_code": "PU-LAS",
-      "spec_number": "10.0",
-      "row_no": 185,
-      "col_o": null,
-      "col_r": null
+      "spec_number": 10,
+      "row_no": 185
     },
     {
       "id": "21-04-07-012",
@@ -139,6 +135,7 @@
       "code": "21.04.07.012",
       "sku": "ZTJT-PU-LAS-12",
       "name_th": "ข้อต่อตรงสวมเร็วสำหรับสายลม PU-12 สีฟ้า",
+      "name_th_short": "สายลม PU สีฟ้า",
       "name_cn": "气泵管直通接头 PU-12 蓝色",
       "price": 7.2,
       "image": "/placeholder.svg",
@@ -160,10 +157,8 @@
       "category_code": "ZTJT",
       "material_cn": "PU系列蓝色",
       "material_code": "PU-LAS",
-      "spec_number": "12.0",
-      "row_no": 186,
-      "col_o": null,
-      "col_r": null
+      "spec_number": 12,
+      "row_no": 186
     }
   ]
 }

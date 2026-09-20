@@ -9,8 +9,9 @@
       "id": "03-02-0001",
       "slug": "03-02-0001",
       "code": "03.02.0001",
-      "sku": "WD-DZ47PLE-1PN32A-01",
+      "sku": "WD-DZ47PLE-1PN32A",
       "name_th": "เบรกเกอร์จิ๋ว DELIXI DZ47PLE 1P+N 32A (บรรจุ 6 ตัว/กล่อง)",
+      "name_th_short": "เบรกเกอร์จิ๋ว เดลิกซี่ 32A",
       "name_cn": "德力西微断DZ47PLE 1P+N 32A（6个/盒）",
       "price": 180,
       "image": "/placeholder.svg",
@@ -32,10 +33,8 @@
       "category_code": "WD",
       "material_cn": "DZ47PLE",
       "material_code": "DZ47PLE",
-      "spec_number": "1PN32A-01",
-      "row_no": 1,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1PN32A",
+      "row_no": 1
     }
   ]
 }

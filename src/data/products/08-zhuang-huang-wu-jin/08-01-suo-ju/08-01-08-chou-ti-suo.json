@@ -9,8 +9,9 @@
       "id": "08-01-08-001",
       "slug": "08-01-08-001",
       "code": "08.01.08.001",
-      "sku": "CTS-CT-16-01",
+      "sku": "CTS-CT-16",
       "name_th": "ล็อกลิ้นชัก ขนาด 16 มม. (บรรจุ 12 ชิ้น/กล่อง)",
+      "name_th_short": "ล็อกลิ้นชัก",
       "name_cn": "抽屉锁 16（12把/盒）",
       "price": 24,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "CTS",
       "material_cn": "抽屉",
       "material_code": "CT",
-      "spec_number": "16-01",
-      "row_no": 35,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "16",
+      "row_no": 35
     },
     {
       "id": "08-01-08-002",
       "slug": "08-01-08-002",
       "code": "08.01.08.002",
-      "sku": "CTS-CT-22-01",
+      "sku": "CTS-CT-22",
       "name_th": "ล็อกลิ้นชัก ขนาด 22 มม. (บรรจุ 12 ชิ้น/กล่อง)",
+      "name_th_short": "ล็อกลิ้นชัก",
       "name_cn": "抽屉锁 22（12把/盒）",
       "price": 30,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "CTS",
       "material_cn": "抽屉",
       "material_code": "CT",
-      "spec_number": "22-01",
-      "row_no": 36,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "22",
+      "row_no": 36
     }
   ]
 }

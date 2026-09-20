@@ -9,8 +9,9 @@
       "id": "16-04-08-001",
       "slug": "16-04-08-001",
       "code": "16.04.08.001",
-      "sku": "GT-XMZX-1-01",
+      "sku": "GT-XMZX-1",
       "name_th": "ลูกกลิ้งทาสีขนาดเล็ก (ชนิดขนละเอียด)",
+      "name_th_short": "ลูกกลิ้งทาสี",
       "name_cn": "小拇指滚筒 细()",
       "price": 4.8,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "GT",
       "material_cn": "小拇指细",
       "material_code": "XMZX",
-      "spec_number": "1-01",
-      "row_no": 64,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1",
+      "row_no": 64
     },
     {
       "id": "16-04-08-002",
       "slug": "16-04-08-002",
       "code": "16.04.08.002",
-      "sku": "GT-DMZC-1-01",
-      "name_th": "ลูกกลิ้งทาสีขนาดเล็ก (ชนิดขนหนา)",
+      "sku": "GT-DMZC-1",
+      "name_th": "ลูกกลิ้งทาสีขนาดใหญ่ (ชนิดขนหนา)",
+      "name_th_short": "ลูกกลิ้งทาสี",
       "name_cn": "大拇指滚筒 粗",
       "price": 6,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "GT",
       "material_cn": "大拇指粗",
       "material_code": "DMZC",
-      "spec_number": "1-01",
-      "row_no": 65,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1",
+      "row_no": 65
     },
     {
       "id": "16-04-08-003",
       "slug": "16-04-08-003",
       "code": "16.04.08.003",
-      "sku": "GTB-DY-30-01",
+      "sku": "GTB-DY-30",
       "name_th": "ด้ามต่อลูกกลิ้งทาสี ยาว 30 ซม.",
+      "name_th_short": "ด้ามต่อลูกกลิ้งทาสี",
       "name_cn": "滚筒杆子柄 长30（ 30 )",
       "price": 10.8,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "GTB",
       "material_cn": "ด้ามยาว",
       "material_code": "DY",
-      "spec_number": "30-01",
-      "row_no": 66,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "30",
+      "row_no": 66
     },
     {
       "id": "16-04-08-004",
       "slug": "16-04-08-004",
       "code": "16.04.08.004",
-      "sku": "GTB-DY-60-01",
+      "sku": "GTB-DY-60",
       "name_th": "ด้ามต่อลูกกลิ้งทาสี ยาว 60 ซม.",
+      "name_th_short": "ด้ามต่อลูกกลิ้งทาสี",
       "name_cn": "滚筒杆子柄 60长",
       "price": 14.4,
       "image": "/placeholder.svg",
@@ -128,10 +126,8 @@
       "category_code": "GTB",
       "material_cn": "ด้ามยาว",
       "material_code": "DY",
-      "spec_number": "60-01",
-      "row_no": 67,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "60",
+      "row_no": 67
     }
   ]
 }

@@ -9,8 +9,9 @@
       "id": "05-02-04-001",
       "slug": "05-02-04-001",
       "code": "05.02.04.001",
-      "sku": "DX-ABSZMWK-02-01",
+      "sku": "DX-ABSZMWK-02",
       "name_th": "ตู้ไฟ ABS 2 วงจรแสงสว่าง/5 รู*2",
+      "name_th_short": "ตู้ไฟ ABS",
       "name_cn": "ABS塑壳电箱 两照明/五孔*2",
       "price": 612,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "DX",
       "material_cn": "ABS照明五孔",
       "material_code": "ABSZMWK",
-      "spec_number": "02-01",
-      "row_no": 118,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "02",
+      "row_no": 118
     },
     {
       "id": "05-02-04-002",
       "slug": "05-02-04-002",
       "code": "05.02.04.002",
-      "sku": "DX-ABSZMSK-02-01",
+      "sku": "DX-ABSZMSK-02",
       "name_th": "ตู้ไฟ ABS 2 วงจรแสงสว่าง/3 รู*2",
+      "name_th_short": "ตู้ไฟ ABS",
       "name_cn": "ABS塑壳电箱 两照明/3孔*2",
       "price": 600,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "DX",
       "material_cn": "ABS照明3孔",
       "material_code": "ABSZMSK",
-      "spec_number": "02-01",
-      "row_no": 119,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "02",
+      "row_no": 119
     },
     {
       "id": "05-02-04-003",
       "slug": "05-02-04-003",
       "code": "05.02.04.003",
-      "sku": "DX-380SX-01-01",
+      "sku": "DX-380SX-01",
       "name_th": "ตู้ไฟ ABS 380V 1 วงจรไฟฟ้ากำลัง/3 เฟส 4 สาย",
+      "name_th_short": "ตู้ไฟ ABS",
       "name_cn": "ABS塑壳电箱 380V一动力/三相四线",
       "price": 852,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "DX",
       "material_cn": "380V三相四线",
       "material_code": "380SX",
-      "spec_number": "01-01",
-      "row_no": 120,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "01",
+      "row_no": 120
     },
     {
       "id": "05-02-04-004",
       "slug": "05-02-04-004",
       "code": "05.02.04.004",
-      "sku": "DX-FBZM-02-01",
+      "sku": "DX-FBZM-02",
       "name_th": "ตู้ไฟ ABS ปลั๊กอุตสาหกรรมกันระเบิด/2 วงจรแสงสว่าง",
+      "name_th_short": "ตู้ไฟกันระเบิด",
       "name_cn": "ABS塑壳电箱 工业防爆插头两照明",
       "price": 705.6,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "DX",
       "material_cn": "防爆插头照明",
       "material_code": "FBZM",
-      "spec_number": "02-01",
-      "row_no": 121,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "02",
+      "row_no": 121
     },
     {
       "id": "05-02-04-005",
       "slug": "05-02-04-005",
       "code": "05.02.04.005",
-      "sku": "DX-FBZM-01-01",
+      "sku": "DX-FBZM-01",
       "name_th": "ตู้ไฟ ABS ปลั๊กอุตสาหกรรมกันระเบิด/1 วงจรแสงสว่าง",
+      "name_th_short": "ตู้ไฟกันระเบิด",
       "name_cn": "ABS塑壳电箱 工业防爆插头一照明",
       "price": 624,
       "image": "/placeholder.svg",
@@ -160,17 +157,16 @@
       "category_code": "DX",
       "material_cn": "防爆插头照明",
       "material_code": "FBZM",
-      "spec_number": "01-01",
-      "row_no": 122,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "01",
+      "row_no": 122
     },
     {
       "id": "05-02-04-006",
       "slug": "05-02-04-006",
       "code": "05.02.04.006",
-      "sku": "DX-FBDL-01-01",
+      "sku": "DX-FBDL-01",
       "name_th": "ตู้ไฟ ABS ปลั๊กอุตสาหกรรมกันระเบิด/1 วงจรไฟฟ้ากำลัง 4*32",
+      "name_th_short": "ตู้ไฟกันระเบิด",
       "name_cn": "ABS塑壳电箱 工业防爆插头一动力4*32",
       "price": 912,
       "image": "/placeholder.svg",
@@ -192,17 +188,16 @@
       "category_code": "DX",
       "material_cn": "防爆插头动力",
       "material_code": "FBDL",
-      "spec_number": "01-01",
-      "row_no": 123,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "01",
+      "row_no": 123
     },
     {
       "id": "05-02-04-007",
       "slug": "05-02-04-007",
       "code": "05.02.04.007",
-      "sku": "DX-FBDL-02-01",
+      "sku": "DX-FBDL-02",
       "name_th": "ตู้ไฟ ABS ปลั๊กอุตสาหกรรมกันระเบิด/2 วงจรไฟฟ้ากำลัง 4*32",
+      "name_th_short": "ตู้ไฟกันระเบิด",
       "name_cn": "ABS塑壳电箱 工业防爆插头两动力4*32",
       "price": 1500,
       "image": "/placeholder.svg",
@@ -224,10 +219,8 @@
       "category_code": "DX",
       "material_cn": "防爆插头动力",
       "material_code": "FBDL",
-      "spec_number": "02-01",
-      "row_no": 124,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "02",
+      "row_no": 124
     }
   ]
 }

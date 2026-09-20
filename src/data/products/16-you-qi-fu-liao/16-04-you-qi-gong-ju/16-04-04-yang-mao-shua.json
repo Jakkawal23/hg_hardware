@@ -9,8 +9,9 @@
       "id": "16-04-04-003",
       "slug": "16-04-04-003",
       "code": "16.04.04.003",
-      "sku": "YMS-ZDYZ-5-01",
+      "sku": "YMS-ZDYZ-5",
       "name_th": "แปรงขนแกะคุณภาพดี Zhengdian 5 นิ้ว สีเหลือง",
+      "name_th_short": "แปรงขนแกะ",
       "name_cn": "正点-优质正点羊毛刷 5寸 黄色",
       "price": 50.4,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "YMS",
       "material_cn": "正点优质",
       "material_code": "ZDYZ",
-      "spec_number": "5-01",
-      "row_no": 52,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "5",
+      "row_no": 52
     },
     {
       "id": "16-04-04-004",
       "slug": "16-04-04-004",
       "code": "16.04.04.004",
-      "sku": "YMS-ZMMP-2-50",
+      "sku": "YMS-ZMMP-2",
       "name_th": "แปรงขนแกะด้ามไม้ Zhumei 2 นิ้ว (50ด้าม/กล่อง)",
+      "name_th_short": "แปรงขนแกะ",
       "name_cn": "助美木柄羊毛刷 2寸（50把/盒）",
       "price": 10.8,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "YMS",
       "material_cn": "助美木柄",
       "material_code": "ZMMP",
-      "spec_number": "2-50",
-      "row_no": 53,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "2",
+      "row_no": 53
     },
     {
       "id": "16-04-04-005",
       "slug": "16-04-04-005",
       "code": "16.04.04.005",
-      "sku": "YMS-ZMMP-3-40",
+      "sku": "YMS-ZMMP-3",
       "name_th": "แปรงขนแกะด้ามไม้ Zhumei 3 นิ้ว (40ด้าม/กล่อง)",
+      "name_th_short": "แปรงขนแกะ",
       "name_cn": "助美木柄羊毛刷 3寸（40把/盒）",
       "price": 14.4,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "YMS",
       "material_cn": "助美木柄",
       "material_code": "ZMMP",
-      "spec_number": "3-40",
-      "row_no": 54,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "3",
+      "row_no": 54
     },
     {
       "id": "16-04-04-006",
       "slug": "16-04-04-006",
       "code": "16.04.04.006",
-      "sku": "YMS-ZMMP-4-20",
+      "sku": "YMS-ZMMP-4",
       "name_th": "แปรงขนแกะด้ามไม้ Zhumei 4 นิ้ว (20ด้าม/กล่อง)",
+      "name_th_short": "แปรงขนแกะ",
       "name_cn": "助美木柄羊毛刷 4寸（20把/盒）",
       "price": 19.2,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "YMS",
       "material_cn": "助美木柄",
       "material_code": "ZMMP",
-      "spec_number": "4-20",
-      "row_no": 55,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "4",
+      "row_no": 55
     },
     {
       "id": "16-04-04-007",
       "slug": "16-04-04-007",
       "code": "16.04.04.007",
-      "sku": "YMS-ZMMP-5-20",
+      "sku": "YMS-ZMMP-5",
       "name_th": "แปรงขนแกะด้ามไม้ Zhumei 5 นิ้ว (20ด้าม/กล่อง)",
+      "name_th_short": "แปรงขนแกะ",
       "name_cn": "助美木柄羊毛刷 5寸（20把/盒）",
       "price": 21.6,
       "image": "/placeholder.svg",
@@ -160,10 +157,8 @@
       "category_code": "YMS",
       "material_cn": "助美木柄",
       "material_code": "ZMMP",
-      "spec_number": "5-20",
-      "row_no": 56,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "5",
+      "row_no": 56
     }
   ]
 }

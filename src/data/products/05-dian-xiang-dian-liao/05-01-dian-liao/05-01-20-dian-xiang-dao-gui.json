@@ -9,8 +9,9 @@
       "id": "05-01-20-001",
       "slug": "05-01-20-001",
       "code": "05.01.20.001",
-      "sku": "HLX-DG08-081000-01",
+      "sku": "HLX-DG08-0.8-1000",
       "name_th": "รางปีกนกสำหรับตู้ไฟ 0.8*1000",
+      "name_th_short": "รางปีกนกตู้ไฟ",
       "name_cn": "配电箱导轨/回路箱 0.8*1000（不退换）",
       "price": 24,
       "image": "/placeholder.svg",
@@ -32,10 +33,8 @@
       "category_code": "HLX",
       "material_cn": "导轨0.8",
       "material_code": "DG08",
-      "spec_number": "081000-01",
-      "row_no": 96,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "0.8-1000",
+      "row_no": 96
     }
   ]
 }

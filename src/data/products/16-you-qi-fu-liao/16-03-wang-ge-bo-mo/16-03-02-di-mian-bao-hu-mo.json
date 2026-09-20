@@ -9,8 +9,9 @@
       "id": "16-03-02-002",
       "slug": "16-03-02-002",
       "code": "16.03.02.002",
-      "sku": "DM-LS-8-15",
+      "sku": "DM-LS-8",
       "name_th": "ฟิล์มกันรอยพื้นผิว สีเขียว หนามาตรฐาน 0.8 มม. 15เมตร",
+      "name_th_short": "ฟิล์มกันรอยพื้น สีเขียว",
       "name_cn": "地膜/地面保护膜（绿色）标准0.8厚15米",
       "price": 120,
       "image": "/placeholder.svg",
@@ -32,10 +33,8 @@
       "category_code": "DM",
       "material_cn": "绿色保护",
       "material_code": "LS",
-      "spec_number": "8-15",
-      "row_no": 39,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "8",
+      "row_no": 39
     }
   ]
 }

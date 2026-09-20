@@ -9,8 +9,9 @@
       "id": "12-03-02-017",
       "slug": "12-03-02-017",
       "code": "12.03.02.017",
-      "sku": "TT-12JCLV-10-01",
+      "sku": "TT-12JCLV-10",
       "name_th": "ลูกบล็อกยาว Shike ขนาด 1/2 นิ้ว เบอร์ 10 (เหล็ก CR-V)",
+      "name_th_short": "ลูกบล็อกยาว Shike",
       "name_cn": "世克1/2加长套筒（铬钒 ）10（12个/盒）",
       "price": 52.8,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "TT",
       "material_cn": "1/2加长铬钒",
       "material_code": "12JCLV",
-      "spec_number": "10-01",
-      "row_no": 54,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10",
+      "row_no": 54
     },
     {
       "id": "12-03-02-018",
       "slug": "12-03-02-018",
       "code": "12.03.02.018",
-      "sku": "TT-12JCLV-12-01",
+      "sku": "TT-12JCLV-12",
       "name_th": "ลูกบล็อกยาว Shike ขนาด 1/2 นิ้ว เบอร์ 12 (เหล็ก CR-V)",
+      "name_th_short": "ลูกบล็อกยาว Shike",
       "name_cn": "世克1/2加长套筒（铬钒 ）12（12个/盒）",
       "price": 52.8,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "TT",
       "material_cn": "1/2加长铬钒",
       "material_code": "12JCLV",
-      "spec_number": "12-01",
-      "row_no": 55,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "12",
+      "row_no": 55
     },
     {
       "id": "12-03-02-023",
       "slug": "12-03-02-023",
       "code": "12.03.02.023",
-      "sku": "TT-12JCLV-20-01",
+      "sku": "TT-12JCLV-20",
       "name_th": "ลูกบล็อกยาว Shike ขนาด 1/2 นิ้ว เบอร์ 20 (เหล็ก CR-V)",
+      "name_th_short": "ลูกบล็อกยาว Shike",
       "name_cn": "世克1/2加长套筒（铬钒 ）20（8个/盒）",
       "price": 67.2,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "TT",
       "material_cn": "1/2加长铬钒",
       "material_code": "12JCLV",
-      "spec_number": "20-01",
-      "row_no": 56,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "20",
+      "row_no": 56
     },
     {
       "id": "12-03-02-030",
       "slug": "12-03-02-030",
       "code": "12.03.02.030",
-      "sku": "TT-12JCLV-30-01",
+      "sku": "TT-12JCLV-30",
       "name_th": "ลูกบล็อกยาว Shike ขนาด 1/2 นิ้ว เบอร์ 30 (เหล็ก CR-V)",
+      "name_th_short": "ลูกบล็อกยาว Shike",
       "name_cn": "世克1/2加长套筒（铬钒 ）30（4个/盒）",
       "price": 151.2,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "TT",
       "material_cn": "1/2加长铬钒",
       "material_code": "12JCLV",
-      "spec_number": "30-01",
-      "row_no": 57,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "30",
+      "row_no": 57
     },
     {
       "id": "12-03-02-033",
       "slug": "12-03-02-033",
       "code": "12.03.02.033",
-      "sku": "TT-12JCLV-32-01",
+      "sku": "TT-12JCLV-32",
       "name_th": "ลูกบล็อกยาว Shike ขนาด 1/2 นิ้ว เบอร์ 32 (เหล็ก CR-V)",
+      "name_th_short": "ลูกบล็อกยาว Shike",
       "name_cn": "世克1/2加长套筒（铬钒 ）32（3个/盒）",
       "price": 153.6,
       "image": "/placeholder.svg",
@@ -160,17 +157,16 @@
       "category_code": "TT",
       "material_cn": "1/2加长铬钒",
       "material_code": "12JCLV",
-      "spec_number": "32-01",
-      "row_no": 58,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "32",
+      "row_no": 58
     },
     {
       "id": "12-03-02-058",
       "slug": "12-03-02-058",
       "code": "12.03.02.058",
-      "sku": "TT-GDC-01-01",
+      "sku": "TT-GDC-01",
       "name_th": "ชุดลูกบล็อกคุณภาพสูง",
+      "name_th_short": "ชุดลูกบล็อกคุณภาพสูง",
       "name_cn": "高档成套套筒",
       "price": 780,
       "image": "/placeholder.svg",
@@ -192,10 +188,8 @@
       "category_code": "TT",
       "material_cn": "高档成套",
       "material_code": "GDC",
-      "spec_number": "01-01",
-      "row_no": 59,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "01",
+      "row_no": 59
     }
   ]
 }

@@ -11,6 +11,7 @@
       "code": "22.04.01.004",
       "sku": "CDB-CG-DK-618",
       "name_th": "ไขควงเช็คไฟเหล็กกล้าล้วน รุ่น 618 แบรนด์ Hufan/Kangbang",
+      "name_th_short": "ไขควงเช็คไฟเหล็ก",
       "name_cn": "纯钢吊卡电笔 618(沪帆）（康邦）",
       "price": 13.2,
       "image": "/placeholder.svg",
@@ -32,10 +33,8 @@
       "category_code": "CDB",
       "material_cn": "纯钢吊卡",
       "material_code": "CG-DK",
-      "spec_number": "618.0",
-      "row_no": 88,
-      "col_o": null,
-      "col_r": null
+      "spec_number": 618,
+      "row_no": 88
     },
     {
       "id": "22-04-01-005",
@@ -43,6 +42,7 @@
       "code": "22.04.01.005",
       "sku": "CDB-DG-LED-2688",
       "name_th": "ไขควงเช็คไฟ LED มัลติฟังก์ชันไฟสี รุ่น 2688 (20 ด้าม/กล่อง)",
+      "name_th_short": "ไขควงเช็คไฟ LED",
       "name_cn": "多功能LED彩光测电笔 2688（20支/盒）",
       "price": 30,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "CDB",
       "material_cn": "多功能LED彩光",
       "material_code": "DG-LED",
-      "spec_number": "2688.0",
-      "row_no": 89,
-      "col_o": null,
-      "col_r": null
+      "spec_number": 2688,
+      "row_no": 89
     }
   ]
 }

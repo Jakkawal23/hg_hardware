@@ -9,8 +9,9 @@
       "id": "01-04-05-002",
       "slug": "01-04-05-002",
       "code": "01.04.05.002",
-      "sku": "MD-HT-0413-01",
+      "sku": "MD-HT-4-13",
       "name_th": "รีเวทป๊อป Hongting 4*13 (แพ็ค 1,000 ตัว)",
+      "name_th_short": "รีเวทป๊อป",
       "name_cn": "宏挺抽芯铆钉4*13（1000装） Hongting 4 * 13 (1,000 )",
       "price": 192,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "MD",
       "material_cn": "宏挺",
       "material_code": "HT",
-      "spec_number": "0413-01",
-      "row_no": 324,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "4-13",
+      "row_no": 324
     },
     {
       "id": "01-04-05-003",
       "slug": "01-04-05-003",
       "code": "01.04.05.003",
-      "sku": "MD-416-0416-01",
+      "sku": "MD-PT-4-16",
       "name_th": "รีเวทป๊อป 4*16 (แพ็ค 800 ตัว)",
+      "name_th_short": "รีเวทป๊อป",
       "name_cn": "抽芯铆钉4*16（800装） 4*16 ( 800)",
       "price": 198,
       "image": "/placeholder.svg",
@@ -63,18 +63,17 @@
       "category_cn": "铆钉",
       "category_code": "MD",
       "material_cn": "4*16",
-      "material_code": "416.0",
-      "spec_number": "0416-01",
-      "row_no": 325,
-      "col_o": null,
-      "col_r": null
+      "material_code": "PT",
+      "spec_number": "4-16",
+      "row_no": 325
     },
     {
       "id": "01-04-05-013",
       "slug": "01-04-05-013",
       "code": "01.04.05.013",
-      "sku": "MD-HT-0516-01",
+      "sku": "MD-HT-5-16",
       "name_th": "รีเวทป๊อป Hongting 5*16",
+      "name_th_short": "รีเวทป๊อป",
       "name_cn": "宏挺铆钉5*16",
       "price": 0.32,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "MD",
       "material_cn": "宏挺",
       "material_code": "HT",
-      "spec_number": "0516-01",
-      "row_no": 326,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "5-16",
+      "row_no": 326
     },
     {
       "id": "01-04-05-018",
       "slug": "01-04-05-018",
       "code": "01.04.05.018",
-      "sku": "MD-T-0408-01",
+      "sku": "MD-T-4-8",
       "name_th": "รีเวทเหล็ก 4*8",
+      "name_th_short": "รีเวทเหล็ก",
       "name_cn": "铁铆钉4*8( 4*8)",
       "price": 48,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "MD",
       "material_cn": "铁",
       "material_code": "T",
-      "spec_number": "0408-01",
-      "row_no": 327,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "4-8",
+      "row_no": 327
     },
     {
       "id": "01-04-05-019",
       "slug": "01-04-05-019",
       "code": "01.04.05.019",
-      "sku": "MD-T-0410-01",
+      "sku": "MD-T-4-10",
       "name_th": "รีเวทเหล็ก 4*10",
+      "name_th_short": "รีเวทเหล็ก",
       "name_cn": "铁铆钉4*10 ( 4*10)",
       "price": 48,
       "image": "/placeholder.svg",
@@ -160,17 +157,16 @@
       "category_code": "MD",
       "material_cn": "铁",
       "material_code": "T",
-      "spec_number": "0410-01",
-      "row_no": 328,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "4-10",
+      "row_no": 328
     },
     {
       "id": "01-04-05-024",
       "slug": "01-04-05-024",
       "code": "01.04.05.024",
-      "sku": "MD-KK-0416-02",
+      "sku": "MD-KK-4-16",
       "name_th": "รีเวทป๊อปชนิดเปิด 4*16",
+      "name_th_short": "รีเวทป๊อป",
       "name_cn": "开口抽芯铆钉4*16（1000装） 4*16 ( 1000)",
       "price": 210,
       "image": "/placeholder.svg",
@@ -192,10 +188,8 @@
       "category_code": "MD",
       "material_cn": "开口",
       "material_code": "KK",
-      "spec_number": "0416-02",
-      "row_no": 329,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "4-16",
+      "row_no": 329
     }
   ]
 }

@@ -9,8 +9,9 @@
       "id": "17-07-02-004",
       "slug": "17-07-02-004",
       "code": "17.07.02.004",
-      "sku": "JBQ-LJ-0-79",
+      "sku": "JBQ-LJ-0-01",
       "name_th": "ก้านผสมปูน/สี ก้านหกเหลี่ยม (1)",
+      "name_th_short": "ก้านผสมปูน/สี ก้านหกเหลี่ยม",
       "name_cn": "六角搅拌器双山款 镀锌",
       "price": 60,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "JBQ",
       "material_cn": "六角",
       "material_code": "LJ",
-      "spec_number": "0-79",
-      "row_no": 533,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "0-01",
+      "row_no": 533
     },
     {
       "id": "17-07-02-005",
       "slug": "17-07-02-005",
       "code": "17.07.02.005",
-      "sku": "JBQ-LJ-0-80",
+      "sku": "JBQ-LJ-0-02",
       "name_th": "ก้านผสมปูน/สี ก้านหกเหลี่ยม (2)",
+      "name_th_short": "ก้านผสมปูน/สี ก้านหกเหลี่ยม",
       "name_cn": "六角搅拌器双山款 镀锌",
       "price": 48,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "JBQ",
       "material_cn": "六角",
       "material_code": "LJ",
-      "spec_number": "0-80",
-      "row_no": 534,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "0-02",
+      "row_no": 534
     }
   ]
 }

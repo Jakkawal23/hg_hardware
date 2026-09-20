@@ -9,8 +9,9 @@
       "id": "11-06-06-002",
       "slug": "11-06-06-002",
       "code": "11.06.06.002",
-      "sku": "CCQ-SLJC-00000-01",
+      "sku": "CCQ-SLJC-00000",
       "name_th": "ปืนเป่าลม พลาสติก แบบก้านยาว บรรจุ 10 ชิ้น/กล่อง",
+      "name_th_short": "ปืนเป่าลม",
       "name_cn": "塑料吹尘枪加长（10把/盒）",
       "price": 60,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "CCQ",
       "material_cn": "塑料加长",
       "material_code": "SLJC",
-      "spec_number": "00000-01",
-      "row_no": 480,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000",
+      "row_no": 480
     },
     {
       "id": "11-06-06-003",
       "slug": "11-06-06-003",
       "code": "11.06.06.003",
-      "sku": "CCQ-128-10000-01",
+      "sku": "CCQ-128-10000",
       "name_th": "ปืนเป่าลม รุ่น 128 (รหัส 100) บรรจุ 25 ชิ้น/กล่อง",
+      "name_th_short": "ปืนเป่าลม",
       "name_cn": "128吹尘枪（100）（25把/盒）YT-903002 / 128",
       "price": 120,
       "image": "/placeholder.svg",
@@ -62,19 +62,18 @@
       "last_import_date": null,
       "category_cn": "吹尘枪",
       "category_code": "CCQ",
-      "material_cn": "128.0",
-      "material_code": "128.0",
-      "spec_number": "10000-01",
-      "row_no": 481,
-      "col_o": null,
-      "col_r": null
+      "material_cn": 128,
+      "material_code": "128",
+      "spec_number": "10000",
+      "row_no": 481
     },
     {
       "id": "11-06-06-004",
       "slug": "11-06-06-004",
       "code": "11.06.06.004",
-      "sku": "CCQ-DG10-00000-01",
+      "sku": "CCQ-DG10-00000",
       "name_th": "ปืนเป่าลม รุ่น DG-10 บรรจุ 25 ชิ้น/กล่อง",
+      "name_th_short": "ปืนเป่าลม",
       "name_cn": "DG-10吹尘枪（25把/盒）YT-903004 / DG-10",
       "price": 51.6,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "CCQ",
       "material_cn": "DG-10",
       "material_code": "DG10",
-      "spec_number": "00000-01",
-      "row_no": 482,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000",
+      "row_no": 482
     },
     {
       "id": "11-06-06-005",
       "slug": "11-06-06-005",
       "code": "11.06.06.005",
-      "sku": "CCQ-SKS-00000-01",
+      "sku": "CCQ-SKS-00000",
       "name_th": "ปืนเป่าลม Shike รุ่นพรีเมียม (อลูมิเนียม) บรรจุ 10 ชิ้น/กล่อง",
+      "name_th_short": "ปืนเป่าลม",
       "name_cn": "世克 精品吹尘枪（铝合金）（10个/盒）",
       "price": 96,
       "image": "/placeholder.svg",
@@ -128,10 +126,8 @@
       "category_code": "CCQ",
       "material_cn": "世克铝合金",
       "material_code": "SKS",
-      "spec_number": "00000-01",
-      "row_no": 483,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000",
+      "row_no": 483
     }
   ]
 }

@@ -11,6 +11,7 @@
       "code": "21.04.05.001",
       "sku": "THQBG-JP-TH-8-9M",
       "name_th": "สายลมสปริง/สายลมขดพรีเมียม เบอร์ 8 ยาว 9 เมตร",
+      "name_th_short": "สายลม",
       "name_cn": "精品弹簧气泵管8# 9米",
       "price": 78,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "精品弹簧",
       "material_code": "JP-TH",
       "spec_number": "8-9M",
-      "row_no": 173,
-      "col_o": null,
-      "col_r": null
+      "row_no": 173
     }
   ]
 }

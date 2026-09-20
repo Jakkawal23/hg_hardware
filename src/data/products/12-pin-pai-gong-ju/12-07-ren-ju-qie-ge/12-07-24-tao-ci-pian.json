@@ -9,8 +9,9 @@
       "id": "12-07-24-009",
       "slug": "12-07-24-009",
       "code": "12.07.24.009",
-      "sku": "TZD-JP-120-01",
+      "sku": "TZD-JP-120",
       "name_th": "ดอกสว่านเจาะกระเบื้อง ขนาด 12 ซม.",
+      "name_th_short": "ดอกสว่านเจาะกระเบื้อง",
       "name_cn": "12厘米精品陶瓷钻（20支/盒）YT-654046",
       "price": 48,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "TZD",
       "material_cn": "精品",
       "material_code": "JP",
-      "spec_number": "120-01",
-      "row_no": 97,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "120",
+      "row_no": 97
     },
     {
       "id": "12-07-24-011",
       "slug": "12-07-24-011",
       "code": "12.07.24.011",
-      "sku": "TZD-JP-80-01",
+      "sku": "TZD-JP-80",
       "name_th": "ดอกสว่านเจาะกระเบื้อง ขนาด 8 ซม.",
+      "name_th_short": "ดอกสว่านเจาะกระเบื้อง",
       "name_cn": "8厘米精品陶瓷钻（24支/盒）YT-654044",
       "price": 30,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "TZD",
       "material_cn": "精品",
       "material_code": "JP",
-      "spec_number": "80-01",
-      "row_no": 98,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "80",
+      "row_no": 98
     },
     {
       "id": "12-07-24-012",
       "slug": "12-07-24-012",
       "code": "12.07.24.012",
-      "sku": "TZD-JP-60-01",
+      "sku": "TZD-JP-60",
       "name_th": "ดอกสว่านเจาะกระเบื้อง ขนาด 6 ซม.",
+      "name_th_short": "ดอกสว่านเจาะกระเบื้อง",
       "name_cn": "6厘米精品陶瓷钻（24支/盒）YT-654043",
       "price": 24,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "TZD",
       "material_cn": "精品",
       "material_code": "JP",
-      "spec_number": "60-01",
-      "row_no": 99,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "60",
+      "row_no": 99
     },
     {
       "id": "12-07-24-013",
       "slug": "12-07-24-013",
       "code": "12.07.24.013",
-      "sku": "TZD-JP-100-01",
+      "sku": "TZD-JP-100",
       "name_th": "ดอกสว่านเจาะกระเบื้อง ขนาด 10 ซม.",
+      "name_th_short": "ดอกสว่านเจาะกระเบื้อง",
       "name_cn": "10厘米精品陶瓷钻YT-654045",
       "price": 38.4,
       "image": "/placeholder.svg",
@@ -128,10 +126,8 @@
       "category_code": "TZD",
       "material_cn": "精品",
       "material_code": "JP",
-      "spec_number": "100-01",
-      "row_no": 100,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "100",
+      "row_no": 100
     }
   ]
 }

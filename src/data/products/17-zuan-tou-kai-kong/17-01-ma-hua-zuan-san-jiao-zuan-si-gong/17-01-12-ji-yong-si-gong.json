@@ -9,8 +9,9 @@
       "id": "17-01-12-001",
       "slug": "17-01-12-001",
       "code": "17.01.12.001",
-      "sku": "SG-XT-3-05",
+      "sku": "SG-XT-3-0.5",
       "name_th": "ต๊าปเครื่อง M3x0.5",
+      "name_th_short": "ต๊าปเครื่อง M3",
       "name_cn": "希通机用丝攻/机用丝锥 M3*0.5(10支/小盒）",
       "price": 648,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "SG",
       "material_cn": "希通",
       "material_code": "XT",
-      "spec_number": "3-05",
-      "row_no": 181,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "3-0.5",
+      "row_no": 181
     },
     {
       "id": "17-01-12-002",
       "slug": "17-01-12-002",
       "code": "17.01.12.002",
-      "sku": "SG-XT-4-07",
+      "sku": "SG-XT-4-0.7",
       "name_th": "ต๊าปเครื่อง M4x0.7",
+      "name_th_short": "ต๊าปเครื่อง M4",
       "name_cn": "希通机用丝攻/机用丝锥 M4*0.7(10支/小盒）",
       "price": 648,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "SG",
       "material_cn": "希通",
       "material_code": "XT",
-      "spec_number": "4-07",
-      "row_no": 182,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "4-0.7",
+      "row_no": 182
     },
     {
       "id": "17-01-12-003",
       "slug": "17-01-12-003",
       "code": "17.01.12.003",
-      "sku": "SG-XT-5-08",
+      "sku": "SG-XT-5-0.8",
       "name_th": "ต๊าปเครื่อง M5x0.8",
+      "name_th_short": "ต๊าปเครื่อง M5",
       "name_cn": "希通机用丝攻/机用丝锥 M5*0.8(10支/小盒）",
       "price": 702,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "SG",
       "material_cn": "希通",
       "material_code": "XT",
-      "spec_number": "5-08",
-      "row_no": 183,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "5-0.8",
+      "row_no": 183
     },
     {
       "id": "17-01-12-004",
       "slug": "17-01-12-004",
       "code": "17.01.12.004",
-      "sku": "SG-XT-6-10",
+      "sku": "SG-XT-6-1",
       "name_th": "ต๊าปเครื่อง M6x1.0",
+      "name_th_short": "ต๊าปเครื่อง M6",
       "name_cn": "希通机用丝攻/机用丝锥 M6*1.0(10支/小盒）",
       "price": 858,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "SG",
       "material_cn": "希通",
       "material_code": "XT",
-      "spec_number": "6-10",
-      "row_no": 184,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "6-1",
+      "row_no": 184
     },
     {
       "id": "17-01-12-005",
       "slug": "17-01-12-005",
       "code": "17.01.12.005",
-      "sku": "SG-XT-8-12",
+      "sku": "SG-XT-8-1.25",
       "name_th": "ต๊าปเครื่อง M8x1.25",
+      "name_th_short": "ต๊าปเครื่อง M8",
       "name_cn": "希通机用丝攻/机用丝锥 M8*1.25(10支/小盒）",
       "price": 1053.6,
       "image": "/placeholder.svg",
@@ -160,17 +157,16 @@
       "category_code": "SG",
       "material_cn": "希通",
       "material_code": "XT",
-      "spec_number": "8-12",
-      "row_no": 185,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "8-1.25",
+      "row_no": 185
     },
     {
       "id": "17-01-12-006",
       "slug": "17-01-12-006",
       "code": "17.01.12.006",
-      "sku": "SG-XT-10-15",
+      "sku": "SG-XT-10-1.5",
       "name_th": "ต๊าปเครื่อง M10x1.5",
+      "name_th_short": "ต๊าปเครื่อง M10",
       "name_cn": "希通机用丝攻/机用丝锥 M10*1.5(10支/小盒）",
       "price": 1388.4,
       "image": "/placeholder.svg",
@@ -192,17 +188,16 @@
       "category_code": "SG",
       "material_cn": "希通",
       "material_code": "XT",
-      "spec_number": "10-15",
-      "row_no": 186,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10-1.5",
+      "row_no": 186
     },
     {
       "id": "17-01-12-007",
       "slug": "17-01-12-007",
       "code": "17.01.12.007",
-      "sku": "SG-XT-12-17",
+      "sku": "SG-XT-12-1.75",
       "name_th": "ต๊าปเครื่อง M12x1.75",
+      "name_th_short": "ต๊าปเครื่อง M12",
       "name_cn": "希通机用丝攻/机用丝锥 M12*1.75(5支/小盒）",
       "price": 998.4,
       "image": "/placeholder.svg",
@@ -224,10 +219,8 @@
       "category_code": "SG",
       "material_cn": "希通",
       "material_code": "XT",
-      "spec_number": "12-17",
-      "row_no": 187,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "12-1.75",
+      "row_no": 187
     }
   ]
 }

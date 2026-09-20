@@ -9,8 +9,9 @@
       "id": "08-01-07-001",
       "slug": "08-01-07-001",
       "code": "08.01.07.001",
-      "sku": "LTS-LT-80-01",
+      "sku": "LTS-LT-80",
       "name_th": "ล็อกโซ่ ขนาด 80 ซม.",
+      "name_th_short": "ล็อกโซ่",
       "name_cn": "链条锁 80",
       "price": 60,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "LTS",
       "material_cn": "链条",
       "material_code": "LT",
-      "spec_number": "80-01",
-      "row_no": 31,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "80",
+      "row_no": 31
     },
     {
       "id": "08-01-07-002",
       "slug": "08-01-07-002",
       "code": "08.01.07.002",
-      "sku": "LTS-LT-120-01",
+      "sku": "LTS-LT-120",
       "name_th": "ล็อกโซ่ ขนาด 1.2 เมตร",
+      "name_th_short": "ล็อกโซ่",
       "name_cn": "链条锁 1.2米",
       "price": 66,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "LTS",
       "material_cn": "链条",
       "material_code": "LT",
-      "spec_number": "120-01",
-      "row_no": 32,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "120",
+      "row_no": 32
     },
     {
       "id": "08-01-07-004",
       "slug": "08-01-07-004",
       "code": "08.01.07.004",
-      "sku": "LTS-B-01-01",
+      "sku": "LTS-B-01",
       "name_th": "ล็อกโซ่หุ้มผ้า-Weitong",
+      "name_th_short": "ล็อกโซ่",
       "name_cn": "伟瞳链条锁-布",
       "price": 84,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "LTS",
       "material_cn": "布",
       "material_code": "B",
-      "spec_number": "01-01",
-      "row_no": 33,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "01",
+      "row_no": 33
     },
     {
       "id": "08-01-07-005",
       "slug": "08-01-07-005",
       "code": "08.01.07.005",
-      "sku": "LTS-LT-200-01",
+      "sku": "LTS-LT-200",
       "name_th": "ล็อกโซ่ ขนาด 2 เมตร",
+      "name_th_short": "ล็อกโซ่",
       "name_cn": "链条锁 2米",
       "price": 96,
       "image": "/placeholder.svg",
@@ -128,10 +126,8 @@
       "category_code": "LTS",
       "material_cn": "链条",
       "material_code": "LT",
-      "spec_number": "200-01",
-      "row_no": 34,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "200",
+      "row_no": 34
     }
   ]
 }

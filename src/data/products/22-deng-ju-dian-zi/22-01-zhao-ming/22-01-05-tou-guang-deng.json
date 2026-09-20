@@ -11,6 +11,7 @@
       "code": "22.01.05.001",
       "sku": "TGD-HR-FG-50W",
       "name_th": "โคมสปอตไลท์/โคมฟลัดไลท์ Hongri 50W",
+      "name_th_short": "โคมสปอตไลท์",
       "name_cn": "红日泛光灯/投光灯 50W",
       "price": 366,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "红日泛光",
       "material_code": "HR-FG",
       "spec_number": "50W",
-      "row_no": 30,
-      "col_o": null,
-      "col_r": null
+      "row_no": 30
     },
     {
       "id": "22-01-05-022",
@@ -43,6 +42,7 @@
       "code": "22.01.05.022",
       "sku": "TGD-YM-MY-50W",
       "name_th": "โคมสปอตไลท์รุ่นมด Yaming 50W",
+      "name_th_short": "โคมสปอตไลท์รุ่นมด",
       "name_cn": "亚明蚂蚁投光灯 50w",
       "price": 258,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "亚明蚂蚁",
       "material_code": "YM-MY",
       "spec_number": "50W",
-      "row_no": 31,
-      "col_o": null,
-      "col_r": null
+      "row_no": 31
     },
     {
       "id": "22-01-05-023",
@@ -75,6 +73,7 @@
       "code": "22.01.05.023",
       "sku": "TGD-YM-MY-100W",
       "name_th": "โคมสปอตไลท์รุ่นมด Yaming 100W",
+      "name_th_short": "โคมสปอตไลท์รุ่นมด",
       "name_cn": "亚明蚂蚁投光灯 100w",
       "price": 510,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "亚明蚂蚁",
       "material_code": "YM-MY",
       "spec_number": "100W",
-      "row_no": 32,
-      "col_o": null,
-      "col_r": null
+      "row_no": 32
     },
     {
       "id": "22-01-05-033",
@@ -107,6 +104,7 @@
       "code": "22.01.05.033",
       "sku": "TGD-CD-TYN-16G-1000W",
       "name_th": "โคมสปอตไลท์โซล่าเซลล์แบบชาร์จ 16 ช่อง 1000W รุ่น 666",
+      "name_th_short": "โคมสปอตไลท์โซล่าเซลล์",
       "name_cn": "充电太阳能投光灯/16格 1000W 666",
       "price": 792,
       "image": "/placeholder.svg",
@@ -129,9 +127,7 @@
       "material_cn": "充电太阳能",
       "material_code": "CD-TYN",
       "spec_number": "16G-1000W",
-      "row_no": 33,
-      "col_o": null,
-      "col_r": null
+      "row_no": 33
     },
     {
       "id": "22-01-05-034",
@@ -139,6 +135,7 @@
       "code": "22.01.05.034",
       "sku": "TGD-CD-TYN-4G-1000W",
       "name_th": "โคมสปอตไลท์โซล่าเซลล์แบบชาร์จ 4 ช่อง 1000W รุ่น 888",
+      "name_th_short": "โคมสปอตไลท์โซล่าเซลล์",
       "name_cn": "充电太阳能投光灯/4格 1000W 888",
       "price": 792,
       "image": "/placeholder.svg",
@@ -161,9 +158,7 @@
       "material_cn": "充电太阳能",
       "material_code": "CD-TYN",
       "spec_number": "4G-1000W",
-      "row_no": 34,
-      "col_o": null,
-      "col_r": null
+      "row_no": 34
     },
     {
       "id": "22-01-05-035",
@@ -171,6 +166,7 @@
       "code": "22.01.05.035",
       "sku": "TGD-YM-54NM-50W",
       "name_th": "โคมสปอตไลท์ Yaming ซีรีส์ 5054 รุ่นนาโน 50W",
+      "name_th_short": "โคมสปอตไลท์นาโน",
       "name_cn": "亚明5054投光灯50w 纳米款",
       "price": 234,
       "image": "/placeholder.svg",
@@ -193,9 +189,7 @@
       "material_cn": "亚明5054纳米",
       "material_code": "YM-54NM",
       "spec_number": "50W",
-      "row_no": 35,
-      "col_o": null,
-      "col_r": null
+      "row_no": 35
     },
     {
       "id": "22-01-05-037",
@@ -203,6 +197,7 @@
       "code": "22.01.05.037",
       "sku": "TGD-YM-54NM-200W",
       "name_th": "โคมสปอตไลท์ Yaming ซีรีส์ 5054 รุ่นนาโน 200W",
+      "name_th_short": "โคมสปอตไลท์นาโน",
       "name_cn": "亚明5054投光灯200w 纳米款",
       "price": 564,
       "image": "/placeholder.svg",
@@ -225,9 +220,7 @@
       "material_cn": "亚明5054纳米",
       "material_code": "YM-54NM",
       "spec_number": "200W",
-      "row_no": 36,
-      "col_o": null,
-      "col_r": null
+      "row_no": 36
     },
     {
       "id": "22-01-05-039",
@@ -235,6 +228,7 @@
       "code": "22.01.05.039",
       "sku": "TGD-YM-54NM-400W",
       "name_th": "โคมสปอตไลท์ Yaming ซีรีส์ 5054 รุ่นนาโน 400W",
+      "name_th_short": "โคมสปอตไลท์นาโน",
       "name_cn": "亚明5054投光灯400w 纳米款",
       "price": 1080,
       "image": "/placeholder.svg",
@@ -257,9 +251,7 @@
       "material_cn": "亚明5054纳米",
       "material_code": "YM-54NM",
       "spec_number": "400W",
-      "row_no": 37,
-      "col_o": null,
-      "col_r": null
+      "row_no": 37
     },
     {
       "id": "22-01-05-052",
@@ -267,6 +259,7 @@
       "code": "22.01.05.052",
       "sku": "TGD-YM-70COB-200W-BG",
       "name_th": "โคมสปอตไลท์ Yaming ซีรีส์ 7070 รุ่น COB 200W (แสงขาว 0.9)",
+      "name_th_short": "โคมสปอตไลท์ COB",
       "name_cn": "亚明7070系列投光灯200W COB款0.9白光",
       "price": 762,
       "image": "/placeholder.svg",
@@ -289,9 +282,7 @@
       "material_cn": "亚明7070COB",
       "material_code": "YM-70COB",
       "spec_number": "200W-BG",
-      "row_no": 38,
-      "col_o": null,
-      "col_r": null
+      "row_no": 38
     },
     {
       "id": "22-01-05-053",
@@ -299,6 +290,7 @@
       "code": "22.01.05.053",
       "sku": "TGD-YM-STCD-108-200W",
       "name_th": "โคมสปอตไลท์หิ้วชาร์จได้ Yaming ซีรีส์ 108 200W (แสงขาว)",
+      "name_th_short": "โคมสปอตไลท์หิ้วชาร์จ",
       "name_cn": "亚明108系列 手提充电投光灯200W 白光",
       "price": 744,
       "image": "/placeholder.svg",
@@ -321,9 +313,7 @@
       "material_cn": "亚明手提充电",
       "material_code": "YM-STCD",
       "spec_number": "108-200W",
-      "row_no": 39,
-      "col_o": null,
-      "col_r": null
+      "row_no": 39
     },
     {
       "id": "22-01-05-056",
@@ -331,6 +321,7 @@
       "code": "22.01.05.056",
       "sku": "TGD-YM-QG88-400W",
       "name_th": "โคมสปอตไลท์ส่องสว่างสูง Yaming รุ่น 8088 400W",
+      "name_th_short": "โคมสปอตไลท์แรงสูง",
       "name_cn": "亚明8088强光投光灯 400w",
       "price": 1140,
       "image": "/placeholder.svg",
@@ -353,9 +344,7 @@
       "material_cn": "亚明强光8088",
       "material_code": "YM-QG88",
       "spec_number": "400W",
-      "row_no": 40,
-      "col_o": null,
-      "col_r": null
+      "row_no": 40
     },
     {
       "id": "22-01-05-057",
@@ -363,6 +352,7 @@
       "code": "22.01.05.057",
       "sku": "TGD-YM-QG88-300W",
       "name_th": "โคมสปอตไลท์ส่องสว่างสูง Yaming รุ่น 8088 300W",
+      "name_th_short": "โคมสปอตไลท์แรงสูง",
       "name_cn": "亚明8088强光投光灯 300w",
       "price": 888,
       "image": "/placeholder.svg",
@@ -385,9 +375,7 @@
       "material_cn": "亚明强光8088",
       "material_code": "YM-QG88",
       "spec_number": "300W",
-      "row_no": 41,
-      "col_o": null,
-      "col_r": null
+      "row_no": 41
     },
     {
       "id": "22-01-05-058",
@@ -395,6 +383,7 @@
       "code": "22.01.05.058",
       "sku": "TGD-YM-DHB-100W",
       "name_th": "โคมสปอตไลท์หิ้วชาร์จได้รุ่นบัมเบิ้ลบี Yaming 100W",
+      "name_th_short": "โคมสปอตไลท์บัมเบิ้ลบี",
       "name_cn": "亚明大黄蜂 手提充电投光灯 100W",
       "price": 816,
       "image": "/placeholder.svg",
@@ -417,9 +406,7 @@
       "material_cn": "亚明大黄蜂",
       "material_code": "YM-DHB",
       "spec_number": "100W",
-      "row_no": 42,
-      "col_o": null,
-      "col_r": null
+      "row_no": 42
     },
     {
       "id": "22-01-05-059",
@@ -427,6 +414,7 @@
       "code": "22.01.05.059",
       "sku": "TGD-HR-STCD-200W",
       "name_th": "โคมสปอตไลท์ LED หิ้วชาร์จได้ Hongri 200W",
+      "name_th_short": "โคมสปอตไลท์ LED หิ้วชาร์จ",
       "name_cn": "红日LED手提充电投光灯 200W LED",
       "price": 1080,
       "image": "/placeholder.svg",
@@ -449,9 +437,7 @@
       "material_cn": "红日手提充电",
       "material_code": "HR-STCD",
       "spec_number": "200W",
-      "row_no": 43,
-      "col_o": null,
-      "col_r": null
+      "row_no": 43
     },
     {
       "id": "22-01-05-060",
@@ -459,6 +445,7 @@
       "code": "22.01.05.060",
       "sku": "TGD-HR-STCD-100W",
       "name_th": "โคมสปอตไลท์ LED หิ้วชาร์จได้ Hongri 100W",
+      "name_th_short": "โคมสปอตไลท์ LED หิ้วชาร์จ",
       "name_cn": "红日LED手提充电投光灯 100W LED",
       "price": 864,
       "image": "/placeholder.svg",
@@ -481,9 +468,7 @@
       "material_cn": "红日手提充电",
       "material_code": "HR-STCD",
       "spec_number": "100W",
-      "row_no": 44,
-      "col_o": null,
-      "col_r": null
+      "row_no": 44
     },
     {
       "id": "22-01-05-062",
@@ -491,6 +476,7 @@
       "code": "22.01.05.062",
       "sku": "TGD-BZX-200W",
       "name_th": "โคมสปอตไลท์/โคมฟลัดไลท์มาตรฐาน 200W",
+      "name_th_short": "โคมสปอตไลท์",
       "name_cn": "投光灯-200W",
       "price": 864,
       "image": "/placeholder.svg",
@@ -513,9 +499,7 @@
       "material_cn": "标准型",
       "material_code": "BZX",
       "spec_number": "200W",
-      "row_no": 45,
-      "col_o": null,
-      "col_r": null
+      "row_no": 45
     },
     {
       "id": "22-01-05-063",
@@ -523,6 +507,7 @@
       "code": "22.01.05.063",
       "sku": "TGD-CD-TYN-16G-1200W",
       "name_th": "โคมสปอตไลท์โซล่าเซลล์แบบชาร์จ 16 ช่อง 1200W รุ่น 666",
+      "name_th_short": "โคมสปอตไลท์โซล่าเซลล์",
       "name_cn": "充电太阳能投光灯/16格 1200W 666",
       "price": 792,
       "image": "/placeholder.svg",
@@ -545,9 +530,7 @@
       "material_cn": "充电太阳能",
       "material_code": "CD-TYN",
       "spec_number": "16G-1200W",
-      "row_no": 46,
-      "col_o": null,
-      "col_r": null
+      "row_no": 46
     },
     {
       "id": "22-01-05-064",
@@ -555,6 +538,7 @@
       "code": "22.01.05.064",
       "sku": "TGD-CD-TYN-4G-1200W",
       "name_th": "โคมสปอตไลท์โซล่าเซลล์แบบชาร์จ 4 ช่อง 1200W รุ่น 888",
+      "name_th_short": "โคมสปอตไลท์โซล่าเซลล์",
       "name_cn": "充电太阳能投光灯/4格 1200W 888",
       "price": 792,
       "image": "/placeholder.svg",
@@ -577,9 +561,7 @@
       "material_cn": "充电太阳能",
       "material_code": "CD-TYN",
       "spec_number": "4G-1200W",
-      "row_no": 47,
-      "col_o": null,
-      "col_r": null
+      "row_no": 47
     }
   ]
 }

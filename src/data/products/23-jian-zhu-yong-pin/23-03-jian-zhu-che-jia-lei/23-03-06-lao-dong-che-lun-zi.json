@@ -11,6 +11,7 @@
       "code": "23.03.06.014",
       "sku": "JL-XK-BNL-ZX-6-DX",
       "name_th": "ล้อไนลอนขาวขนาดกลางรุ่นใหม่ 6 นิ้ว (ล้อตาย/ทางเดียว)",
+      "name_th_short": "ล้อไนลอนขาว 6 นิ้ว (ล้อตาย)",
       "name_cn": "新款6寸中型白尼龙脚轮 定向",
       "price": 102,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "新款白尼龙中型",
       "material_code": "XK-BNL-ZX",
       "spec_number": "6-DX",
-      "row_no": 42,
-      "col_o": null,
-      "col_r": null
+      "row_no": 42
     },
     {
       "id": "23-03-06-015",
@@ -43,6 +42,7 @@
       "code": "23.03.06.015",
       "sku": "LDC-PJ-LS-SXL-01",
       "name_th": "อะไหล่ล้อรถเข็นปูนล้อเดี่ยว (ล้อตันสีน้ำเงิน)",
+      "name_th_short": "ล้อรถเข็นปูนล้อเดี่ยว",
       "name_cn": "（灰斗车）劳动车轮子--蓝色实心",
       "price": 396,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "蓝色实心轮",
       "material_code": "LS-SXL",
       "spec_number": "01",
-      "row_no": 43,
-      "col_o": null,
-      "col_r": null
+      "row_no": 43
     },
     {
       "id": "23-03-06-016",
@@ -75,6 +73,7 @@
       "code": "23.03.06.016",
       "sku": "LDC-PJ-MHQ-L-01",
       "name_th": "อะไหล่กะทะล้อรถเข็นปูนล้อเดี่ยว (ลายกลีบมะเฟือง)",
+      "name_th_short": "กะทะล้อรถเข็นปูน",
       "name_cn": "（灰斗车）劳动车轮子--梅花圈",
       "price": 744,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "梅花圈轮子",
       "material_code": "MHQ-L",
       "spec_number": "01",
-      "row_no": 44,
-      "col_o": null,
-      "col_r": null
+      "row_no": 44
     }
   ]
 }

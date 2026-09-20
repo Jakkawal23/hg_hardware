@@ -9,8 +9,9 @@
       "id": "13-05-01-001",
       "slug": "13-05-01-001",
       "code": "13.05.01.001",
-      "sku": "AQD-GBWDS-A08-1-01",
+      "sku": "AQD-GBWDS-A08-1",
       "name_th": "เข็มขัดนิรภัยเต็มตัว 5 จุดเชื่อมติด ไม่มีตัวซับแรงกระแทก A08",
+      "name_th_short": "เข็มขัดนิรภัยเต็มตัว 5 จุด",
       "name_cn": "安全带-国标五点式一体连接不带缓冲A08",
       "price": 312,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "AQD",
       "material_cn": "国标五点式",
       "material_code": "GBWDS-A08",
-      "spec_number": "1-01",
-      "row_no": 58,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1",
+      "row_no": 58
     },
     {
       "id": "13-05-01-002",
       "slug": "13-05-01-002",
       "code": "13.05.01.002",
-      "sku": "AQD-GBWDS-A09-1-01",
+      "sku": "AQD-GBWDS-A09-1",
       "name_th": "เข็มขัดนิรภัยเต็มตัว 5 จุดเชื่อมติด มีตัวซับแรงกระแทก A09",
+      "name_th_short": "เข็มขัดนิรภัยเต็มตัวมีตัวซับแรงกระแทก",
       "name_cn": "安全带-国标五点式一体连接带缓冲A09 - A09",
       "price": 336,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "AQD",
       "material_cn": "国标五点式",
       "material_code": "GBWDS-A09",
-      "spec_number": "1-01",
-      "row_no": 59,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1",
+      "row_no": 59
     },
     {
       "id": "13-05-01-003",
       "slug": "13-05-01-003",
       "code": "13.05.01.003",
-      "sku": "AQD-GBWDS-A33-3-01",
+      "sku": "AQD-GBWDS-A33-3",
       "name_th": "เข็มขัดนิรภัยเต็มตัว 5 จุดตะขอคู่ขนาดเล็ก 3 เมตร A33",
+      "name_th_short": "เข็มขัดนิรภัยเต็มตัวตะขอเล็ก",
       "name_cn": "安全带-国标五点式双小钩3米A33 ( - 3 A33)",
       "price": 174,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "AQD",
       "material_cn": "国标五点式",
       "material_code": "GBWDS-A33",
-      "spec_number": "3-01",
-      "row_no": 60,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "3",
+      "row_no": 60
     },
     {
       "id": "13-05-01-005",
       "slug": "13-05-01-005",
       "code": "13.05.01.005",
-      "sku": "AQD-DSDYS-XG-1-01",
+      "sku": "AQD-DSDYS-XG-1",
       "name_th": "เข็มขัดนิรภัยแบบสายเดี่ยวรัดเอว ตะขอขนาดเล็ก",
+      "name_th_short": "เข็มขัดนิรภัยรัดเอวตะขอเล็ก",
       "name_cn": "单绳单腰式安全带-小勾",
       "price": 186,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "AQD",
       "material_cn": "单绳单腰式",
       "material_code": "DSDYS-XG",
-      "spec_number": "1-01",
-      "row_no": 61,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1",
+      "row_no": 61
     },
     {
       "id": "13-05-01-012",
       "slug": "13-05-01-012",
       "code": "13.05.01.012",
-      "sku": "AQD-GBWDS-SJHY-2-01",
+      "sku": "AQD-GBWDS-SJHY-2",
       "name_th": "เข็มขัดนิรภัยเต็มตัว 5 จุดตะขอคู่ขนาดใหญ่ 2 เมตร Shiji Hengyue",
+      "name_th_short": "เข็มขัดนิรภัยเต็มตัว Shiji Hengyue",
       "name_cn": "世纪恒越安全带-国标五点式双大钩2米",
       "price": 282,
       "image": "/placeholder.svg",
@@ -160,17 +157,16 @@
       "category_code": "AQD",
       "material_cn": "国标五点式",
       "material_code": "GBWDS-SJHY",
-      "spec_number": "2-01",
-      "row_no": 62,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "2",
+      "row_no": 62
     },
     {
       "id": "13-05-01-013",
       "slug": "13-05-01-013",
       "code": "13.05.01.013",
-      "sku": "AQD-GBWDS-SJHY-3-01",
+      "sku": "AQD-GBWDS-SJHY-3",
       "name_th": "เข็มขัดนิรภัยเต็มตัว 5 จุดตะขอคู่ขนาดใหญ่ 3 เมตร Shiji Hengyue",
+      "name_th_short": "เข็มขัดนิรภัยเต็มตัว Shiji Hengyue",
       "name_cn": "世纪恒越安全带-国标五点式双大钩3米",
       "price": 312,
       "image": "/placeholder.svg",
@@ -192,10 +188,8 @@
       "category_code": "AQD",
       "material_cn": "国标五点式",
       "material_code": "GBWDS-SJHY",
-      "spec_number": "3-01",
-      "row_no": 63,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "3",
+      "row_no": 63
     }
   ]
 }

@@ -9,8 +9,9 @@
       "id": "11-02-05-002",
       "slug": "11-02-05-002",
       "code": "11.02.05.002",
-      "sku": "YTC-DD-15-01",
+      "sku": "YTC-DD-15",
       "name_th": "ค้อนหัวกลมตีเหล็ก 1.5P",
+      "name_th_short": "ค้อนหัวกลม 1.5P",
       "name_cn": "锻打圆头锤1.5P",
       "price": 84,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "YTC",
       "material_cn": "锻打",
       "material_code": "DD",
-      "spec_number": "15-01",
-      "row_no": 100,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "15",
+      "row_no": 100
     },
     {
       "id": "11-02-05-004",
       "slug": "11-02-05-004",
       "code": "11.02.05.004",
-      "sku": "YTC-DD-25-01",
+      "sku": "YTC-DD-25",
       "name_th": "ค้อนหัวกลมตีเหล็ก/ค้อนเดินสาย 2.5P",
+      "name_th_short": "ค้อนหัวกลม 2.5P",
       "name_cn": "锻打圆头锤/奶子锤 2.5P",
       "price": 276,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "YTC",
       "material_cn": "锻打",
       "material_code": "DD",
-      "spec_number": "25-01",
-      "row_no": 101,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "25",
+      "row_no": 101
     }
   ]
 }

@@ -9,8 +9,9 @@
       "id": "11-03-12-001",
       "slug": "11-03-12-001",
       "code": "11.03.12.001",
-      "sku": "JLB-KK-1922-01",
+      "sku": "JLB-KK-1922",
       "name_th": "ประแจปากตายฟรี 19-22mm",
+      "name_th_short": "ประแจปากตายฟรี 19-22mm",
       "name_cn": "开口棘轮扳手 19-22",
       "price": 132,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "JLB",
       "material_cn": "开口",
       "material_code": "KK",
-      "spec_number": "1922-01",
-      "row_no": 316,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1922",
+      "row_no": 316
     },
     {
       "id": "11-03-12-002",
       "slug": "11-03-12-002",
       "code": "11.03.12.002",
-      "sku": "JLB-JW-1922-01",
+      "sku": "JLB-JW-1922",
       "name_th": "ประแจฟรีหางแหลม 19-22mm",
+      "name_th_short": "ประแจฟรีหางแหลม 19-22mm",
       "name_cn": "尖尾棘轮扳手 19-22",
       "price": 132,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "JLB",
       "material_cn": "尖尾",
       "material_code": "JW",
-      "spec_number": "1922-01",
-      "row_no": 317,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1922",
+      "row_no": 317
     }
   ]
 }

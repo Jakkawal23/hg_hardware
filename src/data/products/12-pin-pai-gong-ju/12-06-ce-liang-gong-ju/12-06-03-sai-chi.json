@@ -9,8 +9,9 @@
       "id": "12-06-03-001",
       "slug": "12-06-03-001",
       "code": "12.06.03.001",
-      "sku": "SC-10017-01",
+      "sku": "SC-PT-100",
       "name_th": "ฟิลเลอร์เกจ Weilishi ขนาด 100*17 ใบ",
+      "name_th_short": "ฟิลเลอร์เกจ Weilishi",
       "name_cn": "(威力狮W2868B) 塞尺 100*17片",
       "price": 84,
       "image": "/placeholder.svg",
@@ -31,11 +32,9 @@
       "category_cn": "塞尺",
       "category_code": "SC",
       "material_cn": "100*17",
-      "material_code": "10017",
-      "spec_number": "01",
-      "row_no": 80,
-      "col_o": null,
-      "col_r": null
+      "material_code": "PT",
+      "spec_number": "100",
+      "row_no": 80
     },
     {
       "id": "12-06-03-002",
@@ -43,6 +42,7 @@
       "code": "12.06.03.002",
       "sku": "SC-15017-01",
       "name_th": "ฟิลเลอร์เกจ Weilishi ขนาด 150*17 ใบ",
+      "name_th_short": "ฟิลเลอร์เกจ Weilishi",
       "name_cn": "(威力狮W2869B) 塞尺 150X17片",
       "price": 138,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "150*17",
       "material_code": "15017",
       "spec_number": "01",
-      "row_no": 81,
-      "col_o": null,
-      "col_r": null
+      "row_no": 81
     }
   ]
 }

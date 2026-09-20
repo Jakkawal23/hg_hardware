@@ -11,6 +11,7 @@
       "code": "11.15.07.001",
       "sku": "GBC-BP-15000-01",
       "name_th": "ไม้บรรทัดเหล็ก ขนาด 150 มม.",
+      "name_th_short": "ไม้บรรทัดเหล็ก",
       "name_cn": "钢板尺 150mm",
       "price": 7.2,
       "image": "/placeholder.svg",
@@ -33,16 +34,15 @@
       "material_cn": "标配",
       "material_code": "BP",
       "spec_number": "15000-01",
-      "row_no": 806,
-      "col_o": null,
-      "col_r": null
+      "row_no": 806
     },
     {
       "id": "11-15-07-002",
       "slug": "11-15-07-002",
       "code": "11.15.07.002",
-      "sku": "GBC-BP-30000-01",
+      "sku": "GBC-BP-30000",
       "name_th": "ไม้บรรทัดเหล็ก ขนาด 300 มม.",
+      "name_th_short": "ไม้บรรทัดเหล็ก",
       "name_cn": "钢板尺 300",
       "price": 18,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "GBC",
       "material_cn": "标配",
       "material_code": "BP",
-      "spec_number": "30000-01",
-      "row_no": 807,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "30000",
+      "row_no": 807
     },
     {
       "id": "11-15-07-003",
       "slug": "11-15-07-003",
       "code": "11.15.07.003",
-      "sku": "GBC-BP-60000-01",
+      "sku": "GBC-BP-60000",
       "name_th": "ไม้บรรทัดเหล็ก ขนาด 600 มม.",
+      "name_th_short": "ไม้บรรทัดเหล็ก",
       "name_cn": "钢板尺 600mm",
       "price": 36,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "GBC",
       "material_cn": "标配",
       "material_code": "BP",
-      "spec_number": "60000-01",
-      "row_no": 808,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "60000",
+      "row_no": 808
     },
     {
       "id": "11-15-07-004",
       "slug": "11-15-07-004",
       "code": "11.15.07.004",
-      "sku": "GBC-BP-10000-01",
+      "sku": "GBC-BP-10000",
       "name_th": "ไม้บรรทัดเหล็ก ขนาด 1 เมตร",
+      "name_th_short": "ไม้บรรทัดเหล็ก",
       "name_cn": "钢板尺 1米",
       "price": 90,
       "image": "/placeholder.svg",
@@ -128,10 +126,8 @@
       "category_code": "GBC",
       "material_cn": "标配",
       "material_code": "BP",
-      "spec_number": "10000-01",
-      "row_no": 809,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10000",
+      "row_no": 809
     },
     {
       "id": "11-15-07-005",
@@ -139,6 +135,7 @@
       "code": "11.15.07.005",
       "sku": "GBC-BP-15000-02",
       "name_th": "ไม้บรรทัดเหล็ก ขนาด 1.5 เมตร",
+      "name_th_short": "ไม้บรรทัดเหล็ก",
       "name_cn": "钢板尺 1.5米",
       "price": 228,
       "image": "/placeholder.svg",
@@ -161,16 +158,15 @@
       "material_cn": "标配",
       "material_code": "BP",
       "spec_number": "15000-02",
-      "row_no": 810,
-      "col_o": null,
-      "col_r": null
+      "row_no": 810
     },
     {
       "id": "11-15-07-006",
       "slug": "11-15-07-006",
       "code": "11.15.07.006",
-      "sku": "GBC-BP-20000-01",
+      "sku": "GBC-BP-20000",
       "name_th": "ไม้บรรทัดเหล็ก ขนาด 2 เมตร",
+      "name_th_short": "ไม้บรรทัดเหล็ก",
       "name_cn": "钢板尺 2米",
       "price": 324,
       "image": "/placeholder.svg",
@@ -192,10 +188,8 @@
       "category_code": "GBC",
       "material_cn": "标配",
       "material_code": "BP",
-      "spec_number": "20000-01",
-      "row_no": 811,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "20000",
+      "row_no": 811
     }
   ]
 }

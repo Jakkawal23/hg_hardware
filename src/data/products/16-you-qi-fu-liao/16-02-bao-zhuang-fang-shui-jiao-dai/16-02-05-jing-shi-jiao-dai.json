@@ -9,8 +9,9 @@
       "id": "16-02-05-001",
       "slug": "16-02-05-001",
       "code": "16.02.05.001",
-      "sku": "JSJD-HY-48-18",
+      "sku": "JSJD-HY-48",
       "name_th": "เทปตีเส้นเตือนภัย ดำเหลือง Yongkuan 4.8 ซม. 18เมตร (72ม้วน/ลัง)",
+      "name_th_short": "เทปตีเส้นเตือนภัย ดำเหลือง",
       "name_cn": "永冠警示胶带 黑黄（4.8公分X18米）（72卷/箱）",
       "price": 30,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "JSJD",
       "material_cn": "黑黄",
       "material_code": "HY",
-      "spec_number": "48-18",
-      "row_no": 31,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "48",
+      "row_no": 31
     },
     {
       "id": "16-02-05-002",
       "slug": "16-02-05-002",
       "code": "16.02.05.002",
-      "sku": "JSJD-HB-48-18",
+      "sku": "JSJD-HB-48",
       "name_th": "เทปตีเส้นเตือนภัย แดงขาว Yongkuan 4.8 ซม. 18เมตร (72ม้วน/ลัง)",
+      "name_th_short": "เทปตีเส้นเตือนภัย แดงขาว",
       "name_cn": "永冠警示胶带 红白（4.8公分X18米）（72卷/箱）",
       "price": 30,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "JSJD",
       "material_cn": "红白",
       "material_code": "HB",
-      "spec_number": "48-18",
-      "row_no": 32,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "48",
+      "row_no": 32
     },
     {
       "id": "16-02-05-003",
       "slug": "16-02-05-003",
       "code": "16.02.05.003",
-      "sku": "JSJD-HOS-48-18",
+      "sku": "JSJD-HOS-48",
       "name_th": "เทปตีเส้นเตือนภัย สีแดง Yongkuan 4.8 ซม. 18เมตร (72ม้วน/ลัง)",
+      "name_th_short": "เทปตีเส้นเตือนภัย สีแดง",
       "name_cn": "永冠警示胶带 红色（4.8公分X18米）（72卷/箱）",
       "price": 30,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "JSJD",
       "material_cn": "红色",
       "material_code": "HOS",
-      "spec_number": "48-18",
-      "row_no": 33,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "48",
+      "row_no": 33
     },
     {
       "id": "16-02-05-004",
       "slug": "16-02-05-004",
       "code": "16.02.05.004",
-      "sku": "JSJD-HS-48-18",
+      "sku": "JSJD-HS-48",
       "name_th": "เทปตีเส้นเตือนภัย สีเหลือง Yongkuan 4.8 ซม. 18เมตร (72ม้วน/ลัง)",
+      "name_th_short": "เทปตีเส้นเตือนภัย สีเหลือง",
       "name_cn": "永冠警示胶带 黄色（4.8公分X18米）（72卷/箱）",
       "price": 30,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "JSJD",
       "material_cn": "黄色",
       "material_code": "HS",
-      "spec_number": "48-18",
-      "row_no": 34,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "48",
+      "row_no": 34
     },
     {
       "id": "16-02-05-005",
       "slug": "16-02-05-005",
       "code": "16.02.05.005",
-      "sku": "JSJD-LS-55-18",
+      "sku": "JSJD-LS-55",
       "name_th": "เทปตีเส้นเตือนภัย สีน้ำเงิน Yongkuan 5.5 ซม. 18เมตร (72ม้วน/ลัง)",
+      "name_th_short": "เทปตีเส้นเตือนภัย สีน้ำเงิน",
       "name_cn": "永冠警示胶带 蓝色（5.5公分X18米）（72卷/箱）",
       "price": 30,
       "image": "/placeholder.svg",
@@ -160,17 +157,16 @@
       "category_code": "JSJD",
       "material_cn": "蓝色",
       "material_code": "LS",
-      "spec_number": "55-18",
-      "row_no": 35,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "55",
+      "row_no": 35
     },
     {
       "id": "16-02-05-006",
       "slug": "16-02-05-006",
       "code": "16.02.05.006",
-      "sku": "JSJD-LSE-55-16",
+      "sku": "JSJD-LSE-55",
       "name_th": "เทปตีเส้นเตือนภัย สีเขียว Yongkuan 5.5 ซม. 16เมตร (72ม้วน/ลัง)",
+      "name_th_short": "เทปตีเส้นเตือนภัย สีเขียว",
       "name_cn": "永冠警示胶带 绿色（5.5公分X16米）（72卷/箱）",
       "price": 30,
       "image": "/placeholder.svg",
@@ -192,10 +188,8 @@
       "category_code": "JSJD",
       "material_cn": "绿色",
       "material_code": "LSE",
-      "spec_number": "55-16",
-      "row_no": 36,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "55",
+      "row_no": 36
     }
   ]
 }

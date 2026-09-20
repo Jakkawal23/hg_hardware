@@ -11,6 +11,7 @@
       "code": "21.04.06.001",
       "sku": "QBST-BZX-01",
       "name_th": "ข้อต่อสามทางท่อลม/ปั๊มลม",
+      "name_th_short": "ข้อต่อสามทางลม",
       "name_cn": "气泵三通",
       "price": 72,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "标准型",
       "material_code": "BZX",
       "spec_number": "01",
-      "row_no": 174,
-      "col_o": null,
-      "col_r": null
+      "row_no": 174
     },
     {
       "id": "21-04-06-002",
@@ -43,6 +42,7 @@
       "code": "21.04.06.002",
       "sku": "QBET-BZX-01",
       "name_th": "ข้อต่อสองทางท่อลม/ปั๊มลม",
+      "name_th_short": "ข้อต่อสองทางลม",
       "name_cn": "气泵二通",
       "price": 66,
       "image": "/placeholder.svg",
@@ -65,16 +65,15 @@
       "material_cn": "标准型",
       "material_code": "BZX",
       "spec_number": "01",
-      "row_no": 175,
-      "col_o": null,
-      "col_r": null
+      "row_no": 175
     },
     {
       "id": "21-04-06-003",
       "slug": "21-04-06-003",
       "code": "21.04.06.003",
-      "sku": "QBJT-PT-HZ-8-10",
+      "sku": "QBJT-PT-HZ-8",
       "name_th": "ข้อต่อคอปเปอร์ลมหัวเรียบ ขนาด 8 มม. (10 ตัว/กล่อง)",
+      "name_th_short": "ข้อต่อลมหัวเรียบ",
       "name_cn": "气泵接头平头（10个/盒） 8",
       "price": 26.4,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "QBJT",
       "material_cn": "平头盒装",
       "material_code": "PT-HZ",
-      "spec_number": "8-10",
-      "row_no": 176,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "8",
+      "row_no": 176
     },
     {
       "id": "21-04-06-004",
       "slug": "21-04-06-004",
       "code": "21.04.06.004",
-      "sku": "QBJT-PT-HZ-10-10",
+      "sku": "QBJT-PT-HZ-10",
       "name_th": "ข้อต่อคอปเปอร์ลมหัวเรียบ ขนาด 10 มม. (10 ตัว/กล่อง)",
+      "name_th_short": "ข้อต่อลมหัวเรียบ",
       "name_cn": "气泵接头平头（10个/盒） 10",
       "price": 33.6,
       "image": "/placeholder.svg",
@@ -128,10 +126,8 @@
       "category_code": "QBJT",
       "material_cn": "平头盒装",
       "material_code": "PT-HZ",
-      "spec_number": "10-10",
-      "row_no": 177,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10",
+      "row_no": 177
     },
     {
       "id": "21-04-06-005",
@@ -139,6 +135,7 @@
       "code": "21.04.06.005",
       "sku": "QBJT-PT-HZ-12-8",
       "name_th": "ข้อต่อคอปเปอร์ลมหัวเรียบ ขนาด 12 มม. (8 ตัว/กล่อง)",
+      "name_th_short": "ข้อต่อลมหัวเรียบ",
       "name_cn": "气泵接头平头（8个/盒） 12",
       "price": 42,
       "image": "/placeholder.svg",
@@ -161,16 +158,15 @@
       "material_cn": "平头盒装",
       "material_code": "PT-HZ",
       "spec_number": "12-8",
-      "row_no": 178,
-      "col_o": null,
-      "col_r": null
+      "row_no": 178
     },
     {
       "id": "21-04-06-006",
       "slug": "21-04-06-006",
       "code": "21.04.06.006",
-      "sku": "QBJT-JT-HZ-8-10",
+      "sku": "QBJT-JT-HZ-8",
       "name_th": "ข้อต่อคอปเปอร์ลมหัวแหลม ขนาด 8 มม. (10 ตัว/กล่อง)",
+      "name_th_short": "ข้อต่อลมหัวแหลม",
       "name_cn": "气泵接头尖头 8（10个/盒）",
       "price": 26.4,
       "image": "/placeholder.svg",
@@ -192,17 +188,16 @@
       "category_code": "QBJT",
       "material_cn": "尖头盒装",
       "material_code": "JT-HZ",
-      "spec_number": "8-10",
-      "row_no": 179,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "8",
+      "row_no": 179
     },
     {
       "id": "21-04-06-007",
       "slug": "21-04-06-007",
       "code": "21.04.06.007",
-      "sku": "QBJT-JT-HZ-10-10",
+      "sku": "QBJT-JT-HZ-10",
       "name_th": "ข้อต่อคอปเปอร์ลมหัวแหลม ขนาด 10 มม. (10 ตัว/กล่อง)",
+      "name_th_short": "ข้อต่อลมหัวแหลม",
       "name_cn": "气泵接头尖头 10（10个/盒）",
       "price": 33.6,
       "image": "/placeholder.svg",
@@ -224,10 +219,8 @@
       "category_code": "QBJT",
       "material_cn": "尖头盒装",
       "material_code": "JT-HZ",
-      "spec_number": "10-10",
-      "row_no": 180,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10",
+      "row_no": 180
     },
     {
       "id": "21-04-06-008",
@@ -235,6 +228,7 @@
       "code": "21.04.06.008",
       "sku": "QBJT-JT-HZ-12-8",
       "name_th": "ข้อต่อคอปเปอร์ลมหัวแหลม ขนาด 12 มม. (8 ตัว/กล่อง)",
+      "name_th_short": "ข้อต่อลมหัวแหลม",
       "name_cn": "气泵接头尖头 12（8个/盒）",
       "price": 42,
       "image": "/placeholder.svg",
@@ -257,9 +251,7 @@
       "material_cn": "尖头盒装",
       "material_code": "JT-HZ",
       "spec_number": "12-8",
-      "row_no": 181,
-      "col_o": null,
-      "col_r": null
+      "row_no": 181
     }
   ]
 }

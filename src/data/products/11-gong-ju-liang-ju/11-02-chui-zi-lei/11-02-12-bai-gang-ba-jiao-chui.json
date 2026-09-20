@@ -9,8 +9,9 @@
       "id": "11-02-12-001",
       "slug": "11-02-12-001",
       "code": "11.02.12.001",
-      "sku": "BJC-BM-04-01",
+      "sku": "BJC-BM-04",
       "name_th": "ค้อนปอนด์ (แปดเหลี่ยม) ด้ามไม้เหล็กขาว 4P",
+      "name_th_short": "ค้อนปอนด์ 4P",
       "name_cn": "白钢木柄八角锤 4P",
       "price": 78,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "BJC",
       "material_cn": "白钢木柄",
       "material_code": "BM",
-      "spec_number": "04-01",
-      "row_no": 118,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "04",
+      "row_no": 118
     },
     {
       "id": "11-02-12-002",
       "slug": "11-02-12-002",
       "code": "11.02.12.002",
-      "sku": "BJC-BM-06-03",
+      "sku": "BJC-BM-06",
       "name_th": "ค้อนปอนด์ (แปดเหลี่ยม) ด้ามไม้เหล็กขาว 6P",
+      "name_th_short": "ค้อนปอนด์ 6P",
       "name_cn": "白钢木柄八角锤 6P",
       "price": 90,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "BJC",
       "material_cn": "白钢木柄",
       "material_code": "BM",
-      "spec_number": "06-03",
-      "row_no": 119,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "06",
+      "row_no": 119
     },
     {
       "id": "11-02-12-003",
       "slug": "11-02-12-003",
       "code": "11.02.12.003",
-      "sku": "BJC-BM-08-03",
+      "sku": "BJC-BM-08",
       "name_th": "ค้อนปอนด์ (แปดเหลี่ยม) ด้ามไม้เหล็กขาว 8P",
+      "name_th_short": "ค้อนปอนด์ 8P",
       "name_cn": "白钢木柄八角锤 8P",
       "price": 102,
       "image": "/placeholder.svg",
@@ -96,10 +95,8 @@
       "category_code": "BJC",
       "material_cn": "白钢木柄",
       "material_code": "BM",
-      "spec_number": "08-03",
-      "row_no": 120,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "08",
+      "row_no": 120
     }
   ]
 }

@@ -9,8 +9,9 @@
       "id": "15-06-03-004",
       "slug": "15-06-03-004",
       "code": "15.06.03.004",
-      "sku": "YSJ-HW-MS-25-01",
+      "sku": "YSJ-HW-MS-25",
       "name_th": "กาวติดหินอ่อน Huanwei สีเบจ 2.5 กก.",
+      "name_th_short": "กาวติดหินอ่อนเบจ",
       "name_cn": "欢维云石胶 米色 2.5KG",
       "price": 840,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "YSJ",
       "material_cn": "欢维米色",
       "material_code": "HW-MS",
-      "spec_number": "25-01",
-      "row_no": 37,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "25",
+      "row_no": 37
     },
     {
       "id": "15-06-03-005",
       "slug": "15-06-03-005",
       "code": "15.06.03.005",
-      "sku": "YSJ-HW-TM-20-01",
+      "sku": "YSJ-HW-TM-20",
       "name_th": "กาวติดหินอ่อน Huanwei สีใส 20 ลิตร (แถมน้ำยาเร่ง 5 หลอด)",
+      "name_th_short": "กาวติดหินอ่อนใส",
       "name_cn": "欢维云石胶 透明 20L/送5支固化剂",
       "price": 1296,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "YSJ",
       "material_cn": "欢维透明",
       "material_code": "HW-TM",
-      "spec_number": "20-01",
-      "row_no": 38,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "20",
+      "row_no": 38
     },
     {
       "id": "15-06-03-007",
       "slug": "15-06-03-007",
       "code": "15.06.03.007",
-      "sku": "YSJ-HW-MS-20-01",
+      "sku": "YSJ-HW-MS-20",
       "name_th": "กาวติดหินอ่อน Huanwei สีเบจ 20 ลิตร (แถมน้ำยาเร่ง 5 หลอด)",
+      "name_th_short": "กาวติดหินอ่อนเบจ",
       "name_cn": "欢维云石胶 米色 20L/送5支固化剂",
       "price": 1104,
       "image": "/placeholder.svg",
@@ -96,10 +95,8 @@
       "category_code": "YSJ",
       "material_cn": "欢维米色",
       "material_code": "HW-MS",
-      "spec_number": "20-01",
-      "row_no": 39,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "20",
+      "row_no": 39
     }
   ]
 }

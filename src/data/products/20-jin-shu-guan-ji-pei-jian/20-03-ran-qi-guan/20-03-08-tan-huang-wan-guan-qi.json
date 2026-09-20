@@ -9,8 +9,9 @@
       "id": "20-03-08-002",
       "slug": "20-03-08-002",
       "code": "20.03.08.002",
-      "sku": "WGQ-TH-20-01",
+      "sku": "WGQ-TH-20",
       "name_th": "สปริงดัดท่อร้อยสายไฟ PVC ขนาด 20 มม.",
+      "name_th_short": "สปริงดัดท่อร้อยสายไฟ PVC",
       "name_cn": "PVC电线管弯管器/弯簧神器-弹簧 φ20",
       "price": 42,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "WGQ",
       "material_cn": "弹簧",
       "material_code": "TH",
-      "spec_number": "20-01",
-      "row_no": 1,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "20",
+      "row_no": 1
     },
     {
       "id": "20-03-08-003",
       "slug": "20-03-08-003",
       "code": "20.03.08.003",
-      "sku": "WGQ-TH-25-01",
+      "sku": "WGQ-TH-25",
       "name_th": "สปริงดัดท่อร้อยสายไฟ PVC ขนาด 25 มม.",
+      "name_th_short": "สปริงดัดท่อร้อยสายไฟ PVC",
       "name_cn": "PVC电线管弯管器/弯簧神器-弹簧 φ25",
       "price": 66,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "WGQ",
       "material_cn": "弹簧",
       "material_code": "TH",
-      "spec_number": "25-01",
-      "row_no": 2,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "25",
+      "row_no": 2
     }
   ]
 }

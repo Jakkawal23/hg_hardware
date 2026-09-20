@@ -11,6 +11,7 @@
       "code": "09.05.01.0002",
       "sku": "ZLFJ-GWFJ-5750-01",
       "name_th": "พัดลมระบายอากาศ/พัดลมโรงงาน Linggong รุ่น SF-5-4 ขนาด 750W ไฟ 220V 1 เฟส",
+      "name_th_short": "พัดลมระบายอากาศ 750W ไฟเดียว",
       "name_cn": "（岭工）SF型轴流风机/岗位风机5号 750W（SF-5-4)220V单相",
       "price": 2280,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "岗位风机",
       "material_code": "GWFJ",
       "spec_number": "5750-01",
-      "row_no": 9,
-      "col_o": null,
-      "col_r": null
+      "row_no": 9
     },
     {
       "id": "09-05-01-0003",
@@ -43,6 +42,7 @@
       "code": "09.05.01.0003",
       "sku": "ZLFJ-GWFJ-5750-02",
       "name_th": "พัดลมระบายอากาศ/พัดลมโรงงาน Linggong รุ่น SF-5-4 ขนาด 750W ไฟ 380V 3 เฟส",
+      "name_th_short": "พัดลมระบายอากาศ 750W 3เฟส",
       "name_cn": "（岭工）SF型轴流风机/岗位风机5号 750W（SF-5-4)380V三相",
       "price": 2376,
       "image": "/placeholder.svg",
@@ -65,16 +65,15 @@
       "material_cn": "岗位风机",
       "material_code": "GWFJ",
       "spec_number": "5750-02",
-      "row_no": 10,
-      "col_o": null,
-      "col_r": null
+      "row_no": 10
     },
     {
       "id": "09-05-01-0004",
       "slug": "09-05-01-0004",
       "code": "09.05.01.0004",
-      "sku": "ZLFJ-GWFJ-4150-01",
+      "sku": "ZLFJ-GWFJ-4150",
       "name_th": "พัดลมระบายอากาศ/พัดลมโรงงาน Linggong รุ่น SF-4-2 ขนาด 1.5KW ไฟ 220V 1 เฟส",
+      "name_th_short": "พัดลมระบายอากาศ 1.5KW",
       "name_cn": "（岭工）SF型轴流风机/岗位风机4号 1.5KW（SF-4-2)220V单相",
       "price": 2520,
       "image": "/placeholder.svg",
@@ -96,10 +95,8 @@
       "category_code": "ZLFJ",
       "material_cn": "岗位风机",
       "material_code": "GWFJ",
-      "spec_number": "4150-01",
-      "row_no": 11,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "4150",
+      "row_no": 11
     }
   ]
 }

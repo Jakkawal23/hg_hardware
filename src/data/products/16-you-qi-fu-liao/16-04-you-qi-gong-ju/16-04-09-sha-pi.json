@@ -9,8 +9,9 @@
       "id": "16-04-09-001",
       "slug": "16-04-09-001",
       "code": "16.04.09.001",
-      "sku": "SZ-ZDNS-180-01",
+      "sku": "SZ-ZDNS-180",
       "name_th": "กระดาษทรายน้ำเกรดพิเศษ Zhengdian เบอร์ 180",
+      "name_th_short": "กระดาษทรายน้ำ",
       "name_cn": "高级耐水/正点砂皮/砂纸 180",
       "price": 8.4,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "SZ",
       "material_cn": "正点耐水",
       "material_code": "ZDNS",
-      "spec_number": "180-01",
-      "row_no": 68,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "180",
+      "row_no": 68
     },
     {
       "id": "16-04-09-002",
       "slug": "16-04-09-002",
       "code": "16.04.09.002",
-      "sku": "SZ-ZDNS-240-01",
+      "sku": "SZ-ZDNS-240",
       "name_th": "กระดาษทรายน้ำเกรดพิเศษ Zhengdian เบอร์ 240",
+      "name_th_short": "กระดาษทรายน้ำ",
       "name_cn": "高级耐水/正点砂皮/砂纸 240",
       "price": 8.4,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "SZ",
       "material_cn": "正点耐水",
       "material_code": "ZDNS",
-      "spec_number": "240-01",
-      "row_no": 69,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "240",
+      "row_no": 69
     }
   ]
 }

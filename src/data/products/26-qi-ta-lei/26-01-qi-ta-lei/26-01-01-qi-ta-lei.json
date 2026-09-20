@@ -11,6 +11,7 @@
       "code": "26.0005",
       "sku": "KT-PJ-ZD-01",
       "name_th": "เทปพันสายและท่อน้ำยาแอร์",
+      "name_th_short": "เทปพันท่อแอร์",
       "name_cn": "空调扎带",
       "price": 12,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "扎带",
       "material_code": "ZD",
       "spec_number": "01",
-      "row_no": 1,
-      "col_o": null,
-      "col_r": null
+      "row_no": 1
     },
     {
       "id": "26-0006",
@@ -43,6 +42,7 @@
       "code": "26.0006",
       "sku": "CXGJ-BY-01",
       "name_th": "ลูกต๊าปเกลียว/เครื่องทำเกลียว",
+      "name_th_short": "ลูกต๊าปเกลียว",
       "name_cn": "板牙",
       "price": 252,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "板牙",
       "material_code": "BY",
       "spec_number": "01",
-      "row_no": 2,
-      "col_o": null,
-      "col_r": null
+      "row_no": 2
     },
     {
       "id": "26-0094",
@@ -75,6 +73,7 @@
       "code": "26.0094",
       "sku": "QMK-BZX-25",
       "name_th": "แคล้มประกับรัดท่อ/แคล้มรูปตัวยู ขนาด 25 มม.",
+      "name_th_short": "แคล้มรัดท่อ 25 มม.",
       "name_cn": "骑马卡25",
       "price": 0.6,
       "image": "/placeholder.svg",
@@ -96,10 +95,8 @@
       "category_code": "QMK",
       "material_cn": "标准型",
       "material_code": "BZX",
-      "spec_number": "25.0",
-      "row_no": 3,
-      "col_o": null,
-      "col_r": null
+      "spec_number": 25,
+      "row_no": 3
     },
     {
       "id": "26-0095",
@@ -107,6 +104,7 @@
       "code": "26.0095",
       "sku": "QMK-BZX-20",
       "name_th": "แคล้มประกับรัดท่อ/แคล้มรูปตัวยู ขนาด 20 มม.",
+      "name_th_short": "แคล้มรัดท่อ 20 มม.",
       "name_cn": "骑马卡20",
       "price": 0.48,
       "image": "/placeholder.svg",
@@ -128,10 +126,8 @@
       "category_code": "QMK",
       "material_cn": "标准型",
       "material_code": "BZX",
-      "spec_number": "20.0",
-      "row_no": 4,
-      "col_o": null,
-      "col_r": null
+      "spec_number": 20,
+      "row_no": 4
     },
     {
       "id": "26-011",
@@ -139,6 +135,7 @@
       "code": "26.011",
       "sku": "CKJ-JT-ZY-01",
       "name_th": "เครื่องเจาะรูเหล็กไฮดรอลิก (รุ่นสำหรับเหล็กฉาก)",
+      "name_th_short": "เครื่องเจาะรูเหล็ก",
       "name_cn": "冲孔机（角铁款）",
       "price": 5856,
       "image": "/placeholder.svg",
@@ -161,9 +158,7 @@
       "material_cn": "角铁专用款",
       "material_code": "JT-ZY",
       "spec_number": "01",
-      "row_no": 5,
-      "col_o": null,
-      "col_r": null
+      "row_no": 5
     },
     {
       "id": "26-0149",
@@ -171,6 +166,7 @@
       "code": "26.0149",
       "sku": "QGP-DC-KC-156",
       "name_th": "ใบตัดจ๊อยท์/ใบเพชรเซาะร่องคอนกรีต 156 มม. แบรนด์ DC",
+      "name_th_short": "ใบตัดจ๊อยท์คอนกรีต",
       "name_cn": "DC156开槽片",
       "price": 276,
       "image": "/placeholder.svg",
@@ -192,10 +188,8 @@
       "category_code": "QGP",
       "material_cn": "DC开槽片",
       "material_code": "DC-KC",
-      "spec_number": "156.0",
-      "row_no": 6,
-      "col_o": null,
-      "col_r": null
+      "spec_number": 156,
+      "row_no": 6
     },
     {
       "id": "26-0182",
@@ -203,6 +197,7 @@
       "code": "26.0182",
       "sku": "WJSJ-SUO-01",
       "name_th": "แม่กุญแจ/ชุดแม่กุญแจล็อคประตู",
+      "name_th_short": "แม่กุญแจ",
       "name_cn": "锁",
       "price": 408,
       "image": "/placeholder.svg",
@@ -225,9 +220,7 @@
       "material_cn": "锁",
       "material_code": "SUO",
       "spec_number": "01",
-      "row_no": 7,
-      "col_o": null,
-      "col_r": null
+      "row_no": 7
     },
     {
       "id": "26-0218",
@@ -235,6 +228,7 @@
       "code": "26.0218",
       "sku": "DLX-HBX-25",
       "name_th": "สายเชื่อมไฟฟ้า/สายหน้าตู้เชื่อม ขนาด 25 SQ.MM.",
+      "name_th_short": "สายเชื่อมไฟฟ้า 25 SQ.MM.",
       "name_cn": "焊把线25",
       "price": 228,
       "image": "/placeholder.svg",
@@ -256,10 +250,8 @@
       "category_code": "DLX",
       "material_cn": "焊把线",
       "material_code": "HBX",
-      "spec_number": "25.0",
-      "row_no": 8,
-      "col_o": null,
-      "col_r": null
+      "spec_number": 25,
+      "row_no": 8
     },
     {
       "id": "26-0223",
@@ -267,6 +259,7 @@
       "code": "26.0223",
       "sku": "DXC-PVC-ZR-2CM",
       "name_th": "รางเก็บสายไฟ PVC ชนิดไม่ลามไฟ ขนาด 2 ซม.",
+      "name_th_short": "รางเก็บสายไฟ PVC",
       "name_cn": "PVC阻燃型电线槽2公分",
       "price": 51.6,
       "image": "/placeholder.svg",
@@ -289,9 +282,7 @@
       "material_cn": "PVC阻燃型",
       "material_code": "PVC-ZR",
       "spec_number": "2CM",
-      "row_no": 9,
-      "col_o": null,
-      "col_r": null
+      "row_no": 9
     },
     {
       "id": "26-0302",
@@ -299,6 +290,7 @@
       "code": "26.0302",
       "sku": "GC-TB-01",
       "name_th": "แผ่นเพลทเหล็ก/แผ่นเหล็กหนา",
+      "name_th_short": "แผ่นเพลทเหล็ก",
       "name_cn": "铁板",
       "price": 360,
       "image": "/placeholder.svg",
@@ -321,9 +313,7 @@
       "material_cn": "铁板",
       "material_code": "TB",
       "spec_number": "01",
-      "row_no": 10,
-      "col_o": null,
-      "col_r": null
+      "row_no": 10
     },
     {
       "id": "26-0303",
@@ -331,6 +321,7 @@
       "code": "26.0303",
       "sku": "MC-MGB-01",
       "name_th": "แผ่นไม้สำหรับงานโครงสร้าง/ไม้แปรรูป",
+      "name_th_short": "ไม้แปรรูป",
       "name_cn": "木工板",
       "price": 648,
       "image": "/placeholder.svg",
@@ -353,9 +344,7 @@
       "material_cn": "木工板",
       "material_code": "MGB",
       "spec_number": "01",
-      "row_no": 11,
-      "col_o": null,
-      "col_r": null
+      "row_no": 11
     },
     {
       "id": "26-0321",
@@ -363,6 +352,7 @@
       "code": "26.0321",
       "sku": "JZHJ-8K-4TH",
       "name_th": "พลาสติกเซาะร่อง/มอบเสริมมุมตึก 8 รู หนา 4 มม.",
+      "name_th_short": "พลาสติกเซาะร่องมุมตึก",
       "name_cn": "8孔护角4厚",
       "price": 33.6,
       "image": "/placeholder.svg",
@@ -385,9 +375,7 @@
       "material_cn": "8孔型",
       "material_code": "8K",
       "spec_number": "4TH",
-      "row_no": 12,
-      "col_o": null,
-      "col_r": null
+      "row_no": 12
     },
     {
       "id": "26-0335",
@@ -395,6 +383,7 @@
       "code": "26.0335",
       "sku": "JLQJ-DZC-01",
       "name_th": "เครื่องชั่งน้ำหนักดิจิตอล/ตาชั่งอิเล็กทรอนิกส์",
+      "name_th_short": "เครื่องชั่งดิจิตอล",
       "name_cn": "电子秤",
       "price": 2640,
       "image": "/placeholder.svg",
@@ -417,9 +406,7 @@
       "material_cn": "电子秤",
       "material_code": "DZC",
       "spec_number": "01",
-      "row_no": 13,
-      "col_o": null,
-      "col_r": null
+      "row_no": 13
     },
     {
       "id": "26-0347",
@@ -427,6 +414,7 @@
       "code": "26.0347",
       "sku": "YB-LJG-SY-YT-914001",
       "name_th": "ปั๊มหลอดหมุนมืออลูมิเนียมหล่อ รุ่น YT-914001",
+      "name_th_short": "ปั๊มน้ำมันมือหมุน",
       "name_cn": "铝合金手摇油泵YT-914001",
       "price": 780,
       "image": "/placeholder.svg",
@@ -449,9 +437,7 @@
       "material_cn": "铝合金手摇",
       "material_code": "LJG-SY",
       "spec_number": "YT-914001",
-      "row_no": 14,
-      "col_o": null,
-      "col_r": null
+      "row_no": 14
     },
     {
       "id": "26-0378",
@@ -459,6 +445,7 @@
       "code": "26.0378",
       "sku": "HJFL-HXG-01",
       "name_th": "ครีมประสานบัดกรี/ฟลักซ์บัดกรีตลับ",
+      "name_th_short": "ครีมบัดกรี",
       "name_cn": "焊锡膏",
       "price": 21.6,
       "image": "/placeholder.svg",
@@ -481,9 +468,7 @@
       "material_cn": "焊锡膏",
       "material_code": "HXG",
       "spec_number": "01",
-      "row_no": 15,
-      "col_o": null,
-      "col_r": null
+      "row_no": 15
     },
     {
       "id": "26-052",
@@ -491,6 +476,7 @@
       "code": "26.052",
       "sku": "JNJ-HW-HX-AB-10L-BT180",
       "name_th": "กาวแห้งเร็วติดหินและซีเมนต์แห้ง AB แบรนด์ Huanwei 10L (BT-180)",
+      "name_th_short": "กาวติดหิน AB",
       "name_cn": "欢维环氧AB石材干挂胶 10L/BT-180",
       "price": 799.2,
       "image": "/placeholder.svg",
@@ -513,9 +499,7 @@
       "material_cn": "欢维环氧AB",
       "material_code": "HW-HX-AB",
       "spec_number": "10L-BT180",
-      "row_no": 16,
-      "col_o": null,
-      "col_r": null
+      "row_no": 16
     },
     {
       "id": "26-0528",
@@ -523,6 +507,7 @@
       "code": "26.0528",
       "sku": "TLJS-SKS-01",
       "name_th": "เคมีภัณฑ์/สีเคลือบและกาว ซีรีส์ 3Trees",
+      "name_th_short": "สี/กาว 3Trees",
       "name_cn": "三棵树系列",
       "price": null,
       "image": "/placeholder.svg",
@@ -545,16 +530,15 @@
       "material_cn": "三棵树系列",
       "material_code": "SKS",
       "spec_number": "01",
-      "row_no": 17,
-      "col_o": null,
-      "col_r": null
+      "row_no": 17
     },
     {
       "id": "26-0583",
       "slug": "26-0583",
       "code": "26.0583",
-      "sku": "CL-PJ-LHC-SXL-04-3008",
+      "sku": "CL-PJ-LHC-SXL-04-300-8",
       "name_th": "อะไหล่ล้อตันรถเข็นของสองล้อ-รุ่นไม่มีดุมเพลา 300x8 (Type 04)",
+      "name_th_short": "ล้อตันรถเข็น",
       "name_cn": "老虎车实心轮--04无轴板300*8",
       "price": 151.2,
       "image": "/placeholder.svg",
@@ -576,10 +560,8 @@
       "category_code": "CL-PJ",
       "material_cn": "老虎车实心轮",
       "material_code": "LHC-SXL",
-      "spec_number": "04-3008",
-      "row_no": 18,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "04-300-8",
+      "row_no": 18
     },
     {
       "id": "26-0625",
@@ -587,6 +569,7 @@
       "code": "26.0625",
       "sku": "RG-GY-SPG-10",
       "name_th": "สายยางทนแรงดันสูง/สายยางวัดระดับน้ำ เบอร์ 10",
+      "name_th_short": "สายยางวัดระดับน้ำ เบอร์ 10",
       "name_cn": "高压软管/水平管 10#",
       "price": 264,
       "image": "/placeholder.svg",
@@ -608,10 +591,8 @@
       "category_code": "RG",
       "material_cn": "高压水平管",
       "material_code": "GY-SPG",
-      "spec_number": "10.0",
-      "row_no": 19,
-      "col_o": null,
-      "col_r": null
+      "spec_number": 10,
+      "row_no": 19
     },
     {
       "id": "26-07",
@@ -619,6 +600,7 @@
       "code": "26.07",
       "sku": "JS-PJ-BLJ-JZDK-01",
       "name_th": "หัวฉีดหลอดกาวซิลิโคน (ชนิดปากใหญ่)",
+      "name_th_short": "หัวฉีดหลอดกาว",
       "name_cn": "玻璃胶胶嘴（大口）",
       "price": 10.8,
       "image": "/placeholder.svg",
@@ -641,9 +623,7 @@
       "material_cn": "玻璃胶胶嘴大口",
       "material_code": "BLJ-JZDK",
       "spec_number": "01",
-      "row_no": 20,
-      "col_o": null,
-      "col_r": null
+      "row_no": 20
     },
     {
       "id": "26-0813",
@@ -651,6 +631,7 @@
       "code": "26.0813",
       "sku": "AQS-DZ-QYS-6K",
       "name_th": "เชือกถักหัวลาก/เชือกเซฟตี้กู้ภัย (1 แพ็ค = 6 มัด)",
+      "name_th_short": "เชือกเซฟตี้กู้ภัย",
       "name_cn": "吊装牵引绳（安全绳）1包=6捆",
       "price": 804,
       "image": "/placeholder.svg",
@@ -673,16 +654,15 @@
       "material_cn": "吊装牵引绳",
       "material_code": "DZ-QYS",
       "spec_number": "6K",
-      "row_no": 21,
-      "col_o": null,
-      "col_r": null
+      "row_no": 21
     },
     {
       "id": "26-0872",
       "slug": "26-0872",
       "code": "26.0872",
       "sku": "YDCZ-FS-PC-10M-934040",
-      "name_th": "ปลากพ่วงบล็อคกันน้ำ ยาว 10 เมตร รุ่น YT-934040 (10 ตัว/ลัง)",
+      "name_th": "ปลั๊กพ่วงบล็อคกันน้ำ ยาว 10 เมตร รุ่น YT-934040 (10 ตัว/ลัง)",
+      "name_th_short": "ปลั๊กพ่วงกันน้ำ 10 เมตร",
       "name_cn": "10米防水排插（10把/件）YT-934040",
       "price": 552,
       "image": "/placeholder.svg",
@@ -705,9 +685,7 @@
       "material_cn": "防水排插",
       "material_code": "FS-PC",
       "spec_number": "10M-934040",
-      "row_no": 22,
-      "col_o": null,
-      "col_r": null
+      "row_no": 22
     },
     {
       "id": "26-0877",
@@ -715,6 +693,7 @@
       "code": "26.0877",
       "sku": "BSF-DL-XZBP-YT-255008",
       "name_th": "เครื่องมือปอกฉนวนสายเคเบิลแบบหมุน รุ่น YT-255008 (10 อัน/กล่อง)",
+      "name_th_short": "เครื่องปอกสายเคเบิล",
       "name_cn": "电缆旋转剥皮器（10把/盒）YT-255008",
       "price": 99.6,
       "image": "/placeholder.svg",
@@ -737,9 +716,7 @@
       "material_cn": "电缆旋转剥皮",
       "material_code": "DL-XZBP",
       "spec_number": "YT-255008",
-      "row_no": 23,
-      "col_o": null,
-      "col_r": null
+      "row_no": 23
     },
     {
       "id": "26-0878",
@@ -747,6 +724,7 @@
       "code": "26.0878",
       "sku": "BSF-DL-BXD-YT-255009",
       "name_th": "มีดปอกสายเคเบิลพร้อมใบมีดสำรอง รุ่น YT-255009 (10 อัน/กล่อง)",
+      "name_th_short": "มีดปอกสายเคเบิล",
       "name_cn": "电缆剥线刀（带刀片）（10把/盒）YT-255009",
       "price": 96,
       "image": "/placeholder.svg",
@@ -769,9 +747,7 @@
       "material_cn": "电缆剥线刀",
       "material_code": "DL-BXD",
       "spec_number": "YT-255009",
-      "row_no": 24,
-      "col_o": null,
-      "col_r": null
+      "row_no": 24
     },
     {
       "id": "26-0885",
@@ -779,6 +755,7 @@
       "code": "26.0885",
       "sku": "SGJ-JP-DQC-SS-5",
       "name_th": "คีมตัดปากนกแก้วเกรดเอ ด้ามสองสี 5 นิ้ว (12 อัน/กล่อง)",
+      "name_th_short": "คีมตัดปากนกแก้ว 5 นิ้ว",
       "name_cn": "5寸精品顶切钳（双色）（12把/盒）",
       "price": 54,
       "image": "/placeholder.svg",
@@ -800,10 +777,8 @@
       "category_code": "SGJ",
       "material_cn": "精品顶切钳双色",
       "material_code": "JP-DQC-SS",
-      "spec_number": "5.0",
-      "row_no": 25,
-      "col_o": null,
-      "col_r": null
+      "spec_number": 5,
+      "row_no": 25
     },
     {
       "id": "26-0934",
@@ -811,6 +786,7 @@
       "code": "26.0934",
       "sku": "FHCL-FHB-1M-28M",
       "name_th": "ผ้ากันไฟ/ผ้าใบกันความร้อนงานเชื่อม (ขนาด 1ม. * 28ม.)",
+      "name_th_short": "ผ้ากันไฟงานเชื่อม",
       "name_cn": "防火布（1M*28M)",
       "price": 1140,
       "image": "/placeholder.svg",
@@ -833,9 +809,7 @@
       "material_cn": "防火布",
       "material_code": "FHB",
       "spec_number": "1M-28M",
-      "row_no": 26,
-      "col_o": null,
-      "col_r": null
+      "row_no": 26
     },
     {
       "id": "26-0963",
@@ -843,6 +817,7 @@
       "code": "26.0963",
       "sku": "SGJ-DZJ-10G",
       "name_th": "คีมตัดอิเล็กทรอนิกส์ด้ามสปริง (10 อัน/กล่อง)",
+      "name_th_short": "คีมตัดอิเล็กทรอนิกส์",
       "name_cn": "电子剪（10把/盒）",
       "price": 84,
       "image": "/placeholder.svg",
@@ -865,9 +840,7 @@
       "material_cn": "电子剪",
       "material_code": "DZJ",
       "spec_number": "10G",
-      "row_no": 27,
-      "col_o": null,
-      "col_r": null
+      "row_no": 27
     },
     {
       "id": "26-1016",
@@ -875,6 +848,7 @@
       "code": "26.1016",
       "sku": "JL-WXL-4",
       "name_th": "อะไหล่ล้อแป้นอุตสาหกรรม ขนาด 4 นิ้ว (ล้อเป็น/หมุนรอบ)",
+      "name_th_short": "ล้ออุตสาหกรรม 4 นิ้ว",
       "name_cn": "4寸万向轮",
       "price": 150,
       "image": "/placeholder.svg",
@@ -896,10 +870,8 @@
       "category_code": "JL",
       "material_cn": "万向轮",
       "material_code": "WXL",
-      "spec_number": "4.0",
-      "row_no": 28,
-      "col_o": null,
-      "col_r": null
+      "spec_number": 4,
+      "row_no": 28
     },
     {
       "id": "26-1175",
@@ -907,6 +879,7 @@
       "code": "26.1175",
       "sku": "BGJJ-BGZ-01",
       "name_th": "โต๊ะทำงานสำนักงาน/โต๊ะคอมพิวเตอร์ไซต์งาน",
+      "name_th_short": "โต๊ะทำงาน",
       "name_cn": "办公桌",
       "price": 1740,
       "image": "/placeholder.svg",
@@ -929,16 +902,15 @@
       "material_cn": "办公桌",
       "material_code": "BGZ",
       "spec_number": "01",
-      "row_no": 29,
-      "col_o": null,
-      "col_r": null
+      "row_no": 29
     },
     {
       "id": "26-1176",
       "slug": "26-1176",
       "code": "26.1176",
-      "sku": "HDBF-JZX-BF-5950-3000",
+      "sku": "HDBF-JZX-BF-5950-3000-2800",
       "name_th": "ตู้คอนเทนเนอร์ออฟฟิศสำเร็จรูป (5950x3000x2800 มม.)",
+      "name_th_short": "ตู้คอนเทนเนอร์ออฟฟิศ",
       "name_cn": "集装箱板房（5950*3000*2800）",
       "price": null,
       "image": "/placeholder.svg",
@@ -960,10 +932,8 @@
       "category_code": "HDBF",
       "material_cn": "集装箱板房",
       "material_code": "JZX-BF",
-      "spec_number": "5950-3000",
-      "row_no": 30,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "5950-3000-2800",
+      "row_no": 30
     },
     {
       "id": "26-1177",
@@ -971,6 +941,7 @@
       "code": "26.1177",
       "sku": "JYDQ-KT-01",
       "name_th": "เครื่องปรับอากาศ/แอร์ติดผนัง",
+      "name_th_short": "แอร์",
       "name_cn": "空调",
       "price": 16800,
       "image": "/placeholder.svg",
@@ -993,9 +964,7 @@
       "material_cn": "空调",
       "material_code": "KT",
       "spec_number": "01",
-      "row_no": 31,
-      "col_o": null,
-      "col_r": null
+      "row_no": 31
     },
     {
       "id": "26-1503",
@@ -1003,6 +972,7 @@
       "code": "26.1503",
       "sku": "CLYQ-DC-PDY-YT-621237",
       "name_th": "เครื่องวัดระดับความลาดเอียงมัลติฟังก์ชันแบบแม่เหล็ก YT-621237",
+      "name_th_short": "เครื่องวัดความลาดเอียงแม่เหล็ก",
       "name_cn": "多功能带磁坡度测量仪（8把/盒）YT-621237 /",
       "price": 306,
       "image": "/placeholder.svg",
@@ -1025,9 +995,7 @@
       "material_cn": "带磁坡度仪",
       "material_code": "DC-PDY",
       "spec_number": "YT-621237",
-      "row_no": 32,
-      "col_o": null,
-      "col_r": null
+      "row_no": 32
     },
     {
       "id": "26-1545",
@@ -1035,6 +1003,7 @@
       "code": "26.1545",
       "sku": "CLYQ-ZHJC-12-300",
       "name_th": "ฉากผสม/ไม้ฉากอเนกประสงค์เหล็ก 12 นิ้ว/300 มม. YT-10628",
+      "name_th_short": "ฉากผสมเหล็ก 12 นิ้ว",
       "name_cn": "组合角尺12”/300（10把/盒）YT-10628",
       "price": 126,
       "image": "/placeholder.svg",
@@ -1057,9 +1026,7 @@
       "material_cn": "组合角尺",
       "material_code": "ZHJC",
       "spec_number": "12-300",
-      "row_no": 33,
-      "col_o": null,
-      "col_r": null
+      "row_no": 33
     },
     {
       "id": "26-1875",
@@ -1067,6 +1034,7 @@
       "code": "26.1875",
       "sku": "BGJJ-BGYZ-01",
       "name_th": "เก้าอี้ทำงานสำนักงาน/เก้าอี้พนักพิงไซต์งาน",
+      "name_th_short": "เก้าอี้ทำงาน",
       "name_cn": "办公椅子（）",
       "price": 636,
       "image": "/placeholder.svg",
@@ -1089,9 +1057,7 @@
       "material_cn": "办公椅子",
       "material_code": "BGYZ",
       "spec_number": "01",
-      "row_no": 34,
-      "col_o": null,
-      "col_r": null
+      "row_no": 34
     },
     {
       "id": "26-1916",
@@ -1099,6 +1065,7 @@
       "code": "26.1916",
       "sku": "TT-PJ-LJTT-01",
       "name_th": "ลูกบล็อกประแจกระแทกหกเหลี่ยม",
+      "name_th_short": "ลูกบล็อกหกเหลี่ยม",
       "name_cn": "六角套筒头 （ ）",
       "price": 19.2,
       "image": "/placeholder.svg",
@@ -1121,9 +1088,7 @@
       "material_cn": "六角套筒头",
       "material_code": "LJTT",
       "spec_number": "01",
-      "row_no": 35,
-      "col_o": null,
-      "col_r": null
+      "row_no": 35
     },
     {
       "id": "26-1917",
@@ -1131,6 +1096,7 @@
       "code": "26.1917",
       "sku": "PT-PJ-SZPT-01",
       "name_th": "ดอกไขควงลมปากแฉก/ดอกกระแทกปากแฉก",
+      "name_th_short": "ดอกไขควงลมปากแฉก",
       "name_cn": "十字批头 （）",
       "price": 15.6,
       "image": "/placeholder.svg",
@@ -1153,9 +1119,7 @@
       "material_cn": "十字批头",
       "material_code": "SZPT",
       "spec_number": "01",
-      "row_no": 36,
-      "col_o": null,
-      "col_r": null
+      "row_no": 36
     },
     {
       "id": "26-2008",
@@ -1163,6 +1127,7 @@
       "code": "26.2008",
       "sku": "BHM-ZN-LM-01",
       "name_th": "พลาสติกม้วนฟิล์มกันรอยแบบมีกาวในตัว (สีน้ำเงิน)",
+      "name_th_short": "ฟิล์มกันรอยสีน้ำเงิน",
       "name_cn": "自粘蓝膜",
       "price": 3240,
       "image": "/placeholder.svg",
@@ -1185,9 +1150,7 @@
       "material_cn": "自粘蓝膜",
       "material_code": "ZN-LM",
       "spec_number": "01",
-      "row_no": 37,
-      "col_o": null,
-      "col_r": null
+      "row_no": 37
     },
     {
       "id": "26-2035",
@@ -1195,6 +1158,7 @@
       "code": "26.2035",
       "sku": "CWKM-YF-ZC-01",
       "name_th": "ค่าขนส่ง/ค่าบริการจัดส่งพัสดุ",
+      "name_th_short": "ค่าขนส่ง",
       "name_cn": "运费",
       "price": 1.2,
       "image": "/placeholder.svg",
@@ -1217,9 +1181,7 @@
       "material_cn": "运费支出",
       "material_code": "YF-ZC",
       "spec_number": "01",
-      "row_no": 38,
-      "col_o": null,
-      "col_r": null
+      "row_no": 38
     },
     {
       "id": "26-2036",
@@ -1227,6 +1189,7 @@
       "code": "26.2036",
       "sku": "CWKM-VAT-SJ-01",
       "name_th": "ภาษีมูลค่าเพิ่ม / VAT",
+      "name_th_short": "ภาษี VAT",
       "name_cn": "税金 vat",
       "price": 1.2,
       "image": "/placeholder.svg",
@@ -1249,9 +1212,7 @@
       "material_cn": "增值税金",
       "material_code": "VAT-SJ",
       "spec_number": "01",
-      "row_no": 39,
-      "col_o": null,
-      "col_r": null
+      "row_no": 39
     },
     {
       "id": "26-2037",
@@ -1259,6 +1220,7 @@
       "code": "26.2037",
       "sku": "JZHJ-4K-01",
       "name_th": "พลาสติกเซาะร่อง/มอบเสริมมุมตึก แบบ 4 รู",
+      "name_th_short": "พลาสติกเซาะร่องมุมตึก",
       "name_cn": "四孔护角",
       "price": 19.2,
       "image": "/placeholder.svg",
@@ -1281,9 +1243,7 @@
       "material_cn": "四孔型",
       "material_code": "4K",
       "spec_number": "01",
-      "row_no": 40,
-      "col_o": null,
-      "col_r": null
+      "row_no": 40
     },
     {
       "id": "26-2039",
@@ -1291,6 +1251,7 @@
       "code": "26.2039",
       "sku": "CKJ-PJ-CK-MJ-10.5",
       "name_th": "แม่พิมพ์เจาะรูสลักเกลียว/ลูกตาย ขนาด 10.5 มม.",
+      "name_th_short": "แม่พิมพ์เจาะรู 10.5 มม.",
       "name_cn": "冲孔机模具10.5",
       "price": 144,
       "image": "/placeholder.svg",
@@ -1312,10 +1273,8 @@
       "category_code": "CKJ-PJ",
       "material_cn": "冲孔模具",
       "material_code": "CK-MJ",
-      "spec_number": "10.5",
-      "row_no": 41,
-      "col_o": null,
-      "col_r": null
+      "spec_number": 10.5,
+      "row_no": 41
     },
     {
       "id": "26-204",
@@ -1323,6 +1282,7 @@
       "code": "26.204",
       "sku": "CKJ-PJ-CK-MJ-9.0",
       "name_th": "แม่พิมพ์เจาะรูสลักเกลียว/ลูกตาย ขนาด 9.0 มม.",
+      "name_th_short": "แม่พิมพ์เจาะรู 9.0 มม.",
       "name_cn": "冲孔机模具9.0",
       "price": 144,
       "image": "/placeholder.svg",
@@ -1345,9 +1305,7 @@
       "material_cn": "冲孔模具",
       "material_code": "CK-MJ",
       "spec_number": "9.0",
-      "row_no": 42,
-      "col_o": null,
-      "col_r": null
+      "row_no": 42
     },
     {
       "id": "26-2063",
@@ -1355,6 +1313,7 @@
       "code": "26.2063",
       "sku": "GC-YG-12",
       "name_th": "เหล็กเส้นกลมผิวเรียบ เบอร์ 12",
+      "name_th_short": "เหล็กเส้นกลม เบอร์ 12",
       "name_cn": "12号圆钢",
       "price": 348,
       "image": "/placeholder.svg",
@@ -1376,17 +1335,16 @@
       "category_code": "GC",
       "material_cn": "圆钢",
       "material_code": "YG",
-      "spec_number": "12.0",
-      "row_no": 43,
-      "col_o": null,
-      "col_r": null
+      "spec_number": 12,
+      "row_no": 43
     },
     {
       "id": "26-2066",
       "slug": "26-2066",
       "code": "26.2066",
       "sku": "GC-GJW-8MM",
-      "name_th": "ตะกั่วตลับ/ตะแกรงเหล็กไวร์เมชหล่อพื้นหนา 8 มม.",
+      "name_th": "ตะแกรงเหล็กไวร์เมชหล่อพื้น หนา 8 มม.",
+      "name_th_short": "ตะแกรงไวร์เมช 8 มม.",
       "name_cn": "钢筋网片8MM",
       "price": 108,
       "image": "/placeholder.svg",
@@ -1409,9 +1367,7 @@
       "material_cn": "钢筋网片",
       "material_code": "GJW",
       "spec_number": "8MM",
-      "row_no": 44,
-      "col_o": null,
-      "col_r": null
+      "row_no": 44
     },
     {
       "id": "26-2073",
@@ -1419,6 +1375,7 @@
       "code": "26.2073",
       "sku": "QDGJ-KSD-ZDQ-F30",
       "name_th": "ปืนยิงตะปูลมขาเดี่ยวแบรนด์ Kashidun รุ่น F30",
+      "name_th_short": "ปืนยิงตะปูลม F30",
       "name_cn": "卡诗顿气动钉枪/直钉枪 F30",
       "price": 816,
       "image": "/placeholder.svg",
@@ -1441,9 +1398,7 @@
       "material_cn": "卡诗顿直钉枪",
       "material_code": "KSD-ZDQ",
       "spec_number": "F30",
-      "row_no": 45,
-      "col_o": null,
-      "col_r": null
+      "row_no": 45
     },
     {
       "id": "26-2074",
@@ -1451,6 +1406,7 @@
       "code": "26.2074",
       "sku": "QDGJ-KSD-ZDQ-T50",
       "name_th": "ปืนยิงตะปูลมขาเดี่ยวแบรนด์ Kashidun รุ่น T50",
+      "name_th_short": "ปืนยิงตะปูลม T50",
       "name_cn": "卡诗顿气动钉枪/直钉枪 T50",
       "price": 1536,
       "image": "/placeholder.svg",
@@ -1473,16 +1429,15 @@
       "material_cn": "卡诗顿直钉枪",
       "material_code": "KSD-ZDQ",
       "spec_number": "T50",
-      "row_no": 46,
-      "col_o": null,
-      "col_r": null
+      "row_no": 46
     },
     {
       "id": "26-2078",
       "slug": "26-2078",
       "code": "26.2078",
-      "sku": "GC-HFG-4040-2",
+      "sku": "GC-HFG-40-40-2",
       "name_th": "เหล็กกล่องดำ ขนาด 40x40 มม. หนา 2 มม.",
+      "name_th_short": "เหล็กกล่องดำ 40x40",
       "name_cn": "黑方管40*40*2",
       "price": 336,
       "image": "/placeholder.svg",
@@ -1504,10 +1459,8 @@
       "category_code": "GC",
       "material_cn": "黑方管",
       "material_code": "HFG",
-      "spec_number": "4040-2",
-      "row_no": 47,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "40-40-2",
+      "row_no": 47
     },
     {
       "id": "26-208",
@@ -1515,6 +1468,7 @@
       "code": "26.208",
       "sku": "WJ-PJ-TY-YB-6-100",
       "name_th": "แผ่นประกับเพลทเหล็กยึดเอนกประสงค์ ขนาด 6-100",
+      "name_th_short": "แผ่นประกับเพลทเหล็ก",
       "name_cn": "通用型压板6-100",
       "price": 72,
       "image": "/placeholder.svg",
@@ -1537,9 +1491,7 @@
       "material_cn": "通用型压板",
       "material_code": "TY-YB",
       "spec_number": "6-100",
-      "row_no": 48,
-      "col_o": null,
-      "col_r": null
+      "row_no": 48
     },
     {
       "id": "26-2081",
@@ -1547,6 +1499,7 @@
       "code": "26.2081",
       "sku": "CDB-WLS-DG-WS0413",
       "name_th": "ไขควงเช็คไฟมัลติฟังก์ชัน แบรนด์ Winner รุ่น WS0413",
+      "name_th_short": "ไขควงเช็คไฟ",
       "name_cn": "（威力狮WS0413）多功能电笔",
       "price": 126,
       "image": "/placeholder.svg",
@@ -1569,16 +1522,15 @@
       "material_cn": "威力狮多功能",
       "material_code": "WLS-DG",
       "spec_number": "WS0413",
-      "row_no": 49,
-      "col_o": null,
-      "col_r": null
+      "row_no": 49
     },
     {
       "id": "26-2082",
       "slug": "26-2082",
       "code": "26.2082",
-      "sku": "HJ-PJ-JH-ZT-B-350A-1932",
+      "sku": "HJ-PJ-JH-ZT-B-350A-19.3-2",
       "name_th": "ปลอกหัวพ่นปืนเชื่อมมิกทองแดงม่วง 350A ขนาด 19.3x2 Type B (5ชิ้น/แพ็ค)",
+      "name_th_short": "ปลอกหัวพ่นปืนเชื่อม 350A",
       "name_cn": "佳航 喷嘴 350A 19.3*2 喷嘴/保护咀 紫铜 B（5支/包） B款（5支/包）",
       "price": 96,
       "image": "/placeholder.svg",
@@ -1600,10 +1552,8 @@
       "category_code": "HJ-PJ",
       "material_cn": "佳航紫铜B款",
       "material_code": "JH-ZT-B",
-      "spec_number": "350A-1932",
-      "row_no": 50,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "350A-19.3-2",
+      "row_no": 50
     },
     {
       "id": "26-2083",
@@ -1611,6 +1561,7 @@
       "code": "26.2083",
       "sku": "FHCL-RX-YJ-15KG-B",
       "name_th": "ดินน้ำมันทนไฟ/กาวอุดเปิดโพรงกันไฟซับเสียง 15 กก. (กล่องขาวเขียว)",
+      "name_th_short": "ดินน้ำมันทนไฟ",
       "name_cn": "防火泥 柔性有机堵料（普通15KG）白绿箱",
       "price": 240,
       "image": "/placeholder.svg",
@@ -1633,9 +1584,7 @@
       "material_cn": "柔性有机堵料",
       "material_code": "RX-YJ",
       "spec_number": "15KG-B",
-      "row_no": 51,
-      "col_o": null,
-      "col_r": null
+      "row_no": 51
     },
     {
       "id": "26-2084",
@@ -1643,6 +1592,7 @@
       "code": "26.2084",
       "sku": "JZWJ-BWD-3.0",
       "name_th": "ตะปูยึดแผ่นฉนวนใยแก้ว/โฟมกันความร้อน ยาว 3.0 นิ้ว",
+      "name_th_short": "ตะปูยึดฉนวน 3 นิ้ว",
       "name_cn": "保温钉3.0",
       "price": 0.24,
       "image": "/placeholder.svg",
@@ -1665,9 +1615,7 @@
       "material_cn": "保温钉",
       "material_code": "BWD",
       "spec_number": "3.0",
-      "row_no": 52,
-      "col_o": null,
-      "col_r": null
+      "row_no": 52
     },
     {
       "id": "26-2085",
@@ -1675,6 +1623,7 @@
       "code": "26.2085",
       "sku": "QMK-XG-ZY-41",
       "name_th": "แคล้มประกับรัดท่อคู่สำหรับยึดเหล็กซีเหล็กราง เบอร์ 41",
+      "name_th_short": "แคล้มรัดเหล็กราง เบอร์ 41",
       "name_cn": "41骑马卡（型钢用）",
       "price": 12,
       "image": "/placeholder.svg",
@@ -1696,10 +1645,8 @@
       "category_code": "QMK",
       "material_cn": "型钢专用款",
       "material_code": "XG-ZY",
-      "spec_number": "41.0",
-      "row_no": 53,
-      "col_o": null,
-      "col_r": null
+      "spec_number": 41,
+      "row_no": 53
     },
     {
       "id": "26-2086",
@@ -1707,6 +1654,7 @@
       "code": "26.2086",
       "sku": "HJ-PJ-JH-JYT-350A-CG",
       "name_th": "ปลอกฉนวนทนความร้อนปืนเชื่อมคาร์บอน 350A รุ่นทั่วไป (10อัน/กล่อง)",
+      "name_th_short": "ปลอกฉนวนปืนเชื่อม 350A",
       "name_cn": "佳航 二保绝缘套 350A 常规款 （10支/盒）",
       "price": 18,
       "image": "/placeholder.svg",
@@ -1729,9 +1677,7 @@
       "material_cn": "佳航绝缘套",
       "material_code": "JH-JYT",
       "spec_number": "350A-CG",
-      "row_no": 54,
-      "col_o": null,
-      "col_r": null
+      "row_no": 54
     },
     {
       "id": "26-2087",
@@ -1739,6 +1685,7 @@
       "code": "26.2087",
       "sku": "HJ-PJ-JH-JYT-500A-CG",
       "name_th": "ปลอกฉนวนทนความร้อนปืนเชื่อมคาร์บอน 500A รุ่นทั่วไป (10อัน/กล่อง)",
+      "name_th_short": "ปลอกฉนวนปืนเชื่อม 500A",
       "name_cn": "佳航 二保绝缘套 500A 常规款（10支/盒）",
       "price": 21.6,
       "image": "/placeholder.svg",
@@ -1761,9 +1708,7 @@
       "material_cn": "佳航绝缘套",
       "material_code": "JH-JYT",
       "spec_number": "500A-CG",
-      "row_no": 55,
-      "col_o": null,
-      "col_r": null
+      "row_no": 55
     },
     {
       "id": "26-2088",
@@ -1771,6 +1716,7 @@
       "code": "26.2088",
       "sku": "DFS-GY-JT-750",
       "name_th": "เครื่องมอเตอร์หัวพัดลมอุตสาหกรรม ขนาดหน้ากว้าง 750 มม.",
+      "name_th_short": "หัวมอเตอร์พัดลมอุตสาหกรรม",
       "name_cn": "工业扇/风扇机头750",
       "price": 768,
       "image": "/placeholder.svg",
@@ -1792,10 +1738,8 @@
       "category_code": "DFS",
       "material_cn": "工业扇机头",
       "material_code": "GY-JT",
-      "spec_number": "750.0",
-      "row_no": 56,
-      "col_o": null,
-      "col_r": null
+      "spec_number": 750,
+      "row_no": 56
     },
     {
       "id": "26-2089",
@@ -1803,13 +1747,14 @@
       "code": "26.2089",
       "sku": "WJ-PJ-JP-YB-01",
       "name_th": "แผ่นประกับเหล็ก/เพลทจับยึดชิ้นงานเกรดพิเศษ",
+      "name_th_short": "แผ่นประกับเหล็ก",
       "name_cn": "精品压板",
       "price": 96,
       "image": "/placeholder.svg",
       "name_th_full": "แผ่นกดคุณภาพสูง",
       "name_cn_full": "精品压板",
       "product_name_raw": "精品压板",
-      "model": "4100.0",
+      "model": 4100,
       "unit": "付",
       "storage_location": null,
       "qty_sub_unit": "4付",
@@ -1825,9 +1770,7 @@
       "material_cn": "精品压板",
       "material_code": "JP-YB",
       "spec_number": "01",
-      "row_no": 57,
-      "col_o": null,
-      "col_r": null
+      "row_no": 57
     },
     {
       "id": "26-2092",
@@ -1835,6 +1778,7 @@
       "code": "26.2092",
       "sku": "CWKM-WXXL-F-01",
       "name_th": "ค่าใช้จ่ายงานซ่อมบำรุง/ค่าบริการตรวจเช็ค",
+      "name_th_short": "ค่าซ่อมบำรุง",
       "name_cn": "修理费/维修费",
       "price": 1.2,
       "image": "/placeholder.svg",
@@ -1857,9 +1801,7 @@
       "material_cn": "维修修理费",
       "material_code": "WXXL-F",
       "spec_number": "01",
-      "row_no": 58,
-      "col_o": null,
-      "col_r": null
+      "row_no": 58
     },
     {
       "id": "26-2093",
@@ -1867,6 +1809,7 @@
       "code": "26.2093",
       "sku": "CKJ-CG-ZY-PL-20S",
       "name_th": "เครื่องเจาะรูเหล็กไฮดรอลิก (รุ่นสำหรับเหล็กรางน้ำ) PL-20S",
+      "name_th_short": "เครื่องเจาะรูเหล็ก",
       "name_cn": "冲孔机（槽钢款PL-20S）",
       "price": 6456,
       "image": "/placeholder.svg",
@@ -1889,9 +1832,7 @@
       "material_cn": "槽钢专用款",
       "material_code": "CG-ZY",
       "spec_number": "PL-20S",
-      "row_no": 59,
-      "col_o": null,
-      "col_r": null
+      "row_no": 59
     },
     {
       "id": "26-2095",
@@ -1899,6 +1840,7 @@
       "code": "26.2095",
       "sku": "QMK-XG-ZY-62",
       "name_th": "แคล้มประกับรัดท่อคู่สำหรับยึดเหล็กซีเหล็กราง เบอร์ 62",
+      "name_th_short": "แคล้มรัดเหล็กราง เบอร์ 62",
       "name_cn": "62骑马卡（型钢用）",
       "price": 21.6,
       "image": "/placeholder.svg",
@@ -1920,10 +1862,8 @@
       "category_code": "QMK",
       "material_cn": "型钢专用款",
       "material_code": "XG-ZY",
-      "spec_number": "62.0",
-      "row_no": 60,
-      "col_o": null,
-      "col_r": null
+      "spec_number": 62,
+      "row_no": 60
     },
     {
       "id": "26-2096",
@@ -1931,6 +1871,7 @@
       "code": "26.2096",
       "sku": "FHCL-FHB-1M-48M",
       "name_th": "ผ้ากันไฟ/ผ้าใบกันความร้อนงานเชื่อม (ขนาด 1ม. * 48ม.)",
+      "name_th_short": "ผ้ากันไฟงานเชื่อม",
       "name_cn": "防火布（1M*48M)",
       "price": 1800,
       "image": "/placeholder.svg",
@@ -1953,9 +1894,7 @@
       "material_cn": "防火布",
       "material_code": "FHB",
       "spec_number": "1M-48M",
-      "row_no": 61,
-      "col_o": null,
-      "col_r": null
+      "row_no": 61
     },
     {
       "id": "26-2098",
@@ -1963,6 +1902,7 @@
       "code": "26.2098",
       "sku": "TL-YFQ-XT-01",
       "name_th": "สีบรอนซ์เงินกันสนิม/สีทาเคลือบท่อเหล็ก (ถังเล็ก)",
+      "name_th_short": "สีบรอนซ์เงินกันสนิม",
       "name_cn": "银粉漆（小桶）",
       "price": 576,
       "image": "/placeholder.svg",
@@ -1985,9 +1925,7 @@
       "material_cn": "银粉漆小桶",
       "material_code": "YFQ-XT",
       "spec_number": "01",
-      "row_no": 62,
-      "col_o": null,
-      "col_r": null
+      "row_no": 62
     },
     {
       "id": "26-2099",
@@ -1995,6 +1933,7 @@
       "code": "26.2099",
       "sku": "CWKM-ZSG-HF-01",
       "name_th": "ค่าบริการเชื่อมแปรรูปเหล็กเส้นกันน้ำซึม",
+      "name_th_short": "ค่าเชื่อมเหล็กกันน้ำซึม",
       "name_cn": "止水杆焊费",
       "price": 7.2,
       "image": "/placeholder.svg",
@@ -2017,9 +1956,7 @@
       "material_cn": "止水杆焊费",
       "material_code": "ZSG-HF",
       "spec_number": "01",
-      "row_no": 63,
-      "col_o": null,
-      "col_r": null
+      "row_no": 63
     },
     {
       "id": "26-21",
@@ -2027,6 +1964,7 @@
       "code": "26.21",
       "sku": "FHCL-BA-FHTL-01",
       "name_th": "สีทากันไฟลามโครงสร้างอาคาร (สูตรสีขาวทั่วไป)",
+      "name_th_short": "สีทากันไฟ",
       "name_cn": "白色防火涂料",
       "price": 4200,
       "image": "/placeholder.svg",
@@ -2049,9 +1987,7 @@
       "material_cn": "白色防火涂料",
       "material_code": "BA-FHTL",
       "spec_number": "01",
-      "row_no": 64,
-      "col_o": null,
-      "col_r": null
+      "row_no": 64
     },
     {
       "id": "26-2101",
@@ -2059,6 +1995,7 @@
       "code": "26.2101",
       "sku": "HJ-PJ-JH-HT-500A-2.0",
       "name_th": "ปลอกหัวพ่นปืนเชื่อมมิกทองเหลือง 500A รู 2.0 มม. (5ชิ้น/กล่อง)",
+      "name_th_short": "ปลอกหัวพ่นปืนเชื่อม 500A",
       "name_cn": "佳航 喷嘴/保护咀 500A 黄铜*2.0（5支/盒）",
       "price": 84,
       "image": "/placeholder.svg",
@@ -2081,9 +2018,7 @@
       "material_cn": "佳航黄铜款",
       "material_code": "JH-HT",
       "spec_number": "500A-2.0",
-      "row_no": 65,
-      "col_o": null,
-      "col_r": null
+      "row_no": 65
     },
     {
       "id": "26-2102",
@@ -2091,6 +2026,7 @@
       "code": "26.2102",
       "sku": "HJ-PJ-JH-HT-200A-1.0",
       "name_th": "ปลอกหัวพ่นปืนเชื่อมมิกทองเหลือง 200A รู 1.0 มม. (5ชิ้น/กล่อง)",
+      "name_th_short": "ปลอกหัวพ่นปืนเชื่อม 200A",
       "name_cn": "佳航 喷嘴/保护咀 200A 黄铜*1.0（5支/盒）",
       "price": 42,
       "image": "/placeholder.svg",
@@ -2113,9 +2049,7 @@
       "material_cn": "佳航黄铜款",
       "material_code": "JH-HT",
       "spec_number": "200A-1.0",
-      "row_no": 66,
-      "col_o": null,
-      "col_r": null
+      "row_no": 66
     },
     {
       "id": "26-2103",
@@ -2123,6 +2057,7 @@
       "code": "26.2103",
       "sku": "HJ-PJ-JH-HT-350A-1.75",
       "name_th": "ปลอกหัวพ่นปืนเชื่อมมิกทองเหลือง 350A รู 1.75 มม. (5ชิ้น/กล่อง)",
+      "name_th_short": "ปลอกหัวพ่นปืนเชื่อม 350A",
       "name_cn": "佳航 喷嘴/保护咀 350A 黄铜*1.75（5支/盒） （5支/盒）",
       "price": 60,
       "image": "/placeholder.svg",
@@ -2145,9 +2080,7 @@
       "material_cn": "佳航黄铜款",
       "material_code": "JH-HT",
       "spec_number": "350A-1.75",
-      "row_no": 67,
-      "col_o": null,
-      "col_r": null
+      "row_no": 67
     },
     {
       "id": "26-2104",
@@ -2155,6 +2088,7 @@
       "code": "26.2104",
       "sku": "CLYQ-DC-ZDAP-FF-Z3C32",
       "name_th": "กล้องระดับอัตโนมัติเปิดหน้าดินอัจฉริยะ DC รุ่น FF-Z3C32",
+      "name_th_short": "กล้องระดับอัตโนมัติ",
       "name_cn": "DC自动安平水淮仪FF-Z3C32",
       "price": 3912,
       "image": "/placeholder.svg",
@@ -2177,9 +2111,7 @@
       "material_cn": "DC自动安平",
       "material_code": "DC-ZDAP",
       "spec_number": "FF-Z3C32",
-      "row_no": 68,
-      "col_o": null,
-      "col_r": null
+      "row_no": 68
     },
     {
       "id": "26-2105",
@@ -2187,6 +2119,7 @@
       "code": "26.2105",
       "sku": "CL-PJ-DC-BC-FF-Z3C32",
       "name_th": "ไม้สต๊าฟ/ไม้สเกลวัดระดับยาวสำหรับกล้องระดับรุ่น FF-Z3C32",
+      "name_th_short": "ไม้สต๊าฟ",
       "name_cn": "DC水淮仪标尺FF-Z3C32",
       "price": 780,
       "image": "/placeholder.svg",
@@ -2209,9 +2142,7 @@
       "material_cn": "DC标尺配件",
       "material_code": "DC-BC",
       "spec_number": "FF-Z3C32",
-      "row_no": 69,
-      "col_o": null,
-      "col_r": null
+      "row_no": 69
     },
     {
       "id": "26-2106",
@@ -2219,6 +2150,7 @@
       "code": "26.2106",
       "sku": "CL-PJ-DC-SJJ-FF-Z3C32",
       "name_th": "ขาตั้งอลูมิเนียมสามขาสำหรับกล้องระดับรุ่น FF-Z3C32",
+      "name_th_short": "ขาตั้งกล้องสามขา",
       "name_cn": "DC水淮仪三脚架FF-Z3C32",
       "price": 1440,
       "image": "/placeholder.svg",
@@ -2241,9 +2173,7 @@
       "material_cn": "DC三脚架配件",
       "material_code": "DC-SJJ",
       "spec_number": "FF-Z3C32",
-      "row_no": 70,
-      "col_o": null,
-      "col_r": null
+      "row_no": 70
     },
     {
       "id": "26-2107",
@@ -2251,6 +2181,7 @@
       "code": "26.2107",
       "sku": "JZWJ-BWD-5.0",
       "name_th": "ตะปูยึดแผ่นฉนวนใยแก้ว/โฟมกันความร้อน ยาว 5.0 นิ้ว",
+      "name_th_short": "ตะปูยึดฉนวน 5 นิ้ว",
       "name_cn": "保温钉5.0",
       "price": 0.26,
       "image": "/placeholder.svg",
@@ -2273,9 +2204,7 @@
       "material_cn": "保温钉",
       "material_code": "BWD",
       "spec_number": "5.0",
-      "row_no": 71,
-      "col_o": null,
-      "col_r": null
+      "row_no": 71
     },
     {
       "id": "26-2108",
@@ -2283,6 +2212,7 @@
       "code": "26.2108",
       "sku": "HJ-PJ-SS-RG-500A-5.2M",
       "name_th": "สายท่อนำลวดเชื่อมเหล็กมิก/คาร์บอน พิกัด 500A ยาว 5.2 เมตร",
+      "name_th_short": "สายนำลวดเชื่อม 500A",
       "name_cn": "送丝软管/送丝管 500A5.2米",
       "price": 240,
       "image": "/placeholder.svg",
@@ -2305,9 +2235,7 @@
       "material_cn": "送丝软管",
       "material_code": "SS-RG",
       "spec_number": "500A-5.2M",
-      "row_no": 72,
-      "col_o": null,
-      "col_r": null
+      "row_no": 72
     },
     {
       "id": "26-2109",
@@ -2315,6 +2243,7 @@
       "code": "26.2109",
       "sku": "DLX-HBX-35",
       "name_th": "สายเชื่อมไฟฟ้า/สายหน้าตู้เชื่อม ขนาด 35 SQ.MM.",
+      "name_th_short": "สายเชื่อมไฟฟ้า 35 SQ.MM.",
       "name_cn": "焊把线35",
       "price": 264,
       "image": "/placeholder.svg",
@@ -2336,10 +2265,8 @@
       "category_code": "DLX",
       "material_cn": "焊把线",
       "material_code": "HBX",
-      "spec_number": "35.0",
-      "row_no": 73,
-      "col_o": null,
-      "col_r": null
+      "spec_number": 35,
+      "row_no": 73
     },
     {
       "id": "26-211",
@@ -2347,6 +2274,7 @@
       "code": "26.211",
       "sku": "DLX-HBX-50",
       "name_th": "สายเชื่อมไฟฟ้า/สายหน้าตู้เชื่อม ขนาด 50 SQ.MM.",
+      "name_th_short": "สายเชื่อมไฟฟ้า 50 SQ.MM.",
       "name_cn": "焊把线50",
       "price": 384,
       "image": "/placeholder.svg",
@@ -2368,10 +2296,8 @@
       "category_code": "DLX",
       "material_cn": "焊把线",
       "material_code": "HBX",
-      "spec_number": "50.0",
-      "row_no": 74,
-      "col_o": null,
-      "col_r": null
+      "spec_number": 50,
+      "row_no": 74
     },
     {
       "id": "26-2111",
@@ -2379,6 +2305,7 @@
       "code": "26.2111",
       "sku": "DX-BV-DX-1.5",
       "name_th": "สายไฟแกนเดี่ยวทองแดงแข็งแกนเดียว BV 1.5 SQ.MM.",
+      "name_th_short": "สายไฟ BV 1.5",
       "name_cn": "电线BV1.5",
       "price": 10.8,
       "image": "/placeholder.svg",
@@ -2400,10 +2327,8 @@
       "category_code": "DX",
       "material_cn": "BV单芯硬线",
       "material_code": "BV-DX",
-      "spec_number": "1.5",
-      "row_no": 75,
-      "col_o": null,
-      "col_r": null
+      "spec_number": 1.5,
+      "row_no": 75
     },
     {
       "id": "26-2112",
@@ -2411,6 +2336,7 @@
       "code": "26.2112",
       "sku": "DX-BV-DX-2.5",
       "name_th": "สายไฟแกนเดี่ยวทองแดงแข็งแกนเดียว BV 2.5 SQ.MM.",
+      "name_th_short": "สายไฟ BV 2.5",
       "name_cn": "电线BV2.5",
       "price": 16.8,
       "image": "/placeholder.svg",
@@ -2432,10 +2358,8 @@
       "category_code": "DX",
       "material_cn": "BV单芯硬线",
       "material_code": "BV-DX",
-      "spec_number": "2.5",
-      "row_no": 76,
-      "col_o": null,
-      "col_r": null
+      "spec_number": 2.5,
+      "row_no": 76
     },
     {
       "id": "26-2113",
@@ -2443,6 +2367,7 @@
       "code": "26.2113",
       "sku": "DX-BV-DX-4",
       "name_th": "สายไฟแกนเดี่ยวทองแดงแข็งแกนเดียว BV 4 SQ.MM.",
+      "name_th_short": "สายไฟ BV 4",
       "name_cn": "电线BV4",
       "price": 27,
       "image": "/placeholder.svg",
@@ -2464,10 +2389,8 @@
       "category_code": "DX",
       "material_cn": "BV单芯硬线",
       "material_code": "BV-DX",
-      "spec_number": "4.0",
-      "row_no": 77,
-      "col_o": null,
-      "col_r": null
+      "spec_number": 4,
+      "row_no": 77
     },
     {
       "id": "26-2114",
@@ -2475,6 +2398,7 @@
       "code": "26.2114",
       "sku": "DX-BV-DX-6",
       "name_th": "สายไฟแกนเดี่ยวทองแดงแข็งแกนเดียว BV 6 SQ.MM.",
+      "name_th_short": "สายไฟ BV 6",
       "name_cn": "电线BV6",
       "price": 40.2,
       "image": "/placeholder.svg",
@@ -2496,10 +2420,8 @@
       "category_code": "DX",
       "material_cn": "BV单芯硬线",
       "material_code": "BV-DX",
-      "spec_number": "6.0",
-      "row_no": 78,
-      "col_o": null,
-      "col_r": null
+      "spec_number": 6,
+      "row_no": 78
     },
     {
       "id": "26-2115",
@@ -2507,6 +2429,7 @@
       "code": "26.2115",
       "sku": "DX-RVV-RX-2-0.75",
       "name_th": "สายอ่อนชนิดคู่หุ้มฉนวนกลมส้นตึก RVV ขนาด 2x0.75 SQ.MM.",
+      "name_th_short": "สายไฟอ่อน RVV 2x0.75",
       "name_cn": "电线RVV2*0.75",
       "price": 10.2,
       "image": "/placeholder.svg",
@@ -2529,9 +2452,7 @@
       "material_cn": "RVV双芯软线",
       "material_code": "RVV-RX",
       "spec_number": "2-0.75",
-      "row_no": 79,
-      "col_o": null,
-      "col_r": null
+      "row_no": 79
     },
     {
       "id": "26-2116",
@@ -2539,6 +2460,7 @@
       "code": "26.2116",
       "sku": "DX-RVV-RX-2-1",
       "name_th": "สายอ่อนชนิดคู่หุ้มฉนวนกลมส้นตึก RVV ขนาด 2x1.0 SQ.MM.",
+      "name_th_short": "สายไฟอ่อน RVV 2x1",
       "name_cn": "电线RVV2*1",
       "price": 13.8,
       "image": "/placeholder.svg",
@@ -2561,9 +2483,7 @@
       "material_cn": "RVV双芯软线",
       "material_code": "RVV-RX",
       "spec_number": "2-1",
-      "row_no": 80,
-      "col_o": null,
-      "col_r": null
+      "row_no": 80
     },
     {
       "id": "26-2117",
@@ -2571,6 +2491,7 @@
       "code": "26.2117",
       "sku": "DX-RVV-RX-2-1.5",
       "name_th": "สายอ่อนชนิดคู่หุ้มฉนวนกลมส้นตึก RVV ขนาด 2x1.5 SQ.MM.",
+      "name_th_short": "สายไฟอ่อน RVV 2x1.5",
       "name_cn": "电线RVV2*1.5",
       "price": 19.8,
       "image": "/placeholder.svg",
@@ -2593,9 +2514,7 @@
       "material_cn": "RVV双芯软线",
       "material_code": "RVV-RX",
       "spec_number": "2-1.5",
-      "row_no": 81,
-      "col_o": null,
-      "col_r": null
+      "row_no": 81
     },
     {
       "id": "26-2118",
@@ -2603,6 +2522,7 @@
       "code": "26.2118",
       "sku": "DX-RVV-RX-2-2.5",
       "name_th": "สายอ่อนชนิดคู่หุ้มฉนวนกลมส้นตึก RVV ขนาด 2x2.5 SQ.MM.",
+      "name_th_short": "สายไฟอ่อน RVV 2x2.5",
       "name_cn": "电线RVV2*2.5",
       "price": 30.6,
       "image": "/placeholder.svg",
@@ -2625,9 +2545,7 @@
       "material_cn": "RVV双芯软线",
       "material_code": "RVV-RX",
       "spec_number": "2-2.5",
-      "row_no": 82,
-      "col_o": null,
-      "col_r": null
+      "row_no": 82
     },
     {
       "id": "26-2119",
@@ -2635,6 +2553,7 @@
       "code": "26.2119",
       "sku": "FHCL-SX-FHTL-01",
       "name_th": "สีทากันไฟลามสูตรน้ำสำหรับโครงสร้างเหล็ก/ปูน (สีขาว)",
+      "name_th_short": "สีทากันไฟสูตรน้ำ",
       "name_cn": "水性防火涂料-白色",
       "price": 1320,
       "image": "/placeholder.svg",
@@ -2657,9 +2576,7 @@
       "material_cn": "水性防火涂料",
       "material_code": "SX-FHTL",
       "spec_number": "01",
-      "row_no": 83,
-      "col_o": null,
-      "col_r": null
+      "row_no": 83
     }
   ]
 }

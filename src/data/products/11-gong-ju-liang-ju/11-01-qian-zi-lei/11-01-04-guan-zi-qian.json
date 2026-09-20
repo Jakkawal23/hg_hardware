@@ -9,8 +9,9 @@
       "id": "11-01-04-010",
       "slug": "11-01-04-010",
       "code": "11.01.04.010",
-      "sku": "SGQ-JT-36-01",
+      "sku": "SGQ-JT-36",
       "name_th": "คีมคอม้าด้ามหุ้มยาง 36 นิ้ว (2 ตัว/กล่อง) YT-170036",
+      "name_th_short": "คีมคอม้า 36 นิ้ว",
       "name_cn": "36\"胶套水管钳（2把/盒）YT-170036 / 36",
       "price": 780,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "SGQ",
       "material_cn": "胶套",
       "material_code": "JT",
-      "spec_number": "36-01",
-      "row_no": 26,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "36",
+      "row_no": 26
     },
     {
       "id": "11-01-04-011",
       "slug": "11-01-04-011",
       "code": "11.01.04.011",
-      "sku": "SGQ-JT-24-01",
+      "sku": "SGQ-JT-24",
       "name_th": "คีมคอม้าด้ามหุ้มยาง 24 นิ้ว (2 ตัว/กล่อง) YT-170024",
+      "name_th_short": "คีมคอม้า 24 นิ้ว",
       "name_cn": "24\"胶套水管钳（2把/盒）YT-170024 / 24",
       "price": 420,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "SGQ",
       "material_cn": "胶套",
       "material_code": "JT",
-      "spec_number": "24-01",
-      "row_no": 27,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "24",
+      "row_no": 27
     },
     {
       "id": "11-01-04-013",
       "slug": "11-01-04-013",
       "code": "11.01.04.013",
-      "sku": "SGQ-JT-10-01",
+      "sku": "SGQ-JT-10",
       "name_th": "คีมคอม้าด้ามหุ้มยาง 10 นิ้ว (6 ตัว/กล่อง) YT-170010",
+      "name_th_short": "คีมคอม้า 10 นิ้ว",
       "name_cn": "10\"胶套水管钳（6把/盒）YT-170010 / 10",
       "price": 138,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "SGQ",
       "material_cn": "胶套",
       "material_code": "JT",
-      "spec_number": "10-01",
-      "row_no": 28,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10",
+      "row_no": 28
     },
     {
       "id": "11-01-04-014",
       "slug": "11-01-04-014",
       "code": "11.01.04.014",
-      "sku": "SGQ-JT-14-01",
+      "sku": "SGQ-JT-14",
       "name_th": "คีมคอม้าด้ามหุ้มยาง 14 นิ้ว (6 ตัว/กล่อง)",
+      "name_th_short": "คีมคอม้า 14 นิ้ว",
       "name_cn": "14\"胶套水管钳（6把/盒）YT/ 14",
       "price": 198,
       "image": "/placeholder.svg",
@@ -128,10 +126,8 @@
       "category_code": "SGQ",
       "material_cn": "胶套",
       "material_code": "JT",
-      "spec_number": "14-01",
-      "row_no": 29,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "14",
+      "row_no": 29
     }
   ]
 }

@@ -11,6 +11,7 @@
       "code": "17.06.01.001",
       "sku": "KKQ-MG-16-01",
       "name_th": "ดอกโฮลซอเจาะไม้ Hufan 16",
+      "name_th_short": "ดอกโฮลซอเจาะไม้ 16 มม.",
       "name_cn": "沪帆精品木工开孔器 16（15支/盒）",
       "price": 28.8,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "木工",
       "material_code": "MG",
       "spec_number": "16-01",
-      "row_no": 326,
-      "col_o": null,
-      "col_r": null
+      "row_no": 326
     },
     {
       "id": "17-06-01-002",
@@ -43,6 +42,7 @@
       "code": "17.06.01.002",
       "sku": "KKQ-MG-18-01",
       "name_th": "ดอกโฮลซอเจาะไม้ Hufan 18",
+      "name_th_short": "ดอกโฮลซอเจาะไม้ 18 มม.",
       "name_cn": "沪帆精品木工开孔器 18（15支/盒）",
       "price": 31.2,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "木工",
       "material_code": "MG",
       "spec_number": "18-01",
-      "row_no": 327,
-      "col_o": null,
-      "col_r": null
+      "row_no": 327
     },
     {
       "id": "17-06-01-003",
@@ -75,6 +73,7 @@
       "code": "17.06.01.003",
       "sku": "KKQ-MG-19-01",
       "name_th": "ดอกโฮลซอเจาะไม้ Hufan 19",
+      "name_th_short": "ดอกโฮลซอเจาะไม้ 19 มม.",
       "name_cn": "沪帆精品木工开孔器 19（15支/盒）",
       "price": 31.2,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "木工",
       "material_code": "MG",
       "spec_number": "19-01",
-      "row_no": 328,
-      "col_o": null,
-      "col_r": null
+      "row_no": 328
     },
     {
       "id": "17-06-01-004",
@@ -107,6 +104,7 @@
       "code": "17.06.01.004",
       "sku": "KKQ-MG-20-01",
       "name_th": "ดอกโฮลซอเจาะไม้ Hufan 20",
+      "name_th_short": "ดอกโฮลซอเจาะไม้ 20 มม.",
       "name_cn": "沪帆精品木工开孔器 20（15支/盒）",
       "price": 34.8,
       "image": "/placeholder.svg",
@@ -129,9 +127,7 @@
       "material_cn": "木工",
       "material_code": "MG",
       "spec_number": "20-01",
-      "row_no": 329,
-      "col_o": null,
-      "col_r": null
+      "row_no": 329
     },
     {
       "id": "17-06-01-005",
@@ -139,6 +135,7 @@
       "code": "17.06.01.005",
       "sku": "KKQ-MG-22-01",
       "name_th": "ดอกโฮลซอเจาะไม้ Hufan 22",
+      "name_th_short": "ดอกโฮลซอเจาะไม้ 22 มม.",
       "name_cn": "沪帆精品木工开孔器 22（15支/盒）",
       "price": 37.2,
       "image": "/placeholder.svg",
@@ -161,9 +158,7 @@
       "material_cn": "木工",
       "material_code": "MG",
       "spec_number": "22-01",
-      "row_no": 330,
-      "col_o": null,
-      "col_r": null
+      "row_no": 330
     },
     {
       "id": "17-06-01-006",
@@ -171,6 +166,7 @@
       "code": "17.06.01.006",
       "sku": "KKQ-MG-25-01",
       "name_th": "ดอกโฮลซอเจาะไม้ Hufan 25",
+      "name_th_short": "ดอกโฮลซอเจาะไม้ 25 มม.",
       "name_cn": "沪帆精品木工开孔器 25（15支/盒）",
       "price": 43.2,
       "image": "/placeholder.svg",
@@ -193,9 +189,7 @@
       "material_cn": "木工",
       "material_code": "MG",
       "spec_number": "25-01",
-      "row_no": 331,
-      "col_o": null,
-      "col_r": null
+      "row_no": 331
     },
     {
       "id": "17-06-01-007",
@@ -203,6 +197,7 @@
       "code": "17.06.01.007",
       "sku": "KKQ-MG-28-01",
       "name_th": "ดอกโฮลซอเจาะไม้ Hufan 28",
+      "name_th_short": "ดอกโฮลซอเจาะไม้ 28 มม.",
       "name_cn": "沪帆精品木工开孔器 28（15支/盒）",
       "price": 48,
       "image": "/placeholder.svg",
@@ -225,9 +220,7 @@
       "material_cn": "木工",
       "material_code": "MG",
       "spec_number": "28-01",
-      "row_no": 332,
-      "col_o": null,
-      "col_r": null
+      "row_no": 332
     },
     {
       "id": "17-06-01-008",
@@ -235,6 +228,7 @@
       "code": "17.06.01.008",
       "sku": "KKQ-MG-30-01",
       "name_th": "ดอกโฮลซอเจาะไม้ Hufan 30",
+      "name_th_short": "ดอกโฮลซอเจาะไม้ 30 มม.",
       "name_cn": "沪帆精品木工开孔器 30（15支/盒）",
       "price": 51.6,
       "image": "/placeholder.svg",
@@ -257,9 +251,7 @@
       "material_cn": "木工",
       "material_code": "MG",
       "spec_number": "30-01",
-      "row_no": 333,
-      "col_o": null,
-      "col_r": null
+      "row_no": 333
     },
     {
       "id": "17-06-01-009",
@@ -267,6 +259,7 @@
       "code": "17.06.01.009",
       "sku": "KKQ-MG-32-01",
       "name_th": "ดอกโฮลซอเจาะไม้ Hufan 32",
+      "name_th_short": "ดอกโฮลซอเจาะไม้ 32 มม.",
       "name_cn": "沪帆精品木工开孔器 32（15支/盒）",
       "price": 57.6,
       "image": "/placeholder.svg",
@@ -289,9 +282,7 @@
       "material_cn": "木工",
       "material_code": "MG",
       "spec_number": "32-01",
-      "row_no": 334,
-      "col_o": null,
-      "col_r": null
+      "row_no": 334
     },
     {
       "id": "17-06-01-010",
@@ -299,6 +290,7 @@
       "code": "17.06.01.010",
       "sku": "KKQ-MG-35-01",
       "name_th": "ดอกโฮลซอเจาะไม้ Hufan 35",
+      "name_th_short": "ดอกโฮลซอเจาะไม้ 35 มม.",
       "name_cn": "沪帆精品木工开孔器 35（15支/盒）",
       "price": 60,
       "image": "/placeholder.svg",
@@ -321,9 +313,7 @@
       "material_cn": "木工",
       "material_code": "MG",
       "spec_number": "35-01",
-      "row_no": 335,
-      "col_o": null,
-      "col_r": null
+      "row_no": 335
     },
     {
       "id": "17-06-01-011",
@@ -331,6 +321,7 @@
       "code": "17.06.01.011",
       "sku": "KKQ-MG-38-01",
       "name_th": "ดอกโฮลซอเจาะไม้ Hufan 38",
+      "name_th_short": "ดอกโฮลซอเจาะไม้ 38 มม.",
       "name_cn": "沪帆精品木工开孔器 38（15支/盒）",
       "price": 64.8,
       "image": "/placeholder.svg",
@@ -353,9 +344,7 @@
       "material_cn": "木工",
       "material_code": "MG",
       "spec_number": "38-01",
-      "row_no": 336,
-      "col_o": null,
-      "col_r": null
+      "row_no": 336
     },
     {
       "id": "17-06-01-012",
@@ -363,6 +352,7 @@
       "code": "17.06.01.012",
       "sku": "KKQ-MG-40-01",
       "name_th": "ดอกโฮลซอเจาะไม้ Hufan 40",
+      "name_th_short": "ดอกโฮลซอเจาะไม้ 40 มม.",
       "name_cn": "沪帆精品木工开孔器 40（15支/盒）",
       "price": 69.6,
       "image": "/placeholder.svg",
@@ -385,9 +375,7 @@
       "material_cn": "木工",
       "material_code": "MG",
       "spec_number": "40-01",
-      "row_no": 337,
-      "col_o": null,
-      "col_r": null
+      "row_no": 337
     },
     {
       "id": "17-06-01-013",
@@ -395,6 +383,7 @@
       "code": "17.06.01.013",
       "sku": "KKQ-MG-45-01",
       "name_th": "ดอกโฮลซอเจาะไม้ Hufan 45",
+      "name_th_short": "ดอกโฮลซอเจาะไม้ 45 มม.",
       "name_cn": "沪帆精品木工开孔器 45（10支/盒）",
       "price": 79.2,
       "image": "/placeholder.svg",
@@ -417,9 +406,7 @@
       "material_cn": "木工",
       "material_code": "MG",
       "spec_number": "45-01",
-      "row_no": 338,
-      "col_o": null,
-      "col_r": null
+      "row_no": 338
     },
     {
       "id": "17-06-01-014",
@@ -427,6 +414,7 @@
       "code": "17.06.01.014",
       "sku": "KKQ-MG-50-01",
       "name_th": "ดอกโฮลซอเจาะไม้ Hufan 50",
+      "name_th_short": "ดอกโฮลซอเจาะไม้ 50 มม.",
       "name_cn": "沪帆精品木工开孔器 50（10支/盒）",
       "price": 86.4,
       "image": "/placeholder.svg",
@@ -449,9 +437,7 @@
       "material_cn": "木工",
       "material_code": "MG",
       "spec_number": "50-01",
-      "row_no": 339,
-      "col_o": null,
-      "col_r": null
+      "row_no": 339
     },
     {
       "id": "17-06-01-015",
@@ -459,6 +445,7 @@
       "code": "17.06.01.015",
       "sku": "KKQ-MG-53-01",
       "name_th": "ดอกโฮลซอเจาะไม้ Hufan 53",
+      "name_th_short": "ดอกโฮลซอเจาะไม้ 53 มม.",
       "name_cn": "沪帆精品木工开孔器 53（10支/盒）",
       "price": 93.6,
       "image": "/placeholder.svg",
@@ -481,9 +468,7 @@
       "material_cn": "木工",
       "material_code": "MG",
       "spec_number": "53-01",
-      "row_no": 340,
-      "col_o": null,
-      "col_r": null
+      "row_no": 340
     },
     {
       "id": "17-06-01-016",
@@ -491,6 +476,7 @@
       "code": "17.06.01.016",
       "sku": "KKQ-MG-55-01",
       "name_th": "ดอกโฮลซอเจาะไม้ Hufan 55",
+      "name_th_short": "ดอกโฮลซอเจาะไม้ 55 มม.",
       "name_cn": "沪帆精品木工开孔器 55（10支/盒）",
       "price": 100.8,
       "image": "/placeholder.svg",
@@ -513,16 +499,15 @@
       "material_cn": "木工",
       "material_code": "MG",
       "spec_number": "55-01",
-      "row_no": 341,
-      "col_o": null,
-      "col_r": null
+      "row_no": 341
     },
     {
       "id": "17-06-01-017",
       "slug": "17-06-01-017",
       "code": "17.06.01.017",
-      "sku": "KKQ-MG-60-01",
+      "sku": "KKQ-MG-60",
       "name_th": "ดอกโฮลซอเจาะไม้ Hufan 60",
+      "name_th_short": "ดอกโฮลซอเจาะไม้ 60 มม.",
       "name_cn": "沪帆精品木工开孔器 60（8支/盒）",
       "price": 172.8,
       "image": "/placeholder.svg",
@@ -544,17 +529,16 @@
       "category_code": "KKQ",
       "material_cn": "木工",
       "material_code": "MG",
-      "spec_number": "60-01",
-      "row_no": 342,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "60",
+      "row_no": 342
     },
     {
       "id": "17-06-01-018",
       "slug": "17-06-01-018",
       "code": "17.06.01.018",
-      "sku": "KKQ-MG-65-01",
+      "sku": "KKQ-MG-65",
       "name_th": "ดอกโฮลซอเจาะไม้ Hufan 65",
+      "name_th_short": "ดอกโฮลซอเจาะไม้ 65 มม.",
       "name_cn": "沪帆精品木工开孔器 65（8个/盒）",
       "price": 187.2,
       "image": "/placeholder.svg",
@@ -576,17 +560,16 @@
       "category_code": "KKQ",
       "material_cn": "木工",
       "material_code": "MG",
-      "spec_number": "65-01",
-      "row_no": 343,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "65",
+      "row_no": 343
     },
     {
       "id": "17-06-01-019",
       "slug": "17-06-01-019",
       "code": "17.06.01.019",
-      "sku": "KKQ-MGZ-16-01",
+      "sku": "KKQ-MGZ-16",
       "name_th": "ดอกโฮลซอเจาะไม้ยาว Hufan 16",
+      "name_th_short": "ดอกโฮลซอเจาะไม้ยาว 16 มม.",
       "name_cn": "沪帆精品加长木工开孔器 16（20支/盒）",
       "price": 48,
       "image": "/placeholder.svg",
@@ -608,17 +591,16 @@
       "category_code": "KKQ",
       "material_cn": "木工长",
       "material_code": "MGZ",
-      "spec_number": "16-01",
-      "row_no": 344,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "16",
+      "row_no": 344
     },
     {
       "id": "17-06-01-020",
       "slug": "17-06-01-020",
       "code": "17.06.01.020",
-      "sku": "KKQ-MGZ-18-01",
+      "sku": "KKQ-MGZ-18",
       "name_th": "ดอกโฮลซอเจาะไม้ยาว Hufan 18",
+      "name_th_short": "ดอกโฮลซอเจาะไม้ยาว 18 มม.",
       "name_cn": "沪帆精品加长木工开孔器 18（20支/盒）",
       "price": 51.6,
       "image": "/placeholder.svg",
@@ -640,17 +622,16 @@
       "category_code": "KKQ",
       "material_cn": "木工长",
       "material_code": "MGZ",
-      "spec_number": "18-01",
-      "row_no": 345,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "18",
+      "row_no": 345
     },
     {
       "id": "17-06-01-021",
       "slug": "17-06-01-021",
       "code": "17.06.01.021",
-      "sku": "KKQ-MGZ-20-01",
+      "sku": "KKQ-MGZ-20",
       "name_th": "ดอกโฮลซอเจาะไม้ยาว Hufan 20",
+      "name_th_short": "ดอกโฮลซอเจาะไม้ยาว 20 มม.",
       "name_cn": "沪帆精品加长木工开孔器 20（20支/盒）",
       "price": 57.6,
       "image": "/placeholder.svg",
@@ -672,17 +653,16 @@
       "category_code": "KKQ",
       "material_cn": "木工长",
       "material_code": "MGZ",
-      "spec_number": "20-01",
-      "row_no": 346,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "20",
+      "row_no": 346
     },
     {
       "id": "17-06-01-022",
       "slug": "17-06-01-022",
       "code": "17.06.01.022",
-      "sku": "KKQ-MGZ-22-01",
+      "sku": "KKQ-MGZ-22",
       "name_th": "ดอกโฮลซอเจาะไม้ยาว Hufan 22",
+      "name_th_short": "ดอกโฮลซอเจาะไม้ยาว 22 มม.",
       "name_cn": "沪帆精品加长木工开孔器 22（20支/盒）",
       "price": 64.8,
       "image": "/placeholder.svg",
@@ -704,17 +684,16 @@
       "category_code": "KKQ",
       "material_cn": "木工长",
       "material_code": "MGZ",
-      "spec_number": "22-01",
-      "row_no": 347,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "22",
+      "row_no": 347
     },
     {
       "id": "17-06-01-023",
       "slug": "17-06-01-023",
       "code": "17.06.01.023",
-      "sku": "KKQ-MGZ-25-01",
+      "sku": "KKQ-MGZ-25",
       "name_th": "ดอกโฮลซอเจาะไม้ยาว Hufan 25",
+      "name_th_short": "ดอกโฮลซอเจาะไม้ยาว 25 มม.",
       "name_cn": "沪帆精品加长木工开孔器 25（20支/盒）",
       "price": 74.4,
       "image": "/placeholder.svg",
@@ -736,10 +715,8 @@
       "category_code": "KKQ",
       "material_cn": "木工长",
       "material_code": "MGZ",
-      "spec_number": "25-01",
-      "row_no": 348,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "25",
+      "row_no": 348
     },
     {
       "id": "17-06-01-024",
@@ -747,6 +724,7 @@
       "code": "17.06.01.024",
       "sku": "KKQ-MGZH-13-01",
       "name_th": "ชุดโฮลซอเจาะไม้ 13 ชิ้น (กลาง)",
+      "name_th_short": "ชุดโฮลซอเจาะไม้ 13 ชิ้น กลาง",
       "name_cn": "沪帆/恒凯工具13件套木工开孔器/开孔器组合 中档",
       "price": 208.8,
       "image": "/placeholder.svg",
@@ -769,9 +747,7 @@
       "material_cn": "木工组合",
       "material_code": "MGZH",
       "spec_number": "13-01",
-      "row_no": 349,
-      "col_o": null,
-      "col_r": null
+      "row_no": 349
     },
     {
       "id": "17-06-01-025",
@@ -779,6 +755,7 @@
       "code": "17.06.01.025",
       "sku": "KKQ-MGZH-13-02",
       "name_th": "ชุดโฮลซอเจาะไม้ 13 ชิ้น (สูง)",
+      "name_th_short": "ชุดโฮลซอเจาะไม้ 13 ชิ้น สูง",
       "name_cn": "沪帆/恒凯工具13件套木工开孔器/开孔器组合 （高档）",
       "price": 295.2,
       "image": "/placeholder.svg",
@@ -801,9 +778,7 @@
       "material_cn": "木工组合",
       "material_code": "MGZH",
       "spec_number": "13-02",
-      "row_no": 350,
-      "col_o": null,
-      "col_r": null
+      "row_no": 350
     },
     {
       "id": "17-06-01-026",
@@ -811,6 +786,7 @@
       "code": "17.06.01.026",
       "sku": "KKQ-MG-55-02",
       "name_th": "ดอกโฮลซอเจาะไม้ 55 YT-506055",
+      "name_th_short": "ดอกโฮลซอเจาะไม้ 55 มม.",
       "name_cn": "55厘木工开孔器（8个/盒）YT-506055 / 55.",
       "price": 159.6,
       "image": "/placeholder.svg",
@@ -833,9 +809,7 @@
       "material_cn": "木工",
       "material_code": "MG",
       "spec_number": "55-02",
-      "row_no": 351,
-      "col_o": null,
-      "col_r": null
+      "row_no": 351
     },
     {
       "id": "17-06-01-027",
@@ -843,6 +817,7 @@
       "code": "17.06.01.027",
       "sku": "KKQ-MG-53-02",
       "name_th": "ดอกโฮลซอเจาะไม้ 53 YT-506053",
+      "name_th_short": "ดอกโฮลซอเจาะไม้ 53 มม.",
       "name_cn": "53厘木工开孔器（8个/盒）YT-506053 / 53.",
       "price": 152.4,
       "image": "/placeholder.svg",
@@ -865,9 +840,7 @@
       "material_cn": "木工",
       "material_code": "MG",
       "spec_number": "53-02",
-      "row_no": 352,
-      "col_o": null,
-      "col_r": null
+      "row_no": 352
     },
     {
       "id": "17-06-01-028",
@@ -875,6 +848,7 @@
       "code": "17.06.01.028",
       "sku": "KKQ-MG-50-02",
       "name_th": "ดอกโฮลซอเจาะไม้ 50 YT-506050",
+      "name_th_short": "ดอกโฮลซอเจาะไม้ 50 มม.",
       "name_cn": "50厘木工开孔器（8个/盒）YT-506050 / 50.",
       "price": 144,
       "image": "/placeholder.svg",
@@ -897,9 +871,7 @@
       "material_cn": "木工",
       "material_code": "MG",
       "spec_number": "50-02",
-      "row_no": 353,
-      "col_o": null,
-      "col_r": null
+      "row_no": 353
     },
     {
       "id": "17-06-01-029",
@@ -907,6 +879,7 @@
       "code": "17.06.01.029",
       "sku": "KKQ-MG-45-02",
       "name_th": "ดอกโฮลซอเจาะไม้ 45 YT-506045",
+      "name_th_short": "ดอกโฮลซอเจาะไม้ 45 มม.",
       "name_cn": "45厘木工开孔器（8个/盒）YT-506045 / 45.",
       "price": 129.6,
       "image": "/placeholder.svg",
@@ -929,9 +902,7 @@
       "material_cn": "木工",
       "material_code": "MG",
       "spec_number": "45-02",
-      "row_no": 354,
-      "col_o": null,
-      "col_r": null
+      "row_no": 354
     },
     {
       "id": "17-06-01-030",
@@ -939,6 +910,7 @@
       "code": "17.06.01.030",
       "sku": "KKQ-MG-40-02",
       "name_th": "ดอกโฮลซอเจาะไม้ 40 YT-506040",
+      "name_th_short": "ดอกโฮลซอเจาะไม้ 40 มม.",
       "name_cn": "40厘木工开孔器（8个/盒）YT-506040 / 40.",
       "price": 115.2,
       "image": "/placeholder.svg",
@@ -961,9 +933,7 @@
       "material_cn": "木工",
       "material_code": "MG",
       "spec_number": "40-02",
-      "row_no": 355,
-      "col_o": null,
-      "col_r": null
+      "row_no": 355
     },
     {
       "id": "17-06-01-031",
@@ -971,6 +941,7 @@
       "code": "17.06.01.031",
       "sku": "KKQ-MG-38-02",
       "name_th": "ดอกโฮลซอเจาะไม้ 38 YT-506038",
+      "name_th_short": "ดอกโฮลซอเจาะไม้ 38 มม.",
       "name_cn": "38厘木工开孔器（8个/盒）YT-506038 / 38.",
       "price": 109.2,
       "image": "/placeholder.svg",
@@ -993,9 +964,7 @@
       "material_cn": "木工",
       "material_code": "MG",
       "spec_number": "38-02",
-      "row_no": 356,
-      "col_o": null,
-      "col_r": null
+      "row_no": 356
     },
     {
       "id": "17-06-01-032",
@@ -1003,6 +972,7 @@
       "code": "17.06.01.032",
       "sku": "KKQ-MG-35-02",
       "name_th": "ดอกโฮลซอเจาะไม้ 35 YT-506035",
+      "name_th_short": "ดอกโฮลซอเจาะไม้ 35 มม.",
       "name_cn": "35厘木工开孔器（15个/盒）YT-506035 / 35.",
       "price": 102,
       "image": "/placeholder.svg",
@@ -1025,9 +995,7 @@
       "material_cn": "木工",
       "material_code": "MG",
       "spec_number": "35-02",
-      "row_no": 357,
-      "col_o": null,
-      "col_r": null
+      "row_no": 357
     },
     {
       "id": "17-06-01-033",
@@ -1035,6 +1003,7 @@
       "code": "17.06.01.033",
       "sku": "KKQ-MG-32-02",
       "name_th": "ดอกโฮลซอเจาะไม้ 32 YT-506032",
+      "name_th_short": "ดอกโฮลซอเจาะไม้ 32 มม.",
       "name_cn": "32厘木工开孔器（15个/盒）YT-506032 / 32. / 32.",
       "price": 92.4,
       "image": "/placeholder.svg",
@@ -1057,9 +1026,7 @@
       "material_cn": "木工",
       "material_code": "MG",
       "spec_number": "32-02",
-      "row_no": 358,
-      "col_o": null,
-      "col_r": null
+      "row_no": 358
     },
     {
       "id": "17-06-01-034",
@@ -1067,6 +1034,7 @@
       "code": "17.06.01.034",
       "sku": "KKQ-MG-30-02",
       "name_th": "ดอกโฮลซอเจาะไม้ 30 YT-506030",
+      "name_th_short": "ดอกโฮลซอเจาะไม้ 30 มม.",
       "name_cn": "30厘木工开孔器（15个/盒）YT-506030 / 30.",
       "price": 86.4,
       "image": "/placeholder.svg",
@@ -1089,9 +1057,7 @@
       "material_cn": "木工",
       "material_code": "MG",
       "spec_number": "30-02",
-      "row_no": 359,
-      "col_o": null,
-      "col_r": null
+      "row_no": 359
     },
     {
       "id": "17-06-01-035",
@@ -1099,6 +1065,7 @@
       "code": "17.06.01.035",
       "sku": "KKQ-MG-28-02",
       "name_th": "ดอกโฮลซอเจาะไม้ 28 YT-506028",
+      "name_th_short": "ดอกโฮลซอเจาะไม้ 28 มม.",
       "name_cn": "28厘木工开孔器（20个/盒）YT-506028 / 28.",
       "price": 81.6,
       "image": "/placeholder.svg",
@@ -1121,9 +1088,7 @@
       "material_cn": "木工",
       "material_code": "MG",
       "spec_number": "28-02",
-      "row_no": 360,
-      "col_o": null,
-      "col_r": null
+      "row_no": 360
     },
     {
       "id": "17-06-01-036",
@@ -1131,6 +1096,7 @@
       "code": "17.06.01.036",
       "sku": "KKQ-MG-25-02",
       "name_th": "ดอกโฮลซอเจาะไม้ 25 YT-506025",
+      "name_th_short": "ดอกโฮลซอเจาะไม้ 25 มม.",
       "name_cn": "25厘木工开孔器（20个/盒）YT-506025 / 25.",
       "price": 73.2,
       "image": "/placeholder.svg",
@@ -1153,9 +1119,7 @@
       "material_cn": "木工",
       "material_code": "MG",
       "spec_number": "25-02",
-      "row_no": 361,
-      "col_o": null,
-      "col_r": null
+      "row_no": 361
     },
     {
       "id": "17-06-01-037",
@@ -1163,6 +1127,7 @@
       "code": "17.06.01.037",
       "sku": "KKQ-MG-22-02",
       "name_th": "ดอกโฮลซอเจาะไม้ 22 YT-506022",
+      "name_th_short": "ดอกโฮลซอเจาะไม้ 22 มม.",
       "name_cn": "22厘木工开孔器（20个/盒）YT-506022 / 22.",
       "price": 62.4,
       "image": "/placeholder.svg",
@@ -1185,9 +1150,7 @@
       "material_cn": "木工",
       "material_code": "MG",
       "spec_number": "22-02",
-      "row_no": 362,
-      "col_o": null,
-      "col_r": null
+      "row_no": 362
     },
     {
       "id": "17-06-01-038",
@@ -1195,6 +1158,7 @@
       "code": "17.06.01.038",
       "sku": "KKQ-MG-20-02",
       "name_th": "ดอกโฮลซอเจาะไม้ 20 YT-506020",
+      "name_th_short": "ดอกโฮลซอเจาะไม้ 20 มม.",
       "name_cn": "20厘木工开孔器（20个/盒）YT-506020 / 20.",
       "price": 57.6,
       "image": "/placeholder.svg",
@@ -1217,9 +1181,7 @@
       "material_cn": "木工",
       "material_code": "MG",
       "spec_number": "20-02",
-      "row_no": 363,
-      "col_o": null,
-      "col_r": null
+      "row_no": 363
     },
     {
       "id": "17-06-01-039",
@@ -1227,6 +1189,7 @@
       "code": "17.06.01.039",
       "sku": "KKQ-MG-19-02",
       "name_th": "ดอกโฮลซอเจาะไม้ 19 YT-506019",
+      "name_th_short": "ดอกโฮลซอเจาะไม้ 19 มม.",
       "name_cn": "19厘木工开孔器（20个/盒）YT-506019 / 19.",
       "price": 55.2,
       "image": "/placeholder.svg",
@@ -1249,9 +1212,7 @@
       "material_cn": "木工",
       "material_code": "MG",
       "spec_number": "19-02",
-      "row_no": 364,
-      "col_o": null,
-      "col_r": null
+      "row_no": 364
     },
     {
       "id": "17-06-01-040",
@@ -1259,6 +1220,7 @@
       "code": "17.06.01.040",
       "sku": "KKQ-MG-18-02",
       "name_th": "ดอกโฮลซอเจาะไม้ 18 YT-506018",
+      "name_th_short": "ดอกโฮลซอเจาะไม้ 18 มม.",
       "name_cn": "18厘木工开孔器（20个/盒）YT-506018 / 18.",
       "price": 52.8,
       "image": "/placeholder.svg",
@@ -1281,9 +1243,7 @@
       "material_cn": "木工",
       "material_code": "MG",
       "spec_number": "18-02",
-      "row_no": 365,
-      "col_o": null,
-      "col_r": null
+      "row_no": 365
     },
     {
       "id": "17-06-01-041",
@@ -1291,6 +1251,7 @@
       "code": "17.06.01.041",
       "sku": "KKQ-MG-16-02",
       "name_th": "ดอกโฮลซอเจาะไม้ 16 YT-506016",
+      "name_th_short": "ดอกโฮลซอเจาะไม้ 16 มม.",
       "name_cn": "16厘木工开孔器（20个/盒）YT-506016 / 16",
       "price": 45.6,
       "image": "/placeholder.svg",
@@ -1313,9 +1274,7 @@
       "material_cn": "木工",
       "material_code": "MG",
       "spec_number": "16-02",
-      "row_no": 366,
-      "col_o": null,
-      "col_r": null
+      "row_no": 366
     }
   ]
 }

@@ -11,6 +11,7 @@
       "code": "22.04.02.001",
       "sku": "WYB-YD-SX-98XL",
       "name_th": "มัลติมิเตอร์ดิจิตอล Youdu Instruments ซีรีส์ YD-98",
+      "name_th_short": "มัลติมิเตอร์",
       "name_cn": "数显万用表（优度仪表）-YD-98系列",
       "price": 588,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "优度数显",
       "material_code": "YD-SX",
       "spec_number": "98XL",
-      "row_no": 90,
-      "col_o": null,
-      "col_r": null
+      "row_no": 90
     },
     {
       "id": "22-04-02-003",
@@ -43,6 +42,7 @@
       "code": "22.04.02.003",
       "sku": "WYB-PJ-BBX-01",
       "name_th": "สายโพรบ/สายวัดสำหรับมัลติมิเตอร์ (1)",
+      "name_th_short": "สายโพรบมัลติมิเตอร์",
       "name_cn": "万用表笔线",
       "price": 36,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "表笔线",
       "material_code": "BBX",
       "spec_number": "01",
-      "row_no": 91,
-      "col_o": null,
-      "col_r": null
+      "row_no": 91
     },
     {
       "id": "22-04-02-004",
@@ -75,6 +73,7 @@
       "code": "22.04.02.004",
       "sku": "WYB-PJ-BBX-02",
       "name_th": "สายโพรบ/สายวัดสำหรับมัลติมิเตอร์ (2)",
+      "name_th_short": "สายโพรบมัลติมิเตอร์",
       "name_cn": "万用表笔线",
       "price": 60,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "表笔线",
       "material_code": "BBX",
       "spec_number": "02",
-      "row_no": 92,
-      "col_o": null,
-      "col_r": null
+      "row_no": 92
     },
     {
       "id": "22-04-02-005",
@@ -107,6 +104,7 @@
       "code": "22.04.02.005",
       "sku": "WYB-ZSS-01",
       "name_th": "มัลติมิเตอร์แบบเข็มอนาล็อก",
+      "name_th_short": "มัลติมิเตอร์เข็ม",
       "name_cn": "指针万用表",
       "price": 312,
       "image": "/placeholder.svg",
@@ -129,16 +127,15 @@
       "material_cn": "指针式",
       "material_code": "ZSS",
       "spec_number": "01",
-      "row_no": 93,
-      "col_o": null,
-      "col_r": null
+      "row_no": 93
     },
     {
       "id": "22-04-02-007",
       "slug": "22-04-02-007",
       "code": "22.04.02.007",
-      "sku": "WYB-SXS-9205A-01",
+      "sku": "WYB-SXS-9205A",
       "name_th": "มัลติมิเตอร์แบบดิจิตอล (1)",
+      "name_th_short": "มัลติมิเตอร์",
       "name_cn": "数显万用表",
       "price": 264,
       "image": "/placeholder.svg",
@@ -160,10 +157,8 @@
       "category_code": "WYB",
       "material_cn": "数显式",
       "material_code": "SXS",
-      "spec_number": "9205A-01",
-      "row_no": 94,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "9205A",
+      "row_no": 94
     },
     {
       "id": "22-04-02-008",
@@ -171,6 +166,7 @@
       "code": "22.04.02.008",
       "sku": "WYB-BZX-01",
       "name_th": "มัลติมิเตอร์ทั่วไป",
+      "name_th_short": "มัลติมิเตอร์",
       "name_cn": "万用表",
       "price": 198,
       "image": "/placeholder.svg",
@@ -193,9 +189,7 @@
       "material_cn": "标准型",
       "material_code": "BZX",
       "spec_number": "01",
-      "row_no": 95,
-      "col_o": null,
-      "col_r": null
+      "row_no": 95
     },
     {
       "id": "22-04-02-011",
@@ -203,6 +197,7 @@
       "code": "22.04.02.011",
       "sku": "WYB-WLS-W0453",
       "name_th": "มัลติมิเตอร์ แบรนด์ Winner รุ่น W0453",
+      "name_th_short": "มัลติมิเตอร์",
       "name_cn": "(威力狮W0453) 万用表",
       "price": 270,
       "image": "/placeholder.svg",
@@ -225,16 +220,15 @@
       "material_cn": "威力狮系列",
       "material_code": "WLS",
       "spec_number": "W0453",
-      "row_no": 96,
-      "col_o": null,
-      "col_r": null
+      "row_no": 96
     },
     {
       "id": "22-04-02-012",
       "slug": "22-04-02-012",
       "code": "22.04.02.012",
-      "sku": "WYB-SXS-9806A-01",
+      "sku": "WYB-SXS-9806A",
       "name_th": "มัลติมิเตอร์แบบดิจิตอล (2)",
+      "name_th_short": "มัลติมิเตอร์",
       "name_cn": "数显万用表",
       "price": 576,
       "image": "/placeholder.svg",
@@ -256,10 +250,8 @@
       "category_code": "WYB",
       "material_cn": "数显式",
       "material_code": "SXS",
-      "spec_number": "9806A-01",
-      "row_no": 97,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "9806A",
+      "row_no": 97
     }
   ]
 }

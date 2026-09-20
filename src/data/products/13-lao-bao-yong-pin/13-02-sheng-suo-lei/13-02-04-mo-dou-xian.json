@@ -9,8 +9,9 @@
       "id": "13-02-04-003",
       "slug": "13-02-04-003",
       "code": "13.02.04.003",
-      "sku": "MX-DJ-220-01",
+      "sku": "MX-DJ-220",
       "name_th": "ด้ายดิบม้วนใหญ่ (220กรัม/ม้วน) 100ม้วน/ลัง",
+      "name_th_short": "ด้ายดิบม้วนใหญ่",
       "name_cn": "大卷棉线（220克/卷） 100卷/件",
       "price": 24,
       "image": "/placeholder.svg",
@@ -32,10 +33,8 @@
       "category_code": "MX",
       "material_cn": "大卷",
       "material_code": "DJ",
-      "spec_number": "220-01",
-      "row_no": 13,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "220",
+      "row_no": 13
     }
   ]
 }

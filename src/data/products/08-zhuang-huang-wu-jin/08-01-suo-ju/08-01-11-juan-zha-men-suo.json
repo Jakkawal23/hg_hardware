@@ -9,8 +9,9 @@
       "id": "08-01-11-001",
       "slug": "08-01-11-001",
       "code": "08.01.11.001",
-      "sku": "JZMS-ZK-01-01",
+      "sku": "JZMS-ZK-01",
       "name_th": "ล็อกประตูม้วนแบบเปิดกลาง-Jingjian-Oumilan",
+      "name_th_short": "ล็อกประตูม้วน",
       "name_cn": "精坚-欧迷篮-中开卷闸门锁/卷帘门锁",
       "price": 69.6,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "JZMS",
       "material_cn": "中开",
       "material_code": "ZK",
-      "spec_number": "01-01",
-      "row_no": 42,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "01",
+      "row_no": 42
     },
     {
       "id": "08-01-11-002",
       "slug": "08-01-11-002",
       "code": "08.01.11.002",
-      "sku": "JZMS-DK-01-01",
+      "sku": "JZMS-DK-01",
       "name_th": "ล็อกประตูม้วนแบบเปิดล่าง-Jingjian-Oumilan",
+      "name_th_short": "ล็อกประตูม้วน",
       "name_cn": "精坚-欧迷篮-底开卷闸门锁/下开卷闸门锁/卷帘门锁",
       "price": 72,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "JZMS",
       "material_cn": "底开",
       "material_code": "DK",
-      "spec_number": "01-01",
-      "row_no": 43,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "01",
+      "row_no": 43
     }
   ]
 }

@@ -9,8 +9,9 @@
       "id": "11-15-08-002",
       "slug": "11-15-08-002",
       "code": "11.15.08.002",
-      "sku": "YBKC-HTSX-15000-01",
+      "sku": "YBKC-HTSX-15000",
       "name_th": "เวอร์เนียคาลิปเปอร์ (ดิจิตอล) ยี่ห้อHangtai ขนาด 150 มม.",
+      "name_th_short": "เวอร์เนียคาลิปเปอร์",
       "name_cn": "杭泰数显游标卡尺 150",
       "price": 498,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "YBKC",
       "material_cn": "杭泰数显",
       "material_code": "HTSX",
-      "spec_number": "15000-01",
-      "row_no": 812,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "15000",
+      "row_no": 812
     },
     {
       "id": "11-15-08-006",
       "slug": "11-15-08-006",
       "code": "11.15.08.006",
-      "sku": "YBKC-HTZD-20000-01",
+      "sku": "YBKC-HTZD-20000",
       "name_th": "เวอร์เนียคาลิปเปอร์ (มาตรฐาน) ยี่ห้อHangtai ขนาด 200 มม.",
+      "name_th_short": "เวอร์เนียคาลิปเปอร์",
       "name_cn": "杭泰游标卡尺中档 200",
       "price": 360,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "YBKC",
       "material_cn": "杭泰中档",
       "material_code": "HTZD",
-      "spec_number": "20000-01",
-      "row_no": 813,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "20000",
+      "row_no": 813
     },
     {
       "id": "11-15-08-007",
       "slug": "11-15-08-007",
       "code": "11.15.08.007",
-      "sku": "YBKC-HTZD-30000-01",
+      "sku": "YBKC-HTZD-30000",
       "name_th": "เวอร์เนียคาลิปเปอร์ (มาตรฐาน) ยี่ห้อHangtai ขนาด 300 มม.",
+      "name_th_short": "เวอร์เนียคาลิปเปอร์",
       "name_cn": "杭泰游标卡尺中档 300",
       "price": 600,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "YBKC",
       "material_cn": "杭泰中档",
       "material_code": "HTZD",
-      "spec_number": "30000-01",
-      "row_no": 814,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "30000",
+      "row_no": 814
     },
     {
       "id": "11-15-08-008",
       "slug": "11-15-08-008",
       "code": "11.15.08.008",
-      "sku": "YBKC-BP-00200-01",
+      "sku": "YBKC-BP-00200",
       "name_th": "เวอร์เนียคาลิปเปอร์ ขนาด 0-200 มม. บรรจุ 50 ชิ้น/ลัง",
+      "name_th_short": "เวอร์เนียคาลิปเปอร์",
       "name_cn": "0-200游标卡尺（50把/件）YT-630200",
       "price": 480,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "YBKC",
       "material_cn": "标配",
       "material_code": "BP",
-      "spec_number": "00200-01",
-      "row_no": 815,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00200",
+      "row_no": 815
     },
     {
       "id": "11-15-08-009",
       "slug": "11-15-08-009",
       "code": "11.15.08.009",
-      "sku": "YBKC-BP-00150-01",
+      "sku": "YBKC-BP-00150",
       "name_th": "เวอร์เนียคาลิปเปอร์ ขนาด 0-150 มม. บรรจุ 50 ชิ้น/ลัง",
+      "name_th_short": "เวอร์เนียคาลิปเปอร์",
       "name_cn": "0-150游标卡尺（50把/件）YT-630150",
       "price": 342,
       "image": "/placeholder.svg",
@@ -160,10 +157,8 @@
       "category_code": "YBKC",
       "material_cn": "标配",
       "material_code": "BP",
-      "spec_number": "00150-01",
-      "row_no": 816,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00150",
+      "row_no": 816
     }
   ]
 }

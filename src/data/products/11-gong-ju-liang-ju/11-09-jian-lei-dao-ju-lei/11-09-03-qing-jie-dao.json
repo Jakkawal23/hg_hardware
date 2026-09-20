@@ -9,8 +9,9 @@
       "id": "11-09-03-001",
       "slug": "11-09-03-001",
       "code": "11.09.03.001",
-      "sku": "QJD-CXK-00000-01",
+      "sku": "QJD-CXK-00000",
       "name_th": "มีดขูดทำความสะอาดกระจก รุ่นขายดี บรรจุ 20 ชิ้น/กล่อง",
+      "name_th_short": "มีดขูดกระจก",
       "name_cn": "清洁刀/玻璃铲刀 畅销款（20把/盒）",
       "price": 19.2,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "QJD",
       "material_cn": "畅销款",
       "material_code": "CXK",
-      "spec_number": "00000-01",
-      "row_no": 610,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000",
+      "row_no": 610
     },
     {
       "id": "11-09-03-002",
       "slug": "11-09-03-002",
       "code": "11.09.03.002",
-      "sku": "QJD-SXP-00000-01",
+      "sku": "QJD-SXP-00000",
       "name_th": "มีดขูดทำความสะอาดกระจก แบบด้ามยืดหดได้ บรรจุ 20 ชิ้น/กล่อง",
+      "name_th_short": "มีดขูดกระจก",
       "name_cn": "清洁刀/玻璃铲刀 伸缩柄（20把/盒）",
       "price": 48,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "QJD",
       "material_cn": "伸缩柄",
       "material_code": "SXP",
-      "spec_number": "00000-01",
-      "row_no": 611,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000",
+      "row_no": 611
     },
     {
       "id": "11-09-03-003",
       "slug": "11-09-03-003",
       "code": "11.09.03.003",
-      "sku": "QJD-30CM-30000-01",
+      "sku": "QJD-30CM-30000",
       "name_th": "มีดขูดทำความสะอาดกระจก รุ่นพรีเมียม ขนาด 30 ซม. บรรจุ 10 ชิ้น/กล่อง",
+      "name_th_short": "มีดขูดกระจก",
       "name_cn": "高档清洁刀/玻璃铲刀 30公分（10把/盒）",
       "price": 56.4,
       "image": "/placeholder.svg",
@@ -96,10 +95,8 @@
       "category_code": "QJD",
       "material_cn": "30公分",
       "material_code": "30CM",
-      "spec_number": "30000-01",
-      "row_no": 612,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "30000",
+      "row_no": 612
     }
   ]
 }

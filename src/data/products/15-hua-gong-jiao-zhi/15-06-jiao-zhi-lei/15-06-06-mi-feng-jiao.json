@@ -9,8 +9,9 @@
       "id": "15-06-06-001",
       "slug": "15-06-06-001",
       "code": "15.06.06.001",
-      "sku": "MFJ-SH-1-01",
+      "sku": "MFJ-SH-1",
       "name_th": "กาวซีลแลนท์/กาวประเก็น Sanhe",
+      "name_th_short": "กาวซีลแลนท์",
       "name_cn": "三和密封胶",
       "price": 30,
       "image": "/placeholder.svg",
@@ -32,10 +33,8 @@
       "category_code": "MFJ",
       "material_cn": "三和",
       "material_code": "SH",
-      "spec_number": "1-01",
-      "row_no": 41,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1",
+      "row_no": 41
     }
   ]
 }

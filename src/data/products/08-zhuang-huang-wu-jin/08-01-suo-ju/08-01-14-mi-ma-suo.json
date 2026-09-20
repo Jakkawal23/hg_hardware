@@ -9,8 +9,9 @@
       "id": "08-01-14-0001",
       "slug": "08-01-14-0001",
       "code": "08.01.14.0001",
-      "sku": "MMS-HJ-30-01",
+      "sku": "MMS-HJ-30",
       "name_th": "แม่กุญแจรหัสอัลลอย ขนาด 30 มม.",
+      "name_th_short": "แม่กุญแจรหัส",
       "name_cn": "合金30密码锁",
       "price": 36,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "MMS",
       "material_cn": "合金",
       "material_code": "HJ",
-      "spec_number": "30-01",
-      "row_no": 49,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "30",
+      "row_no": 49
     },
     {
       "id": "08-01-14-0002",
       "slug": "08-01-14-0002",
       "code": "08.01.14.0002",
-      "sku": "MMS-HJ-40-01",
+      "sku": "MMS-HJ-40",
       "name_th": "แม่กุญแจรหัสอัลลอย ขนาด 40 มม.",
+      "name_th_short": "แม่กุญแจรหัส",
       "name_cn": "合金40密码锁",
       "price": 48,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "MMS",
       "material_cn": "合金",
       "material_code": "HJ",
-      "spec_number": "40-01",
-      "row_no": 50,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "40",
+      "row_no": 50
     },
     {
       "id": "08-01-14-0003",
       "slug": "08-01-14-0003",
       "code": "08.01.14.0003",
-      "sku": "MMS-HJ-50-01",
+      "sku": "MMS-HJ-50",
       "name_th": "แม่กุญแจรหัสอัลลอย ขนาด 50 มม.",
+      "name_th_short": "แม่กุญแจรหัส",
       "name_cn": "合金50密码锁",
       "price": 60,
       "image": "/placeholder.svg",
@@ -96,10 +95,8 @@
       "category_code": "MMS",
       "material_cn": "合金",
       "material_code": "HJ",
-      "spec_number": "50-01",
-      "row_no": 51,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "50",
+      "row_no": 51
     }
   ]
 }

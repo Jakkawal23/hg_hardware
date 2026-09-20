@@ -11,6 +11,7 @@
       "code": "21.01.07.001",
       "sku": "BBS-JH-BZ-100M",
       "name_th": "สายรัดของ/เชือกรัดสินค้า สีส้มแสด มาตรฐาน 100 เมตร",
+      "name_th_short": "สายรัดของ",
       "name_cn": "捆绑绳/捆绑带 标准100米/桔红色",
       "price": 1080,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "桔红色标准",
       "material_code": "JH-BZ",
       "spec_number": "100M",
-      "row_no": 50,
-      "col_o": null,
-      "col_r": null
+      "row_no": 50
     },
     {
       "id": "21-01-07-003",
@@ -43,6 +42,7 @@
       "code": "21.01.07.003",
       "sku": "LJS-JSQ-6M",
       "name_th": "สายรัดสเตย์/สายรัดก๊อกแก็กพร้อมตัวโยก ความยาว 6 เมตร",
+      "name_th_short": "สายรัดก๊อกแก็ก",
       "name_cn": "拉紧绳/紧绳器6米",
       "price": 126,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "紧绳器",
       "material_code": "JSQ",
       "spec_number": "6M",
-      "row_no": 51,
-      "col_o": null,
-      "col_r": null
+      "row_no": 51
     },
     {
       "id": "21-01-07-004",
@@ -75,6 +73,7 @@
       "code": "21.01.07.004",
       "sku": "LJS-JSQ-10M",
       "name_th": "สายรัดสเตย์/สายรัดก๊อกแก็กพร้อมตัวโยก ความยาว 10 เมตร",
+      "name_th_short": "สายรัดก๊อกแก็ก",
       "name_cn": "拉紧绳/紧绳器10米",
       "price": 150,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "紧绳器",
       "material_code": "JSQ",
       "spec_number": "10M",
-      "row_no": 52,
-      "col_o": null,
-      "col_r": null
+      "row_no": 52
     }
   ]
 }

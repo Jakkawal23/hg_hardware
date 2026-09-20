@@ -11,6 +11,7 @@
       "code": "01.14.04.001",
       "sku": "JZQ-1216-001",
       "name_th": "ตัวกันสั่น 120-160KG",
+      "name_th_short": "ตัวกันสั่น 120-160 กก.",
       "name_cn": "减震器120-160公斤",
       "price": 96,
       "image": "/placeholder.svg",
@@ -31,18 +32,17 @@
       "category_cn": "减震器",
       "category_code": "JZQ",
       "material_cn": "120-160",
-      "material_code": "1216.0",
+      "material_code": 1216,
       "spec_number": "001",
-      "row_no": 973,
-      "col_o": null,
-      "col_r": null
+      "row_no": 973
     },
     {
       "id": "01-14-04-004",
       "slug": "01-14-04-004",
       "code": "01.14.04.004",
-      "sku": "JZD-170-17018-01",
-      "name_th": "แผ่นกันสั่น 17017018",
+      "sku": "JZD-PT-170-170-18",
+      "name_th": "แผ่นกันสั่น 170*170*18",
+      "name_th_short": "แผ่นกันสั่น",
       "name_cn": "减震垫170*170*18",
       "price": 30,
       "image": "/placeholder.svg",
@@ -62,12 +62,10 @@
       "last_import_date": "2025-05-21",
       "category_cn": "减震垫",
       "category_code": "JZD",
-      "material_cn": "170.0",
-      "material_code": "170.0",
-      "spec_number": "17018-01",
-      "row_no": 974,
-      "col_o": null,
-      "col_r": null
+      "material_cn": 170,
+      "material_code": "PT",
+      "spec_number": "170-170-18",
+      "row_no": 974
     }
   ]
 }

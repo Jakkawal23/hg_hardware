@@ -11,6 +11,7 @@
       "code": "23.01.02.005",
       "sku": "YG-H-YG-6KG",
       "name_th": "อีเต้อ/ขุดดิน ขนาด 6 กก. (สีดำ)",
+      "name_th_short": "อีเต้อขุดดิน",
       "name_cn": "洋镐-6公斤黑",
       "price": 132,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "黑洋镐",
       "material_code": "H-YG",
       "spec_number": "6KG",
-      "row_no": 4,
-      "col_o": null,
-      "col_r": null
+      "row_no": 4
     },
     {
       "id": "23-01-02-006",
@@ -43,6 +42,7 @@
       "code": "23.01.02.006",
       "sku": "YG-PJ-YGB-01",
       "name_th": "ด้ามจับอีเต้อ",
+      "name_th_short": "ด้ามอีเต้อ",
       "name_cn": "洋镐柄",
       "price": 72,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "洋镐柄",
       "material_code": "YGB",
       "spec_number": "01",
-      "row_no": 5,
-      "col_o": null,
-      "col_r": null
+      "row_no": 5
     }
   ]
 }

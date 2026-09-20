@@ -11,6 +11,7 @@
       "code": "21.04.08.002",
       "sku": "SQG-YK-DH-PQ2",
       "name_th": "ปืนพ่นสี/กาพ่นสีทรงถังล่าง Yuekai รุ่น PQ-2 ขนาดใหญ่",
+      "name_th_short": "ปืนพ่นสี",
       "name_cn": "悦凯喷枪/喷壶 PQ-2 大",
       "price": 360,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "悦凯大号",
       "material_code": "YK-DH",
       "spec_number": "PQ2",
-      "row_no": 187,
-      "col_o": null,
-      "col_r": null
+      "row_no": 187
     }
   ]
 }

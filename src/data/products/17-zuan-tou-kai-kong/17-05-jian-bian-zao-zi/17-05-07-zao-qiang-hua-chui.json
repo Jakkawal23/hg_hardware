@@ -9,8 +9,9 @@
       "id": "17-05-07-001",
       "slug": "17-05-07-001",
       "code": "17.05.07.001",
-      "sku": "HJZ-HC-16-01",
+      "sku": "HJZ-HC-16",
       "name_th": "หัวสกัดหินลายดอกไม้ก้านเหลี่ยม 16 ฟัน",
+      "name_th_short": "หัวสกัดหินลายดอกไม้ก้านเหลี่ยม ฟัน",
       "name_cn": "方柄合金凿墙花锤 16齿",
       "price": 360,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "HJZ",
       "material_cn": "花锤",
       "material_code": "HC",
-      "spec_number": "16-01",
-      "row_no": 315,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "16",
+      "row_no": 315
     },
     {
       "id": "17-05-07-002",
       "slug": "17-05-07-002",
       "code": "17.05.07.002",
-      "sku": "HJZ-HC-12-01",
+      "sku": "HJZ-HC-12",
       "name_th": "หัวสกัดหินลายดอกไม้ก้านหกเหลี่ยม 12 ฟัน",
+      "name_th_short": "หัวสกัดหินลายดอกไม้ก้านหกเหลี่ยม ฟัน",
       "name_cn": "六角合金凿墙花锤 12齿",
       "price": 324,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "HJZ",
       "material_cn": "花锤",
       "material_code": "HC",
-      "spec_number": "12-01",
-      "row_no": 316,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "12",
+      "row_no": 316
     }
   ]
 }

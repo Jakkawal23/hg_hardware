@@ -9,8 +9,9 @@
       "id": "16-02-02-001",
       "slug": "16-02-02-001",
       "code": "16.02.02.001",
-      "sku": "FSJD-LBDJ-5-01",
+      "sku": "FSJD-LBDJ-5",
       "name_th": "เทปบิวทิลฟอยล์กันน้ำ Yongkuan 5 ซม.",
+      "name_th_short": "เทปบิวทิลกันน้ำ",
       "name_cn": "永冠铝箔丁基防水胶带5公分",
       "price": 38.4,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "FSJD",
       "material_cn": "铝箔丁基",
       "material_code": "LBDJ",
-      "spec_number": "5-01",
-      "row_no": 24,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "5",
+      "row_no": 24
     },
     {
       "id": "16-02-02-002",
       "slug": "16-02-02-002",
       "code": "16.02.02.002",
-      "sku": "FSJD-LBDJ-10-01",
+      "sku": "FSJD-LBDJ-10",
       "name_th": "เทปบิวทิลฟอยล์กันน้ำ Yongkuan 10 ซม.",
+      "name_th_short": "เทปบิวทิลกันน้ำ",
       "name_cn": "永冠铝箔丁基防水胶带10公分",
       "price": 80.4,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "FSJD",
       "material_cn": "铝箔丁基",
       "material_code": "LBDJ",
-      "spec_number": "10-01",
-      "row_no": 25,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10",
+      "row_no": 25
     },
     {
       "id": "16-02-02-004",
       "slug": "16-02-02-004",
       "code": "16.02.02.004",
-      "sku": "FSJD-LBDJ-20-01",
+      "sku": "FSJD-LBDJ-20",
       "name_th": "เทปบิวทิลฟอยล์กันน้ำ Yongkuan 20 ซม.",
+      "name_th_short": "เทปบิวทิลกันน้ำ",
       "name_cn": "永冠铝箔丁基防水胶带20公分",
       "price": 151.2,
       "image": "/placeholder.svg",
@@ -96,10 +95,8 @@
       "category_code": "FSJD",
       "material_cn": "铝箔丁基",
       "material_code": "LBDJ",
-      "spec_number": "20-01",
-      "row_no": 26,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "20",
+      "row_no": 26
     }
   ]
 }

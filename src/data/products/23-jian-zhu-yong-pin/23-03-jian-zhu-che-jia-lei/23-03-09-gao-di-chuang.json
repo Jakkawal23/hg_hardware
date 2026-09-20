@@ -11,6 +11,7 @@
       "code": "23.03.09.003",
       "sku": "CJ-TP-GDC-01",
       "name_th": "เตียงนอนเหล็ก 2 ชั้น (สำหรับแคมป์คนงาน)",
+      "name_th_short": "เตียง 2 ชั้น เหล็ก",
       "name_cn": "高低床/铁皮床()",
       "price": 2520,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "铁皮高低床",
       "material_code": "TP-GDC",
       "spec_number": "01",
-      "row_no": 51,
-      "col_o": null,
-      "col_r": null
+      "row_no": 51
     },
     {
       "id": "23-03-09-004",
@@ -43,6 +42,7 @@
       "code": "23.03.09.004",
       "sku": "CJ-PJ-CD-01",
       "name_th": "ฟูกที่นอน/เบาะรองนอน",
+      "name_th_short": "ฟูกที่นอน",
       "name_cn": "床垫",
       "price": 528,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "床垫",
       "material_code": "CD",
       "spec_number": "01",
-      "row_no": 52,
-      "col_o": null,
-      "col_r": null
+      "row_no": 52
     },
     {
       "id": "23-03-09-005",
@@ -75,6 +73,7 @@
       "code": "23.03.09.005",
       "sku": "CJ-MB-GDC-01",
       "name_th": "เตียงนอนไม้ 2 ชั้น/แผ่นกระดานเตียงคนงาน",
+      "name_th_short": "เตียง 2 ชั้น ไม้",
       "name_cn": "高低床/木板床",
       "price": 1800,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "木板高低床",
       "material_code": "MB-GDC",
       "spec_number": "01",
-      "row_no": 53,
-      "col_o": null,
-      "col_r": null
+      "row_no": 53
     }
   ]
 }

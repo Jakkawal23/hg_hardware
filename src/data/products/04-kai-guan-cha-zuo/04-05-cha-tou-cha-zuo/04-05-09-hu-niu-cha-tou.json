@@ -9,8 +9,9 @@
       "id": "04-05-09-002",
       "slug": "04-05-09-002",
       "code": "04.05.09.002",
-      "sku": "CT-BLGSY-25A-01",
+      "sku": "CT-BLGSY-25A",
       "name_th": "ปลั๊กตัวผู้ 4 ขา หูหนิว (Huniu) วัสดุไฟเบอร์กลาส 25A สีเหลือง (12 ตัว/กล่อง)",
+      "name_th_short": "ปลั๊กตัวผู้ 4 ขา ไฟเบอร์กลาส",
       "name_cn": "插头《沪牛》玻璃钢四眼插头25A 黄色（12只/盒）",
       "price": 45.6,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "CT",
       "material_cn": "玻璃钢四眼",
       "material_code": "BLGSY",
-      "spec_number": "25A-01",
-      "row_no": 66,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "25A",
+      "row_no": 66
     },
     {
       "id": "04-05-09-003",
       "slug": "04-05-09-003",
       "code": "04.05.09.003",
-      "sku": "CT-SY-16A-01",
+      "sku": "CT-SY-16A",
       "name_th": "ปลั๊กตัวผู้ 3 ขา หูหนิว (Huniu) 16A",
+      "name_th_short": "ปลั๊กตัวผู้ 3 ขา 16A",
       "name_cn": "插头《沪牛》三眼插头",
       "price": 24,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "CT",
       "material_cn": "三眼",
       "material_code": "SY",
-      "spec_number": "16A-01",
-      "row_no": 67,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "16A",
+      "row_no": 67
     },
     {
       "id": "04-05-09-004",
       "slug": "04-05-09-004",
       "code": "04.05.09.004",
-      "sku": "CT-SY-10A-01",
+      "sku": "CT-SY-10A",
       "name_th": "ปลั๊กตัวผู้ 3 ขา หูหนิว (Huniu) 10A",
+      "name_th_short": "ปลั๊กตัวผู้ 3 ขา 10A",
       "name_cn": "插头《沪牛》三眼插头 10A",
       "price": 19.2,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "CT",
       "material_cn": "三眼",
       "material_code": "SY",
-      "spec_number": "10A-01",
-      "row_no": 68,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10A",
+      "row_no": 68
     },
     {
       "id": "04-05-09-006",
       "slug": "04-05-09-006",
       "code": "04.05.09.006",
-      "sku": "CT-SY-25A-01",
+      "sku": "CT-SY-25A",
       "name_th": "ปลั๊กตัวผู้ 3 ขา หูหนิว (Huniu) 25A",
+      "name_th_short": "ปลั๊กตัวผู้ 3 ขา 25A",
       "name_cn": "插头《沪牛》三眼插头",
       "price": 46.8,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "CT",
       "material_cn": "三眼",
       "material_code": "SY",
-      "spec_number": "25A-01",
-      "row_no": 69,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "25A",
+      "row_no": 69
     },
     {
       "id": "04-05-09-007",
       "slug": "04-05-09-007",
       "code": "04.05.09.007",
-      "sku": "CT-SIY-01-01",
+      "sku": "CT-SIY-01",
       "name_th": "ปลั๊กตัวผู้ 4 ขา หูหนิว (Huniu)",
+      "name_th_short": "ปลั๊กตัวผู้ 4 ขา",
       "name_cn": "插头《沪牛》四眼插头",
       "price": 30,
       "image": "/placeholder.svg",
@@ -160,17 +157,16 @@
       "category_code": "CT",
       "material_cn": "四眼",
       "material_code": "SIY",
-      "spec_number": "01-01",
-      "row_no": 70,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "01",
+      "row_no": 70
     },
     {
       "id": "04-05-09-009",
       "slug": "04-05-09-009",
       "code": "04.05.09.009",
-      "sku": "CT-SY-10-01",
+      "sku": "CT-SY-10",
       "name_th": "ปลั๊กตัวผู้ GONGNIU (3 ขา) (10 ตัว/แถว)",
+      "name_th_short": "ปลั๊กตัวผู้ 3 ขา",
       "name_cn": "插头-公牛（三眼插头）10只/排",
       "price": 52.8,
       "image": "/placeholder.svg",
@@ -192,10 +188,8 @@
       "category_code": "CT",
       "material_cn": "三眼",
       "material_code": "SY",
-      "spec_number": "10-01",
-      "row_no": 71,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10",
+      "row_no": 71
     }
   ]
 }

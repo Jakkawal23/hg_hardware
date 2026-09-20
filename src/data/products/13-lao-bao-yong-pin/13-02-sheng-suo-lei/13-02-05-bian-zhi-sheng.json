@@ -11,6 +11,7 @@
       "code": "13.02.05.001",
       "sku": "SZ-BZ-12-100",
       "name_th": "เชือกถัก/เชือกมัด/เชือกนิรภัย 12 มม. (100เมตร/มัด 8กก.)",
+      "name_th_short": "เชือกถักมัดของ",
       "name_cn": "编织绳/捆绑绳/安全绳子 12mm（100米/捆8公斤）",
       "price": 672,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "编织",
       "material_code": "BZ",
       "spec_number": "12-100",
-      "row_no": 14,
-      "col_o": null,
-      "col_r": null
+      "row_no": 14
     }
   ]
 }

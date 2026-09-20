@@ -9,8 +9,9 @@
       "id": "01-11-06-001",
       "slug": "01-11-06-001",
       "code": "01.11.06.001",
-      "sku": "GKD-W-M16-01",
+      "sku": "GKD-W-M16",
       "name_th": "ตะปูรัดท่อ (หัวแดง) M16",
+      "name_th_short": "ตะปูรัดท่อหัวแดง",
       "name_cn": "管卡钉（红头）M16 ()",
       "price": 1.56,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "GKD",
       "material_cn": "无",
       "material_code": "W",
-      "spec_number": "M16-01",
-      "row_no": 766,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "M16",
+      "row_no": 766
     },
     {
       "id": "01-11-06-002",
       "slug": "01-11-06-002",
       "code": "01.11.06.002",
-      "sku": "GKD-W-M20-01",
+      "sku": "GKD-W-M20",
       "name_th": "ตะปูรัดท่อ (หัวแดง) M20",
+      "name_th_short": "ตะปูรัดท่อหัวแดง",
       "name_cn": "管卡钉（红头）M20 ()",
       "price": 1.56,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "GKD",
       "material_cn": "无",
       "material_code": "W",
-      "spec_number": "M20-01",
-      "row_no": 767,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "M20",
+      "row_no": 767
     },
     {
       "id": "01-11-06-003",
       "slug": "01-11-06-003",
       "code": "01.11.06.003",
-      "sku": "GKD-W-M25-01",
+      "sku": "GKD-W-M25",
       "name_th": "ตะปูรัดท่อ (หัวแดง) M25",
+      "name_th_short": "ตะปูรัดท่อหัวแดง",
       "name_cn": "管卡钉（红头）M25 ()",
       "price": 1.68,
       "image": "/placeholder.svg",
@@ -96,10 +95,8 @@
       "category_code": "GKD",
       "material_cn": "无",
       "material_code": "W",
-      "spec_number": "M25-01",
-      "row_no": 768,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "M25",
+      "row_no": 768
     }
   ]
 }

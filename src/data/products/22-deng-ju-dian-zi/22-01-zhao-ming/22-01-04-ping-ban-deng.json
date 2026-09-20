@@ -11,6 +11,7 @@
       "code": "22.01.04.001",
       "sku": "PBD-HR-FD-20W-3030",
       "name_th": "โคมพาแนลฝังฝ้าสี่เหลี่ยม Hongri 20W 30x30 ซม.",
+      "name_th_short": "โคมไฟพาแนลสี่เหลี่ยม",
       "name_cn": "红日平板灯 20W 30x30 方灯",
       "price": 174,
       "image": "/placeholder.svg",
@@ -33,16 +34,15 @@
       "material_cn": "红日方灯",
       "material_code": "HR-FD",
       "spec_number": "20W-3030",
-      "row_no": 25,
-      "col_o": null,
-      "col_r": null
+      "row_no": 25
     },
     {
       "id": "22-01-04-004",
       "slug": "22-01-04-004",
       "code": "22.01.04.004",
-      "sku": "PBD-YM-CB-3030-24W",
+      "sku": "PBD-YM-CB-30-30-24W",
       "name_th": "โคมพาแนล LED บางพิเศษ Yaming 30x30 ซม. 20W/24W",
+      "name_th_short": "โคมไฟพาแนลบางพิเศษ",
       "name_cn": "亚明LED超薄平板灯 30*30 20W/24W",
       "price": 168,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "PBD",
       "material_cn": "亚明超薄",
       "material_code": "YM-CB",
-      "spec_number": "3030-24W",
-      "row_no": 26,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "30-30-24W",
+      "row_no": 26
     },
     {
       "id": "22-01-04-006",
       "slug": "22-01-04-006",
       "code": "22.01.04.006",
-      "sku": "PBD-YM-CB-6060-55W",
+      "sku": "PBD-YM-CB-60-60-55W",
       "name_th": "โคมพาแนล LED บางพิเศษ Yaming 60x60 ซม. 55W",
+      "name_th_short": "โคมไฟพาแนลบางพิเศษ",
       "name_cn": "亚明LED超薄平板灯 60*60 55w",
       "price": 276,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "PBD",
       "material_cn": "亚明超薄",
       "material_code": "YM-CB",
-      "spec_number": "6060-55W",
-      "row_no": 27,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "60-60-55W",
+      "row_no": 27
     },
     {
       "id": "22-01-04-007",
       "slug": "22-01-04-007",
       "code": "22.01.04.007",
-      "sku": "PBD-YM-CB-6060-65W",
+      "sku": "PBD-YM-CB-60-60-65W",
       "name_th": "โคมพาแนล LED บางพิเศษ Yaming 60x60 ซม. 65W",
+      "name_th_short": "โคมไฟพาแนลบางพิเศษ",
       "name_cn": "亚明LED超薄平板灯 60*60 65w",
       "price": 372,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "PBD",
       "material_cn": "亚明超薄",
       "material_code": "YM-CB",
-      "spec_number": "6060-65W",
-      "row_no": 28,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "60-60-65W",
+      "row_no": 28
     },
     {
       "id": "22-01-04-008",
       "slug": "22-01-04-008",
       "code": "22.01.04.008",
-      "sku": "PBD-YM-CB-6060-80W",
+      "sku": "PBD-YM-CB-60-60-80W",
       "name_th": "โคมพาแนล LED บางพิเศษ Yaming 60x60 ซม. 80W",
+      "name_th_short": "โคมไฟพาแนลบางพิเศษ",
       "name_cn": "亚明LED超薄平板灯 60*60 80w",
       "price": 480,
       "image": "/placeholder.svg",
@@ -160,10 +157,8 @@
       "category_code": "PBD",
       "material_cn": "亚明超薄",
       "material_code": "YM-CB",
-      "spec_number": "6060-80W",
-      "row_no": 29,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "60-60-80W",
+      "row_no": 29
     }
   ]
 }

@@ -11,6 +11,7 @@
       "code": "06.05.01.0002",
       "sku": "ZDB-ZN35-1501",
       "name_th": "เครื่องจี้ปูน 900W (ZN35) 1.5เมตร",
+      "name_th_short": "เครื่องจี้ปูน",
       "name_cn": "超欧 手提式900W电机+ZN35手提式混凝土振动棒（震动棒）1.5米套装",
       "price": 1656,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "ZN35",
       "material_code": "ZN35",
       "spec_number": "1501",
-      "row_no": 78,
-      "col_o": null,
-      "col_r": null
+      "row_no": 78
     },
     {
       "id": "06-05-01-0005",
@@ -43,6 +42,7 @@
       "code": "06.05.01.0005",
       "sku": "ZDB-ZN50-6M01",
       "name_th": "สายจี้ปูน ZN50*6เมตร",
+      "name_th_short": "สายจี้ปูน",
       "name_cn": "混凝土振动棒（震动棒）ZN50*6米",
       "price": 2880,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "ZN50",
       "material_code": "ZN50",
       "spec_number": "6M01",
-      "row_no": 79,
-      "col_o": null,
-      "col_r": null
+      "row_no": 79
     }
   ]
 }

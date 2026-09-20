@@ -9,8 +9,9 @@
       "id": "16-05-06-001",
       "slug": "16-05-06-001",
       "code": "16.05.06.001",
-      "sku": "DBJ-SD-1-01",
+      "sku": "DBJ-SD-1",
       "name_th": "เครื่องรัดสายเรซิ่น/คีมย้ำสายรัดด้วยมือ",
+      "name_th_short": "เครื่องรัด/คีมรัดสายรัด",
       "name_cn": "手动打包机/打包钳",
       "price": 366,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "DBJ",
       "material_cn": "手动",
       "material_code": "SD",
-      "spec_number": "1-01",
-      "row_no": 99,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1",
+      "row_no": 99
     },
     {
       "id": "16-05-06-002",
       "slug": "16-05-06-002",
       "code": "16.05.06.002",
-      "sku": "DBJ-SGD-1-01",
+      "sku": "DBJ-SGD-1",
       "name_th": "เครื่องดึงสายรัดพลาสติก PET/PP (ตัวโยกสายรัด)",
+      "name_th_short": "เครื่องรัด/คีมรัดสายรัด",
       "name_cn": "塑钢带打包机/拉紧器",
       "price": 522,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "DBJ",
       "material_cn": "塑钢带",
       "material_code": "SGD",
-      "spec_number": "1-01",
-      "row_no": 100,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1",
+      "row_no": 100
     }
   ]
 }

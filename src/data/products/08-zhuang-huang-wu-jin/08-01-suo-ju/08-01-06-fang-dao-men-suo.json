@@ -9,8 +9,9 @@
       "id": "08-01-06-001",
       "slug": "08-01-06-001",
       "code": "08.01.06.001",
-      "sku": "FDS-XTG-300-01",
+      "sku": "FDS-XTG-300",
       "name_th": "ล็อกกันขโมย-Oumilan หัวสังกะสีชุบโครเมียม 300 / หัวจันทร์เสี้ยวชุบโครเมียมขาว 1.0",
+      "name_th_short": "ล็อกกันขโมย",
       "name_cn": "防盗锁-欧迷篮300锌头镀铬/1.0白铬月牙锌头左带",
       "price": 150,
       "image": "/placeholder.svg",
@@ -32,10 +33,8 @@
       "category_code": "FDS",
       "material_cn": "锌头镀铬",
       "material_code": "XTG",
-      "spec_number": "300-01",
-      "row_no": 30,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "300",
+      "row_no": 30
     }
   ]
 }

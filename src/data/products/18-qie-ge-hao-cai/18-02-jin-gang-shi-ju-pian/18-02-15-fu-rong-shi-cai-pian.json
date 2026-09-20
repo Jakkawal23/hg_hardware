@@ -11,6 +11,7 @@
       "code": "18.02.15.001",
       "sku": "SCRC-FR-QW-11420",
       "name_th": "ใบตัดหินแห้ง Furong รุ่นราชา 114x20x1.8 มม.",
+      "name_th_short": "ใบตัดหินแห้ง",
       "name_cn": "福荣石材干切王 114*20*1.8mm",
       "price": 60,
       "image": "/placeholder.svg",
@@ -32,10 +33,8 @@
       "category_code": "SCRC",
       "material_cn": "福荣干切王",
       "material_code": "FR-QW",
-      "spec_number": "11420.0",
-      "row_no": 27,
-      "col_o": null,
-      "col_r": null
+      "spec_number": 11420,
+      "row_no": 27
     },
     {
       "id": "18-02-15-002",
@@ -43,6 +42,7 @@
       "code": "18.02.15.002",
       "sku": "SCRC-FR-ZYA-11420",
       "name_th": "ใบตัดหินแห้ง Furong รุ่นเฉพาะทาง เกรด A 114x20x1.8 มม.",
+      "name_th_short": "ใบตัดหินแห้ง",
       "name_cn": "福荣石材干切专用 A 114*20*1.8mm",
       "price": 84,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "SCRC",
       "material_cn": "福荣专用A",
       "material_code": "FR-ZYA",
-      "spec_number": "11420.0",
-      "row_no": 28,
-      "col_o": null,
-      "col_r": null
+      "spec_number": 11420,
+      "row_no": 28
     },
     {
       "id": "18-02-15-004",
       "slug": "18-02-15-004",
       "code": "18.02.15.004",
-      "sku": "SCRC-FR-QS-250-01",
+      "sku": "SCRC-FR-QS-250",
       "name_th": "ใบตัดหินแห้ง Furong รุ่นงานเบา ขนาด 250 มม.",
+      "name_th_short": "ใบตัดหินแห้ง",
       "name_cn": "福荣轻松干切 250",
       "price": 420,
       "image": "/placeholder.svg",
@@ -96,10 +95,8 @@
       "category_code": "SCRC",
       "material_cn": "福荣轻松",
       "material_code": "FR-QS",
-      "spec_number": "250-01",
-      "row_no": 29,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "250",
+      "row_no": 29
     }
   ]
 }

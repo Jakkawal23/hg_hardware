@@ -11,6 +11,7 @@
       "code": "06.04.01.001",
       "sku": "JZ-1M-001",
       "name_th": "ขาตั้งระดับน้ำ 1เมตร",
+      "name_th_short": "ขาตั้งระดับน้ำ",
       "name_cn": "水平仪架子 1米",
       "price": 192,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "1米",
       "material_code": "1M",
       "spec_number": "001",
-      "row_no": 69,
-      "col_o": null,
-      "col_r": null
+      "row_no": 69
     },
     {
       "id": "06-04-01-009",
@@ -43,6 +42,7 @@
       "code": "06.04.01.009",
       "sku": "SPY-5X-001",
       "name_th": "ระดับน้ำเลเซอร์ 5เส้น (YT-619005)",
+      "name_th_short": "ระดับน้ำเลเซอร์ 5 เส้น",
       "name_cn": "五线水平仪（8把/件）YT-619005 /",
       "price": 2832,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "5线",
       "material_code": "5X",
       "spec_number": "001",
-      "row_no": 70,
-      "col_o": null,
-      "col_r": null
+      "row_no": 70
     },
     {
       "id": "06-04-01-010",
@@ -75,6 +73,7 @@
       "code": "06.04.01.010",
       "sku": "CJL-05-001",
       "name_th": "ล้อวัดระยะ 0.5 (YT-342020)",
+      "name_th_short": "ล้อวัดระยะ",
       "name_cn": "机械测距轮0.5（6把/件）YT-342020 / 0.5",
       "price": 960,
       "image": "/placeholder.svg",
@@ -94,12 +93,10 @@
       "last_import_date": null,
       "category_cn": "测距轮",
       "category_code": "CJL",
-      "material_cn": "0.5",
+      "material_cn": 0.5,
       "material_code": "05",
       "spec_number": "001",
-      "row_no": 71,
-      "col_o": null,
-      "col_r": null
+      "row_no": 71
     },
     {
       "id": "06-04-01-011",
@@ -107,6 +104,7 @@
       "code": "06.04.01.011",
       "sku": "CJY-70M-001",
       "name_th": "เครื่องวัดระยะเลเซอร์ 70เมตร (YT-619008)",
+      "name_th_short": "เครื่องวัดระยะเลเซอร์",
       "name_cn": "70米激光测距仪（48把/件）YT-619008 / 70",
       "price": 1296,
       "image": "/placeholder.svg",
@@ -129,9 +127,7 @@
       "material_cn": "70米",
       "material_code": "70M",
       "spec_number": "001",
-      "row_no": 72,
-      "col_o": null,
-      "col_r": null
+      "row_no": 72
     },
     {
       "id": "06-04-01-012",
@@ -139,6 +135,7 @@
       "code": "06.04.01.012",
       "sku": "TDY-12X-001",
       "name_th": "ระดับน้ำเลเซอร์ 12เส้น (Bodi)",
+      "name_th_short": "ระดับน้ำเลเซอร์ 12 เส้น",
       "name_cn": "博迪绿光12线贴地仪（室外强光 进口夏普激光头 齿轮底座) 数显升级版",
       "price": 2016,
       "image": "/placeholder.svg",
@@ -161,9 +158,7 @@
       "material_cn": "12线",
       "material_code": "12X",
       "spec_number": "001",
-      "row_no": 73,
-      "col_o": null,
-      "col_r": null
+      "row_no": 73
     },
     {
       "id": "06-04-01-013",
@@ -171,6 +166,7 @@
       "code": "06.04.01.013",
       "sku": "SPY-2X-001",
       "name_th": "ระดับน้ำเลเซอร์ 2เส้น (Bodi)",
+      "name_th_short": "ระดับน้ำเลเซอร์ 2 เส้น",
       "name_cn": "博迪绿光2线水平仪（室外强光 进口夏普激光头 齿轮底座) 数显升级版",
       "price": 1776,
       "image": "/placeholder.svg",
@@ -193,9 +189,7 @@
       "material_cn": "2线",
       "material_code": "2X",
       "spec_number": "001",
-      "row_no": 74,
-      "col_o": null,
-      "col_r": null
+      "row_no": 74
     },
     {
       "id": "06-04-01-014",
@@ -203,6 +197,7 @@
       "code": "06.04.01.014",
       "sku": "SPY-3X-001",
       "name_th": "ระดับน้ำเลเซอร์ 3เส้น (Bodi)",
+      "name_th_short": "ระดับน้ำเลเซอร์ 3 เส้น",
       "name_cn": "博迪绿光3线水平仪（室外强光进口夏普激光头 齿轮底座）数显升级版",
       "price": 1872,
       "image": "/placeholder.svg",
@@ -225,9 +220,7 @@
       "material_cn": "3线",
       "material_code": "3X",
       "spec_number": "001",
-      "row_no": 75,
-      "col_o": null,
-      "col_r": null
+      "row_no": 75
     },
     {
       "id": "06-04-01-015",
@@ -235,6 +228,7 @@
       "code": "06.04.01.015",
       "sku": "SPY-5X-002",
       "name_th": "ระดับน้ำเลเซอร์ 5เส้น (Bodi)",
+      "name_th_short": "ระดับน้ำเลเซอร์ 5 เส้น",
       "name_cn": "博迪绿光5线水平仪（室外强光进口夏普激光头 齿轮底座）数显升级版",
       "price": 2016,
       "image": "/placeholder.svg",
@@ -257,16 +251,15 @@
       "material_cn": "5线",
       "material_code": "5X",
       "spec_number": "002",
-      "row_no": 76,
-      "col_o": null,
-      "col_r": null
+      "row_no": 76
     },
     {
       "id": "06-04-01-016",
       "slug": "06-04-01-016",
       "code": "06.04.01.016",
       "sku": "CJY-50M-001",
-      "name_th": "เครื่องวัดระยะเลเซอร์ 50เมตร (W4123)",
+      "name_th": "เครื่องวัดระยะเลเซอร์ 50เมตร แบรนด์ Winner (W4123)",
+      "name_th_short": "เครื่องวัดระยะเลเซอร์",
       "name_cn": "（威力狮W4123）手持式高精度激光测距仪 50M W4123",
       "price": 960,
       "image": "/placeholder.svg",
@@ -289,9 +282,7 @@
       "material_cn": "50M",
       "material_code": "50M",
       "spec_number": "001",
-      "row_no": 77,
-      "col_o": null,
-      "col_r": null
+      "row_no": 77
     }
   ]
 }

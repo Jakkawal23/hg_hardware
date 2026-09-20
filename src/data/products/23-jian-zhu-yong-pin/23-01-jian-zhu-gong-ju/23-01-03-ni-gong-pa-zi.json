@@ -11,6 +11,7 @@
       "code": "23.01.03.003",
       "sku": "DP-JC-DP-09",
       "name_th": "คราดเหล็ก 9 ซี่ สำหรับการเกษตร",
+      "name_th_short": "คราดเหล็ก 9 ซี่",
       "name_cn": "九齿钉耙",
       "price": 78,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "九齿钉耙",
       "material_code": "JC-DP",
       "spec_number": "09",
-      "row_no": 6,
-      "col_o": null,
-      "col_r": null
+      "row_no": 6
     },
     {
       "id": "23-01-03-004",
@@ -43,6 +42,7 @@
       "code": "23.01.03.004",
       "sku": "BZ-NG-CB-550",
       "name_th": "คราดฉาบปูน/คราดปูนด้ามยาว ขนาด 550 มม.",
+      "name_th_short": "คราดฉาบปูนด้ามยาว",
       "name_cn": "泥工长耙子 550",
       "price": 79.2,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "BZ",
       "material_cn": "泥工长耙",
       "material_code": "NG-CB",
-      "spec_number": "550.0",
-      "row_no": 7,
-      "col_o": null,
-      "col_r": null
+      "spec_number": 550,
+      "row_no": 7
     },
     {
       "id": "23-01-03-005",
@@ -75,6 +73,7 @@
       "code": "23.01.03.005",
       "sku": "BZ-NG-CB-450",
       "name_th": "คราดฉาบปูน/คราดปูนด้ามยาว ขนาด 450 มม.",
+      "name_th_short": "คราดฉาบปูนด้ามยาว",
       "name_cn": "泥工长耙子 450",
       "price": 66,
       "image": "/placeholder.svg",
@@ -96,10 +95,8 @@
       "category_code": "BZ",
       "material_cn": "泥工长耙",
       "material_code": "NG-CB",
-      "spec_number": "450.0",
-      "row_no": 8,
-      "col_o": null,
-      "col_r": null
+      "spec_number": 450,
+      "row_no": 8
     }
   ]
 }

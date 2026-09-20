@@ -9,8 +9,9 @@
       "id": "15-04-02-043",
       "slug": "15-04-02-043",
       "code": "15.04.02.043",
-      "sku": "JGJ-YT995-BS-995-01",
+      "sku": "JGJ-YT995-BS-995",
       "name_th": "กาวโครงสร้างหลอดนิ่ม Handley Yongtai 995 สีขาว",
+      "name_th_short": "กาวโครงสร้างหลอดนิ่ม",
       "name_cn": "汉得力结构胶永泰995-白色软支 Handley Yongtai 995 - White Soft Branch",
       "price": 81.6,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "JGJ",
       "material_cn": "永泰995",
       "material_code": "YT995-BS",
-      "spec_number": "995-01",
-      "row_no": 35,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "995",
+      "row_no": 35
     },
     {
       "id": "15-04-02-045",
       "slug": "15-04-02-045",
       "code": "15.04.02.045",
-      "sku": "JGJ-MH-H995C-20-01",
+      "sku": "JGJ-MH-H995C-20",
       "name_th": "กาวซิลิโคนโครงสร้าง Handley Minghui H995-C สีดำ (20หลอด/ลัง)",
+      "name_th_short": "กาวซิลิโคนโครงสร้างดำ",
       "name_cn": "汉得力硅酮结构胶密封胶/铭辉H995-C黑--20支/箱",
       "price": 75.6,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "JGJ",
       "material_cn": "铭辉H995-C",
       "material_code": "MH-H995C",
-      "spec_number": "20-01",
-      "row_no": 36,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "20",
+      "row_no": 36
     }
   ]
 }

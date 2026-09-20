@@ -9,8 +9,9 @@
       "id": "13-03-02-016",
       "slug": "13-03-02-016",
       "code": "13.03.02.016",
-      "sku": "LBX-HG-QK-45-01",
+      "sku": "LBX-HG-QK-45",
       "name_th": "รองเท้าเซฟตี้ช่างเชื่อม สีกากี เบอร์ 45",
+      "name_th_short": "รองเท้าเซฟตี้ช่างเชื่อม",
       "name_cn": "焊工防护鞋/劳保鞋 45 卡其色 /",
       "price": 372,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "LBX",
       "material_cn": "焊工",
       "material_code": "HG-QK",
-      "spec_number": "45-01",
-      "row_no": 35,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "45",
+      "row_no": 35
     },
     {
       "id": "13-03-02-017",
       "slug": "13-03-02-017",
       "code": "13.03.02.017",
-      "sku": "LBX-HG-QK-44-01",
+      "sku": "LBX-HG-QK-44",
       "name_th": "รองเท้าเซฟตี้ช่างเชื่อม สีกากี เบอร์ 44",
+      "name_th_short": "รองเท้าเซฟตี้ช่างเชื่อม",
       "name_cn": "焊工防护鞋/劳保鞋 44 卡其色 / /",
       "price": 372,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "LBX",
       "material_cn": "焊工",
       "material_code": "HG-QK",
-      "spec_number": "44-01",
-      "row_no": 36,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "44",
+      "row_no": 36
     },
     {
       "id": "13-03-02-018",
       "slug": "13-03-02-018",
       "code": "13.03.02.018",
-      "sku": "LBX-HG-QK-43-01",
+      "sku": "LBX-HG-QK-43",
       "name_th": "รองเท้าเซฟตี้ช่างเชื่อม สีกากี เบอร์ 43",
+      "name_th_short": "รองเท้าเซฟตี้ช่างเชื่อม",
       "name_cn": "焊工防护鞋/劳保鞋 43 卡其色 / /",
       "price": 372,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "LBX",
       "material_cn": "焊工",
       "material_code": "HG-QK",
-      "spec_number": "43-01",
-      "row_no": 37,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "43",
+      "row_no": 37
     },
     {
       "id": "13-03-02-020",
       "slug": "13-03-02-020",
       "code": "13.03.02.020",
-      "sku": "LBX-HG-QK-40-01",
+      "sku": "LBX-HG-QK-40",
       "name_th": "รองเท้าเซฟตี้ช่างเชื่อม สีกากี เบอร์ 40",
+      "name_th_short": "รองเท้าเซฟตี้ช่างเชื่อม",
       "name_cn": "焊工防护鞋/劳保鞋 40 卡其色 / /",
       "price": 372,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "LBX",
       "material_cn": "焊工",
       "material_code": "HG-QK",
-      "spec_number": "40-01",
-      "row_no": 38,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "40",
+      "row_no": 38
     },
     {
       "id": "13-03-02-021",
       "slug": "13-03-02-021",
       "code": "13.03.02.021",
-      "sku": "LBX-HG-QK-39-01",
+      "sku": "LBX-HG-QK-39",
       "name_th": "รองเท้าเซฟตี้ช่างเชื่อม สีกากี เบอร์ 39",
+      "name_th_short": "รองเท้าเซฟตี้ช่างเชื่อม",
       "name_cn": "焊工防护鞋/劳保鞋 39 卡其色 / /",
       "price": 372,
       "image": "/placeholder.svg",
@@ -160,10 +157,8 @@
       "category_code": "LBX",
       "material_cn": "焊工",
       "material_code": "HG-QK",
-      "spec_number": "39-01",
-      "row_no": 39,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "39",
+      "row_no": 39
     }
   ]
 }

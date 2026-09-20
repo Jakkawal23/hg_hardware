@@ -11,6 +11,7 @@
       "code": "19.06.09.001",
       "sku": "MJJ-304SG-60-108202",
       "name_th": "ราวแขวนผ้าขนหนูสแตนเลส 304 เส้นคู่พร้อมตะขอ Jinliwang 60 ซม.",
+      "name_th_short": "ราวแขวนผ้าขนหนู",
       "name_cn": "金力王304不锈钢双杆带勾毛巾架60公分-JLW.108202",
       "price": 105.6,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "304不锈钢双杆",
       "material_code": "304SG",
       "spec_number": "60-108202",
-      "row_no": 40,
-      "col_o": null,
-      "col_r": null
+      "row_no": 40
     },
     {
       "id": "19-06-09-002",
@@ -43,6 +42,7 @@
       "code": "19.06.09.002",
       "sku": "YJJ-304DG-60-108203",
       "name_th": "ชั้นวางผ้าเช็ดตัวสแตนเลส 304 พร้อมตะขอ Jinliwang 60 ซม.",
+      "name_th_short": "ชั้นวางผ้าเช็ดตัว",
       "name_cn": "金力王304不锈钢带勾浴巾架60公分-JLW.108203",
       "price": 264,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "304不锈钢带勾",
       "material_code": "304DG",
       "spec_number": "60-108203",
-      "row_no": 41,
-      "col_o": null,
-      "col_r": null
+      "row_no": 41
     }
   ]
 }

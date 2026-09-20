@@ -9,8 +9,9 @@
       "id": "16-02-04-001",
       "slug": "16-02-04-001",
       "code": "16.02.04.001",
-      "sku": "LBJD-BX-48-24",
+      "sku": "LBJD-BX-4.8",
       "name_th": "เทปฟอยล์ใยแก้ว Yongkuan 4.8 ซม. 24เมตร (36ม้วน/ลัง)",
+      "name_th_short": "เทปฟอยล์ใยแก้ว",
       "name_cn": "永冠玻纤铝箔胶带 4.8*24m(36卷/箱）",
       "price": 66,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "LBJD",
       "material_cn": "玻纤铝箔",
       "material_code": "BX",
-      "spec_number": "48-24",
-      "row_no": 28,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "4.8",
+      "row_no": 28
     },
     {
       "id": "16-02-04-002",
       "slug": "16-02-04-002",
       "code": "16.02.04.002",
-      "sku": "LBJD-YK-48-16",
+      "sku": "LBJD-YK-48",
       "name_th": "เทปฟอยล์อลูมิเนียม Yongkuan 48มม. 16เมตร (36ม้วน/ลัง)",
+      "name_th_short": "เทปฟอยล์อลูมิเนียม",
       "name_cn": "永冠铝箔胶带 48mm*16mm(36卷/箱)",
       "price": 36,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "LBJD",
       "material_cn": "永冠铝箔",
       "material_code": "YK",
-      "spec_number": "48-16",
-      "row_no": 29,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "48",
+      "row_no": 29
     },
     {
       "id": "16-02-04-003",
       "slug": "16-02-04-003",
       "code": "16.02.04.003",
-      "sku": "LBJD-YK-80-16",
+      "sku": "LBJD-YK-80",
       "name_th": "เทปฟอยล์อลูมิเนียม Yongkuan 80มม. 16เมตร (18ม้วน/ลัง)",
+      "name_th_short": "เทปฟอยล์อลูมิเนียม",
       "name_cn": "永冠铝箔胶带 80mm*16mm(18卷/箱)",
       "price": 48,
       "image": "/placeholder.svg",
@@ -96,10 +95,8 @@
       "category_code": "LBJD",
       "material_cn": "永冠铝箔",
       "material_code": "YK",
-      "spec_number": "80-16",
-      "row_no": 30,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "80",
+      "row_no": 30
     }
   ]
 }

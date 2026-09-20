@@ -9,8 +9,9 @@
       "id": "11-08-11-001",
       "slug": "11-08-11-001",
       "code": "11.08.11.001",
-      "sku": "HZ-PT-00000-01",
+      "sku": "HZ-PT-00000",
       "name_th": "เหล็กขีด รุ่นมาตรฐาน บรรจุ 50 ชิ้น/มัด",
+      "name_th_short": "เหล็กขีดเส้น",
       "name_cn": "划针 普通（50支/捆）",
       "price": 5.4,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "HZ",
       "material_cn": "普通",
       "material_code": "PT",
-      "spec_number": "00000-01",
-      "row_no": 585,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000",
+      "row_no": 585
     },
     {
       "id": "11-08-11-002",
       "slug": "11-08-11-002",
       "code": "11.08.11.002",
-      "sku": "HZ-WG-00000-01",
+      "sku": "HZ-WG-00000",
       "name_th": "เหล็กขีด วัสดุทังสเตนคาร์ไบด์ บรรจุ 10 ชิ้น/กล่อง",
+      "name_th_short": "เหล็กขีดเส้น",
       "name_cn": "划针 钨钢（10支/盒）",
       "price": 15.6,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "HZ",
       "material_cn": "钨钢",
       "material_code": "WG",
-      "spec_number": "00000-01",
-      "row_no": 586,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000",
+      "row_no": 586
     }
   ]
 }

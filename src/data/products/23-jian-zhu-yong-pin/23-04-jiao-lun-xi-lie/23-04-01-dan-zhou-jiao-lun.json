@@ -11,6 +11,7 @@
       "code": "23.04.01.004",
       "sku": "JL-SS-B2-YS-PU-4-WX",
       "name_th": "ล้อ PU เหลืองแกนเดี่ยว 4 นิ้ว ซีรีส์ B2 แบรนด์ Sansong (ล้อเป็น)",
+      "name_th_short": "ล้อ PU เหลือง 4 นิ้ว (ล้อเป็น)",
       "name_cn": "三松B2-4寸单轴黄色PU脚轮 万向",
       "price": 180,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "三松B2黄色PU",
       "material_code": "SS-B2-YS-PU",
       "spec_number": "4-WX",
-      "row_no": 54,
-      "col_o": null,
-      "col_r": null
+      "row_no": 54
     },
     {
       "id": "23-04-01-005",
@@ -43,6 +42,7 @@
       "code": "23.04.01.005",
       "sku": "JL-SS-B2-YS-PU-4-DX",
       "name_th": "ล้อ PU เหลืองแกนเดี่ยว 4 นิ้ว ซีรีส์ B2 แบรนด์ Sansong (ล้อตาย)",
+      "name_th_short": "ล้อ PU เหลือง 4 นิ้ว (ล้อตาย)",
       "name_cn": "三松B2-4寸单轴黄色PU脚轮 定向",
       "price": 168,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "三松B2黄色PU",
       "material_code": "SS-B2-YS-PU",
       "spec_number": "4-DX",
-      "row_no": 55,
-      "col_o": null,
-      "col_r": null
+      "row_no": 55
     },
     {
       "id": "23-04-01-006",
@@ -75,6 +73,7 @@
       "code": "23.04.01.006",
       "sku": "JL-SS-B2-YS-PU-4-SC",
       "name_th": "ล้อ PU เหลืองแกนเดี่ยว 4 นิ้ว ซีรีส์ B2 แบรนด์ Sansong (ล้อติดเบรก)",
+      "name_th_short": "ล้อ PU เหลือง 4 นิ้ว (มีเบรก)",
       "name_cn": "三松B2-4寸单轴黄色PU脚轮 刹车",
       "price": 216,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "三松B2黄色PU",
       "material_code": "SS-B2-YS-PU",
       "spec_number": "4-SC",
-      "row_no": 56,
-      "col_o": null,
-      "col_r": null
+      "row_no": 56
     }
   ]
 }

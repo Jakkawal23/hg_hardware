@@ -11,6 +11,7 @@
       "code": "22.01.03.003",
       "sku": "XDD-HR-CB-36W",
       "name_th": "โคมไฟเพดานซาลาเปาชนิดบางพิเศษ Hongri 36W",
+      "name_th_short": "โคมไฟเพดานซาลาเปาบาง",
       "name_cn": "红日超薄吸顶灯 36W",
       "price": 240,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "红日超薄",
       "material_code": "HR-CB",
       "spec_number": "36W",
-      "row_no": 20,
-      "col_o": null,
-      "col_r": null
+      "row_no": 20
     },
     {
       "id": "22-01-03-004",
@@ -43,6 +42,7 @@
       "code": "22.01.03.004",
       "sku": "XDD-YM-SF-BK-20W",
       "name_th": "โคมไฟเพดานกันน้ำกันฝุ่น Yaming 20W (เปลือกขาว)",
+      "name_th_short": "โคมไฟเพดานกันน้ำ",
       "name_cn": "亚明 三防吸顶灯 20w 白壳",
       "price": 151.2,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "亚明三防白壳",
       "material_code": "YM-SF-BK",
       "spec_number": "20W",
-      "row_no": 21,
-      "col_o": null,
-      "col_r": null
+      "row_no": 21
     },
     {
       "id": "22-01-03-005",
@@ -75,6 +73,7 @@
       "code": "22.01.03.005",
       "sku": "XDD-YM-SF-BK-30W",
       "name_th": "โคมไฟเพดานกันน้ำกันฝุ่น Yaming 30W (เปลือกขาว)",
+      "name_th_short": "โคมไฟเพดานกันน้ำ",
       "name_cn": "亚明 三防吸顶灯 30w 白壳",
       "price": 192,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "亚明三防白壳",
       "material_code": "YM-SF-BK",
       "spec_number": "30W",
-      "row_no": 22,
-      "col_o": null,
-      "col_r": null
+      "row_no": 22
     },
     {
       "id": "22-01-03-009",
@@ -107,6 +104,7 @@
       "code": "22.01.03.009",
       "sku": "XDD-HR-TXP-40W-BB",
       "name_th": "โคมเพดานกันน้ำกันฝุ่นฐานเหล็ก Hongri 40W (ขอบขาว/แสงขาว)",
+      "name_th_short": "โคมไฟเพดานกันน้ำฐานเหล็ก",
       "name_cn": "红日铁吸盘三防吸顶灯 40W 白边白光",
       "price": 216,
       "image": "/placeholder.svg",
@@ -129,9 +127,7 @@
       "material_cn": "红日铁吸盘",
       "material_code": "HR-TXP",
       "spec_number": "40W-BB",
-      "row_no": 23,
-      "col_o": null,
-      "col_r": null
+      "row_no": 23
     },
     {
       "id": "22-01-03-011",
@@ -139,6 +135,7 @@
       "code": "22.01.03.011",
       "sku": "XDD-HR-TXP-60W-HB",
       "name_th": "โคมเพดานกันน้ำกันฝุ่นฐานเหล็ก Hongri 60W (ขอบดำ/แสงขาว)",
+      "name_th_short": "โคมไฟเพดานกันน้ำฐานเหล็ก",
       "name_cn": "红日铁吸盘三防吸顶灯 60W 黑边白光",
       "price": 342,
       "image": "/placeholder.svg",
@@ -161,9 +158,7 @@
       "material_cn": "红日铁吸盘",
       "material_code": "HR-TXP",
       "spec_number": "60W-HB",
-      "row_no": 24,
-      "col_o": null,
-      "col_r": null
+      "row_no": 24
     }
   ]
 }

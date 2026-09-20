@@ -11,6 +11,7 @@
       "code": "01.14.03.002",
       "sku": "JT-MF-2401",
       "name_th": "ยางกันรั่ว 2.4ม.",
+      "name_th_short": "ยางกันรั่ว",
       "name_cn": "密封胶条（480卷/件）--2.4米/卷",
       "price": 2.16,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "密封",
       "material_code": "MF",
       "spec_number": "2401",
-      "row_no": 970,
-      "col_o": null,
-      "col_r": null
+      "row_no": 970
     },
     {
       "id": "01-14-03-003",
@@ -43,6 +42,7 @@
       "code": "01.14.03.003",
       "sku": "JT-EVA-301",
       "name_th": "ยางกันรั่ว EVA 3cm",
+      "name_th_short": "ยางกันรั่ว EVA",
       "name_cn": "密封胶条/EVA胶条3公分(33卷/件）",
       "price": 36,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "EVA",
       "material_code": "EVA",
       "spec_number": "301",
-      "row_no": 971,
-      "col_o": null,
-      "col_r": null
+      "row_no": 971
     },
     {
       "id": "01-14-03-005",
@@ -75,6 +73,7 @@
       "code": "01.14.03.005",
       "sku": "JT-MF-301",
       "name_th": "ยางกันรั่ว 3cm",
+      "name_th_short": "ยางกันรั่ว",
       "name_cn": "暂停使用 密封胶条3公分 (90卷/件）",
       "price": 13.8,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "密封",
       "material_code": "MF",
       "spec_number": "301",
-      "row_no": 972,
-      "col_o": null,
-      "col_r": null
+      "row_no": 972
     }
   ]
 }

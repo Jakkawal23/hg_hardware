@@ -11,6 +11,7 @@
       "code": "21.03.03.002",
       "sku": "TTBS-YT-32-10860",
       "name_th": "ชุดเครื่องมือบ็อกซ์ 32 ชิ้น รุ่น YT-10860 (5 ชุด/ลัง)",
+      "name_th_short": "ชุดบ็อกซ์ 32 ชิ้น",
       "name_cn": "32件套筒扳手 (5套/件)YT-10860",
       "price": 1680,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "YT系列",
       "material_code": "YT",
       "spec_number": "32-10860",
-      "row_no": 152,
-      "col_o": null,
-      "col_r": null
+      "row_no": 152
     }
   ]
 }

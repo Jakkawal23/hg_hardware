@@ -9,8 +9,9 @@
       "id": "11-15-02-001",
       "slug": "11-15-02-001",
       "code": "11.15.02.001",
-      "sku": "JC-KG-30000-01",
+      "sku": "JC-KG-30000",
       "name_th": "ไม้ฉากเหล็ก ยี่ห้อKanggang ขนาด 300 มม. บรรจุ 12 ชิ้น/กล่อง",
+      "name_th_short": "ไม้ฉาก",
       "name_cn": "康钢角尺 300（12把/盒）",
       "price": 31.2,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "JC",
       "material_cn": "康钢",
       "material_code": "KG",
-      "spec_number": "30000-01",
-      "row_no": 778,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "30000",
+      "row_no": 778
     },
     {
       "id": "11-15-02-002",
       "slug": "11-15-02-002",
       "code": "11.15.02.002",
-      "sku": "JC-KG-50000-01",
+      "sku": "JC-KG-50000",
       "name_th": "ไม้ฉากเหล็ก ยี่ห้อKanggang ขนาด 500 มม. บรรจุ 12 ชิ้น/กล่อง",
+      "name_th_short": "ไม้ฉาก",
       "name_cn": "康钢角尺 500（12把/盒)",
       "price": 66,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "JC",
       "material_cn": "康钢",
       "material_code": "KG",
-      "spec_number": "50000-01",
-      "row_no": 779,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "50000",
+      "row_no": 779
     },
     {
       "id": "11-15-02-004",
       "slug": "11-15-02-004",
       "code": "11.15.02.004",
-      "sku": "GJC-JT-50000-01",
+      "sku": "GJC-JT-50000",
       "name_th": "ตลับเมตรแบบโครงเหล็ก ขนาด 50 เมตร มีปลอกยาง บรรจุ 20 ชิ้น/ลัง",
+      "name_th_short": "ตลับเมตรโครงเหล็ก 50 เมตร",
       "name_cn": "50m叉地尺胶套（20把/件）",
       "price": 288,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "GJC",
       "material_cn": "胶套",
       "material_code": "JT",
-      "spec_number": "50000-01",
-      "row_no": 780,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "50000",
+      "row_no": 780
     },
     {
       "id": "11-15-02-005",
       "slug": "11-15-02-005",
       "code": "11.15.02.005",
-      "sku": "GJC-JT-30000-01",
+      "sku": "GJC-JT-30000",
       "name_th": "ตลับเมตรแบบโครงเหล็ก ขนาด 30 เมตร มีปลอกยาง บรรจุ 20 ชิ้น/ลัง",
+      "name_th_short": "ตลับเมตรโครงเหล็ก 30 เมตร",
       "name_cn": "30m叉地尺胶套（20把/件）",
       "price": 216,
       "image": "/placeholder.svg",
@@ -128,10 +126,8 @@
       "category_code": "GJC",
       "material_cn": "胶套",
       "material_code": "JT",
-      "spec_number": "30000-01",
-      "row_no": 781,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "30000",
+      "row_no": 781
     }
   ]
 }

@@ -9,8 +9,9 @@
       "id": "01-03-06-001",
       "slug": "01-03-06-001",
       "code": "01.03.06.001",
-      "sku": "LS-304BXG-0625-03",
-      "name_th": "สกรูส แตนเลส 304 6*25",
+      "sku": "LS-304BXG-6-25BXG",
+      "name_th": "สกรูสแตนเลส 304 6*25",
+      "name_th_short": "สกรูสแตนเลส",
       "name_cn": "304不锈钢螺丝6*25",
       "price": 1.44,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "LS",
       "material_cn": "304不锈钢",
       "material_code": "304BXG",
-      "spec_number": "0625-03",
-      "row_no": 254,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "6-25BXG",
+      "row_no": 254
     },
     {
       "id": "01-03-06-002",
       "slug": "01-03-06-002",
       "code": "01.03.06.002",
-      "sku": "LS-304BXG-0825-03",
-      "name_th": "สกรูส แตนเลส 304 8*25",
+      "sku": "LS-304BXG-8-25BXG",
+      "name_th": "สกรูสแตนเลส 304 8*25",
+      "name_th_short": "สกรูสแตนเลส",
       "name_cn": "304不锈钢螺丝8*25",
       "price": 2.4,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "LS",
       "material_cn": "304不锈钢",
       "material_code": "304BXG",
-      "spec_number": "0825-03",
-      "row_no": 255,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "8-25BXG",
+      "row_no": 255
     },
     {
       "id": "01-03-06-004",
       "slug": "01-03-06-004",
       "code": "01.03.06.004",
-      "sku": "LS-304BXGWLJ-1040-02",
-      "name_th": "สกรูส แตนเลส 304 10*40",
+      "sku": "LS-304BXGWLJ-10-40BXGWLJ",
+      "name_th": "สกรูหัวหกเหลี่ยม สแตนเลส 304 10*40",
+      "name_th_short": "สกรูหัวหกเหลี่ยม สแตนเลส",
       "name_cn": "304不锈钢螺丝外六角10*40",
       "price": 6.24,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "LS",
       "material_cn": "304不锈钢外六角",
       "material_code": "304BXGWLJ",
-      "spec_number": "1040-02",
-      "row_no": 256,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10-40BXGWLJ",
+      "row_no": 256
     },
     {
       "id": "01-03-06-008",
       "slug": "01-03-06-008",
       "code": "01.03.06.008",
-      "sku": "LS-304BXGWLJ-1030-02",
-      "name_th": "สกรูส แตนเลส 304 10*30",
+      "sku": "LS-304BXGWLJ-10-30BXGWLJ",
+      "name_th": "สกรูหัวหกเหลี่ยม สแตนเลส 304 10*30",
+      "name_th_short": "สกรูหัวหกเหลี่ยม สแตนเลส",
       "name_cn": "304不锈钢螺丝外六角10*30",
       "price": 4.8,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "LS",
       "material_cn": "304不锈钢外六角",
       "material_code": "304BXGWLJ",
-      "spec_number": "1030-02",
-      "row_no": 257,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10-30BXGWLJ",
+      "row_no": 257
     },
     {
       "id": "01-03-06-009",
       "slug": "01-03-06-009",
       "code": "01.03.06.009",
-      "sku": "LS-304BXGWLJ-0840-02",
-      "name_th": "สกรูส แตนเลส 304 8*40",
+      "sku": "LS-304BXGWLJ-8-40BXGWLJ",
+      "name_th": "สกรูหัวหกเหลี่ยม สแตนเลส 304 8*40",
+      "name_th_short": "สกรูหัวหกเหลี่ยม สแตนเลส",
       "name_cn": "304不锈钢螺丝外六角8*40",
       "price": 3.6,
       "image": "/placeholder.svg",
@@ -160,10 +157,8 @@
       "category_code": "LS",
       "material_cn": "304不锈钢外六角",
       "material_code": "304BXGWLJ",
-      "spec_number": "0840-02",
-      "row_no": 258,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "8-40BXGWLJ",
+      "row_no": 258
     }
   ]
 }

@@ -11,6 +11,7 @@
       "code": "19.10.01.003",
       "sku": "JSG-XYJ-LT-3-X00300",
       "name_th": "สายน้ำเข้าเครื่องซักผ้าพร้อมหัวต่ออลูมิเนียม Jinliwang 3 เมตร",
+      "name_th_short": "สายน้ำเข้าเครื่องซักผ้า",
       "name_cn": "金力王洗衣机进水管带铝头3米-JLW.X00300",
       "price": 132,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "洗衣机带铝头",
       "material_code": "XYJ-LT",
       "spec_number": "3-X00300",
-      "row_no": 60,
-      "col_o": null,
-      "col_r": null
+      "row_no": 60
     }
   ]
 }

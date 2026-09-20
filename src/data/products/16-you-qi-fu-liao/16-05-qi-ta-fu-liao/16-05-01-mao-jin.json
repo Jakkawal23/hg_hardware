@@ -9,8 +9,9 @@
       "id": "16-05-01-001",
       "slug": "16-05-01-001",
       "code": "16.05.01.001",
-      "sku": "MJ-LS-100-01",
+      "sku": "MJ-LS-100",
       "name_th": "ผ้าขนหนูเช็ดทำความสะอาด สีน้ำเงิน (100ผืน/แพ็ค)",
+      "name_th_short": "ผ้าขนหนู สีน้ำเงิน",
       "name_cn": "蓝色毛巾（100条/包）",
       "price": 18,
       "image": "/placeholder.svg",
@@ -32,10 +33,8 @@
       "category_code": "MJ",
       "material_cn": "蓝色",
       "material_code": "LS",
-      "spec_number": "100-01",
-      "row_no": 92,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "100",
+      "row_no": 92
     }
   ]
 }

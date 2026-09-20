@@ -9,8 +9,9 @@
       "id": "11-09-12-001",
       "slug": "11-09-12-001",
       "code": "11.09.12.001",
-      "sku": "SBJ-ZD-18000-01",
+      "sku": "SBJ-ZD-18000",
       "name_th": "เลื่อยมือ ขนาด 18 นิ้ว รุ่นมาตรฐาน",
+      "name_th_short": "เลื่อยมือ",
       "name_cn": "手板锯18寸 中档",
       "price": 48,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "SBJ",
       "material_cn": "中档",
       "material_code": "ZD",
-      "spec_number": "18000-01",
-      "row_no": 634,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "18000",
+      "row_no": 634
     },
     {
       "id": "11-09-12-002",
       "slug": "11-09-12-002",
       "code": "11.09.12.002",
-      "sku": "SBJ-JPTB-18000-01",
+      "sku": "SBJ-JPTB-18000",
       "name_th": "เลื่อยมือ ขนาด 18 นิ้ว รุ่นพรีเมียม ด้ามเหล็ก",
+      "name_th_short": "เลื่อยมือ",
       "name_cn": "手板锯18寸 精品铁柄",
       "price": 120,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "SBJ",
       "material_cn": "精品铁柄",
       "material_code": "JPTB",
-      "spec_number": "18000-01",
-      "row_no": 635,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "18000",
+      "row_no": 635
     },
     {
       "id": "11-09-12-003",
       "slug": "11-09-12-003",
       "code": "11.09.12.003",
-      "sku": "SBJ-BP-20000-01",
+      "sku": "SBJ-BP-20000",
       "name_th": "เลื่อยมือ ขนาด 20 นิ้ว บรรจุ 12 ชิ้น/กล่อง",
+      "name_th_short": "เลื่อยมือ",
       "name_cn": "20”手板锯（12把/盒）YT-322020 / 20",
       "price": 132,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "SBJ",
       "material_cn": "标配",
       "material_code": "BP",
-      "spec_number": "20000-01",
-      "row_no": 636,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "20000",
+      "row_no": 636
     },
     {
       "id": "11-09-12-004",
       "slug": "11-09-12-004",
       "code": "11.09.12.004",
-      "sku": "SBJ-BP-18000-01",
+      "sku": "SBJ-BP-18000",
       "name_th": "เลื่อยมือ ขนาด 18 นิ้ว บรรจุ 12 ชิ้น/กล่อง",
+      "name_th_short": "เลื่อยมือ",
       "name_cn": "18”手板锯（12把/盒）YT-322018 / 18",
       "price": 120,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "SBJ",
       "material_cn": "标配",
       "material_code": "BP",
-      "spec_number": "18000-01",
-      "row_no": 637,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "18000",
+      "row_no": 637
     },
     {
       "id": "11-09-12-005",
       "slug": "11-09-12-005",
       "code": "11.09.12.005",
-      "sku": "SBJ-BP-16000-01",
+      "sku": "SBJ-BP-16000",
       "name_th": "เลื่อยมือ ขนาด 16 นิ้ว บรรจุ 12 ชิ้น/กล่อง",
+      "name_th_short": "เลื่อยมือ",
       "name_cn": "16”手板锯（12把/盒）YT-322016 / 16",
       "price": 111.6,
       "image": "/placeholder.svg",
@@ -160,17 +157,16 @@
       "category_code": "SBJ",
       "material_cn": "标配",
       "material_code": "BP",
-      "spec_number": "16000-01",
-      "row_no": 638,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "16000",
+      "row_no": 638
     },
     {
       "id": "11-09-12-006",
       "slug": "11-09-12-006",
       "code": "11.09.12.006",
-      "sku": "SBJ-BP-14000-01",
+      "sku": "SBJ-BP-14000",
       "name_th": "เลื่อยมือ ขนาด 14 นิ้ว บรรจุ 12 ชิ้น/กล่อง",
+      "name_th_short": "เลื่อยมือ",
       "name_cn": "14”手板锯（12把/盒）YT-322014 / 14",
       "price": 100.8,
       "image": "/placeholder.svg",
@@ -192,17 +188,16 @@
       "category_code": "SBJ",
       "material_cn": "标配",
       "material_code": "BP",
-      "spec_number": "14000-01",
-      "row_no": 639,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "14000",
+      "row_no": 639
     },
     {
       "id": "11-09-12-007",
       "slug": "11-09-12-007",
       "code": "11.09.12.007",
-      "sku": "SBJ-BP-12000-01",
+      "sku": "SBJ-BP-12000",
       "name_th": "เลื่อยมือ ขนาด 12 นิ้ว บรรจุ 12 ชิ้น/กล่อง",
+      "name_th_short": "เลื่อยมือ",
       "name_cn": "12”手板锯（12把/盒）YT-322012 / 12",
       "price": 90,
       "image": "/placeholder.svg",
@@ -224,10 +219,8 @@
       "category_code": "SBJ",
       "material_cn": "标配",
       "material_code": "BP",
-      "spec_number": "12000-01",
-      "row_no": 640,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "12000",
+      "row_no": 640
     }
   ]
 }

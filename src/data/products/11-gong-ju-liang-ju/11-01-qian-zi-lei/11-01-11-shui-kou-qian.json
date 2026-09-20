@@ -9,8 +9,9 @@
       "id": "11-01-11-002",
       "slug": "11-01-11-002",
       "code": "11.01.11.002",
-      "sku": "SKQ-JP-06-01",
+      "sku": "SKQ-JP-06",
       "name_th": "คีมตัดพลาสติกเกรดพรีเมียม 6 นิ้ว (12 ตัว/กล่อง) YT-140150",
+      "name_th_short": "คีมตัดพลาสติก 6 นิ้ว",
       "name_cn": "6寸”精品水口钳（12把/盒）YT-140150 / 6",
       "price": 96,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "SKQ",
       "material_cn": "精品",
       "material_code": "JP",
-      "spec_number": "06-01",
-      "row_no": 54,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "06",
+      "row_no": 54
     },
     {
       "id": "11-01-11-003",
       "slug": "11-01-11-003",
       "code": "11.01.11.003",
-      "sku": "SKQ-JP-05-01",
+      "sku": "SKQ-JP-05",
       "name_th": "คีมตัดพลาสติกเกรดพรีเมียม 5 นิ้ว (12 ตัว/กล่อง) YT-140125",
+      "name_th_short": "คีมตัดพลาสติก 5 นิ้ว",
       "name_cn": "5寸”精品水口钳（12把/盒）YT-140125 / 5",
       "price": 84,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "SKQ",
       "material_cn": "精品",
       "material_code": "JP",
-      "spec_number": "05-01",
-      "row_no": 55,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "05",
+      "row_no": 55
     },
     {
       "id": "11-01-11-004",
       "slug": "11-01-11-004",
       "code": "11.01.11.004",
-      "sku": "SKQ-TR-05-01",
+      "sku": "SKQ-TR-05",
       "name_th": "คีมตัดพลาสติก ด้าม TR 5 นิ้ว (12 ตัว/กล่อง) YT-102105",
+      "name_th_short": "คีมตัดพลาสติก 5 นิ้ว",
       "name_cn": "5寸”水口钳（TR柄）（12把/盒）YT-102105 / 5 ( TR)",
       "price": 81.6,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "SKQ",
       "material_cn": "TR柄",
       "material_code": "TR",
-      "spec_number": "05-01",
-      "row_no": 56,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "05",
+      "row_no": 56
     },
     {
       "id": "11-01-11-005",
       "slug": "11-01-11-005",
       "code": "11.01.11.005",
-      "sku": "SKQ-TR-06-01",
+      "sku": "SKQ-TR-06",
       "name_th": "คีมตัดพลาสติก ด้าม TR 6 นิ้ว (10 ตัว/กล่อง) YT-101006",
+      "name_th_short": "คีมตัดพลาสติก 6 นิ้ว",
       "name_cn": "6寸”水口钳（TR柄）（10把/盒）YT-101006 / 6 ( TR)",
       "price": 84,
       "image": "/placeholder.svg",
@@ -128,10 +126,8 @@
       "category_code": "SKQ",
       "material_cn": "TR柄",
       "material_code": "TR",
-      "spec_number": "06-01",
-      "row_no": 57,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "06",
+      "row_no": 57
     }
   ]
 }

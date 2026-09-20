@@ -11,6 +11,7 @@
       "code": "22.01.12.007",
       "sku": "WSD-YM-6009-60W",
       "name_th": "โคมไฟห้องนอน Yaming รุ่น 6009 ทรงกลมขอบขาว 60W",
+      "name_th_short": "โคมไฟห้องนอนกลม",
       "name_cn": "亚明卧室灯6009 圆形白框60W",
       "price": 475.2,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "亚明系列",
       "material_code": "YM",
       "spec_number": "6009-60W",
-      "row_no": 50,
-      "col_o": null,
-      "col_r": null
+      "row_no": 50
     }
   ]
 }

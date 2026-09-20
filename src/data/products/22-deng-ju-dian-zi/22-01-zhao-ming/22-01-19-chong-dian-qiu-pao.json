@@ -11,6 +11,7 @@
       "code": "22.01.19.001",
       "sku": "CDQP-BZX-100W-A",
       "name_th": "หลอดไฟฉุกเฉินแบบชาร์จได้ 100W (A)",
+      "name_th_short": "หลอดไฟฉุกเฉินชาร์จได้",
       "name_cn": "充电球泡 100W",
       "price": 198,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "标准型",
       "material_code": "BZX",
       "spec_number": "100W-A",
-      "row_no": 57,
-      "col_o": null,
-      "col_r": null
+      "row_no": 57
     },
     {
       "id": "22-01-19-002",
@@ -43,6 +42,7 @@
       "code": "22.01.19.002",
       "sku": "CDQP-GLD-150W-1800LM",
       "name_th": "หลอดไฟฉุกเฉินแบบชาร์จได้ 150W (1800 ลูเมน)",
+      "name_th_short": "หลอดไฟฉุกเฉินชาร์จได้",
       "name_cn": "充电球泡 150W/1800LM",
       "price": 264,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "高亮度型",
       "material_code": "GLD",
       "spec_number": "150W-1800LM",
-      "row_no": 58,
-      "col_o": null,
-      "col_r": null
+      "row_no": 58
     },
     {
       "id": "22-01-19-003",
@@ -75,6 +73,7 @@
       "code": "22.01.19.003",
       "sku": "CDQP-BZX-100W-B",
       "name_th": "หลอดไฟฉุกเฉินแบบชาร์จได้ 100W (B)",
+      "name_th_short": "หลอดไฟฉุกเฉินชาร์จได้",
       "name_cn": "充电球泡 100W",
       "price": 210,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "标准型",
       "material_code": "BZX",
       "spec_number": "100W-B",
-      "row_no": 59,
-      "col_o": null,
-      "col_r": null
+      "row_no": 59
     }
   ]
 }

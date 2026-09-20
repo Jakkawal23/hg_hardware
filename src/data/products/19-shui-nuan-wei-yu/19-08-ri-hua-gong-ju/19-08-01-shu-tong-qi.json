@@ -11,6 +11,7 @@
       "code": "19.08.01.001",
       "sku": "STQ-WHGZ-2-777200",
       "name_th": "ไม้คีบเศษสิ่งอุดตันในท่อดักขยะรุ่นฮิต Jinliwang 2.0 เมตร",
+      "name_th_short": "ไม้คีบเศษท่ออุดตัน",
       "name_cn": "金力王网红款神抓疏通器2.0米-JLW.777200",
       "price": 38.4,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "网红款神抓",
       "material_code": "WHGZ",
       "spec_number": "2-777200",
-      "row_no": 43,
-      "col_o": null,
-      "col_r": null
+      "row_no": 43
     },
     {
       "id": "19-08-01-002",
@@ -43,6 +42,7 @@
       "code": "19.08.01.002",
       "sku": "STQ-GSSY-22-666220",
       "name_th": "งูเหล็กทะลวงท่อแบบสลิงมือหมุน Jinliwang 2.2 เมตร",
+      "name_th_short": "งูเหล็กทะลวงท่อ",
       "name_cn": "金力王钢丝手摇疏通器2.2米-JLW.666220",
       "price": 31.2,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "钢丝手摇",
       "material_code": "GSSY",
       "spec_number": "22-666220",
-      "row_no": 44,
-      "col_o": null,
-      "col_r": null
+      "row_no": 44
     },
     {
       "id": "19-08-01-003",
@@ -75,6 +73,7 @@
       "code": "19.08.01.003",
       "sku": "STQ-GSSY-32-666320",
       "name_th": "งูเหล็กทะลวงท่อแบบสลิงมือหมุน Jinliwang 3.2 เมตร",
+      "name_th_short": "งูเหล็กทะลวงท่อ",
       "name_cn": "金力王钢丝手摇疏通器3.2米-JLW.666320",
       "price": 48,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "钢丝手摇",
       "material_code": "GSSY",
       "spec_number": "32-666320",
-      "row_no": 45,
-      "col_o": null,
-      "col_r": null
+      "row_no": 45
     },
     {
       "id": "19-08-01-004",
@@ -107,6 +104,7 @@
       "code": "19.08.01.004",
       "sku": "STQ-GSSY-5-666500",
       "name_th": "งูเหล็กทะลวงท่อแบบสลิงมือหมุน Jinliwang 5.0 เมตร",
+      "name_th_short": "งูเหล็กทะลวงท่อ",
       "name_cn": "金力王钢丝手摇疏通器5.0米-JLW.666500",
       "price": 66,
       "image": "/placeholder.svg",
@@ -129,9 +127,7 @@
       "material_cn": "钢丝手摇",
       "material_code": "GSSY",
       "spec_number": "5-666500",
-      "row_no": 46,
-      "col_o": null,
-      "col_r": null
+      "row_no": 46
     },
     {
       "id": "19-08-01-005",
@@ -139,6 +135,7 @@
       "code": "19.08.01.005",
       "sku": "STQ-JCSY-32-888320",
       "name_th": "งูเหล็กทะลวงท่อแบบสลิงมือหมุนชนิดหนาพิเศษ Jinliwang 3.2 เมตร",
+      "name_th_short": "งูเหล็กทะลวงท่อ",
       "name_cn": "金力王加粗手摇疏通器3.2米-JLW.888320",
       "price": 72,
       "image": "/placeholder.svg",
@@ -161,9 +158,7 @@
       "material_cn": "加粗手摇",
       "material_code": "JCSY",
       "spec_number": "32-888320",
-      "row_no": 47,
-      "col_o": null,
-      "col_r": null
+      "row_no": 47
     },
     {
       "id": "19-08-01-006",
@@ -171,6 +166,7 @@
       "code": "19.08.01.006",
       "sku": "STQ-JCSY-5-888500",
       "name_th": "งูเหล็กทะลวงท่อแบบสลิงมือหมุนชนิดหนาพิเศษ Jinliwang 5 เมตร",
+      "name_th_short": "งูเหล็กทะลวงท่อ",
       "name_cn": "金力王加粗手摇疏通器5米-JLW.888500",
       "price": 93.6,
       "image": "/placeholder.svg",
@@ -193,9 +189,7 @@
       "material_cn": "加粗手摇",
       "material_code": "JCSY",
       "spec_number": "5-888500",
-      "row_no": 48,
-      "col_o": null,
-      "col_r": null
+      "row_no": 48
     },
     {
       "id": "19-08-01-007",
@@ -203,6 +197,7 @@
       "code": "19.08.01.007",
       "sku": "STQ-LK-SJ-3-898300",
       "name_th": "งูเหล็กทะลวงท่อตลับน้ำเงินรุ่นอัปเกรด Jinliwang 3.0 เมตร",
+      "name_th_short": "งูเหล็กทะลวงท่อ",
       "name_cn": "金力王蓝壳手摇疏通器升级款3.0米-JLW.898300",
       "price": 84,
       "image": "/placeholder.svg",
@@ -225,9 +220,7 @@
       "material_cn": "蓝壳升级款",
       "material_code": "LK-SJ",
       "spec_number": "3-898300",
-      "row_no": 49,
-      "col_o": null,
-      "col_r": null
+      "row_no": 49
     },
     {
       "id": "19-08-01-008",
@@ -235,6 +228,7 @@
       "code": "19.08.01.008",
       "sku": "STQ-LK-SJ-5-898500",
       "name_th": "งูเหล็กทะลวงท่อตลับน้ำเงินรุ่นอัปเกรด Jinliwang 5.0 เมตร",
+      "name_th_short": "งูเหล็กทะลวงท่อ",
       "name_cn": "金力王蓝壳手摇疏通器升级款5.0米-JLW.898500",
       "price": 105.6,
       "image": "/placeholder.svg",
@@ -257,9 +251,7 @@
       "material_cn": "蓝壳升级款",
       "material_code": "LK-SJ",
       "spec_number": "5-898500",
-      "row_no": 50,
-      "col_o": null,
-      "col_r": null
+      "row_no": 50
     },
     {
       "id": "19-08-01-009",
@@ -267,6 +259,7 @@
       "code": "19.08.01.009",
       "sku": "STQ-LK-SJ-10-898100",
       "name_th": "งูเหล็กทะลวงท่อตลับน้ำเงินรุ่นอัปเกรด Jinliwang 10 เมตร",
+      "name_th_short": "งูเหล็กทะลวงท่อ",
       "name_cn": "金力王蓝壳手摇疏通器升级款10米-JLW.898100",
       "price": 168,
       "image": "/placeholder.svg",
@@ -289,9 +282,7 @@
       "material_cn": "蓝壳升级款",
       "material_code": "LK-SJ",
       "spec_number": "10-898100",
-      "row_no": 51,
-      "col_o": null,
-      "col_r": null
+      "row_no": 51
     },
     {
       "id": "19-08-01-015",
@@ -299,6 +290,7 @@
       "code": "19.08.01.015",
       "sku": "STQ-HF-SJ-32-1959",
       "name_th": "งูเหล็กทะลวงท่อระบายน้ำมือหมุนรุ่นอัปเกรด Hufan 3.2 เมตร",
+      "name_th_short": "งูเหล็กทะลวงท่อ",
       "name_cn": "沪帆/HF1959/疏通器/升级款手摇下水道疏通王 3.2米",
       "price": 93.6,
       "image": "/placeholder.svg",
@@ -321,9 +313,7 @@
       "material_cn": "沪帆升级款",
       "material_code": "HF-SJ",
       "spec_number": "32-1959",
-      "row_no": 52,
-      "col_o": null,
-      "col_r": null
+      "row_no": 52
     }
   ]
 }

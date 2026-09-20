@@ -9,8 +9,9 @@
       "id": "16-01-04-012",
       "slug": "16-01-04-012",
       "code": "16.01.04.012",
-      "sku": "HZJD-2410-24-01",
+      "sku": "HZJD-2410-24",
       "name_th": "เทปกระดาษวาชิ 2410 (50ม้วน/กล่อง)",
+      "name_th_short": "เทปกระดาษวาชิ",
       "name_cn": "和纸胶带 2410（50卷/盒）",
       "price": 7.2,
       "image": "/placeholder.svg",
@@ -30,12 +31,10 @@
       "last_import_date": "2026-05-02",
       "category_cn": "和纸胶带",
       "category_code": "HZJD",
-      "material_cn": "2410.0",
-      "material_code": "2410.0",
-      "spec_number": "24-01",
-      "row_no": 13,
-      "col_o": null,
-      "col_r": null
+      "material_cn": 2410,
+      "material_code": "2410",
+      "spec_number": "24",
+      "row_no": 13
     }
   ]
 }

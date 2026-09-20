@@ -9,8 +9,9 @@
       "id": "11-11-03-006",
       "slug": "11-11-03-006",
       "code": "11.11.03.006",
-      "sku": "XP-WLS-00000-01",
+      "sku": "XP-WLS-00000",
       "name_th": "ตัวจับสุญญากาศ แบบ 3 ขา ยี่ห้อ Weilishi",
+      "name_th_short": "ที่ดูดกระจก",
       "name_cn": "(威力狮B3) 三爪吸盘",
       "price": 432,
       "image": "/placeholder.svg",
@@ -32,10 +33,8 @@
       "category_code": "XP",
       "material_cn": "威力狮",
       "material_code": "WLS",
-      "spec_number": "00000-01",
-      "row_no": 715,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "00000",
+      "row_no": 715
     }
   ]
 }

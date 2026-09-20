@@ -9,8 +9,9 @@
       "id": "16-01-05-002",
       "slug": "16-01-05-002",
       "code": "16.01.05.002",
-      "sku": "SMJ-YKJKH-3-01",
+      "sku": "SMJ-YKJKH-3",
       "name_th": "เทปสองหน้าสีเหลืองนำเข้า Yongkuan 3 ซม. (50ม้วน/ลัง)",
+      "name_th_short": "เทปกาวสองหน้า สีเหลือง",
       "name_cn": "《永冠进口》双面胶黄色 3公分 （50卷/件）",
       "price": 19.2,
       "image": "/placeholder.svg",
@@ -32,10 +33,8 @@
       "category_code": "SMJ",
       "material_cn": "永冠进口黄",
       "material_code": "YKJKH",
-      "spec_number": "3-01",
-      "row_no": 14,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "3",
+      "row_no": 14
     }
   ]
 }

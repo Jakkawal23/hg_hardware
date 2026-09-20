@@ -9,8 +9,9 @@
       "id": "08-02-01-001",
       "slug": "08-02-01-001",
       "code": "08.02.01.001",
-      "sku": "HY-T-50-01",
+      "sku": "HY-T-50",
       "name_th": "บานพับเหล็ก ขนาด 50 มม. (บรรจุ 10 ชิ้น/กล่อง)",
+      "name_th_short": "บานพับเหล็ก",
       "name_cn": "铁合页 50（10个/盒）",
       "price": 4.2,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "HY",
       "material_cn": "铁",
       "material_code": "T",
-      "spec_number": "50-01",
-      "row_no": 52,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "50",
+      "row_no": 52
     },
     {
       "id": "08-02-01-002",
       "slug": "08-02-01-002",
       "code": "08.02.01.002",
-      "sku": "HY-T-65-01",
+      "sku": "HY-T-65",
       "name_th": "บานพับเหล็ก ขนาด 65 มม. (บรรจุ 10 ชิ้น/กล่อง)",
+      "name_th_short": "บานพับเหล็ก",
       "name_cn": "铁合页 65（10个/盒）",
       "price": 4.8,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "HY",
       "material_cn": "铁",
       "material_code": "T",
-      "spec_number": "65-01",
-      "row_no": 53,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "65",
+      "row_no": 53
     },
     {
       "id": "08-02-01-003",
       "slug": "08-02-01-003",
       "code": "08.02.01.003",
-      "sku": "HY-T-75-01",
+      "sku": "HY-T-75",
       "name_th": "บานพับเหล็ก ขนาด 75 มม. (บรรจุ 10 ชิ้น/กล่อง)",
+      "name_th_short": "บานพับเหล็ก",
       "name_cn": "铁合页 75（10个/盒）",
       "price": 7.2,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "HY",
       "material_cn": "铁",
       "material_code": "T",
-      "spec_number": "75-01",
-      "row_no": 54,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "75",
+      "row_no": 54
     },
     {
       "id": "08-02-01-004",
       "slug": "08-02-01-004",
       "code": "08.02.01.004",
-      "sku": "HY-T-100-01",
+      "sku": "HY-T-100",
       "name_th": "บานพับเหล็ก ขนาด 100 มม. (บรรจุ 5 ชิ้น/กล่อง)",
+      "name_th_short": "บานพับเหล็ก",
       "name_cn": "铁合页 100（5个/盒）",
       "price": 13.2,
       "image": "/placeholder.svg",
@@ -128,10 +126,8 @@
       "category_code": "HY",
       "material_cn": "铁",
       "material_code": "T",
-      "spec_number": "100-01",
-      "row_no": 55,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "100",
+      "row_no": 55
     }
   ]
 }

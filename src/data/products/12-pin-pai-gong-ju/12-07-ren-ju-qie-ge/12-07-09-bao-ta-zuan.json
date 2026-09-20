@@ -9,8 +9,9 @@
       "id": "12-07-09-001",
       "slug": "12-07-09-001",
       "code": "12.07.09.001",
-      "sku": "BTD-ZC-412-01",
+      "sku": "BTD-ZC-412",
       "name_th": "ดอกสว่านเจดีย์ร่องตรง (4241) ขนาด 4-12 มม.",
+      "name_th_short": "ดอกสว่านเจดีย์ร่องตรง",
       "name_cn": "4241直槽宝塔钻4-12",
       "price": 102,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "BTD",
       "material_cn": "直槽",
       "material_code": "ZC",
-      "spec_number": "412-01",
-      "row_no": 89,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "412",
+      "row_no": 89
     },
     {
       "id": "12-07-09-002",
       "slug": "12-07-09-002",
       "code": "12.07.09.002",
-      "sku": "BTD-ZC-420-01",
+      "sku": "BTD-ZC-420",
       "name_th": "ดอกสว่านเจดีย์ร่องตรง (4241) ขนาด 4-20 มม.",
+      "name_th_short": "ดอกสว่านเจดีย์ร่องตรง",
       "name_cn": "4241直槽宝塔钻4-20",
       "price": 180,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "BTD",
       "material_cn": "直槽",
       "material_code": "ZC",
-      "spec_number": "420-01",
-      "row_no": 90,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "420",
+      "row_no": 90
     },
     {
       "id": "12-07-09-003",
       "slug": "12-07-09-003",
       "code": "12.07.09.003",
-      "sku": "BTD-ZC-432-01",
+      "sku": "BTD-ZC-432",
       "name_th": "ดอกสว่านเจดีย์ร่องตรง (4241) ขนาด 4-32 มม.",
+      "name_th_short": "ดอกสว่านเจดีย์ร่องตรง",
       "name_cn": "4241直槽宝塔钻4-32",
       "price": 216,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "BTD",
       "material_cn": "直槽",
       "material_code": "ZC",
-      "spec_number": "432-01",
-      "row_no": 91,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "432",
+      "row_no": 91
     },
     {
       "id": "12-07-09-004",
       "slug": "12-07-09-004",
       "code": "12.07.09.004",
-      "sku": "BTD-LC-412-01",
+      "sku": "BTD-LC-412",
       "name_th": "ดอกสว่านเจดีย์ร่องเกลียว (4241) ขนาด 4-12 มม.",
+      "name_th_short": "ดอกสว่านเจดีย์ร่องเกลียว",
       "name_cn": "4241螺旋槽宝塔钻4-12",
       "price": 102,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "BTD",
       "material_cn": "螺旋槽",
       "material_code": "LC",
-      "spec_number": "412-01",
-      "row_no": 92,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "412",
+      "row_no": 92
     },
     {
       "id": "12-07-09-005",
       "slug": "12-07-09-005",
       "code": "12.07.09.005",
-      "sku": "BTD-LC-420-01",
+      "sku": "BTD-LC-420",
       "name_th": "ดอกสว่านเจดีย์ร่องเกลียว (4241) ขนาด 4-20 มม.",
+      "name_th_short": "ดอกสว่านเจดีย์ร่องเกลียว",
       "name_cn": "4241螺旋槽宝塔钻4-20",
       "price": 192,
       "image": "/placeholder.svg",
@@ -160,17 +157,16 @@
       "category_code": "BTD",
       "material_cn": "螺旋槽",
       "material_code": "LC",
-      "spec_number": "420-01",
-      "row_no": 93,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "420",
+      "row_no": 93
     },
     {
       "id": "12-07-09-006",
       "slug": "12-07-09-006",
       "code": "12.07.09.006",
-      "sku": "BTD-LC-432-01",
+      "sku": "BTD-LC-432",
       "name_th": "ดอกสว่านเจดีย์ร่องเกลียว (4241) ขนาด 4-32 มม.",
+      "name_th_short": "ดอกสว่านเจดีย์ร่องเกลียว",
       "name_cn": "4241螺旋槽宝塔钻4-32",
       "price": 222,
       "image": "/placeholder.svg",
@@ -192,10 +188,8 @@
       "category_code": "BTD",
       "material_cn": "螺旋槽",
       "material_code": "LC",
-      "spec_number": "432-01",
-      "row_no": 94,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "432",
+      "row_no": 94
     }
   ]
 }

@@ -9,8 +9,9 @@
       "id": "13-06-05-003",
       "slug": "13-06-05-003",
       "code": "13.06.05.003",
-      "sku": "YB-PVC-FS-0608-01",
+      "sku": "YB-PVC-FS-6-8",
       "name_th": "ผ้าใบกันน้ำ PVC 6x8",
+      "name_th_short": "ผ้าใบกันน้ำ PVC",
       "name_cn": "PVC防水油布 6*8",
       "price": 1500,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "YB",
       "material_cn": "PVC防水",
       "material_code": "PVC-FS",
-      "spec_number": "0608-01",
-      "row_no": 165,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "6-8",
+      "row_no": 165
     },
     {
       "id": "13-06-05-007",
       "slug": "13-06-05-007",
       "code": "13.06.05.007",
-      "sku": "YB-PVC-FS-1012-01",
+      "sku": "YB-PVC-FS-10-12",
       "name_th": "ผ้าใบกันน้ำ PVC 10x12",
+      "name_th_short": "ผ้าใบกันน้ำ PVC",
       "name_cn": "PVC防水油布 10*12",
       "price": 3480,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "YB",
       "material_cn": "PVC防水",
       "material_code": "PVC-FS",
-      "spec_number": "1012-01",
-      "row_no": 166,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10-12",
+      "row_no": 166
     },
     {
       "id": "13-06-05-012",
       "slug": "13-06-05-012",
       "code": "13.06.05.012",
-      "sku": "YB-PVC-FS-1-01",
+      "sku": "YB-PVC-FS-1",
       "name_th": "ผ้าใบกันน้ำ PVC",
+      "name_th_short": "ผ้าใบกันน้ำ PVC",
       "name_cn": "PVC防水油布 PVC",
       "price": 2520,
       "image": "/placeholder.svg",
@@ -96,10 +95,8 @@
       "category_code": "YB",
       "material_cn": "PVC防水",
       "material_code": "PVC-FS",
-      "spec_number": "1-01",
-      "row_no": 167,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1",
+      "row_no": 167
     }
   ]
 }

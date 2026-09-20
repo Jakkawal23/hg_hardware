@@ -11,6 +11,7 @@
       "code": "05.05.03.010",
       "sku": "DGJD-1576AZL-1820-01",
       "name_th": "เทปพันสายไฟ Yongguan 1576A กันไฟ (18 มม. * 20 ม.) สีดำ",
+      "name_th_short": "เทปพันสายไฟ สีดำ",
       "name_cn": "永冠电工胶带1576A 阻燃(18宽*20米)黑",
       "price": 13.2,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "1576A阻燃",
       "material_code": "1576AZL",
       "spec_number": "1820-01",
-      "row_no": 162,
-      "col_o": null,
-      "col_r": null
+      "row_no": 162
     },
     {
       "id": "05-05-03-011",
@@ -43,6 +42,7 @@
       "code": "05.05.03.011",
       "sku": "DGJD-1576AZL-1820-02",
       "name_th": "เทปพันสายไฟ Yongguan 1576A กันไฟ (18 มม. * 20 ม.) สีเหลือง",
+      "name_th_short": "เทปพันสายไฟ สีเหลือง",
       "name_cn": "永冠电工胶带1576A 阻燃（18宽*20米)黄",
       "price": 13.2,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "1576A阻燃",
       "material_code": "1576AZL",
       "spec_number": "1820-02",
-      "row_no": 163,
-      "col_o": null,
-      "col_r": null
+      "row_no": 163
     },
     {
       "id": "05-05-03-012",
@@ -75,6 +73,7 @@
       "code": "05.05.03.012",
       "sku": "DGJD-1576AZL-1820-03",
       "name_th": "เทปพันสายไฟ Yongguan 1576A กันไฟ (18 มม. * 20 ม.) สีแดง",
+      "name_th_short": "เทปพันสายไฟ สีแดง",
       "name_cn": "永冠电工胶带1576A阻燃（18宽*20米）红",
       "price": 13.2,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "1576A阻燃",
       "material_code": "1576AZL",
       "spec_number": "1820-03",
-      "row_no": 164,
-      "col_o": null,
-      "col_r": null
+      "row_no": 164
     },
     {
       "id": "05-05-03-013",
@@ -107,6 +104,7 @@
       "code": "05.05.03.013",
       "sku": "DGJD-1576AZL-1820-04",
       "name_th": "เทปพันสายไฟ Yongguan 1576A กันไฟ (18 มม. * 20 ม.) สีฟ้า",
+      "name_th_short": "เทปพันสายไฟ สีฟ้า",
       "name_cn": "永冠电工胶带1576A阻燃（18宽*20米）蓝",
       "price": 13.2,
       "image": "/placeholder.svg",
@@ -129,9 +127,7 @@
       "material_cn": "1576A阻燃",
       "material_code": "1576AZL",
       "spec_number": "1820-04",
-      "row_no": 165,
-      "col_o": null,
-      "col_r": null
+      "row_no": 165
     },
     {
       "id": "05-05-03-014",
@@ -139,6 +135,7 @@
       "code": "05.05.03.014",
       "sku": "DGJD-1576AZL-1820-05",
       "name_th": "เทปพันสายไฟ Yongguan 1576A กันไฟ (18 มม. * 20 ม.) สีเขียว",
+      "name_th_short": "เทปพันสายไฟ สีเขียว",
       "name_cn": "永冠电工胶带1576A阻燃（18宽*20米）绿",
       "price": 13.2,
       "image": "/placeholder.svg",
@@ -161,9 +158,7 @@
       "material_cn": "1576A阻燃",
       "material_code": "1576AZL",
       "spec_number": "1820-05",
-      "row_no": 166,
-      "col_o": null,
-      "col_r": null
+      "row_no": 166
     },
     {
       "id": "05-05-03-015",
@@ -171,6 +166,7 @@
       "code": "05.05.03.015",
       "sku": "DGJD-1570ZL-1814-01",
       "name_th": "เทปพันสายไฟ Yongguan 1570 กันไฟ (18 มม. * 14.5 ม.) สีฟ้า",
+      "name_th_short": "เทปพันสายไฟ สีฟ้า",
       "name_cn": "永冠电工胶带1570阻燃 （18宽*14.5米）蓝色",
       "price": 14.4,
       "image": "/placeholder.svg",
@@ -193,9 +189,7 @@
       "material_cn": "1570阻燃",
       "material_code": "1570ZL",
       "spec_number": "1814-01",
-      "row_no": 167,
-      "col_o": null,
-      "col_r": null
+      "row_no": 167
     },
     {
       "id": "05-05-03-017",
@@ -203,6 +197,7 @@
       "code": "05.05.03.017",
       "sku": "DGJD-1570ZL-1814-02",
       "name_th": "เทปพันสายไฟ Yongguan 1570 กันไฟ (18 มม. * 14.5 ม.) สีเหลือง",
+      "name_th_short": "เทปพันสายไฟ สีเหลือง",
       "name_cn": "永冠电工胶带1570阻燃 （18宽*14.5米) 黄色",
       "price": 14.4,
       "image": "/placeholder.svg",
@@ -225,9 +220,7 @@
       "material_cn": "1570阻燃",
       "material_code": "1570ZL",
       "spec_number": "1814-02",
-      "row_no": 168,
-      "col_o": null,
-      "col_r": null
+      "row_no": 168
     },
     {
       "id": "05-05-03-018",
@@ -235,6 +228,7 @@
       "code": "05.05.03.018",
       "sku": "DGJD-1570ZL-1814-03",
       "name_th": "เทปพันสายไฟ Yongguan 1570 กันไฟ (18 มม. * 14.5 ม.) สีดำ",
+      "name_th_short": "เทปพันสายไฟ สีดำ",
       "name_cn": "永冠电工胶带1570阻燃 （18宽*14.5米）黑色",
       "price": 14.4,
       "image": "/placeholder.svg",
@@ -257,9 +251,7 @@
       "material_cn": "1570阻燃",
       "material_code": "1570ZL",
       "spec_number": "1814-03",
-      "row_no": 169,
-      "col_o": null,
-      "col_r": null
+      "row_no": 169
     },
     {
       "id": "05-05-03-019",
@@ -267,6 +259,7 @@
       "code": "05.05.03.019",
       "sku": "DGJD-1570ZL-1814-04",
       "name_th": "เทปพันสายไฟ Yongguan 1570 กันไฟ (18 มม. * 14.5 ม.) สีแดง",
+      "name_th_short": "เทปพันสายไฟ สีแดง",
       "name_cn": "永冠电工胶带1570阻燃 （18宽*14.5米）红色",
       "price": 14.4,
       "image": "/placeholder.svg",
@@ -289,9 +282,7 @@
       "material_cn": "1570阻燃",
       "material_code": "1570ZL",
       "spec_number": "1814-04",
-      "row_no": 170,
-      "col_o": null,
-      "col_r": null
+      "row_no": 170
     }
   ]
 }

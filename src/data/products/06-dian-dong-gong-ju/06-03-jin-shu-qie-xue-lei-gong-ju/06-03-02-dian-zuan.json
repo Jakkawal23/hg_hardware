@@ -11,6 +11,7 @@
       "code": "06.03.02.002",
       "sku": "DC-Z28B-001",
       "name_th": "สว่านโรตารี่ DC Z1C-FF06-28B",
+      "name_th_short": "สว่านโรตารี่",
       "name_cn": "DC电锤Z1C-FF06-28B",
       "price": 4176,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "Z1C-28B",
       "material_code": "Z28B",
       "spec_number": "001",
-      "row_no": 36,
-      "col_o": null,
-      "col_r": null
+      "row_no": 36
     },
     {
       "id": "06-03-02-009",
@@ -43,6 +42,7 @@
       "code": "06.03.02.009",
       "sku": "SD-J10A-001",
       "name_th": "สว่านไฟฟ้า DC J1Z-FF05-10A",
+      "name_th_short": "สว่านไฟฟ้า",
       "name_cn": "DC手电钻（J1Z-FF05-10A）",
       "price": 1416,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "J1Z-10A",
       "material_code": "J10A",
       "spec_number": "001",
-      "row_no": 37,
-      "col_o": null,
-      "col_r": null
+      "row_no": 37
     },
     {
       "id": "06-03-02-010",
@@ -75,6 +73,7 @@
       "code": "06.03.02.010",
       "sku": "LD-DCJZ23-001",
       "name_th": "สว่านแบตไร้สาย DC DCJZ23-10E",
+      "name_th_short": "สว่านแบตไร้สาย",
       "name_cn": "DC充电式无刷锂电钻DCJZ23-10E",
       "price": 3096,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "DCJZ23-10",
       "material_code": "DCJZ23",
       "spec_number": "001",
-      "row_no": 38,
-      "col_o": null,
-      "col_r": null
+      "row_no": 38
     },
     {
       "id": "06-03-02-012",
@@ -107,6 +104,7 @@
       "code": "06.03.02.012",
       "sku": "JMJ-EX100-001",
       "name_th": "หินเจียรแบตไร้สาย Kaleman EX100",
+      "name_th_short": "หินเจียรแบตไร้สาย",
       "name_cn": "卡乐曼充电无刷角锤（角磨机）EX100",
       "price": 2640,
       "image": "/placeholder.svg",
@@ -129,9 +127,7 @@
       "material_cn": "EX100",
       "material_code": "EX100",
       "spec_number": "001",
-      "row_no": 39,
-      "col_o": null,
-      "col_r": null
+      "row_no": 39
     },
     {
       "id": "06-03-02-013",
@@ -139,6 +135,7 @@
       "code": "06.03.02.013",
       "sku": "DC-AD24-001",
       "name_th": "สว่านโรตารี่แบต DCA ADZC04-24EM",
+      "name_th_short": "สว่านโรตารี่แบต",
       "name_cn": "DCA 充电式无刷电锤ADZC04-24EM",
       "price": 6696,
       "image": "/placeholder.svg",
@@ -161,9 +158,7 @@
       "material_cn": "ADZC04-24",
       "material_code": "AD24",
       "spec_number": "001",
-      "row_no": 40,
-      "col_o": null,
-      "col_r": null
+      "row_no": 40
     },
     {
       "id": "06-03-02-014",
@@ -171,6 +166,7 @@
       "code": "06.03.02.014",
       "sku": "DC-AD28-001",
       "name_th": "สว่านโรตารี่แบต DCA ADZC03-28H2X",
+      "name_th_short": "สว่านโรตารี่แบต",
       "name_cn": "DCA 充电式无刷电锤ADZC03-28H2X",
       "price": 6816,
       "image": "/placeholder.svg",
@@ -193,9 +189,7 @@
       "material_cn": "ADZC03-28",
       "material_code": "AD28",
       "spec_number": "001",
-      "row_no": 41,
-      "col_o": null,
-      "col_r": null
+      "row_no": 41
     },
     {
       "id": "06-03-02-040",
@@ -203,6 +197,7 @@
       "code": "06.03.02.040",
       "sku": "LD-DCJZ20-001",
       "name_th": "สว่านแบตไร้สาย DC DCJZ2060EM",
+      "name_th_short": "สว่านแบตไร้สาย",
       "name_cn": "DC手电钻/锂电钻DCJZ2060EM",
       "price": 4656,
       "image": "/placeholder.svg",
@@ -225,9 +220,7 @@
       "material_cn": "DCJZ2060",
       "material_code": "DCJZ20",
       "spec_number": "001",
-      "row_no": 42,
-      "col_o": null,
-      "col_r": null
+      "row_no": 42
     },
     {
       "id": "06-03-02-041",
@@ -235,6 +228,7 @@
       "code": "06.03.02.041",
       "sku": "ZKJ-AZ130-001",
       "name_th": "เครื่องเจาะคอนกรีต DCA AZZ03-130",
+      "name_th_short": "เครื่องเจาะคอนกรีต (สว่านน้ำ)",
       "name_cn": "DCA金刚石钻孔机（水钻）AZZ03-130",
       "price": 3000,
       "image": "/placeholder.svg",
@@ -257,16 +251,15 @@
       "material_cn": "AZZ03-130",
       "material_code": "AZ130",
       "spec_number": "001",
-      "row_no": 43,
-      "col_o": null,
-      "col_r": null
+      "row_no": 43
     },
     {
       "id": "06-03-02-045",
       "slug": "06-03-02-045",
       "code": "06.03.02.045",
       "sku": "DC-1018B-21V01",
-      "name_th": "สว่านโรตารี่แบต 21V (Samsung 1018B)",
+      "name_th": "สว่านโรตารี่แบต 21V 6.0Ah (Samsung 1018B)",
+      "name_th_short": "สว่านโรตารี่แบต 21V",
       "name_cn": "山姆斯1018B-15节21V无刷锂电迷你重锤/6.0Ah双电",
       "price": 4656,
       "image": "/placeholder.svg",
@@ -289,16 +282,15 @@
       "material_cn": "1018B",
       "material_code": "1018B",
       "spec_number": "21V01",
-      "row_no": 44,
-      "col_o": null,
-      "col_r": null
+      "row_no": 44
     },
     {
       "id": "06-03-02-046",
       "slug": "06-03-02-046",
       "code": "06.03.02.046",
       "sku": "CDB-1014A-21V01",
-      "name_th": "บล็อกไร้สาย 21V 350Nm (Samsung 1014A)",
+      "name_th": "บล็อกไร้สาย 21V 350Nm 4.0Ah (Samsung 1014A)",
+      "name_th_short": "บล็อกไร้สาย 21V",
       "name_cn": "山姆斯1014A-10节21V350N.m无刷锂电冲击扳手/4.0Ah双电",
       "price": 2460,
       "image": "/placeholder.svg",
@@ -321,16 +313,15 @@
       "material_cn": "1014A",
       "material_code": "1014A",
       "spec_number": "21V01",
-      "row_no": 45,
-      "col_o": null,
-      "col_r": null
+      "row_no": 45
     },
     {
       "id": "06-03-02-047",
       "slug": "06-03-02-047",
       "code": "06.03.02.047",
       "sku": "JMJ-1015B-21V01",
-      "name_th": "หินเจียรไร้สาย 21V (Samsung 1015B)",
+      "name_th": "หินเจียรไร้สาย 21V 6.0Ah (Samsung 1015B)",
+      "name_th_short": "หินเจียรไร้สาย 21V",
       "name_cn": "山姆斯1015B-15节21V无刷锂电角磨机/6.0Ah双电",
       "price": 3060,
       "image": "/placeholder.svg",
@@ -353,16 +344,15 @@
       "material_cn": "1015B",
       "material_code": "1015B",
       "spec_number": "21V01",
-      "row_no": 46,
-      "col_o": null,
-      "col_r": null
+      "row_no": 46
     },
     {
       "id": "06-03-02-048",
       "slug": "06-03-02-048",
       "code": "06.03.02.048",
       "sku": "CDJ-1017B-21V01",
-      "name_th": "เลื่อยชักไร้สาย 21V (Samsung 1017B)",
+      "name_th": "เลื่อยชักไร้สาย 21V 6.0Ah (Samsung 1017B)",
+      "name_th_short": "เลื่อยชักไร้สาย 21V",
       "name_cn": "山姆斯1017B-15节21V无刷锂电菜刀锯/6.0Ah双电",
       "price": 4080,
       "image": "/placeholder.svg",
@@ -385,16 +375,15 @@
       "material_cn": "1017B",
       "material_code": "1017B",
       "spec_number": "21V01",
-      "row_no": 47,
-      "col_o": null,
-      "col_r": null
+      "row_no": 47
     },
     {
       "id": "06-03-02-049",
       "slug": "06-03-02-049",
       "code": "06.03.02.049",
       "sku": "QZJ-1019-16V01",
-      "name_th": "สว่านไขควงไร้สาย 16.8V (Samsung 1019)",
+      "name_th": "สว่านไขควงไร้สาย 16.8V 35Nm (Samsung 1019)",
+      "name_th_short": "สว่านไขควงไร้สาย",
       "name_cn": "山姆斯1019-4节16.8V35N.m无刷锂电起子机/双电",
       "price": 1896,
       "image": "/placeholder.svg",
@@ -414,19 +403,18 @@
       "last_import_date": "2026-06-03",
       "category_cn": "起子机",
       "category_code": "QZJ",
-      "material_cn": "1019.0",
-      "material_code": "1019.0",
+      "material_cn": 1019,
+      "material_code": 1019,
       "spec_number": "16V01",
-      "row_no": 48,
-      "col_o": null,
-      "col_r": null
+      "row_no": 48
     },
     {
       "id": "06-03-02-050",
       "slug": "06-03-02-050",
       "code": "06.03.02.050",
       "sku": "LDB-1022B-21V01",
-      "name_th": "บล็อกไร้สาย 21V 500Nm (Samsung 1022B)",
+      "name_th": "บล็อกไร้สาย 21V 500Nm 6.0Ah (Samsung 1022B)",
+      "name_th_short": "บล็อกไร้สาย 21V",
       "name_cn": "山姆斯1022B-15节21V500N.m无刷锂电扳手/6.0Ah双电",
       "price": 2976,
       "image": "/placeholder.svg",
@@ -449,16 +437,15 @@
       "material_cn": "1022B",
       "material_code": "1022B",
       "spec_number": "21V01",
-      "row_no": 49,
-      "col_o": null,
-      "col_r": null
+      "row_no": 49
     },
     {
       "id": "06-03-02-054",
       "slug": "06-03-02-054",
       "code": "06.03.02.054",
       "sku": "CDB-2014A-21V01",
-      "name_th": "บล็อกไร้สาย 21V 400Nm (Samsung 2014A)",
+      "name_th": "บล็อกไร้สาย 21V 400Nm 4.0Ah (Samsung 2014A)",
+      "name_th_short": "บล็อกไร้สาย 21V",
       "name_cn": "山姆斯2014A-10节21V400N.m无刷锂电冲击扳手/4.0Ah双电",
       "price": 2640,
       "image": "/placeholder.svg",
@@ -481,9 +468,7 @@
       "material_cn": "2014A",
       "material_code": "2014A",
       "spec_number": "21V01",
-      "row_no": 50,
-      "col_o": null,
-      "col_r": null
+      "row_no": 50
     },
     {
       "id": "06-03-02-056",
@@ -491,6 +476,7 @@
       "code": "06.03.02.056",
       "sku": "JMJ-541059-10001",
       "name_th": "หินเจียร 4นิ้ว Shenchuan 1100W",
+      "name_th_short": "หินเจียร 4 นิ้ว",
       "name_cn": "神川/100MM/1100W/角向磨光机/角磨机 541059",
       "price": 1680,
       "image": "/placeholder.svg",
@@ -510,12 +496,10 @@
       "last_import_date": "2026-05-14",
       "category_cn": "角磨机",
       "category_code": "JMJ",
-      "material_cn": "541059.0",
-      "material_code": "541059.0",
+      "material_cn": 541059,
+      "material_code": 541059,
       "spec_number": "10001",
-      "row_no": 51,
-      "col_o": null,
-      "col_r": null
+      "row_no": 51
     },
     {
       "id": "06-03-02-057",
@@ -523,6 +507,7 @@
       "code": "06.03.02.057",
       "sku": "JMJ-541052-10001",
       "name_th": "หินเจียร 4นิ้ว Shenchuan 780W",
+      "name_th_short": "หินเจียร 4 นิ้ว",
       "name_cn": "神川/100MM/780W/角向磨光机/角磨机 541052",
       "price": 1296,
       "image": "/placeholder.svg",
@@ -542,12 +527,10 @@
       "last_import_date": "2026-05-14",
       "category_cn": "角磨机",
       "category_code": "JMJ",
-      "material_cn": "541052.0",
-      "material_code": "541052.0",
+      "material_cn": 541052,
+      "material_code": 541052,
       "spec_number": "10001",
-      "row_no": 52,
-      "col_o": null,
-      "col_r": null
+      "row_no": 52
     },
     {
       "id": "06-03-02-058",
@@ -555,6 +538,7 @@
       "code": "06.03.02.058",
       "sku": "JMJ-941058-10001",
       "name_th": "หินเจียร 4นิ้ว Xingshi 950W",
+      "name_th_short": "หินเจียร 4 นิ้ว",
       "name_cn": "醒狮/100MM/950W/角磨机 941058",
       "price": 1536,
       "image": "/placeholder.svg",
@@ -574,12 +558,10 @@
       "last_import_date": "2026-06-29",
       "category_cn": "角磨机",
       "category_code": "JMJ",
-      "material_cn": "941058.0",
-      "material_code": "941058.0",
+      "material_cn": 941058,
+      "material_code": 941058,
       "spec_number": "10001",
-      "row_no": 53,
-      "col_o": null,
-      "col_r": null
+      "row_no": 53
     },
     {
       "id": "06-03-02-060",
@@ -587,6 +569,7 @@
       "code": "06.03.02.060",
       "sku": "SD-931028-1001",
       "name_th": "สว่านไฟฟ้า 3หุน Xingshi 450W",
+      "name_th_short": "สว่านไฟฟ้า 3 หุน",
       "name_cn": "醒狮/10MM/450W/手电钻 931028",
       "price": 1416,
       "image": "/placeholder.svg",
@@ -606,12 +589,10 @@
       "last_import_date": "2026-05-14",
       "category_cn": "手电钻",
       "category_code": "SD",
-      "material_cn": "931028.0",
-      "material_code": "931028.0",
+      "material_cn": 931028,
+      "material_code": 931028,
       "spec_number": "1001",
-      "row_no": 54,
-      "col_o": null,
-      "col_r": null
+      "row_no": 54
     },
     {
       "id": "06-03-02-061",
@@ -619,6 +600,7 @@
       "code": "06.03.02.061",
       "sku": "YSJ-951102-110001",
       "name_th": "เครื่องตัดหินอ่อน Xingshi 1100W",
+      "name_th_short": "เครื่องตัดหินอ่อน",
       "name_cn": "醒狮/1100MM/1100W/云石机 951102",
       "price": 1896,
       "image": "/placeholder.svg",
@@ -638,19 +620,18 @@
       "last_import_date": "2026-06-24",
       "category_cn": "云石机",
       "category_code": "YSJ",
-      "material_cn": "951102.0",
-      "material_code": "951102.0",
+      "material_cn": 951102,
+      "material_code": 951102,
       "spec_number": "110001",
-      "row_no": 55,
-      "col_o": null,
-      "col_r": null
+      "row_no": 55
     },
     {
       "id": "06-03-02-063",
       "slug": "06-03-02-063",
       "code": "06.03.02.063",
       "sku": "FJZ-931606-12001",
-      "name_th": "สว่านไฟฟ้า Xingshi 1100W",
+      "name_th": "สว่านไฟฟ้า Xingshi 1100W ขนาด 120 มม.",
+      "name_th_short": "สว่านไฟฟ้า",
       "name_cn": "醒狮/120MM/1100W/飞机钻 931606",
       "price": 1896,
       "image": "/placeholder.svg",
@@ -670,12 +651,10 @@
       "last_import_date": "2026-06-24",
       "category_cn": "飞机钻",
       "category_code": "FJZ",
-      "material_cn": "931606.0",
-      "material_code": "931606.0",
+      "material_cn": 931606,
+      "material_code": 931606,
       "spec_number": "12001",
-      "row_no": 56,
-      "col_o": null,
-      "col_r": null
+      "row_no": 56
     },
     {
       "id": "06-03-02-064",
@@ -683,6 +662,7 @@
       "code": "06.03.02.064",
       "sku": "DG-924006-140001",
       "name_th": "สกัดไฟฟ้า Xingshi 1400W",
+      "name_th_short": "สกัดไฟฟ้า",
       "name_cn": "醒狮/1400W/防烫电镐 924006",
       "price": 3936,
       "image": "/placeholder.svg",
@@ -702,19 +682,18 @@
       "last_import_date": "2026-06-24",
       "category_cn": "电镐",
       "category_code": "DG",
-      "material_cn": "924006.0",
-      "material_code": "924006.0",
+      "material_cn": 924006,
+      "material_code": 924006,
       "spec_number": "140001",
-      "row_no": 57,
-      "col_o": null,
-      "col_r": null
+      "row_no": 57
     },
     {
       "id": "06-03-02-066",
       "slug": "06-03-02-066",
       "code": "06.03.02.066",
       "sku": "DM-902510-2501",
-      "name_th": "เครื่องเจียรแกน Xingshi 280W",
+      "name_th": "เครื่องเจียรแกน Xingshi 280W ขนาด 25 มม.",
+      "name_th_short": "เครื่องเจียรแกน",
       "name_cn": "醒狮/25MM/280W/电磨 902510",
       "price": 1512,
       "image": "/placeholder.svg",
@@ -734,19 +713,18 @@
       "last_import_date": "2026-07-04",
       "category_cn": "电磨",
       "category_code": "DM",
-      "material_cn": "902510.0",
-      "material_code": "902510.0",
+      "material_cn": 902510,
+      "material_code": 902510,
       "spec_number": "2501",
-      "row_no": 58,
-      "col_o": null,
-      "col_r": null
+      "row_no": 58
     },
     {
       "id": "06-03-02-069",
       "slug": "06-03-02-069",
       "code": "06.03.02.069",
       "sku": "DC-922807-2801",
-      "name_th": "สว่านโรตารี่ Xingshi 1100W",
+      "name_th": "สว่านโรตารี่ Xingshi 1100W ขนาด 28 มม.",
+      "name_th_short": "สว่านโรตารี่",
       "name_cn": "醒狮/28MM/1100W/双功能电锤 922807",
       "price": 2460,
       "image": "/placeholder.svg",
@@ -766,12 +744,10 @@
       "last_import_date": "2026-04-28",
       "category_cn": "电锤",
       "category_code": "DC",
-      "material_cn": "922807.0",
-      "material_code": "922807.0",
+      "material_cn": 922807,
+      "material_code": 922807,
       "spec_number": "2801",
-      "row_no": 59,
-      "col_o": null,
-      "col_r": null
+      "row_no": 59
     },
     {
       "id": "06-03-02-074",
@@ -779,6 +755,7 @@
       "code": "06.03.02.074",
       "sku": "DC-Z28SH-001",
       "name_th": "สว่านโรตารี่ DC Z1C-FF03-28SH",
+      "name_th_short": "สว่านโรตารี่",
       "name_cn": "DC电锤Z1C-FF03-28SH",
       "price": 4296,
       "image": "/placeholder.svg",
@@ -801,9 +778,7 @@
       "material_cn": "Z1C-28SH",
       "material_code": "Z28SH",
       "spec_number": "001",
-      "row_no": 60,
-      "col_o": null,
-      "col_r": null
+      "row_no": 60
     },
     {
       "id": "06-03-02-075",
@@ -811,6 +786,7 @@
       "code": "06.03.02.075",
       "sku": "BFM-DK120-001",
       "name_th": "เครื่องเป่าลมไร้สาย Dongke DK-120",
+      "name_th_short": "เครื่องเป่าลมไร้สาย",
       "name_cn": "冬科DK-120吸吹一体无刷迷你暴风机（两电一充）",
       "price": 2472,
       "image": "/placeholder.svg",
@@ -833,9 +809,7 @@
       "material_cn": "DK-120",
       "material_code": "DK120",
       "spec_number": "001",
-      "row_no": 61,
-      "col_o": null,
-      "col_r": null
+      "row_no": 61
     },
     {
       "id": "06-03-02-076",
@@ -843,6 +817,7 @@
       "code": "06.03.02.076",
       "sku": "BFM-DK72-001",
       "name_th": "เครื่องเป่าลมไร้สาย Dongke DK-7.2",
+      "name_th_short": "เครื่องเป่าลมไร้สาย",
       "name_cn": "冬科DK-7.2无刷暴风机（两电一充）",
       "price": 2616,
       "image": "/placeholder.svg",
@@ -865,9 +840,7 @@
       "material_cn": "DK-7.2",
       "material_code": "DK72",
       "spec_number": "001",
-      "row_no": 62,
-      "col_o": null,
-      "col_r": null
+      "row_no": 62
     },
     {
       "id": "06-03-02-079",
@@ -875,6 +848,7 @@
       "code": "06.03.02.079",
       "sku": "DC-FF28-001",
       "name_th": "สว่านโรตารี่ DC FF03-28",
+      "name_th_short": "สว่านโรตารี่",
       "name_cn": "DC电锤FF03-28",
       "price": 4176,
       "image": "/placeholder.svg",
@@ -897,9 +871,7 @@
       "material_cn": "FF03-28",
       "material_code": "FF28",
       "spec_number": "001",
-      "row_no": 63,
-      "col_o": null,
-      "col_r": null
+      "row_no": 63
     },
     {
       "id": "06-03-02-080",
@@ -907,6 +879,7 @@
       "code": "06.03.02.080",
       "sku": "LDB-2020B-21V01",
       "name_th": "บล็อกไร้สาย 21V 600Nm (Samsung 2020B)",
+      "name_th_short": "บล็อกไร้สาย 21V",
       "name_cn": "山姆斯2020B-15节21V600N.m无刷锂电扳手",
       "price": 3456,
       "image": "/placeholder.svg",
@@ -929,16 +902,15 @@
       "material_cn": "2020B",
       "material_code": "2020B",
       "spec_number": "21V01",
-      "row_no": 64,
-      "col_o": null,
-      "col_r": null
+      "row_no": 64
     },
     {
       "id": "06-03-02-081",
       "slug": "06-03-02-081",
       "code": "06.03.02.081",
       "sku": "ZKJ-Z200-001",
-      "name_th": "เครื่องเจาะคอนกรีต DC 200S",
+      "name_th": "เครื่องเจาะคอนกรีต DC Z1Z-FF04-200S",
+      "name_th_short": "เครื่องเจาะคอนกรีต (สว่านน้ำ)",
       "name_cn": "DC金刚石钻孔机（水钻）Z1Z-FF04-200S",
       "price": 7800,
       "image": "/placeholder.svg",
@@ -961,9 +933,7 @@
       "material_cn": "Z1Z-200",
       "material_code": "Z200",
       "spec_number": "001",
-      "row_no": 65,
-      "col_o": null,
-      "col_r": null
+      "row_no": 65
     },
     {
       "id": "06-03-02-082",
@@ -971,6 +941,7 @@
       "code": "06.03.02.082",
       "sku": "CDB-DC358-001",
       "name_th": "บล็อกไร้สาย DC DCPB358EM",
+      "name_th_short": "บล็อกไร้สาย",
       "name_cn": "DC充电式无刷冲击扳手 DCPB358EM",
       "price": 4200,
       "image": "/placeholder.svg",
@@ -993,9 +964,7 @@
       "material_cn": "DCPB358",
       "material_code": "DC358",
       "spec_number": "001",
-      "row_no": 66,
-      "col_o": null,
-      "col_r": null
+      "row_no": 66
     },
     {
       "id": "06-03-02-083",
@@ -1003,6 +972,7 @@
       "code": "06.03.02.083",
       "sku": "LD-DC2040-001",
       "name_th": "สว่านแบตไร้สาย DC DCJZ-2040",
+      "name_th_short": "สว่านแบตไร้สาย",
       "name_cn": "DC手电钻/锂电钻DCJZ-2040",
       "price": 4416,
       "image": "/placeholder.svg",
@@ -1025,9 +995,7 @@
       "material_cn": "DCJZ-2040",
       "material_code": "DC2040",
       "spec_number": "001",
-      "row_no": 67,
-      "col_o": null,
-      "col_r": null
+      "row_no": 67
     },
     {
       "id": "06-03-02-084",
@@ -1035,6 +1003,7 @@
       "code": "06.03.02.084",
       "sku": "YSJ-DZ110-001",
       "name_th": "เครื่องตัดหินอ่อน DC DZE02-110",
+      "name_th_short": "เครื่องตัดหินอ่อน",
       "name_cn": "DC云石切割机/云石机 DZE02-110",
       "price": 2160,
       "image": "/placeholder.svg",
@@ -1057,9 +1026,7 @@
       "material_cn": "DZE02-110",
       "material_code": "DZ110",
       "spec_number": "001",
-      "row_no": 68,
-      "col_o": null,
-      "col_r": null
+      "row_no": 68
     }
   ]
 }

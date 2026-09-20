@@ -9,8 +9,9 @@
       "id": "08-03-02-001",
       "slug": "08-03-02-001",
       "code": "08.03.02.001",
-      "sku": "CX-BXG-3-01",
+      "sku": "CX-BXG-3",
       "name_th": "กลอนสแตนเลส ขนาด 3 นิ้ว (บรรจุ 100 ชิ้น/ลัง)",
+      "name_th_short": "กลอนสแตนเลส",
       "name_cn": "不锈钢插销 3寸（100个/箱）",
       "price": 10.8,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "CX",
       "material_cn": "不锈钢",
       "material_code": "BXG",
-      "spec_number": "3-01",
-      "row_no": 81,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "3",
+      "row_no": 81
     },
     {
       "id": "08-03-02-002",
       "slug": "08-03-02-002",
       "code": "08.03.02.002",
-      "sku": "CX-BXG-4-01",
+      "sku": "CX-BXG-4",
       "name_th": "กลอนสแตนเลส ขนาด 4 นิ้ว (บรรจุ 100 ชิ้น/ลัง)",
+      "name_th_short": "กลอนสแตนเลส",
       "name_cn": "不锈钢插销 4寸（100个/箱）",
       "price": 12,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "CX",
       "material_cn": "不锈钢",
       "material_code": "BXG",
-      "spec_number": "4-01",
-      "row_no": 82,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "4",
+      "row_no": 82
     },
     {
       "id": "08-03-02-003",
       "slug": "08-03-02-003",
       "code": "08.03.02.003",
-      "sku": "CX-BXG-5-01",
+      "sku": "CX-BXG-5",
       "name_th": "กลอนสแตนเลส ขนาด 5 นิ้ว (บรรจุ 100 ชิ้น/ลัง)",
+      "name_th_short": "กลอนสแตนเลส",
       "name_cn": "不锈钢插销 5寸（100个/箱）",
       "price": 14.4,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "CX",
       "material_cn": "不锈钢",
       "material_code": "BXG",
-      "spec_number": "5-01",
-      "row_no": 83,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "5",
+      "row_no": 83
     },
     {
       "id": "08-03-02-004",
       "slug": "08-03-02-004",
       "code": "08.03.02.004",
-      "sku": "CX-BXG-6-01",
+      "sku": "CX-BXG-6",
       "name_th": "กลอนสแตนเลส ขนาด 6 นิ้ว (บรรจุ 100 ชิ้น/ลัง)",
+      "name_th_short": "กลอนสแตนเลส",
       "name_cn": "不锈钢插销 6寸（100个/箱）",
       "price": 16.8,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "CX",
       "material_cn": "不锈钢",
       "material_code": "BXG",
-      "spec_number": "6-01",
-      "row_no": 84,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "6",
+      "row_no": 84
     },
     {
       "id": "08-03-02-005",
       "slug": "08-03-02-005",
       "code": "08.03.02.005",
-      "sku": "CX-BXG-8-01",
+      "sku": "CX-BXG-8",
       "name_th": "กลอนสแตนเลส ขนาด 8 นิ้ว (บรรจุ 50 ชิ้น/ลัง)",
+      "name_th_short": "กลอนสแตนเลส",
       "name_cn": "不锈钢插销 8寸（50个/箱）",
       "price": 26.4,
       "image": "/placeholder.svg",
@@ -160,17 +157,16 @@
       "category_code": "CX",
       "material_cn": "不锈钢",
       "material_code": "BXG",
-      "spec_number": "8-01",
-      "row_no": 85,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "8",
+      "row_no": 85
     },
     {
       "id": "08-03-02-006",
       "slug": "08-03-02-006",
       "code": "08.03.02.006",
-      "sku": "CX-BXG-10-01",
+      "sku": "CX-BXG-10",
       "name_th": "กลอนสแตนเลส ขนาด 10 นิ้ว (บรรจุ 50 ชิ้น/ลัง)",
+      "name_th_short": "กลอนสแตนเลส",
       "name_cn": "不锈钢插销 10寸（50个/箱）",
       "price": 33.6,
       "image": "/placeholder.svg",
@@ -192,17 +188,16 @@
       "category_code": "CX",
       "material_cn": "不锈钢",
       "material_code": "BXG",
-      "spec_number": "10-01",
-      "row_no": 86,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10",
+      "row_no": 86
     },
     {
       "id": "08-03-02-007",
       "slug": "08-03-02-007",
       "code": "08.03.02.007",
-      "sku": "CX-BXG-12-01",
+      "sku": "CX-BXG-12",
       "name_th": "กลอนสแตนเลส ขนาด 12 นิ้ว",
+      "name_th_short": "กลอนสแตนเลส",
       "name_cn": "不锈钢插销 12寸",
       "price": 38.4,
       "image": "/placeholder.svg",
@@ -224,10 +219,8 @@
       "category_code": "CX",
       "material_cn": "不锈钢",
       "material_code": "BXG",
-      "spec_number": "12-01",
-      "row_no": 87,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "12",
+      "row_no": 87
     }
   ]
 }

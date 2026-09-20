@@ -11,6 +11,7 @@
       "code": "18.01.08.001",
       "sku": "GSL-HX-125-100",
       "name_th": "แปรงลวดถ้วย/ลวดกลม 125 มม. กล่องแดง (100 ชิ้น/ลัง)",
+      "name_th_short": "แปรงลวดถ้วย",
       "name_cn": "钢丝轮125 红箱（100个/件）",
       "price": 8.64,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "红箱",
       "material_code": "HX",
       "spec_number": "125-100",
-      "row_no": 17,
-      "col_o": null,
-      "col_r": null
+      "row_no": 17
     },
     {
       "id": "18-01-08-002",
@@ -43,6 +42,7 @@
       "code": "18.01.08.002",
       "sku": "GSL-HXGD-125-100",
       "name_th": "แปรงลวดถ้วย/ลวดกลม 125 มม. เกรดพรีเมียม กล่องเทา (100 ชิ้น/ลัง)",
+      "name_th_short": "แปรงลวดถ้วย",
       "name_cn": "钢丝轮125 灰箱 高档（100个/件）",
       "price": 9.6,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "灰箱高档",
       "material_code": "HXGD",
       "spec_number": "125-100",
-      "row_no": 18,
-      "col_o": null,
-      "col_r": null
+      "row_no": 18
     }
   ]
 }

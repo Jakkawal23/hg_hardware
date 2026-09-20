@@ -11,6 +11,7 @@
       "code": "01.13.02.001",
       "sku": "TS-14-4801",
       "name_th": "ลวดเหล็ก เบอร์14 (4.8 กก.)",
+      "name_th_short": "ลวดเหล็ก",
       "name_cn": "铁丝14#（4.8kg)",
       "price": 172.8,
       "image": "/placeholder.svg",
@@ -31,11 +32,9 @@
       "category_cn": "铁丝",
       "category_code": "TS",
       "material_cn": "14#",
-      "material_code": "14.0",
+      "material_code": 14,
       "spec_number": "4801",
-      "row_no": 912,
-      "col_o": null,
-      "col_r": null
+      "row_no": 912
     },
     {
       "id": "01-13-02-002",
@@ -43,6 +42,7 @@
       "code": "01.13.02.002",
       "sku": "TS-16-701",
       "name_th": "ลวดเหล็ก เบอร์16 (7 กก.)",
+      "name_th_short": "ลวดเหล็ก",
       "name_cn": "铁丝16#（7kg)",
       "price": 252,
       "image": "/placeholder.svg",
@@ -63,11 +63,9 @@
       "category_cn": "铁丝",
       "category_code": "TS",
       "material_cn": "16#",
-      "material_code": "16.0",
+      "material_code": 16,
       "spec_number": "701",
-      "row_no": 913,
-      "col_o": null,
-      "col_r": null
+      "row_no": 913
     },
     {
       "id": "01-13-02-003",
@@ -75,6 +73,7 @@
       "code": "01.13.02.003",
       "sku": "TS-TS-1801",
       "name_th": "ลวดเหล็ก (18 กก.)",
+      "name_th_short": "ลวดเหล็ก",
       "name_cn": "铁丝（18kg)",
       "price": 648,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "铁丝",
       "material_code": "TS",
       "spec_number": "1801",
-      "row_no": 914,
-      "col_o": null,
-      "col_r": null
+      "row_no": 914
     },
     {
       "id": "01-13-02-004",
@@ -107,6 +104,7 @@
       "code": "01.13.02.004",
       "sku": "TS-TS-801",
       "name_th": "ลวดเหล็ก (8 กก.)",
+      "name_th_short": "ลวดเหล็ก",
       "name_cn": "铁丝（8kg)",
       "price": 288,
       "image": "/placeholder.svg",
@@ -129,9 +127,7 @@
       "material_cn": "铁丝",
       "material_code": "TS",
       "spec_number": "801",
-      "row_no": 915,
-      "col_o": null,
-      "col_r": null
+      "row_no": 915
     },
     {
       "id": "01-13-02-006",
@@ -139,6 +135,7 @@
       "code": "01.13.02.006",
       "sku": "TS-14-701",
       "name_th": "ลวดเหล็ก เบอร์14 (7 กก.)",
+      "name_th_short": "ลวดเหล็ก",
       "name_cn": "铁丝14#（7kg)",
       "price": 252,
       "image": "/placeholder.svg",
@@ -159,11 +156,9 @@
       "category_cn": "铁丝",
       "category_code": "TS",
       "material_cn": "14#",
-      "material_code": "14.0",
+      "material_code": 14,
       "spec_number": "701",
-      "row_no": 916,
-      "col_o": null,
-      "col_r": null
+      "row_no": 916
     },
     {
       "id": "01-13-02-007",
@@ -171,6 +166,7 @@
       "code": "01.13.02.007",
       "sku": "TS-8-701",
       "name_th": "ลวดเหล็ก เบอร์8 (7 กก.)",
+      "name_th_short": "ลวดเหล็ก",
       "name_cn": "铁丝8#（7kg)",
       "price": 252,
       "image": "/placeholder.svg",
@@ -191,11 +187,9 @@
       "category_cn": "铁丝",
       "category_code": "TS",
       "material_cn": "8#",
-      "material_code": "8.0",
+      "material_code": 8,
       "spec_number": "701",
-      "row_no": 917,
-      "col_o": null,
-      "col_r": null
+      "row_no": 917
     },
     {
       "id": "01-13-02-008",
@@ -203,6 +197,7 @@
       "code": "01.13.02.008",
       "sku": "GS-16-001",
       "name_th": "ลวดเหล็กกล้า เบอร์16",
+      "name_th_short": "ลวดเหล็กกล้า",
       "name_cn": "钢丝16#",
       "price": 120,
       "image": "/placeholder.svg",
@@ -223,11 +218,9 @@
       "category_cn": "钢丝",
       "category_code": "GS",
       "material_cn": "16#",
-      "material_code": "16.0",
+      "material_code": 16,
       "spec_number": "001",
-      "row_no": 918,
-      "col_o": null,
-      "col_r": null
+      "row_no": 918
     }
   ]
 }

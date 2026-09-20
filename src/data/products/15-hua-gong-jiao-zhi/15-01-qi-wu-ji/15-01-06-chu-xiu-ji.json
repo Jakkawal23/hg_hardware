@@ -9,8 +9,9 @@
       "id": "15-01-06-004",
       "slug": "15-01-06-004",
       "code": "15.01.06.004",
-      "sku": "FXQ-HOS-1-01",
+      "sku": "FXQ-HOS-1",
       "name_th": "สีทากันสนิม สีแดง",
+      "name_th_short": "สีกันสนิมแดง",
       "name_cn": "红色防锈漆",
       "price": 2040,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "FXQ",
       "material_cn": "红色",
       "material_code": "HOS",
-      "spec_number": "1-01",
-      "row_no": 17,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1",
+      "row_no": 17
     },
     {
       "id": "15-01-06-006",
       "slug": "15-01-06-006",
       "code": "15.01.06.006",
-      "sku": "FXQ-HS-1-01",
+      "sku": "FXQ-HS-1",
       "name_th": "สีทากันสนิม สีเทา",
+      "name_th_short": "สีกันสนิมเทา",
       "name_cn": "灰色防锈漆",
       "price": 2040,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "FXQ",
       "material_cn": "灰色",
       "material_code": "HS",
-      "spec_number": "1-01",
-      "row_no": 18,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1",
+      "row_no": 18
     },
     {
       "id": "15-01-06-007",
       "slug": "15-01-06-007",
       "code": "15.01.06.007",
-      "sku": "YFQ-DT-1-01",
+      "sku": "YFQ-DT-1",
       "name_th": "สีผงเงิน (ถังใหญ่)",
+      "name_th_short": "สีผงเงินถังใหญ่",
       "name_cn": "银粉漆（大桶）",
       "price": 1860,
       "image": "/placeholder.svg",
@@ -96,10 +95,8 @@
       "category_code": "YFQ",
       "material_cn": "大桶",
       "material_code": "DT",
-      "spec_number": "1-01",
-      "row_no": 19,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1",
+      "row_no": 19
     }
   ]
 }

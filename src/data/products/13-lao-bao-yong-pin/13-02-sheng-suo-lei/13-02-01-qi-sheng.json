@@ -11,6 +11,7 @@
       "code": "13.02.01.001",
       "sku": "SZ-LQ-4-100",
       "name_th": "เชือกเชิญธง/เชือกเคลือบแว็กซ์ 4 มม. (100เมตร/มัดใหญ่)",
+      "name_th_short": "เชือกเชิญธง",
       "name_cn": "升旗绳/腊旗绳子 4mm(100米/大捆）",
       "price": 264,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "腊旗",
       "material_code": "LQ",
       "spec_number": "4-100",
-      "row_no": 8,
-      "col_o": null,
-      "col_r": null
+      "row_no": 8
     },
     {
       "id": "13-02-01-002",
@@ -43,6 +42,7 @@
       "code": "13.02.01.002",
       "sku": "SZ-LQ-6-100",
       "name_th": "เชือกเชิญธง/เชือกเคลือบแว็กซ์ 6 มม. (100เมตร/มัดใหญ่)",
+      "name_th_short": "เชือกเชิญธง",
       "name_cn": "升旗绳/腊旗绳子 6mm(100米/大捆）",
       "price": 420,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "腊旗",
       "material_code": "LQ",
       "spec_number": "6-100",
-      "row_no": 9,
-      "col_o": null,
-      "col_r": null
+      "row_no": 9
     },
     {
       "id": "13-02-01-004",
@@ -75,6 +73,7 @@
       "code": "13.02.01.004",
       "sku": "SZ-LQ-10-100",
       "name_th": "เชือกเชิญธง/เชือกเคลือบแว็กซ์ 10 มม. (100เมตร/มัดใหญ่)",
+      "name_th_short": "เชือกเชิญธง",
       "name_cn": "升旗绳/腊旗绳子10mm（100米/大捆）",
       "price": 900,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "腊旗",
       "material_code": "LQ",
       "spec_number": "10-100",
-      "row_no": 10,
-      "col_o": null,
-      "col_r": null
+      "row_no": 10
     }
   ]
 }

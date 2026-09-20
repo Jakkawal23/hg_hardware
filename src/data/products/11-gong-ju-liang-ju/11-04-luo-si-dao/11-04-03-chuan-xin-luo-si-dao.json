@@ -11,6 +11,7 @@
       "code": "11.04.03.001",
       "sku": "LSD-CX-04-01",
       "name_th": "ไขควงทะลุปากแฉก 4 นิ้ว รุ่น 706 (12 ตัว/กล่อง) YT-70604PH",
+      "name_th_short": "ไขควงทะลุปากแฉก 4 นิ้ว",
       "name_cn": "706穿心螺丝刀4寸”十字（12把/盒）YT-70604PH",
       "price": 48,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "穿心706",
       "material_code": "CX",
       "spec_number": "04-01",
-      "row_no": 375,
-      "col_o": null,
-      "col_r": null
+      "row_no": 375
     },
     {
       "id": "11-04-03-002",
@@ -43,6 +42,7 @@
       "code": "11.04.03.002",
       "sku": "LSD-CX-05-01",
       "name_th": "ไขควงทะลุปากแฉก 5 นิ้ว รุ่น 706 (12 ตัว/กล่อง) YT-70605PH",
+      "name_th_short": "ไขควงทะลุปากแฉก 5 นิ้ว",
       "name_cn": "706穿心螺丝刀5寸”十字（12把/盒）YT-70605PH",
       "price": 50.4,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "穿心706",
       "material_code": "CX",
       "spec_number": "05-01",
-      "row_no": 376,
-      "col_o": null,
-      "col_r": null
+      "row_no": 376
     },
     {
       "id": "11-04-03-003",
@@ -75,6 +73,7 @@
       "code": "11.04.03.003",
       "sku": "LSD-CX-06-01",
       "name_th": "ไขควงทะลุปากแฉก 6 นิ้ว รุ่น 706 (12 ตัว/กล่อง) YT-70606PH",
+      "name_th_short": "ไขควงทะลุปากแฉก 6 นิ้ว",
       "name_cn": "706穿心螺丝刀6寸”十字（12把/盒）YT-70606PH",
       "price": 52.8,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "穿心706",
       "material_code": "CX",
       "spec_number": "06-01",
-      "row_no": 377,
-      "col_o": null,
-      "col_r": null
+      "row_no": 377
     },
     {
       "id": "11-04-03-004",
@@ -107,6 +104,7 @@
       "code": "11.04.03.004",
       "sku": "LSD-CX-08-01",
       "name_th": "ไขควงทะลุปากแฉก 8 นิ้ว รุ่น 706 (12 ตัว/กล่อง) YT-70608PH",
+      "name_th_short": "ไขควงทะลุปากแฉก 8 นิ้ว",
       "name_cn": "706穿心螺丝刀8寸”十字（12把/盒）YT-70608PH",
       "price": 60,
       "image": "/placeholder.svg",
@@ -129,9 +127,7 @@
       "material_cn": "穿心706",
       "material_code": "CX",
       "spec_number": "08-01",
-      "row_no": 378,
-      "col_o": null,
-      "col_r": null
+      "row_no": 378
     },
     {
       "id": "11-04-03-005",
@@ -139,6 +135,7 @@
       "code": "11.04.03.005",
       "sku": "LSD-CX-10-01",
       "name_th": "ไขควงทะลุปากแฉก 10 นิ้ว รุ่น 706 (12 ตัว/กล่อง) YT-70610PH",
+      "name_th_short": "ไขควงทะลุปากแฉก 10 นิ้ว",
       "name_cn": "706穿心螺丝刀10寸”十字（12把/盒）YT-70610PH",
       "price": 62.4,
       "image": "/placeholder.svg",
@@ -161,9 +158,7 @@
       "material_cn": "穿心706",
       "material_code": "CX",
       "spec_number": "10-01",
-      "row_no": 379,
-      "col_o": null,
-      "col_r": null
+      "row_no": 379
     },
     {
       "id": "11-04-03-006",
@@ -171,6 +166,7 @@
       "code": "11.04.03.006",
       "sku": "LSD-CX-12-01",
       "name_th": "ไขควงทะลุปากแฉก 12 นิ้ว รุ่น 706 (12 ตัว/กล่อง) YT-70612PH",
+      "name_th_short": "ไขควงทะลุปากแฉก 12 นิ้ว",
       "name_cn": "706穿心螺丝刀12寸”十字（12把/盒）YT-70612PH",
       "price": 69.6,
       "image": "/placeholder.svg",
@@ -193,9 +189,7 @@
       "material_cn": "穿心706",
       "material_code": "CX",
       "spec_number": "12-01",
-      "row_no": 380,
-      "col_o": null,
-      "col_r": null
+      "row_no": 380
     },
     {
       "id": "11-04-03-007",
@@ -203,6 +197,7 @@
       "code": "11.04.03.007",
       "sku": "LSD-CX-04-02",
       "name_th": "ไขควงทะลุปากแบน 4 นิ้ว รุ่น 707 (12 ตัว/กล่อง) YT-70704SL",
+      "name_th_short": "ไขควงทะลุปากแบน 4 นิ้ว",
       "name_cn": "707穿心螺丝刀4寸”一字（12把/盒）YT-70704SL",
       "price": 36,
       "image": "/placeholder.svg",
@@ -225,9 +220,7 @@
       "material_cn": "穿心707",
       "material_code": "CX",
       "spec_number": "04-02",
-      "row_no": 381,
-      "col_o": null,
-      "col_r": null
+      "row_no": 381
     },
     {
       "id": "11-04-03-008",
@@ -235,6 +228,7 @@
       "code": "11.04.03.008",
       "sku": "LSD-CX-04-03",
       "name_th": "ไขควงทะลุปากแบน 4 นิ้ว รุ่น 706 (12 ตัว/กล่อง) YT-70604SL",
+      "name_th_short": "ไขควงทะลุปากแบน 4 นิ้ว",
       "name_cn": "706穿心螺丝刀4寸”一字（12把/盒）YT-70604SL",
       "price": 48,
       "image": "/placeholder.svg",
@@ -257,9 +251,7 @@
       "material_cn": "穿心706",
       "material_code": "CX",
       "spec_number": "04-03",
-      "row_no": 382,
-      "col_o": null,
-      "col_r": null
+      "row_no": 382
     },
     {
       "id": "11-04-03-009",
@@ -267,6 +259,7 @@
       "code": "11.04.03.009",
       "sku": "LSD-CX-05-02",
       "name_th": "ไขควงทะลุปากแบน 5 นิ้ว รุ่น 706 (12 ตัว/กล่อง) YT-70605SL",
+      "name_th_short": "ไขควงทะลุปากแบน 5 นิ้ว",
       "name_cn": "706穿心螺丝刀5寸”一字（12把/盒）YT-70605SL",
       "price": 50.4,
       "image": "/placeholder.svg",
@@ -289,9 +282,7 @@
       "material_cn": "穿心706",
       "material_code": "CX",
       "spec_number": "05-02",
-      "row_no": 383,
-      "col_o": null,
-      "col_r": null
+      "row_no": 383
     },
     {
       "id": "11-04-03-010",
@@ -299,6 +290,7 @@
       "code": "11.04.03.010",
       "sku": "LSD-CX-10-02",
       "name_th": "ไขควงทะลุปากแบน 10 นิ้ว รุ่น 706 (12 ตัว/กล่อง) YT-70610SL",
+      "name_th_short": "ไขควงทะลุปากแบน 10 นิ้ว",
       "name_cn": "706穿心螺丝刀10寸”一字（12把/盒）YT-70610SL",
       "price": 62.4,
       "image": "/placeholder.svg",
@@ -321,9 +313,7 @@
       "material_cn": "穿心706",
       "material_code": "CX",
       "spec_number": "10-02",
-      "row_no": 384,
-      "col_o": null,
-      "col_r": null
+      "row_no": 384
     },
     {
       "id": "11-04-03-011",
@@ -331,6 +321,7 @@
       "code": "11.04.03.011",
       "sku": "LSD-CX-04-04",
       "name_th": "ไขควงทะลุปากแฉก 4 นิ้ว รุ่น 707 (12 ตัว/กล่อง) YT-70704PH",
+      "name_th_short": "ไขควงทะลุปากแฉก 4 นิ้ว",
       "name_cn": "707穿心螺丝刀4寸”十字（12把/盒）YT-70704PH",
       "price": 36,
       "image": "/placeholder.svg",
@@ -353,9 +344,7 @@
       "material_cn": "穿心707",
       "material_code": "CX",
       "spec_number": "04-04",
-      "row_no": 385,
-      "col_o": null,
-      "col_r": null
+      "row_no": 385
     },
     {
       "id": "11-04-03-012",
@@ -363,6 +352,7 @@
       "code": "11.04.03.012",
       "sku": "LSD-CX-05-03",
       "name_th": "ไขควงทะลุปากแบน 5 นิ้ว รุ่น 707 (12 ตัว/กล่อง) YT-70705SL",
+      "name_th_short": "ไขควงทะลุปากแบน 5 นิ้ว",
       "name_cn": "707穿心螺丝刀5寸”一字（12把/盒）YT-70705SL",
       "price": 36,
       "image": "/placeholder.svg",
@@ -385,16 +375,15 @@
       "material_cn": "穿心707",
       "material_code": "CX",
       "spec_number": "05-03",
-      "row_no": 386,
-      "col_o": null,
-      "col_r": null
+      "row_no": 386
     },
     {
       "id": "11-04-03-013",
       "slug": "11-04-03-013",
       "code": "11.04.03.013",
-      "sku": "LSD-CX-06-03",
+      "sku": "LSD-CX-06-02",
       "name_th": "ไขควงทะลุปากแบน 6 นิ้ว รุ่น 707 (12 ตัว/กล่อง) YT-70706SL",
+      "name_th_short": "ไขควงทะลุปากแบน 6 นิ้ว",
       "name_cn": "707穿心螺丝刀6寸”一字（12把/盒）YT-70706SL",
       "price": 36,
       "image": "/placeholder.svg",
@@ -416,10 +405,8 @@
       "category_code": "LSD",
       "material_cn": "穿心707",
       "material_code": "CX",
-      "spec_number": "06-03",
-      "row_no": 387,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "06-02",
+      "row_no": 387
     },
     {
       "id": "11-04-03-015",
@@ -427,6 +414,7 @@
       "code": "11.04.03.015",
       "sku": "LSD-CX-10-03",
       "name_th": "ไขควงทะลุปากแบน 10 นิ้ว รุ่น 707 (12 ตัว/กล่อง) YT-70710SL",
+      "name_th_short": "ไขควงทะลุปากแบน 10 นิ้ว",
       "name_cn": "707穿心螺丝刀10寸”一字（12把/盒）YT-70710SL",
       "price": 54,
       "image": "/placeholder.svg",
@@ -449,16 +437,15 @@
       "material_cn": "穿心707",
       "material_code": "CX",
       "spec_number": "10-03",
-      "row_no": 388,
-      "col_o": null,
-      "col_r": null
+      "row_no": 388
     },
     {
       "id": "11-04-03-016",
       "slug": "11-04-03-016",
       "code": "11.04.03.016",
-      "sku": "LSD-CX-06-04",
+      "sku": "LSD-CX-06-03",
       "name_th": "ไขควงทะลุปากแฉก 6 นิ้ว รุ่น 707 (12 ตัว/กล่อง) YT-70706PH",
+      "name_th_short": "ไขควงทะลุปากแฉก 6 นิ้ว",
       "name_cn": "707穿心螺丝刀6寸”十字（12把/盒）YT-70706PH",
       "price": 36,
       "image": "/placeholder.svg",
@@ -480,10 +467,8 @@
       "category_code": "LSD",
       "material_cn": "穿心707",
       "material_code": "CX",
-      "spec_number": "06-04",
-      "row_no": 389,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "06-03",
+      "row_no": 389
     },
     {
       "id": "11-04-03-017",
@@ -491,6 +476,7 @@
       "code": "11.04.03.017",
       "sku": "LSD-CX-05-04",
       "name_th": "ไขควงทะลุปากแฉก 5 นิ้ว รุ่น 707 (12 ตัว/กล่อง) YT-70705PH",
+      "name_th_short": "ไขควงทะลุปากแฉก 5 นิ้ว",
       "name_cn": "707穿心螺丝刀5寸”十字（12把/盒）YT-70705PH",
       "price": 36,
       "image": "/placeholder.svg",
@@ -513,16 +499,15 @@
       "material_cn": "穿心707",
       "material_code": "CX",
       "spec_number": "05-04",
-      "row_no": 390,
-      "col_o": null,
-      "col_r": null
+      "row_no": 390
     },
     {
       "id": "11-04-03-018",
       "slug": "11-04-03-018",
       "code": "11.04.03.018",
-      "sku": "LSD-CX-08-03",
+      "sku": "LSD-CX-08-02",
       "name_th": "ไขควงทะลุปากแฉก 8 นิ้ว รุ่น 707 (12 ตัว/กล่อง) YT-70708PH",
+      "name_th_short": "ไขควงทะลุปากแฉก 8 นิ้ว",
       "name_cn": "707穿心螺丝刀8寸”十字（12把/盒）YT-70708PH",
       "price": 48,
       "image": "/placeholder.svg",
@@ -544,10 +529,8 @@
       "category_code": "LSD",
       "material_cn": "穿心707",
       "material_code": "CX",
-      "spec_number": "08-03",
-      "row_no": 391,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "08-02",
+      "row_no": 391
     },
     {
       "id": "11-04-03-019",
@@ -555,6 +538,7 @@
       "code": "11.04.03.019",
       "sku": "LSD-CX-10-04",
       "name_th": "ไขควงทะลุปากแฉก 10 นิ้ว รุ่น 707 (12 ตัว/กล่อง) YT-70710PH",
+      "name_th_short": "ไขควงทะลุปากแฉก 10 นิ้ว",
       "name_cn": "707穿心螺丝刀10寸”十字（12把/盒）YT-70710PH",
       "price": 54,
       "image": "/placeholder.svg",
@@ -577,9 +561,7 @@
       "material_cn": "穿心707",
       "material_code": "CX",
       "spec_number": "10-04",
-      "row_no": 392,
-      "col_o": null,
-      "col_r": null
+      "row_no": 392
     },
     {
       "id": "11-04-03-020",
@@ -587,6 +569,7 @@
       "code": "11.04.03.020",
       "sku": "LSD-CX-12-02",
       "name_th": "ไขควงทะลุปากแฉก 12 นิ้ว รุ่น 707 (12 ตัว/กล่อง) YT-70712PH",
+      "name_th_short": "ไขควงทะลุปากแฉก 12 นิ้ว",
       "name_cn": "707穿心螺丝刀12寸”十字（12把/盒）YT-70712PH",
       "price": 60,
       "image": "/placeholder.svg",
@@ -609,16 +592,15 @@
       "material_cn": "穿心707",
       "material_code": "CX",
       "spec_number": "12-02",
-      "row_no": 393,
-      "col_o": null,
-      "col_r": null
+      "row_no": 393
     },
     {
       "id": "11-04-03-021",
       "slug": "11-04-03-021",
       "code": "11.04.03.021",
-      "sku": "LSD-ZH-09-01",
+      "sku": "LSD-ZH-09",
       "name_th": "ชุดไขควงอเนกประสงค์ 9 ชิ้น Weilishi W0206",
+      "name_th_short": "ชุดไขควง 9 ชิ้น",
       "name_cn": "(威力狮W0206)组合螺丝刀 9件套9",
       "price": 228,
       "image": "/placeholder.svg",
@@ -640,17 +622,16 @@
       "category_code": "LSD",
       "material_cn": "组合套",
       "material_code": "ZH",
-      "spec_number": "09-01",
-      "row_no": 394,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "09",
+      "row_no": 394
     },
     {
       "id": "11-04-03-022",
       "slug": "11-04-03-022",
       "code": "11.04.03.022",
-      "sku": "LSD-HC-08250-01",
+      "sku": "LSD-HC-8-250-01",
       "name_th": "ไขควงทะลุปากแฉก Hufan 8*250mm",
+      "name_th_short": "ไขควงทะลุปากแฉก 8*250mm",
       "name_cn": "沪帆螺丝刀（穿心）十字 8*250",
       "price": 48,
       "image": "/placeholder.svg",
@@ -672,17 +653,16 @@
       "category_code": "LSD",
       "material_cn": "沪帆穿心",
       "material_code": "HC",
-      "spec_number": "08250-01",
-      "row_no": 395,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "8-250-01",
+      "row_no": 395
     },
     {
       "id": "11-04-03-023",
       "slug": "11-04-03-023",
       "code": "11.04.03.023",
-      "sku": "LSD-HC-08250-02",
+      "sku": "LSD-HC-8-250-02",
       "name_th": "ไขควงทะลุปากแบน Hufan 8*250mm",
+      "name_th_short": "ไขควงทะลุปากแบน 8*250mm",
       "name_cn": "沪帆螺丝刀（穿心）一字 8*250",
       "price": 48,
       "image": "/placeholder.svg",
@@ -704,17 +684,16 @@
       "category_code": "LSD",
       "material_cn": "沪帆穿心",
       "material_code": "HC",
-      "spec_number": "08250-02",
-      "row_no": 396,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "8-250-02",
+      "row_no": 396
     },
     {
       "id": "11-04-03-024",
       "slug": "11-04-03-024",
       "code": "11.04.03.024",
-      "sku": "LSD-HC-08200-01",
+      "sku": "LSD-HC-8-200-01",
       "name_th": "ไขควงทะลุปากแฉก Hufan 8*200mm",
+      "name_th_short": "ไขควงทะลุปากแฉก 8*200mm",
       "name_cn": "沪帆螺丝刀（穿心）十字 8*200",
       "price": 45.6,
       "image": "/placeholder.svg",
@@ -736,17 +715,16 @@
       "category_code": "LSD",
       "material_cn": "沪帆穿心",
       "material_code": "HC",
-      "spec_number": "08200-01",
-      "row_no": 397,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "8-200-01",
+      "row_no": 397
     },
     {
       "id": "11-04-03-025",
       "slug": "11-04-03-025",
       "code": "11.04.03.025",
-      "sku": "LSD-HC-06150-01",
+      "sku": "LSD-HC-6-150-01",
       "name_th": "ไขควงทะลุปากแฉก Hufan 6*150mm",
+      "name_th_short": "ไขควงทะลุปากแฉก 6*150mm",
       "name_cn": "沪帆螺丝刀（穿心）十字 6*150",
       "price": 31.2,
       "image": "/placeholder.svg",
@@ -768,17 +746,16 @@
       "category_code": "LSD",
       "material_cn": "沪帆穿心",
       "material_code": "HC",
-      "spec_number": "06150-01",
-      "row_no": 398,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "6-150-01",
+      "row_no": 398
     },
     {
       "id": "11-04-03-026",
       "slug": "11-04-03-026",
       "code": "11.04.03.026",
-      "sku": "LSD-HC-06150-02",
+      "sku": "LSD-HC-6-150-02",
       "name_th": "ไขควงทะลุปากแบน Hufan 6*150mm",
+      "name_th_short": "ไขควงทะลุปากแบน 6*150mm",
       "name_cn": "沪帆螺丝刀（穿心）一字 6*150",
       "price": 31.2,
       "image": "/placeholder.svg",
@@ -800,17 +777,16 @@
       "category_code": "LSD",
       "material_cn": "沪帆穿心",
       "material_code": "HC",
-      "spec_number": "06150-02",
-      "row_no": 399,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "6-150-02",
+      "row_no": 399
     },
     {
       "id": "11-04-03-027",
       "slug": "11-04-03-027",
       "code": "11.04.03.027",
-      "sku": "LSD-HC-06125-01",
+      "sku": "LSD-HC-6-125",
       "name_th": "ไขควงทะลุปากแฉก Hufan 6*125mm",
+      "name_th_short": "ไขควงทะลุปากแฉก 6*125mm",
       "name_cn": "沪帆螺丝刀（穿心）十字 6*125",
       "price": 28.8,
       "image": "/placeholder.svg",
@@ -832,17 +808,16 @@
       "category_code": "LSD",
       "material_cn": "沪帆穿心",
       "material_code": "HC",
-      "spec_number": "06125-01",
-      "row_no": 400,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "6-125",
+      "row_no": 400
     },
     {
       "id": "11-04-03-028",
       "slug": "11-04-03-028",
       "code": "11.04.03.028",
-      "sku": "LSD-HC-08300-01",
+      "sku": "LSD-HC-8-300",
       "name_th": "ไขควงทะลุปากแฉก Hufan 8*300mm",
+      "name_th_short": "ไขควงทะลุปากแฉก 8*300mm",
       "name_cn": "沪帆螺丝刀（穿心）十字 8*300",
       "price": 50.4,
       "image": "/placeholder.svg",
@@ -864,17 +839,16 @@
       "category_code": "LSD",
       "material_cn": "沪帆穿心",
       "material_code": "HC",
-      "spec_number": "08300-01",
-      "row_no": 401,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "8-300",
+      "row_no": 401
     },
     {
       "id": "11-04-03-029",
       "slug": "11-04-03-029",
       "code": "11.04.03.029",
-      "sku": "LSD-HC-08200-02",
+      "sku": "LSD-HC-8-200-02",
       "name_th": "ไขควงทะลุปากแบน Hufan 8*200mm",
+      "name_th_short": "ไขควงทะลุปากแบน 8*200mm",
       "name_cn": "沪帆螺丝刀（穿心）一字 8*200",
       "price": 45.6,
       "image": "/placeholder.svg",
@@ -896,17 +870,16 @@
       "category_code": "LSD",
       "material_cn": "沪帆穿心",
       "material_code": "HC",
-      "spec_number": "08200-02",
-      "row_no": 402,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "8-200-02",
+      "row_no": 402
     },
     {
       "id": "11-04-03-030",
       "slug": "11-04-03-030",
       "code": "11.04.03.030",
-      "sku": "LSD-HC-06100-01",
+      "sku": "LSD-HC-6-100-01",
       "name_th": "ไขควงทะลุปากแฉก Hufan 6*100mm",
+      "name_th_short": "ไขควงทะลุปากแฉก 6*100mm",
       "name_cn": "沪帆螺丝刀（穿心）十字 6*100",
       "price": 27.6,
       "image": "/placeholder.svg",
@@ -928,17 +901,16 @@
       "category_code": "LSD",
       "material_cn": "沪帆穿心",
       "material_code": "HC",
-      "spec_number": "06100-01",
-      "row_no": 403,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "6-100-01",
+      "row_no": 403
     },
     {
       "id": "11-04-03-031",
       "slug": "11-04-03-031",
       "code": "11.04.03.031",
-      "sku": "LSD-HC-06100-02",
+      "sku": "LSD-HC-6-100-02",
       "name_th": "ไขควงทะลุปากแบน Hufan 6*100mm",
+      "name_th_short": "ไขควงทะลุปากแบน 6*100mm",
       "name_cn": "沪帆螺丝刀（穿心）一字 6*100",
       "price": 27.6,
       "image": "/placeholder.svg",
@@ -960,10 +932,8 @@
       "category_code": "LSD",
       "material_cn": "沪帆穿心",
       "material_code": "HC",
-      "spec_number": "06100-02",
-      "row_no": 404,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "6-100-02",
+      "row_no": 404
     }
   ]
 }

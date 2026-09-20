@@ -9,8 +9,9 @@
       "id": "03-12-02-001",
       "slug": "03-12-02-001",
       "code": "03.12.02.001",
-      "sku": "DB-DDS6611-1040ABS-01",
+      "sku": "DB-DDS6611-1040ABS",
       "name_th": "มิเตอร์ไฟฟ้าเฟสเดียว SHANGHAI RENMIN รุ่น DDS6611 10-40A (ตัวเรือนสีขาว)",
+      "name_th_short": "มิเตอร์ไฟฟ้าเฟสเดียว ตัวเรือนขาว",
       "name_cn": "上海人民单相电表DDS6611型 10-40A",
       "price": 102,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "DB",
       "material_cn": "DDS6611",
       "material_code": "DDS6611",
-      "spec_number": "1040ABS-01",
-      "row_no": 7,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1040ABS",
+      "row_no": 7
     },
     {
       "id": "03-12-02-002",
       "slug": "03-12-02-002",
       "code": "03.12.02.002",
-      "sku": "DB-DDS6611-1040ATM-01",
+      "sku": "DB-DDS6611-1040ATM",
       "name_th": "มิเตอร์ไฟฟ้าเฟสเดียว SHANGHAI RENMIN รุ่น DDS6611 10-40A (ตัวเรือนใส)",
+      "name_th_short": "มิเตอร์ไฟฟ้าเฟสเดียว ตัวเรือนใส",
       "name_cn": "上海人民单相电表DDS6611型 10-40A",
       "price": 120,
       "image": "/placeholder.svg",
@@ -64,17 +64,16 @@
       "category_code": "DB",
       "material_cn": "DDS6611",
       "material_code": "DDS6611",
-      "spec_number": "1040ATM-01",
-      "row_no": 8,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1040ATM",
+      "row_no": 8
     },
     {
       "id": "03-12-02-003",
       "slug": "03-12-02-003",
       "code": "03.12.02.003",
-      "sku": "DB-DDS6611-520ABS-01",
+      "sku": "DB-DDS6611-520ABS",
       "name_th": "มิเตอร์ไฟฟ้าเฟสเดียว SHANGHAI RENMIN รุ่น DDS6611 5-20A (ตัวเรือนสีขาว)",
+      "name_th_short": "มิเตอร์ไฟฟ้าเฟสเดียว ตัวเรือนขาว",
       "name_cn": "上海人民单相电表DDS6611型 5-20A",
       "price": 102,
       "image": "/placeholder.svg",
@@ -96,17 +95,16 @@
       "category_code": "DB",
       "material_cn": "DDS6611",
       "material_code": "DDS6611",
-      "spec_number": "520ABS-01",
-      "row_no": 9,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "520ABS",
+      "row_no": 9
     },
     {
       "id": "03-12-02-004",
       "slug": "03-12-02-004",
       "code": "03.12.02.004",
-      "sku": "DB-DDS6611-520ATM-01",
+      "sku": "DB-DDS6611-520ATM",
       "name_th": "มิเตอร์ไฟฟ้าเฟสเดียว SHANGHAI RENMIN รุ่น DDS6611 5-20A (ตัวเรือนใส)",
+      "name_th_short": "มิเตอร์ไฟฟ้าเฟสเดียว ตัวเรือนใส",
       "name_cn": "上海人民单相电表DDS6611型 5-20A",
       "price": 120,
       "image": "/placeholder.svg",
@@ -128,17 +126,16 @@
       "category_code": "DB",
       "material_cn": "DDS6611",
       "material_code": "DDS6611",
-      "spec_number": "520ATM-01",
-      "row_no": 10,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "520ATM",
+      "row_no": 10
     },
     {
       "id": "03-12-02-007",
       "slug": "03-12-02-007",
       "code": "03.12.02.007",
-      "sku": "DB-SXSX-1040ABS-01",
+      "sku": "DB-SXSX-1040ABS",
       "name_th": "มิเตอร์ไฟฟ้า 3 เฟส 4 สาย SHANGHAI RENMIN 10-40A (ตัวเรือนสีขาว)",
+      "name_th_short": "มิเตอร์ไฟฟ้า 3 เฟส ตัวเรือนขาว",
       "name_cn": "上海人民三相四线电表 10-40A",
       "price": 384,
       "image": "/placeholder.svg",
@@ -160,17 +157,16 @@
       "category_code": "DB",
       "material_cn": "三相四线",
       "material_code": "SXSX",
-      "spec_number": "1040ABS-01",
-      "row_no": 11,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1040ABS",
+      "row_no": 11
     },
     {
       "id": "03-12-02-008",
       "slug": "03-12-02-008",
       "code": "03.12.02.008",
-      "sku": "DB-SXSX-1040ATM-01",
+      "sku": "DB-SXSX-1040ATM",
       "name_th": "มิเตอร์ไฟฟ้า 3 เฟส 4 สาย SHANGHAI RENMIN 10-40A (ตัวเรือนใส)",
+      "name_th_short": "มิเตอร์ไฟฟ้า 3 เฟส ตัวเรือนใส",
       "name_cn": "上海人民三相四线电表 10-40A",
       "price": 468,
       "image": "/placeholder.svg",
@@ -192,17 +188,16 @@
       "category_code": "DB",
       "material_cn": "三相四线",
       "material_code": "SXSX",
-      "spec_number": "1040ATM-01",
-      "row_no": 12,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1040ATM",
+      "row_no": 12
     },
     {
       "id": "03-12-02-009",
       "slug": "03-12-02-009",
       "code": "03.12.02.009",
-      "sku": "DB-SXSX-1560ABS-01",
+      "sku": "DB-SXSX-1560ABS",
       "name_th": "มิเตอร์ไฟฟ้า 3 เฟส 4 สาย SHANGHAI RENMIN 15-60A (ตัวเรือนสีขาว)",
+      "name_th_short": "มิเตอร์ไฟฟ้า 3 เฟส ตัวเรือนขาว",
       "name_cn": "上海人民三相四线电表 15-60A",
       "price": 384,
       "image": "/placeholder.svg",
@@ -224,17 +219,16 @@
       "category_code": "DB",
       "material_cn": "三相四线",
       "material_code": "SXSX",
-      "spec_number": "1560ABS-01",
-      "row_no": 13,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1560ABS",
+      "row_no": 13
     },
     {
       "id": "03-12-02-010",
       "slug": "03-12-02-010",
       "code": "03.12.02.010",
-      "sku": "DB-SXSX-1560ATM-01",
+      "sku": "DB-SXSX-1560ATM",
       "name_th": "มิเตอร์ไฟฟ้า 3 เฟส 4 สาย SHANGHAI RENMIN 15-60A (ตัวเรือนใส)",
+      "name_th_short": "มิเตอร์ไฟฟ้า 3 เฟส ตัวเรือนใส",
       "name_cn": "上海人民三相四线电表 15-60A",
       "price": 468,
       "image": "/placeholder.svg",
@@ -256,10 +250,8 @@
       "category_code": "DB",
       "material_cn": "三相四线",
       "material_code": "SXSX",
-      "spec_number": "1560ATM-01",
-      "row_no": 14,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1560ATM",
+      "row_no": 14
     }
   ]
 }

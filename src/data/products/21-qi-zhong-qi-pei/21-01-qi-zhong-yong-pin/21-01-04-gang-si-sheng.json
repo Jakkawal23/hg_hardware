@@ -11,6 +11,7 @@
       "code": "21.01.04.0001",
       "sku": "GSS-BZ-GM-6-12-6",
       "name_th": "ลวดสลิงเหล็ก ถักแบบ 6x12 ขนาด 6 มม. (เบอร์ 6)",
+      "name_th_short": "ลวดสลิงเหล็ก",
       "name_cn": "钢丝绳6*12*6（6#）",
       "price": 67.2,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "标准光面",
       "material_code": "BZ-GM",
       "spec_number": "6-12-6",
-      "row_no": 38,
-      "col_o": null,
-      "col_r": null
+      "row_no": 38
     },
     {
       "id": "21-01-04-0002",
@@ -43,6 +42,7 @@
       "code": "21.01.04.0002",
       "sku": "GSS-BZ-GM-6-7-4",
       "name_th": "ลวดสลิงเหล็ก ถักแบบ 6x7 ขนาด 4 มม. (เบอร์ 4)",
+      "name_th_short": "ลวดสลิงเหล็ก",
       "name_cn": "钢丝绳6*7*4（4#）",
       "price": 67.2,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "标准光面",
       "material_code": "BZ-GM",
       "spec_number": "6-7-4",
-      "row_no": 39,
-      "col_o": null,
-      "col_r": null
+      "row_no": 39
     },
     {
       "id": "21-01-04-0003",
@@ -75,6 +73,7 @@
       "code": "21.01.04.0003",
       "sku": "GSS-BZ-GM-6-12-5",
       "name_th": "ลวดสลิงเหล็ก ถักแบบ 6x12 ขนาด 5 มม. (เบอร์ 5)",
+      "name_th_short": "ลวดสลิงเหล็ก",
       "name_cn": "钢丝绳6*12*5（5#）",
       "price": 67.2,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "标准光面",
       "material_code": "BZ-GM",
       "spec_number": "6-12-5",
-      "row_no": 40,
-      "col_o": null,
-      "col_r": null
+      "row_no": 40
     },
     {
       "id": "21-01-04-0004",
@@ -107,6 +104,7 @@
       "code": "21.01.04.0004",
       "sku": "GSS-BZ-GM-6-12-7.7",
       "name_th": "ลวดสลิงเหล็ก ถักแบบ 6x12 ขนาด 7.7 มม. (เบอร์ 8)",
+      "name_th_short": "ลวดสลิงเหล็ก",
       "name_cn": "钢丝绳6*12*7.7（8#）",
       "price": 67.2,
       "image": "/placeholder.svg",
@@ -129,9 +127,7 @@
       "material_cn": "标准光面",
       "material_code": "BZ-GM",
       "spec_number": "6-12-7.7",
-      "row_no": 41,
-      "col_o": null,
-      "col_r": null
+      "row_no": 41
     },
     {
       "id": "21-01-04-0005",
@@ -139,6 +135,7 @@
       "code": "21.01.04.0005",
       "sku": "GSS-BZ-GM-6-12-9.3",
       "name_th": "ลวดสลิงเหล็ก ถักแบบ 6x12 ขนาด 9.3 มม. (เบอร์ 10)",
+      "name_th_short": "ลวดสลิงเหล็ก",
       "name_cn": "钢丝绳6*12*9.3（10#）",
       "price": 67.2,
       "image": "/placeholder.svg",
@@ -161,16 +158,15 @@
       "material_cn": "标准光面",
       "material_code": "BZ-GM",
       "spec_number": "6-12-9.3",
-      "row_no": 42,
-      "col_o": null,
-      "col_r": null
+      "row_no": 42
     },
     {
       "id": "21-01-04-0006",
       "slug": "21-01-04-0006",
       "code": "21.01.04.0006",
-      "sku": "GSS-RB-LV-4-10",
+      "sku": "GSS-RB-LV-4",
       "name_th": "ลวดสลิงเหล็กหุ้มปลอกพลาสติกนิ่มสีเขียว ขนาด 4x10 มม.",
+      "name_th_short": "ลวดสลิงหุ้มเขียว",
       "name_cn": "软包绿皮钢丝绳4*10",
       "price": 67.2,
       "image": "/placeholder.svg",
@@ -192,17 +188,16 @@
       "category_code": "GSS",
       "material_cn": "软包绿皮",
       "material_code": "RB-LV",
-      "spec_number": "4-10",
-      "row_no": 43,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "4",
+      "row_no": 43
     },
     {
       "id": "21-01-04-0007",
       "slug": "21-01-04-0007",
       "code": "21.01.04.0007",
-      "sku": "GSS-RB-LV-5-10",
+      "sku": "GSS-RB-LV-5",
       "name_th": "ลวดสลิงเหล็กหุ้มปลอกพลาสติกนิ่มสีเขียว ขนาด 5x10 มม.",
+      "name_th_short": "ลวดสลิงหุ้มเขียว",
       "name_cn": "软包绿皮钢丝绳5*10",
       "price": 67.2,
       "image": "/placeholder.svg",
@@ -224,17 +219,16 @@
       "category_code": "GSS",
       "material_cn": "软包绿皮",
       "material_code": "RB-LV",
-      "spec_number": "5-10",
-      "row_no": 44,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "5",
+      "row_no": 44
     },
     {
       "id": "21-01-04-0008",
       "slug": "21-01-04-0008",
       "code": "21.01.04.0008",
-      "sku": "GSS-RB-LV-6-10",
+      "sku": "GSS-RB-LV-6",
       "name_th": "ลวดสลิงเหล็กหุ้มปลอกพลาสติกนิ่มสีเขียว ขนาด 6x10 มม.",
+      "name_th_short": "ลวดสลิงหุ้มเขียว",
       "name_cn": "软包绿皮钢丝绳6*10",
       "price": 67.2,
       "image": "/placeholder.svg",
@@ -256,10 +250,8 @@
       "category_code": "GSS",
       "material_cn": "软包绿皮",
       "material_code": "RB-LV",
-      "spec_number": "6-10",
-      "row_no": 45,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "6",
+      "row_no": 45
     },
     {
       "id": "21-01-04-0009",
@@ -267,6 +259,7 @@
       "code": "21.01.04.0009",
       "sku": "GSS-GJG-ZY-01",
       "name_th": "ลวดสลิงสำหรับโครงสร้างเหล็กโดยเฉพาะ (สลิงโครงสร้าง)",
+      "name_th_short": "สลิงโครงสร้างเหล็ก",
       "name_cn": "钢构绳(钢结构专用）",
       "price": 67.2,
       "image": "/placeholder.svg",
@@ -289,9 +282,7 @@
       "material_cn": "钢结构专用",
       "material_code": "GJG-ZY",
       "spec_number": "01",
-      "row_no": 46,
-      "col_o": null,
-      "col_r": null
+      "row_no": 46
     },
     {
       "id": "21-01-04-0010",
@@ -299,6 +290,7 @@
       "code": "21.01.04.0010",
       "sku": "GSS-ZJ-637-19.5",
       "name_th": "ลวดสลิงเหล็กถักละเอียด แบรนด์ Zhongju แบบ 6x37 ขนาด 19.5 มม.",
+      "name_th_short": "ลวดสลิงเหล็กถักละเอียด",
       "name_cn": "众炬钢丝绳6*37-19.5",
       "price": 67.2,
       "image": "/placeholder.svg",
@@ -320,10 +312,8 @@
       "category_code": "GSS",
       "material_cn": "众炬6*37",
       "material_code": "ZJ-637",
-      "spec_number": "19.5",
-      "row_no": 47,
-      "col_o": null,
-      "col_r": null
+      "spec_number": 19.5,
+      "row_no": 47
     }
   ]
 }

@@ -9,8 +9,9 @@
       "id": "13-02-03-002",
       "slug": "13-02-03-002",
       "code": "13.02.03.002",
-      "sku": "SGX-HS-9-01",
+      "sku": "SGX-HS-9",
       "name_th": "ด้ายหลอดตราเจดีย์/ด้ายก่อสร้าง 9เหลียง สีแดง",
+      "name_th_short": "ด้ายก่อสร้างสีแดง",
       "name_cn": "宝塔线/施工线 9两 红色",
       "price": null,
       "image": "/placeholder.svg",
@@ -32,10 +33,8 @@
       "category_code": "SGX",
       "material_cn": "红色",
       "material_code": "HS",
-      "spec_number": "9-01",
-      "row_no": 12,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "9",
+      "row_no": 12
     }
   ]
 }

@@ -9,8 +9,9 @@
       "id": "16-03-01-001",
       "slug": "16-03-01-001",
       "code": "16.03.01.001",
-      "sku": "WGB-ZN-5-30",
+      "sku": "WGB-ZN-5",
       "name_th": "เทปตาข่ายไฟเบอร์เกรดพรีเมียม 5 ซม. 30เมตร (96ม้วน/ลัง)",
+      "name_th_short": "เทปตาข่ายไฟเบอร์",
       "name_cn": "高档自粘网格布 宽5公分*长30米 96卷/箱",
       "price": 21.6,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "WGB",
       "material_cn": "自粘",
       "material_code": "ZN",
-      "spec_number": "5-30",
-      "row_no": 37,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "5",
+      "row_no": 37
     },
     {
       "id": "16-03-01-002",
       "slug": "16-03-01-002",
       "code": "16.03.01.002",
-      "sku": "WGB-GYZN-10-30",
+      "sku": "WGB-GYZN-10",
       "name_th": "เทปตาข่ายไฟเบอร์เกรดพรีเมียมแรงยึดสูง 10 ซม. 30เมตร (48ม้วน/ลัง)",
+      "name_th_short": "เทปตาข่ายไฟเบอร์",
       "name_cn": "高档高压自粘网格布 宽10公分*长30米 48卷/箱",
       "price": 43.2,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "WGB",
       "material_cn": "高压自粘",
       "material_code": "GYZN",
-      "spec_number": "10-30",
-      "row_no": 38,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "10",
+      "row_no": 38
     }
   ]
 }

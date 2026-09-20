@@ -11,6 +11,7 @@
       "code": "23.01.10.004",
       "sku": "TZ-JH-DXB-3.0M-6B",
       "name_th": "บันไดสังกะสีกัลวาไนซ์แบบเดินได้ รุ่นหนา 3.0 เมตร (6 ขั้น)",
+      "name_th_short": "บันไดเดินสังกะสี 3 เมตร",
       "name_cn": "加厚行走梯/镀锌板梯子 3.0米（6步）",
       "price": 1656,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "加厚镀锌板",
       "material_code": "JH-DXB",
       "spec_number": "3.0M-6B",
-      "row_no": 17,
-      "col_o": null,
-      "col_r": null
+      "row_no": 17
     },
     {
       "id": "23-01-10-007",
@@ -43,6 +42,7 @@
       "code": "23.01.10.007",
       "sku": "TZ-JH-LJG-XZ-2M-6B",
       "name_th": "บันไดอลูมิเนียมทรงเอแบบเดินได้ รุ่นหนา 2.0 เมตร (6 ขั้น)",
+      "name_th_short": "บันไดเดินอลูมิเนียม 2 เมตร",
       "name_cn": "加厚行走人字梯/铝合金梯子 2米6步 26",
       "price": 2040,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "加厚铝合金行走",
       "material_code": "JH-LJG-XZ",
       "spec_number": "2M-6B",
-      "row_no": 18,
-      "col_o": null,
-      "col_r": null
+      "row_no": 18
     },
     {
       "id": "23-01-10-008",
@@ -75,6 +73,7 @@
       "code": "23.01.10.008",
       "sku": "TZ-JH-LJG-XZ-1.7M-5B",
       "name_th": "บันไดอลูมิเนียมทรงเอแบบเดินได้ รุ่นหนา 1.7 เมตร (5 ขั้น)",
+      "name_th_short": "บันไดเดินอลูมิเนียม 1.7 เมตร",
       "name_cn": "加厚行走人字梯/铝合金梯子 1.7米5步 1.75",
       "price": 1680,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "加厚铝合金行走",
       "material_code": "JH-LJG-XZ",
       "spec_number": "1.7M-5B",
-      "row_no": 19,
-      "col_o": null,
-      "col_r": null
+      "row_no": 19
     },
     {
       "id": "23-01-10-009",
@@ -107,6 +104,7 @@
       "code": "23.01.10.009",
       "sku": "TZ-JH-DXB-2.0M-4B",
       "name_th": "บันไดสังกะสีกัลวาไนซ์แบบเดินได้ รุ่นหนา 2.0 เมตร (4 ขั้น)",
+      "name_th_short": "บันไดเดินสังกะสี 2 เมตร",
       "name_cn": "加厚行走梯/镀锌板梯子 2.0米（4步）",
       "price": 1020,
       "image": "/placeholder.svg",
@@ -129,9 +127,7 @@
       "material_cn": "加厚镀锌板",
       "material_code": "JH-DXB",
       "spec_number": "2.0M-4B",
-      "row_no": 20,
-      "col_o": null,
-      "col_r": null
+      "row_no": 20
     },
     {
       "id": "23-01-10-010",
@@ -139,6 +135,7 @@
       "code": "23.01.10.010",
       "sku": "TZ-BZ-DXB-2.0M-4B",
       "name_th": "บันไดสังกะสีกัลวาไนซ์แบบเดินได้ 2.0 เมตร (4 ขั้น)",
+      "name_th_short": "บันไดเดินสังกะสี 2 เมตร",
       "name_cn": "行走梯/镀锌板梯子 2.0米（4步）",
       "price": 840,
       "image": "/placeholder.svg",
@@ -161,9 +158,7 @@
       "material_cn": "标准镀锌板",
       "material_code": "BZ-DXB",
       "spec_number": "2.0M-4B",
-      "row_no": 21,
-      "col_o": null,
-      "col_r": null
+      "row_no": 21
     },
     {
       "id": "23-01-10-011",
@@ -171,6 +166,7 @@
       "code": "23.01.10.011",
       "sku": "TZ-BZ-DXB-2.5M-5B",
       "name_th": "บันไดสังกะสีกัลวาไนซ์แบบเดินได้ 2.5 เมตร (5 ขั้น)",
+      "name_th_short": "บันไดเดินสังกะสี 2.5 เมตร",
       "name_cn": "行走梯/镀锌板梯子 2.5米（5步）",
       "price": 960,
       "image": "/placeholder.svg",
@@ -193,9 +189,7 @@
       "material_cn": "标准镀锌板",
       "material_code": "BZ-DXB",
       "spec_number": "2.5M-5B",
-      "row_no": 22,
-      "col_o": null,
-      "col_r": null
+      "row_no": 22
     },
     {
       "id": "23-01-10-012",
@@ -203,6 +197,7 @@
       "code": "23.01.10.012",
       "sku": "TZ-JH-DXB-2.5M-5B",
       "name_th": "บันไดสังกะสีกัลวาไนซ์แบบเดินได้ รุ่นหนา 2.5 เมตร (5 ขั้น)",
+      "name_th_short": "บันไดเดินสังกะสี 2.5 เมตร",
       "name_cn": "加厚行走梯/镀锌板梯子 2.5米（5步）",
       "price": 1200,
       "image": "/placeholder.svg",
@@ -225,9 +220,7 @@
       "material_cn": "加厚镀锌板",
       "material_code": "JH-DXB",
       "spec_number": "2.5M-5B",
-      "row_no": 23,
-      "col_o": null,
-      "col_r": null
+      "row_no": 23
     },
     {
       "id": "23-01-10-013",
@@ -235,6 +228,7 @@
       "code": "23.01.10.013",
       "sku": "TZ-BZ-DXB-3.0M-6B",
       "name_th": "บันไดสังกะสีกัลวาไนซ์แบบเดินได้ 3.0 เมตร (6 ขั้น)",
+      "name_th_short": "บันไดเดินสังกะสี 3 เมตร",
       "name_cn": "行走梯/镀锌板梯子 3.0米（6步）",
       "price": 1296,
       "image": "/placeholder.svg",
@@ -257,9 +251,7 @@
       "material_cn": "标准镀锌板",
       "material_code": "BZ-DXB",
       "spec_number": "3.0M-6B",
-      "row_no": 24,
-      "col_o": null,
-      "col_r": null
+      "row_no": 24
     }
   ]
 }

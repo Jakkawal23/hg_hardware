@@ -9,8 +9,9 @@
       "id": "01-03-07-0016",
       "slug": "01-03-07-0016",
       "code": "01.03.07.0016",
-      "sku": "ZH-530-0530-01",
+      "sku": "ZH-PT-5-30",
       "name_th": "ชุดประกอบ 5*30 (50 คู่ต่อแพ็ค)",
+      "name_th_short": "ชุดประกอบ",
       "name_cn": "5*30组合（50对撬丝）",
       "price": 0.54,
       "image": "/placeholder.svg",
@@ -31,18 +32,17 @@
       "category_cn": "组合",
       "category_code": "ZH",
       "material_cn": "5*30",
-      "material_code": "530.0",
-      "spec_number": "0530-01",
-      "row_no": 259,
-      "col_o": null,
-      "col_r": null
+      "material_code": "PT",
+      "spec_number": "5-30",
+      "row_no": 259
     },
     {
       "id": "01-03-07-0017",
       "slug": "01-03-07-0017",
       "code": "01.03.07.0017",
-      "sku": "ZH-550-0550-01",
+      "sku": "ZH-PT-5-50",
       "name_th": "ชุดประกอบ 5*50 (60 คู่ต่อแพ็ค)",
+      "name_th_short": "ชุดประกอบ",
       "name_cn": "5*50组合（60对撬丝）",
       "price": 0.72,
       "image": "/placeholder.svg",
@@ -63,11 +63,9 @@
       "category_cn": "组合",
       "category_code": "ZH",
       "material_cn": "5*50",
-      "material_code": "550.0",
-      "spec_number": "0550-01",
-      "row_no": 260,
-      "col_o": null,
-      "col_r": null
+      "material_code": "PT",
+      "spec_number": "5-50",
+      "row_no": 260
     }
   ]
 }

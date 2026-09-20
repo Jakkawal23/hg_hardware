@@ -11,6 +11,7 @@
       "code": "21.03.06.001",
       "sku": "SZLM-BZX-4",
       "name_th": "ตัวดูดสามขา ขนาด 100 มม. (4 นิ้ว)",
+      "name_th_short": "ตัวดูดสามขา",
       "name_cn": "三爪拉马 100（4寸)",
       "price": 156,
       "image": "/placeholder.svg",
@@ -33,9 +34,7 @@
       "material_cn": "标准型",
       "material_code": "BZX",
       "spec_number": "4",
-      "row_no": 156,
-      "col_o": null,
-      "col_r": null
+      "row_no": 156
     },
     {
       "id": "21-03-06-002",
@@ -43,6 +42,7 @@
       "code": "21.03.06.002",
       "sku": "SZLM-BZX-6",
       "name_th": "ตัวดูดสามขา ขนาด 150 มม. (6 นิ้ว)",
+      "name_th_short": "ตัวดูดสามขา",
       "name_cn": "三爪拉马 150（6寸）",
       "price": 228,
       "image": "/placeholder.svg",
@@ -65,9 +65,7 @@
       "material_cn": "标准型",
       "material_code": "BZX",
       "spec_number": "6",
-      "row_no": 157,
-      "col_o": null,
-      "col_r": null
+      "row_no": 157
     },
     {
       "id": "21-03-06-009",
@@ -75,6 +73,7 @@
       "code": "21.03.06.009",
       "sku": "SZLM-YT-20-422020",
       "name_th": "ตัวดูดสามขา ขนาด 20 นิ้ว รุ่น YT-422020 (2 ตัว/ลัง)",
+      "name_th_short": "ตัวดูดสามขา",
       "name_cn": "20”三爪拉马（2个/件）YT-422020 / 20",
       "price": 2760,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "YT系列",
       "material_code": "YT",
       "spec_number": "20-422020",
-      "row_no": 158,
-      "col_o": null,
-      "col_r": null
+      "row_no": 158
     },
     {
       "id": "21-03-06-010",
@@ -107,6 +104,7 @@
       "code": "21.03.06.010",
       "sku": "SZLM-YT-16-422016",
       "name_th": "ตัวดูดสามขา ขนาด 16 นิ้ว รุ่น YT-422016 (3 ตัว/ลัง)",
+      "name_th_short": "ตัวดูดสามขา",
       "name_cn": "16”三爪拉马（3个/件）YT-422016 / 16",
       "price": 2016,
       "image": "/placeholder.svg",
@@ -129,9 +127,7 @@
       "material_cn": "YT系列",
       "material_code": "YT",
       "spec_number": "16-422016",
-      "row_no": 159,
-      "col_o": null,
-      "col_r": null
+      "row_no": 159
     },
     {
       "id": "21-03-06-011",
@@ -139,6 +135,7 @@
       "code": "21.03.06.011",
       "sku": "SZLM-YT-14-422014",
       "name_th": "ตัวดูดสามขา ขนาด 14 นิ้ว รุ่น YT-422014 (3 ตัว/ลัง)",
+      "name_th_short": "ตัวดูดสามขา",
       "name_cn": "14”三爪拉马（3个/件）YT-422014 / 14",
       "price": 1392,
       "image": "/placeholder.svg",
@@ -161,9 +158,7 @@
       "material_cn": "YT系列",
       "material_code": "YT",
       "spec_number": "14-422014",
-      "row_no": 160,
-      "col_o": null,
-      "col_r": null
+      "row_no": 160
     },
     {
       "id": "21-03-06-012",
@@ -171,6 +166,7 @@
       "code": "21.03.06.012",
       "sku": "SZLM-YT-10-422010",
       "name_th": "ตัวดูดสามขา ขนาด 10 นิ้ว รุ่น YT-422010 (6 ตัว/ลัง)",
+      "name_th_short": "ตัวดูดสามขา",
       "name_cn": "10”三爪拉马（6个/件）YT-422010 / 10",
       "price": 720,
       "image": "/placeholder.svg",
@@ -193,9 +189,7 @@
       "material_cn": "YT系列",
       "material_code": "YT",
       "spec_number": "10-422010",
-      "row_no": 161,
-      "col_o": null,
-      "col_r": null
+      "row_no": 161
     },
     {
       "id": "21-03-06-013",
@@ -203,6 +197,7 @@
       "code": "21.03.06.013",
       "sku": "SZLM-YT-8-422008",
       "name_th": "ตัวดูดสามขา ขนาด 8 นิ้ว รุ่น YT-422008 (10 ตัว/ลัง)",
+      "name_th_short": "ตัวดูดสามขา",
       "name_cn": "8”三爪拉马（10个/件）YT-422008 / 8",
       "price": 456,
       "image": "/placeholder.svg",
@@ -225,9 +220,7 @@
       "material_cn": "YT系列",
       "material_code": "YT",
       "spec_number": "8-422008",
-      "row_no": 162,
-      "col_o": null,
-      "col_r": null
+      "row_no": 162
     },
     {
       "id": "21-03-06-014",
@@ -235,6 +228,7 @@
       "code": "21.03.06.014",
       "sku": "SZLM-YT-6-422006",
       "name_th": "ตัวดูดสามขา ขนาด 6 นิ้ว รุ่น YT-422006 (20 ตัว/ลัง)",
+      "name_th_short": "ตัวดูดสามขา",
       "name_cn": "6”三爪拉马（20个/件）YT-422006 / 3 6",
       "price": 264,
       "image": "/placeholder.svg",
@@ -257,9 +251,7 @@
       "material_cn": "YT系列",
       "material_code": "YT",
       "spec_number": "6-422006",
-      "row_no": 163,
-      "col_o": null,
-      "col_r": null
+      "row_no": 163
     },
     {
       "id": "21-03-06-015",
@@ -267,6 +259,7 @@
       "code": "21.03.06.015",
       "sku": "SZLM-YT-3-422003",
       "name_th": "ตัวดูดสามขา ขนาด 3 นิ้ว รุ่น YT-422003 (40 ตัว/ลัง)",
+      "name_th_short": "ตัวดูดสามขา",
       "name_cn": "3”三爪拉马（40个/件）YT-422003 / 3\"",
       "price": 132,
       "image": "/placeholder.svg",
@@ -289,9 +282,7 @@
       "material_cn": "YT系列",
       "material_code": "YT",
       "spec_number": "3-422003",
-      "row_no": 164,
-      "col_o": null,
-      "col_r": null
+      "row_no": 164
     }
   ]
 }

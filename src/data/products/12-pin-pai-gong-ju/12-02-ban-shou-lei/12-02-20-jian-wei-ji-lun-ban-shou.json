@@ -9,8 +9,9 @@
       "id": "12-02-20-001",
       "slug": "12-02-20-001",
       "code": "12.02.20.001",
-      "sku": "JLBS-KK-1922-01",
+      "sku": "JLBS-KK-1922",
       "name_th": "ประแจแหวนฟรี (ปากตาย) Shike ขนาด 19-22 มม.",
+      "name_th_short": "ประแจแหวนฟรี Shike",
       "name_cn": "世克棘轮扳手（开口）19-22（10把/盒）",
       "price": 192,
       "image": "/placeholder.svg",
@@ -32,10 +33,8 @@
       "category_code": "JLBS",
       "material_cn": "开口",
       "material_code": "KK",
-      "spec_number": "1922-01",
-      "row_no": 18,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "1922",
+      "row_no": 18
     }
   ]
 }

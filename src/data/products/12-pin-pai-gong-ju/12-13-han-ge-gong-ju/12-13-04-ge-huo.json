@@ -9,8 +9,9 @@
       "id": "12-13-04-005",
       "slug": "12-13-04-005",
       "code": "12.13.04.005",
-      "sku": "PFQT-PF-01-01",
+      "sku": "PFQT-PF-01",
       "name_th": "หัวพ่นไฟ",
+      "name_th_short": "หัวพ่นไฟ",
       "name_cn": "喷火枪头",
       "price": 90,
       "image": "/placeholder.svg",
@@ -32,17 +33,16 @@
       "category_code": "PFQT",
       "material_cn": "喷火",
       "material_code": "PF",
-      "spec_number": "01-01",
-      "row_no": 147,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "01",
+      "row_no": 147
     },
     {
       "id": "12-13-04-006",
       "slug": "12-13-04-006",
       "code": "12.13.04.006",
-      "sku": "PFQ-15X-01-01",
+      "sku": "PFQ-15X-01",
       "name_th": "ปืนพ่นไฟ รุ่น 15",
+      "name_th_short": "ปืนพ่นไฟ",
       "name_cn": "15型喷火枪（20扎/件）YT-521015",
       "price": 192,
       "image": "/placeholder.svg",
@@ -64,10 +64,8 @@
       "category_code": "PFQ",
       "material_cn": "15型",
       "material_code": "15X",
-      "spec_number": "01-01",
-      "row_no": 148,
-      "col_o": null,
-      "col_r": null
+      "spec_number": "01",
+      "row_no": 148
     },
     {
       "id": "12-13-04-007",
@@ -75,6 +73,7 @@
       "code": "12.13.04.007",
       "sku": "HJQ-WP18-01",
       "name_th": "หัวเชื่อม TIG (อาร์กอน) ยี่ห้อ Jiahang รุ่น WP-18",
+      "name_th_short": "หัวเชื่อม TIG",
       "name_cn": "佳航 氩弧焊枪 WP-18枪头",
       "price": 180,
       "image": "/placeholder.svg",
@@ -97,9 +96,7 @@
       "material_cn": "WP-18",
       "material_code": "WP18",
       "spec_number": "01",
-      "row_no": 149,
-      "col_o": null,
-      "col_r": null
+      "row_no": 149
     }
   ]
 }
